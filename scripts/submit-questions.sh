@@ -2,7 +2,8 @@
 set -u
 
 FORM='https://docs.google.com/forms/d/e/1FAIpQLSez9hfMvtFT9ME96bN0J2wK14d57DDhZLc4ksjsuHIOtmiI4A/formResponse'
-CSV="${CSV:-$HOME/simple-mining-forum/questions.csv}"
+SCRIPT_DIR="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)"
+CSV="${CSV:-$SCRIPT_DIR/../dataset/community/questions.csv}"
 PROGRESS="${PROGRESS:-$HOME/simple-mining-forum/.submission-progress}"
 
 [[ -f "$CSV" ]] || { echo "ERROR: Missing $CSV"; exit 1; }

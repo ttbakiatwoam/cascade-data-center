@@ -201,4 +201,4 @@ A named comparable site would allow Cascade to replace speculative analogies wit
 
 ## October 1 forum source
 
-See [`28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md) for the transcript-derived forum record. The underlying [raw WebVTT captions](source-materials/2026-10-01_simple-mining-community-forum_youtube-auto-captions.en.vtt) were generated automatically by YouTube and have not been human-certified as a verbatim transcript.
+See [`../updates/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](../updates/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md) for the transcript-derived forum record. The underlying [raw WebVTT captions](../../sources/community-forums/2026-10-01_simple-mining-community-forum_youtube-auto-captions.en.vtt) were generated automatically by YouTube and have not been human-certified as a verbatim transcript.

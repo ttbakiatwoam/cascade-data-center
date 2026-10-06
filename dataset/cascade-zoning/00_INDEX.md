@@ -24,10 +24,14 @@ These Markdown files were created from the scanned zoning-code PDF and the OCR W
 
 ## Project-generated draft amendments
 
-- [`DRAFT-ORDINANCE-M2-DATA-CENTER-PERFORMANCE-STANDARDS-2026-10-06.md`](ordinances/DRAFT-ORDINANCE-M2-DATA-CENTER-PERFORMANCE-STANDARDS-2026-10-06.md) - **Draft for discussion only; not adopted law.** Adds data centers/high-density computing as an M-2 use and proposes district-wide, impact-based M-2 performance standards derived from the October 1, 2026 forum record, nearby Iowa comparators, and industry standards.
+- [`DRAFT-ORDINANCE-M2-DATA-CENTER-PERFORMANCE-STANDARDS-2026-10-06.md`](../../proposals/DRAFT-ORDINANCE-M2-DATA-CENTER-PERFORMANCE-STANDARDS-2026-10-06.md) - **Draft for discussion only; not adopted law.** Adds data centers/high-density computing as an M-2 use and proposes district-wide, impact-based M-2 performance standards derived from the October 1, 2026 forum record, nearby Iowa comparators, and industry standards.
 
 ## Source handling
 
 The four one-page ordinance/draft documents and the front matter were checked directly against the scanned PDF. The long Chapter 165 transcription uses the OCR Word document as the working text while preserving the PDF page boundaries in HTML comments. The scanned PDF remains the controlling visual reference for any legal or character-level verification.
 
 No substantive modernization or rewriting was intentionally performed. Apparent source-document typos in the manually checked pages were retained.
+
+## Preserved files
+
+The [source collection](../../sources/README.md#cascade-zoning-source-and-working-files) contains the scanned PDF, supplied amendment Word documents, and OCR working copy. Project-generated draft amendments are maintained separately in [proposals](../../proposals/README.md).

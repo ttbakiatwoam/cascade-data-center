@@ -27,7 +27,7 @@ Simple Mining projected approximately **$400 million** of total capital investme
 
 The company said it expected to use existing Iowa data-center sales/use-tax incentives and stated that it was not then seeking additional local or federal incentives. It did not provide a verified assessed value or annual City/county/school property-tax forecast. Those figures still require assessor/fiscal analysis and review of any final incentive or development agreement.
 
-See [`28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md).
+See [`../updates/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](../updates/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md).
 
 ## Current parcel sale and assessment record
 
@@ -38,7 +38,7 @@ The county record now supplies a verified **pre-development land/parcel baseline
 - The 2025 record listed **$55,736 land**, **$26,900 building**, and **$82,636 gross assessed value**.
 - The assessor explicitly warns that its Commercial classification is **not a zoning designation**; the City ArcGIS zoning map identifies the site as **M-2 Heavy Industrial**.
 
-These figures establish the current parcel baseline only. They do **not** establish the completed project's future assessed value, taxable value after exemptions/incentives, annual levy allocation, TIF increment, or net fiscal impact. See [`29_SIMPLE_MINING_SITE_PARCEL_AND_ZONING.md`](29_SIMPLE_MINING_SITE_PARCEL_AND_ZONING.md).
+These figures establish the current parcel baseline only. They do **not** establish the completed project's future assessed value, taxable value after exemptions/incentives, annual levy allocation, TIF increment, or net fiscal impact. See [`../project/29_SIMPLE_MINING_SITE_PARCEL_AND_ZONING.md`](../project/29_SIMPLE_MINING_SITE_PARCEL_AND_ZONING.md).
 
 ## Workforce development
 
@@ -58,7 +58,7 @@ Simple Mining estimated approximately **$400 million** in total project investme
 
 During the tax/incentive discussion, the company said it expected to use Iowa's existing data-center sales/use-tax incentives and represented that it was **not seeking additional local or federal incentives at that time**. The presenter discussed a potentially material property-tax base but did not provide a verified assessed value or annual City/county/school tax-revenue estimate.
 
-The forum statements should be treated as company projections/positions until supported by an application, assessor analysis, development agreement, incentive filing, or other primary records. See [`28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md).
+The forum statements should be treated as company projections/positions until supported by an application, assessor analysis, development agreement, incentive filing, or other primary records. See [`../updates/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](../updates/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md).
 
 ## Property tax
 
@@ -100,7 +100,7 @@ The model included illustrative payment formulas tied to energized MW, square fo
 
 ## Sources
 
-- October 1 forum summary and transcript provenance: [`28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md)
+- October 1 forum summary and transcript provenance: [`../updates/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](../updates/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md)
 - West Des Moines Chamber — Microsoft Data Centers: https://wdmchamber.org/economic-development/microsoft-data-centers/
 - Norwalk Project West — development/infrastructure agreement context: https://norwalkiaswdevelopment.com/datacenter
 - Linn County — Data Centers in Unincorporated Linn County / Economic Development Agreement and community fund: https://www.linncountyiowa.gov/1862/Data-Centers-in-Unincorporated-Linn-Coun

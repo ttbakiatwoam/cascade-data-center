@@ -70,7 +70,7 @@ The company also said backup generators would be enclosed and subject to the sam
 
 Accordingly, the forum changes the evidence status from “no project-specific representation” to **company representation/preliminary**, not to independently verified acoustic performance.
 
-See [`28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md).
+See [`../updates/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](../updates/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md).
 
 ## Recommended project-specific evidence
 

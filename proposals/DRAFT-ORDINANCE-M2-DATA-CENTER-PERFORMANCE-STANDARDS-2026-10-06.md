@@ -280,7 +280,7 @@ This ordinance shall be in full force and effect after its final passage, approv
 
 The October 1 forum materially clarified the proposed Cascade project. The company represented that its current concept is approximately 60,000 square feet on roughly 15.2 acres, with an approximately 40 MW electrical load, 24/7/365 operation, closed-loop hydrocooling with dry/air-cooled heat rejection, approximately 15 backup diesel generators, and 20-25 projected permanent jobs. The company also expressed willingness in principle to accept enforceable noise, water, emergency-planning, screening, decommissioning, and expansion-related conditions.
 
-These statements are representations from the forum and are not substitutes for final engineered plans, permits, utility agreements, or binding conditions. Repository record: `dataset/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`.
+These statements are representations from the forum and are not substitutes for final engineered plans, permits, utility agreements, or binding conditions. Repository record: `dataset/updates/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`.
 
 ## B. Uniform District-Wide Approach
 
@@ -312,7 +312,7 @@ https://www.linncountyiowa.gov/DocumentCenter/View/27656/Jones-County-Data-Cente
 
 ### Other comparators
 
-The project repository also tracks the City of Palo EU-1 district, Jackson County working drafts, Allamakee County policy, Norwalk Project West, and West Des Moines data-center development examples in `dataset/06_IOWA_DATA_CENTER_POLICY_COMPARATORS.md`.
+The project repository also tracks the City of Palo EU-1 district, Jackson County working drafts, Allamakee County policy, Norwalk Project West, and West Des Moines data-center development examples in `dataset/policy/06_IOWA_DATA_CENTER_POLICY_COMPARATORS.md`.
 
 ## D. Water Threshold
 

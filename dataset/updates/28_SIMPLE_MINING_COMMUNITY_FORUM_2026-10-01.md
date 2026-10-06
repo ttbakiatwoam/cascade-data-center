@@ -2,7 +2,7 @@
 
 > **Source provenance:** This note is derived from the WebVTT captions supplied with the October 1, 2026 Simple Mining Community Forum video. **The transcript was created by YouTube using its automated closed-captioning system.** It has not been human-verified or certified as a verbatim transcript. Proper nouns, numbers, technical terms, and fragmented audience questions may contain recognition errors.
 >
-> The raw caption file is preserved **unchanged** at [`source-materials/2026-10-01_simple-mining-community-forum_youtube-auto-captions.en.vtt`](source-materials/2026-10-01_simple-mining-community-forum_youtube-auto-captions.en.vtt).
+> The raw caption file is preserved **unchanged** at [`../../sources/community-forums/2026-10-01_simple-mining-community-forum_youtube-auto-captions.en.vtt`](../../sources/community-forums/2026-10-01_simple-mining-community-forum_youtube-auto-captions.en.vtt).
 >
 > Original raw-file SHA-256: `2186d4ce43ab6a141c0a9fa015f43af7203c7c050255ce62317b1e23db89e079`
 >
@@ -39,7 +39,7 @@ Approximate transcript locations: 00:05:04–00:15:11, 00:23:19–00:23:47, 01:1
 
 Simple Mining presented a conceptual site layout with the building near the center of the parcel, electrical/substation and cooling infrastructure, parking, screening/landscaping, and use of the industrial park's regional stormwater infrastructure.
 
-**Post-forum public-record verification:** Dubuque County identifies the site as **PIN 1932176027, 113 Industrial St SE, Lot 2 Cascade Industrial Park 14th Addition**, owned by **Simple Mining LLC** and containing **15.22 acres / 662,983 square feet**. County sales history records the September 19, 2025 purchase from the Cascade Economic Development Corporation for **$608,800**. The City ArcGIS zoning map identifies the site area as **M-2 Heavy Industrial**, although the selected zoning feature retains older PIN **1932127004**. See [`29_SIMPLE_MINING_SITE_PARCEL_AND_ZONING.md`](29_SIMPLE_MINING_SITE_PARCEL_AND_ZONING.md).
+**Post-forum public-record verification:** Dubuque County identifies the site as **PIN 1932176027, 113 Industrial St SE, Lot 2 Cascade Industrial Park 14th Addition**, owned by **Simple Mining LLC** and containing **15.22 acres / 662,983 square feet**. County sales history records the September 19, 2025 purchase from the Cascade Economic Development Corporation for **$608,800**. The City ArcGIS zoning map identifies the site area as **M-2 Heavy Industrial**, although the selected zoning feature retains older PIN **1932127004**. See [`../project/29_SIMPLE_MINING_SITE_PARCEL_AND_ZONING.md`](../project/29_SIMPLE_MINING_SITE_PARCEL_AND_ZONING.md).
 
 The presentation described setbacks of roughly **216–291 feet** from property lines in portions of the concept plan. Later in the Q&A, the company said it was willing to evaluate shifting the building farther west if site engineering allowed it.
 
