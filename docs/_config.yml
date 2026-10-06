@@ -1,0 +1,8 @@
+title: Cascade Data Center Research
+description: Independent research and working zoning recommendations concerning proposed data-center development in Cascade, Iowa.
+theme: minima
+markdown: kramdown
+header_pages:
+  - committee-recommendations.md
+  - draft-ordinance.md
+  - evidence.md
