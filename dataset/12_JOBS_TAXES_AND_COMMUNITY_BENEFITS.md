@@ -29,6 +29,17 @@ The company said it expected to use existing Iowa data-center sales/use-tax ince
 
 See [`28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md).
 
+## Current parcel sale and assessment record
+
+The county record now supplies a verified **pre-development land/parcel baseline**, which is different from the still-unknown value of a completed data center:
+
+- Simple Mining LLC purchased the **15.22-acre** parcel from the Cascade Economic Development Corporation on **September 19, 2025** for **$608,800**.
+- The 2026 assessor record classifies the parcel as **Commercial for tax purposes** and lists **$236,800 assessed land value**, **$0 assessed building value**, and **$236,800 gross assessed value**.
+- The 2025 record listed **$55,736 land**, **$26,900 building**, and **$82,636 gross assessed value**.
+- The assessor explicitly warns that its Commercial classification is **not a zoning designation**; the City ArcGIS zoning map identifies the site as **M-2 Heavy Industrial**.
+
+These figures establish the current parcel baseline only. They do **not** establish the completed project's future assessed value, taxable value after exemptions/incentives, annual levy allocation, TIF increment, or net fiscal impact. See [`29_SIMPLE_MINING_SITE_PARCEL_AND_ZONING.md`](29_SIMPLE_MINING_SITE_PARCEL_AND_ZONING.md).
+
 ## Workforce development
 
 A locally beneficial agreement could connect the project to regional education and training in electrical, mechanical, HVAC/cooling, network/IT, facilities, controls, cybersecurity, and emergency-response skills. The project-generated model ordinance proposed good-faith local recruitment and collaboration with education/workforce programs, subject to legal review.
@@ -61,7 +72,7 @@ The economic question for Cascade is not simply the developer's capital expendit
 - TIF or other incentive effects;
 - public-service and infrastructure costs.
 
-No verified project-specific final assessed/taxable value or annual property-tax estimate has been located. The October 1 forum's roughly $400 million capital-investment projection should not be converted directly into taxable value.
+The **current pre-development parcel assessment is now documented**, but no verified **completed-project** assessed/taxable value or annual property-tax estimate has been located. The October 1 forum's roughly $400 million capital-investment projection should not be converted directly into taxable value.
 
 ## West Des Moines comparator
 
