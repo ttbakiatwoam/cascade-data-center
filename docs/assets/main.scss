@@ -1,0 +1,475 @@
+---
+---
+
+@import "minima";
+
+/* Cascade Data Center - responsive GitHub Pages presentation layer */
+
+:root {
+  --cascade-navy: #17365d;
+  --cascade-blue: #1f4e79;
+  --cascade-blue-2: #2f6fa5;
+  --cascade-ink: #1f2937;
+  --cascade-muted: #5f6b7a;
+  --cascade-border: #d8e0e8;
+  --cascade-surface: #ffffff;
+  --cascade-bg: #f3f6f9;
+  --cascade-callout: #eef5fb;
+  --cascade-warning: #fff8e6;
+  --cascade-shadow: 0 12px 34px rgba(23, 54, 93, 0.08);
+  --cascade-content-max: 1450px;
+  --cascade-reading-max: 108ch;
+  --cascade-radius: 14px;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  color: var(--cascade-ink);
+  background: var(--cascade-bg);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.65;
+}
+
+/* Fluid site width: generous on desktops, comfortable on tablets, safe on phones. */
+.wrapper {
+  width: min(calc(100% - clamp(2rem, 6vw, 6rem)), var(--cascade-content-max));
+  max-width: var(--cascade-content-max);
+  margin-inline: auto;
+  padding-inline: 0;
+}
+
+.site-header {
+  min-height: 70px;
+  border-top: 0;
+  border-bottom: 0;
+  background: linear-gradient(115deg, #102943 0%, var(--cascade-navy) 55%, #235b88 100%);
+  box-shadow: 0 3px 14px rgba(15, 39, 65, 0.18);
+}
+
+.site-header .wrapper {
+  min-height: 70px;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.site-title,
+.site-title:visited {
+  color: #fff;
+  font-weight: 720;
+  letter-spacing: -0.02em;
+}
+
+.site-title:hover {
+  color: #fff;
+  text-decoration: none;
+  opacity: 0.92;
+}
+
+.site-nav {
+  margin-left: auto;
+}
+
+.site-nav .page-link,
+.site-nav .page-link:visited {
+  color: rgba(255,255,255,0.94);
+  font-weight: 600;
+}
+
+.site-nav .page-link:hover {
+  color: #fff;
+  text-decoration: underline;
+  text-underline-offset: 0.22em;
+}
+
+.page-content {
+  padding: clamp(1.35rem, 3vw, 3rem) 0 clamp(2.5rem, 5vw, 5rem);
+}
+
+.page-content > .wrapper {
+  background: var(--cascade-surface);
+  border: 1px solid var(--cascade-border);
+  border-radius: var(--cascade-radius);
+  box-shadow: var(--cascade-shadow);
+  padding: clamp(1.25rem, 3.2vw, 3.4rem);
+}
+
+/* Keep prose readable while allowing tables and technical material to use the wide canvas. */
+.post-content > p,
+.post-content > ul,
+.post-content > ol,
+.post-content > blockquote,
+.post-content > pre,
+.post-content > details {
+  max-width: var(--cascade-reading-max);
+}
+
+.post-content > p,
+.post-content > ul,
+.post-content > ol,
+.post-content > blockquote,
+.post-content > pre {
+  margin-right: auto;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--cascade-navy);
+  font-weight: 720;
+  line-height: 1.22;
+  letter-spacing: -0.018em;
+  scroll-margin-top: 90px;
+}
+
+h1 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-size: clamp(2rem, 4vw, 3.35rem);
+  max-width: 24ch;
+}
+
+h2 {
+  margin-top: clamp(2rem, 4vw, 3.2rem);
+  padding-bottom: 0.38rem;
+  border-bottom: 1px solid var(--cascade-border);
+  font-size: clamp(1.45rem, 2.1vw, 2rem);
+}
+
+h3 {
+  margin-top: 1.9rem;
+  font-size: clamp(1.16rem, 1.5vw, 1.42rem);
+  color: var(--cascade-blue);
+}
+
+h4 {
+  color: var(--cascade-blue);
+}
+
+p,
+li {
+  overflow-wrap: anywhere;
+}
+
+a,
+a:visited {
+  color: #175f9b;
+}
+
+a:hover {
+  color: #0d4676;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 0.16em;
+}
+
+strong {
+  color: #162d48;
+}
+
+blockquote {
+  margin: 1.4rem 0;
+  padding: 1rem 1.15rem;
+  border-left: 5px solid var(--cascade-blue-2);
+  border-radius: 0 10px 10px 0;
+  background: var(--cascade-callout);
+  color: #334155;
+  font-style: normal;
+}
+
+blockquote > :last-child {
+  margin-bottom: 0;
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  margin: 2.5rem 0;
+  background: var(--cascade-border);
+}
+
+ul,
+ol {
+  padding-left: 1.45rem;
+}
+
+li + li {
+  margin-top: 0.28rem;
+}
+
+/* Tables get the extra desktop width, but remain usable on phones. */
+table {
+  width: 100%;
+  margin: 1.35rem 0 1.8rem;
+  border-collapse: separate;
+  border-spacing: 0;
+  border: 1px solid var(--cascade-border);
+  border-radius: 10px;
+  overflow: hidden;
+  background: #fff;
+  font-size: 0.96rem;
+}
+
+th,
+td {
+  padding: 0.72rem 0.82rem;
+  border-right: 1px solid var(--cascade-border);
+  border-bottom: 1px solid var(--cascade-border);
+  vertical-align: top;
+}
+
+th:last-child,
+td:last-child {
+  border-right: 0;
+}
+
+tr:last-child td {
+  border-bottom: 0;
+}
+
+th {
+  color: var(--cascade-navy);
+  background: #eaf2f8;
+  font-weight: 720;
+  text-align: left;
+}
+
+tbody tr:nth-child(even) {
+  background: #f9fbfd;
+}
+
+tbody tr:hover {
+  background: #f2f7fb;
+}
+
+code {
+  padding: 0.12em 0.34em;
+  border: 1px solid #dde4ea;
+  border-radius: 5px;
+  background: #f4f6f8;
+  color: #334155;
+  font-size: 0.9em;
+}
+
+pre {
+  padding: 1rem 1.1rem;
+  overflow-x: auto;
+  border: 1px solid var(--cascade-border);
+  border-radius: 10px;
+  background: #f7f9fb;
+}
+
+pre code {
+  padding: 0;
+  border: 0;
+  background: transparent;
+}
+
+details {
+  margin: 1.2rem 0;
+  padding: 0.9rem 1rem;
+  border: 1px solid var(--cascade-border);
+  border-radius: 10px;
+  background: #fbfcfd;
+}
+
+summary {
+  cursor: pointer;
+  color: var(--cascade-navy);
+  font-weight: 700;
+}
+
+/* Home page: turn the primary links into a responsive card grid. */
+.home h3 + ul {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.9rem;
+  max-width: none;
+  margin: 1rem 0 2rem;
+  padding: 0;
+  list-style: none;
+}
+
+.home h3 + ul li {
+  margin: 0;
+  padding: 1rem 1.05rem;
+  border: 1px solid var(--cascade-border);
+  border-radius: 11px;
+  background: linear-gradient(180deg, #fff 0%, #f8fbfd 100%);
+  box-shadow: 0 4px 14px rgba(23, 54, 93, 0.05);
+}
+
+.home h3 + ul li:hover {
+  border-color: #aac4d9;
+  box-shadow: 0 8px 22px rgba(23, 54, 93, 0.09);
+  transform: translateY(-1px);
+}
+
+.home h3 + ul a {
+  font-weight: 720;
+}
+
+/* Make the draft/status language visually obvious without being alarmist. */
+.post-content > blockquote:first-of-type,
+.home > blockquote:first-of-type {
+  border-left-color: #c28a18;
+  background: var(--cascade-warning);
+}
+
+/* Footer */
+.site-footer {
+  border-top: 1px solid #d5dee7;
+  background: #e9eff4;
+  color: var(--cascade-muted);
+}
+
+.footer-heading {
+  color: var(--cascade-navy);
+}
+
+/* Large monitors */
+@media screen and (min-width: 1700px) {
+  :root {
+    --cascade-content-max: 1540px;
+  }
+}
+
+/* Tablet and narrow laptop */
+@media screen and (max-width: 900px) {
+  .wrapper {
+    width: min(calc(100% - 2rem), var(--cascade-content-max));
+  }
+
+  .page-content > .wrapper {
+    border-radius: 10px;
+    padding: clamp(1.1rem, 3vw, 2rem);
+  }
+
+  .home h3 + ul {
+    grid-template-columns: 1fr;
+  }
+
+  h1 {
+    max-width: none;
+  }
+}
+
+/* Minima's mobile nav switches to a menu button; keep it high contrast. */
+@media screen and (max-width: 600px) {
+  body {
+    font-size: 15.5px;
+  }
+
+  .wrapper {
+    width: calc(100% - 1.25rem);
+  }
+
+  .site-header,
+  .site-header .wrapper {
+    min-height: 62px;
+  }
+
+  .site-title {
+    font-size: 1.05rem;
+    padding-right: 3.2rem;
+  }
+
+  .site-nav {
+    background: #fff;
+    border-color: #cbd5df;
+  }
+
+  .site-nav .menu-icon > svg path {
+    fill: var(--cascade-navy);
+  }
+
+  .site-nav .page-link,
+  .site-nav .page-link:visited {
+    color: var(--cascade-navy);
+  }
+
+  .page-content {
+    padding-top: 0.8rem;
+  }
+
+  .page-content > .wrapper {
+    padding: 1rem;
+    border-radius: 8px;
+  }
+
+  h1 {
+    font-size: clamp(1.75rem, 9vw, 2.35rem);
+  }
+
+  h2 {
+    margin-top: 1.8rem;
+  }
+
+  /* Wide technical tables scroll inside the page instead of breaking the viewport. */
+  table {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    white-space: nowrap;
+    border-radius: 8px;
+  }
+
+  th,
+  td {
+    padding: 0.62rem 0.7rem;
+  }
+
+  blockquote {
+    padding: 0.85rem 0.9rem;
+  }
+}
+
+/* Print remains committee-packet friendly. */
+@media print {
+  body {
+    background: #fff;
+    color: #000;
+  }
+
+  .site-header,
+  .site-footer {
+    display: none;
+  }
+
+  .wrapper,
+  .page-content > .wrapper {
+    width: 100%;
+    max-width: none;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-shadow: none;
+  }
+
+  a,
+  a:visited {
+    color: #000;
+    text-decoration: none;
+  }
+
+  table,
+  blockquote {
+    break-inside: avoid;
+  }
+}
