@@ -144,6 +144,10 @@ Calculations, policy proposals, question banks, and model ordinance language cre
 
 - [`source-materials/2026-10-01_simple-mining-community-forum_youtube-auto-captions.en.vtt`](source-materials/2026-10-01_simple-mining-community-forum_youtube-auto-captions.en.vtt) — raw WebVTT caption file from the October 1 forum. **The transcript was created by YouTube using its automated closed-captioning system** and is not a human-verified/certified verbatim transcript. The raw file is preserved unchanged; interpret proper nouns, numbers, and fragmented audience questions cautiously.
 
+## Source material
+
+- [`source-materials/2026-10-01_simple-mining-community-forum_youtube-auto-captions.en.vtt`](source-materials/2026-10-01_simple-mining-community-forum_youtube-auto-captions.en.vtt) — raw October 1 forum WebVTT captions, preserved unchanged. **Created by YouTube using its automated closed-captioning system; not a human-certified verbatim transcript.**
+
 ## Root data files
 
 - [`../questions.csv`](../questions.csv) — machine-readable 76-question community-forum question bank.
