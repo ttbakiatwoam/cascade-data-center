@@ -169,7 +169,9 @@ West Des Moines and other projects show what is possible under different agreeme
 
 ## Comparable facilities
 
-Still needed from the applicant:
+At the October 1 forum, Simple Mining identified its **Manchester, Iowa** facility as a nearby operating comparison, representing it as roughly **50 MW**, about **6 acres**, hydro/liquid cooled, and operating for about a year with no complaints known to the company. Those are company statements, not independent verification.
+
+Still needed from the applicant/independent record:
 
 - the operating Simple Mining site most technically similar to Cascade;
 - site MW and equipment configuration;
