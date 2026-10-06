@@ -40,6 +40,20 @@ Notable provisions identified in the project review include:
 
 - Jones County Data Center Ordinance 2025-02, copy hosted by Linn County: https://www.linncountyiowa.gov/DocumentCenter/View/27656/Jones-County-Data-Center-Ordinance
 
+## Jackson County (working draft)
+
+Jackson County is a nearby **draft-policy comparator**, not an adopted ordinance. The County's zoning page labels its High-Density Computing Facilities materials **“HDCF Working Drafts - For Discussion Purposes.”** As of October 6, 2026, the newest version listed by the County is dated August 17, 2026. The August 17 Zoning Commission agenda described continued review and discussion of the draft and stated that no public hearing or final recommendation on the draft ordinance was scheduled.
+
+Because the latest County-hosted version is distributed through an Adobe shared-document link, this repository preserves a source/status record rather than transcribing language that could not be independently verified line-for-line from the current draft. An earlier June 15, 2026 copy is readable through Dubuque County and can be used for historical comparison, but it should not be presented as the August 17 version.
+
+### Sources
+
+- Repository draft/status record: [`comparator-ordinances/JACKSON_COUNTY_IA_HDCF_DRAFT_2026-08-17.md`](comparator-ordinances/JACKSON_COUNTY_IA_HDCF_DRAFT_2026-08-17.md)
+- Jackson County zoning ordinance page: https://jacksoncounty.iowa.gov/zoning/ordinances/
+- August 17, 2026 Zoning Commission agenda: https://jacksoncounty.iowa.gov/files/meetings/2026-08-17_agenda_5971.pdf
+- August 17, 2026 working draft: https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:f128cbc6-76ca-421a-a011-d151c23259a3
+- Earlier June 15, 2026 mirror hosted by Dubuque County: https://dubuquecountyiowa.gov/DocumentCenter/View/8372/DCAD-Jackson-Co-Draft-Data-Center-Ordinace
+
 ## City of Palo
 
 Palo adopted Ordinance 93-2026 creating an EU-1 Data Center Exclusive Use District. The ordinance treats data centers as a principal use in the district and contemplates accessory infrastructure such as backup generation, substations/switchyards, battery storage, district-energy/microgrid systems, and water treatment/recycling. It requires major site-plan review and rezoning into the district where applicable.
