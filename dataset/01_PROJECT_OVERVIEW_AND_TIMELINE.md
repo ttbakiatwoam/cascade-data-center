@@ -6,7 +6,7 @@
 
 ## Working description
 
-Simple Mining has been publicly associated with a proposed computing facility in the Cascade Industrial Park. The company's existing public business is Bitcoin-mining equipment sales, hosting, repair, and operations. The October 1, 2026 community forum materially narrowed the current concept: Simple Mining represented a roughly 15.2-acre site, one approximately 60,000-square-foot permanent data-center building, about 40 MW of electrical demand, 20–25 permanent positions, closed-loop liquid cooling with dry/air-cooled heat rejection, and roughly $400 million of capital investment. These remain preliminary company/utility representations pending final plans, agreements, permits, and independent review.
+Simple Mining has been publicly associated with a proposed computing facility in the Cascade Industrial Park. The company's existing public business is Bitcoin-mining equipment sales, hosting, repair, and operations. Dubuque County records now independently document that Simple Mining LLC owns **15.22 acres** at **113 Industrial St SE**, PIN **1932176027**, Lot 2 Cascade Industrial Park 14th Addition. The October 1, 2026 community forum materially narrowed the current facility concept: one approximately 60,000-square-foot permanent data-center building, about 40 MW of electrical demand, 20–25 permanent positions, closed-loop liquid cooling with dry/air-cooled heat rejection, and roughly $400 million of capital investment. Those facility figures remain preliminary company/utility representations pending final plans, agreements, permits, and independent review; the parcel ownership and acreage are now independently documented.
 
 The project dataset therefore separates:
 
@@ -16,6 +16,12 @@ The project dataset therefore separates:
 - **project-generated analysis** — calculations, comparisons, and model policy language developed for this research project.
 
 ## Public timeline
+
+### September 19, 2025 — Simple Mining acquires the current site
+
+Dubuque County records show **Simple Mining LLC** purchased the current **15.22-acre** parcel at **113 Industrial St SE** from the **Cascade Economic Development Corporation** for **$608,800** on September 19, 2025. The deed is recorded as **2025-10226** (instrument **202500010226**), with the parcel now identified as **PIN 1932176027, Lot 2 Cascade Industrial Park 14th Addition**.
+
+The City zoning ArcGIS map identifies the site area as **M-2 Heavy Industrial** but its selected feature still carries older PIN **1932127004** and a July 19, 2022 edit date. See [`29_SIMPLE_MINING_SITE_PARCEL_AND_ZONING.md`](29_SIMPLE_MINING_SITE_PARCEL_AND_ZONING.md).
 
 ### March 27, 2026 — trade reporting on the proposal
 
@@ -39,7 +45,7 @@ A public invitation announced a Simple Mining community forum for October 1, 202
 
 ### October 1, 2026 — Simple Mining community forum
 
-Simple Mining presented a materially revised project concept compared with the March containerized Bitcoin-mining proposal. The company described a permanent conventional data-center building of about 60,000 square feet on approximately 15.2 gross acres, with a projected electrical load of about 40 MW, roughly 20–25 permanent jobs, closed-loop liquid cooling with an air-cooled condenser/dry heat-rejection approach, and approximately $400 million in capital investment.
+Simple Mining presented a materially revised project concept compared with the March containerized Bitcoin-mining proposal. The company described a permanent conventional data-center building of about 60,000 square feet on approximately 15.2 gross acres, with a projected electrical load of about 40 MW, roughly 20–25 permanent jobs, closed-loop liquid cooling with an air-cooled condenser/dry heat-rejection approach, and approximately $400 million in capital investment. The **15.2-acre** forum figure has since been independently corroborated by the county parcel record at **15.22 acres**; the remaining design and operating figures remain preliminary.
 
 The Maquoketa Valley Electric Cooperative representative said no Cascade service contract had yet been executed, described a capacity study finding adequate transmission capacity for the approximately 40 MW concept while reserving capacity for native growth, and said Simple Mining would be expected to pay project-driven transmission, substation, and distribution upgrades upfront. The company also estimated approximately 15 diesel backup generators, projected a 12–18 month construction/commissioning period after authorization to proceed, and said no tenant/customer had yet been committed.
 
