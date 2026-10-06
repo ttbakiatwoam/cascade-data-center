@@ -3,6 +3,7 @@ description: Independent research and working zoning recommendations concerning 
 theme: minima
 markdown: kramdown
 header_pages:
+  - committee.md
   - committee-recommendations.md
   - draft-ordinance.md
   - evidence.md
