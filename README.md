@@ -24,6 +24,7 @@ Start here:
 - [`dataset/25_ARTIFICIAL_INTELLIGENCE_DEVELOPMENT_AND_MODERN_USE_TIMELINE.md`](dataset/25_ARTIFICIAL_INTELLIGENCE_DEVELOPMENT_AND_MODERN_USE_TIMELINE.md) — AI development timeline and examples already embedded in modern life
 - [`dataset/26_CRYPTOCURRENCY_BENEFITS_RISKS_AND_ECONOMIC_IMPACT.md`](dataset/26_CRYPTOCURRENCY_BENEFITS_RISKS_AND_ECONOMIC_IMPACT.md) — cryptocurrency benefits, market impact, financial access, and documented risks
 - [`dataset/27_WEEKLY_PUBLIC_RECORD_UPDATE_2026-09-11_TO_2026-09-18.md`](dataset/27_WEEKLY_PUBLIC_RECORD_UPDATE_2026-09-11_TO_2026-09-18.md) — September 11–18 public-record update covering committee rules, moratorium-source discrepancies, conflict-of-interest statutes, and open-record/open-meeting issues
+- [`dataset/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](dataset/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md) — transcript-derived record of the October 1 forum, with preliminary project figures, utility statements, commitments discussed, and remaining evidence gaps
 
 The public dataset intentionally excludes Facebook comments/reply drafting, screenshots of private/local discussions, private correspondence, personal disputes, law-enforcement correspondence, addresses/contact information, and other personally identifying information.
 
@@ -56,6 +57,8 @@ This project tracks questions and research involving:
 ## Community forum questions
 
 A structured set of questions has been developed for Simple Mining and other project stakeholders. The questions are intended to obtain specific answers about the **Cascade project itself**, rather than relying on assumptions drawn from unrelated data centers, cryptocurrency facilities, AI facilities, or projects in other communities.
+
+The October 1 forum source is preserved at [`dataset/source-materials/2026-10-01_simple-mining-community-forum_youtube-auto-captions.en.vtt`](dataset/source-materials/2026-10-01_simple-mining-community-forum_youtube-auto-captions.en.vtt). This is the raw WebVTT transcript created by **YouTube's automated closed-captioning system**; it is not a human-verified or certified verbatim transcript. See [`dataset/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](dataset/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md) for the evidence-labeled meeting summary.
 
 Current root data/tool files include:
 
