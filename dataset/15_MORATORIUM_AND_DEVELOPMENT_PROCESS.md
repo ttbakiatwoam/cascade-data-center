@@ -2,7 +2,7 @@
 
 > This file records public actions and planning considerations. It does not reproduce private legal correspondence or make a final legal judgment on the validity of any particular moratorium.
 >
-> Last reviewed: 2026-09-18
+> Last reviewed: 2026-10-06
 
 ## Cascade's June 2026 moratorium
 
@@ -42,9 +42,9 @@ The City did continue policy work after June 22:
 
 - July 27, 2026 — Resolution 70-26 created an advisory committee to prepare a data-center ordinance.
 - August 10, 2026 — Resolution 79-26 appointed the committee.
-- A public Simple Mining forum was announced for October 1, 2026, with advance questions accepted through September 25.
+- A public Simple Mining forum was held October 1, 2026, after advance questions were accepted through September 25. The company presented a materially revised conventional data-center concept and expressed willingness to work within clear enforceable local standards. See [`28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md).
 
-These actions show the planning process moving toward project-specific information and ordinance development.
+These actions show the planning process moving toward project-specific information and ordinance development. The forum presentation itself did not constitute City approval, a final application, or an executed development/utility agreement.
 
 ## Linn County comparator
 
