@@ -54,6 +54,12 @@ This project tracks questions and research involving:
 - Cryptocurrency's financial-access, remittance, humanitarian, investment, and programmable-finance benefits
 - Cryptocurrency's documented illicit-finance, fraud, volatility, consumer-protection, and proof-of-work electricity risks
 
+## October 1, 2026 community forum source
+
+The repository preserves the raw October 1 forum captions at [`dataset/source-materials/2026-10-01_simple-mining-community-forum_youtube-auto-captions.en.vtt`](dataset/source-materials/2026-10-01_simple-mining-community-forum_youtube-auto-captions.en.vtt). **The transcript was created by YouTube using its automated closed-captioning system and has not been human-certified as a verbatim transcript.**
+
+The transcript-derived summary distinguishes company/utility representations from independently verified facts. Key preliminary figures presented at the forum include an approximately 15.2-acre site, a roughly 60,000-square-foot permanent data-center building, about 40 MW of electrical demand, 20–25 permanent jobs, roughly $400 million in projected investment, and approximately 15 diesel backup generators. Final engineering, agreements, permits, acoustic modeling, water-use totals, assessed value, tenant identity, and enforceable conditions remain subject to documentation.
+
 ## Community forum questions
 
 A structured set of questions has been developed for Simple Mining and other project stakeholders. The questions are intended to obtain specific answers about the **Cascade project itself**, rather than relying on assumptions drawn from unrelated data centers, cryptocurrency facilities, AI facilities, or projects in other communities.
