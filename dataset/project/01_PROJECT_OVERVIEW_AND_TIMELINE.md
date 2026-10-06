@@ -41,7 +41,7 @@ Council minutes record approval of Resolution 79-26 appointing members to the Da
 
 ### September 2026 — public forum announced
 
-A public invitation announced a Simple Mining community forum for October 1, 2026, with questions accepted in advance through a Google Form. The repository's `questions.csv` was assembled to seek project-specific answers rather than infer Cascade impacts from unrelated facilities.
+A public invitation announced a Simple Mining community forum for October 1, 2026, with questions accepted in advance through a Google Form. The repository's `dataset/community/questions.csv` was assembled to seek project-specific answers rather than infer Cascade impacts from unrelated facilities.
 
 ### October 1, 2026 — Simple Mining community forum
 
@@ -49,7 +49,7 @@ Simple Mining presented a materially revised project concept compared with the M
 
 The Maquoketa Valley Electric Cooperative representative said no Cascade service contract had yet been executed, described a capacity study finding adequate transmission capacity for the approximately 40 MW concept while reserving capacity for native growth, and said Simple Mining would be expected to pay project-driven transmission, substation, and distribution upgrades upfront. The company also estimated approximately 15 diesel backup generators, projected a 12–18 month construction/commissioning period after authorization to proceed, and said no tenant/customer had yet been committed.
 
-These are forum representations, not final approved specifications. The full transcript-derived record is in [`28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md). The raw captions were generated automatically by YouTube and are preserved in [`source-materials/`](source-materials/).
+These are forum representations, not final approved specifications. The full transcript-derived record is in [`../updates/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](../updates/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md). The raw captions were generated automatically by YouTube and are preserved in [`../../sources/community-forums/`](../../sources/community-forums/).
 
 ### September 14, 2026 — committee clarification placed on Council agenda
 
@@ -96,4 +96,4 @@ As of the September 18 review, the City's 2026 records page did not yet list Sep
 - Simple Mining documentation: https://docs.simplemining.io/
 - Public forum question form: https://docs.google.com/forms/d/e/1FAIpQLSez9hfMvtFT9ME96bN0J2wK14d57DDhZLc4ksjsuHIOtmiI4A/viewform?pli=1
 
-- October 1, 2026 forum record: [`28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md)
+- October 1, 2026 forum record: [`../updates/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](../updates/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md)

@@ -81,4 +81,4 @@ The October 1 building and infrastructure concept remains preliminary. The parce
 - Dubuque County Beacon parcel record — PIN 1932176027: https://beacon.schneidercorp.com/Application.aspx?AppID=93&LayerID=929&PageTypeID=4&PageID=593&Q=18912084&KeyValue=1932176027
 - Dubuque County Land Records — deed instrument 202500010226: https://cotthosting.com/iadubuque/LandRecords/protected/SrchInstNumber.aspx?bAutoSearch=true&fn=202500010226&idx=GEN
 - City of Cascade ArcGIS zoning map: https://www.arcgis.com/home/item.html?id=9d8fa54bc857439dabb56288d8461088#overview
-- October 1 forum record: [`28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md)
+- October 1 forum record: [`../updates/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](../updates/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md)

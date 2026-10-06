@@ -20,7 +20,7 @@ Dubuque County's current parcel record identifies the property instead as **PIN 
 
 This mismatch does **not** by itself establish a zoning change. For this research dataset, the City ArcGIS map supports the **M-2 Heavy Industrial** district designation, while Dubuque County controls the current parcel identity, acreage, ownership, sale, and assessment facts. Whether a final data-center application is permitted, conditional, or requires another approval remains a separate legal question under the controlling ordinance text.
 
-See [`29_SIMPLE_MINING_SITE_PARCEL_AND_ZONING.md`](29_SIMPLE_MINING_SITE_PARCEL_AND_ZONING.md).
+See [`../project/29_SIMPLE_MINING_SITE_PARCEL_AND_ZONING.md`](../project/29_SIMPLE_MINING_SITE_PARCEL_AND_ZONING.md).
 
 ## Building-permit authority
 

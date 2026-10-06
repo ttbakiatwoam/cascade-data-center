@@ -42,7 +42,7 @@ The City did continue policy work after June 22:
 
 - July 27, 2026 — Resolution 70-26 created an advisory committee to prepare a data-center ordinance.
 - August 10, 2026 — Resolution 79-26 appointed the committee.
-- A public Simple Mining forum was held October 1, 2026, after advance questions were accepted through September 25. The company presented a materially revised conventional data-center concept and expressed willingness to work within clear enforceable local standards. See [`28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md).
+- A public Simple Mining forum was held October 1, 2026, after advance questions were accepted through September 25. The company presented a materially revised conventional data-center concept and expressed willingness to work within clear enforceable local standards. See [`../updates/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](../updates/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md).
 
 These actions show the planning process moving toward project-specific information and ordinance development. The forum presentation itself did not constitute City approval, a final application, or an executed development/utility agreement.
 
@@ -80,7 +80,7 @@ The dataset does not assert an automatic-approval deadline. Exact processing req
 - City of Cascade — June 22 Council Agenda and Packet: https://www.cityofcascade.org/vimages/shared/vnews/stories/6959ce08641c7/City%20Council%20Agenda%20and%20Packet%20June%2022%202026.pdf
 - City of Cascade — July 27, 2026 Council Minutes: https://www.cityofcascade.org/vimages/shared/vnews/stories/6959ce08641c7/July%2027%202026%20Council%20Minutes.pdf
 - City of Cascade — August 10, 2026 Council Minutes: https://www.cityofcascade.org/vimages/shared/vnews/stories/6959ce08641c7/August%2010th%20Council%20Minutes.pdf
-- October 1 forum summary and transcript provenance: [`28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md)
+- October 1 forum summary and transcript provenance: [`../updates/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](../updates/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md)
 - Linn County — July 2026 temporary data-center moratorium: https://www.linncountyiowa.gov/m/newsflash/home/detail/4488
 - Cascade Code — Chapter 11 Zoning Regulations: https://codelibrary.amlegal.com/codes/cascadeia/latest/cascade_ia/0-0-0-4120
 - Cascade Code — Permit Required, §6-12-3: https://codelibrary.amlegal.com/codes/cascadeia/latest/cascade_ia/0-0-0-4145

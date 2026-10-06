@@ -42,7 +42,7 @@ The company also expressed willingness to accept an enforceable water-use cap. I
 
 These are company representations. They materially narrow the proposed architecture but do not eliminate the need for final engineering and metering.
 
-See [`28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md).
+See [`../updates/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](../updates/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md).
 
 ## October 1 Cascade forum update
 
@@ -50,7 +50,7 @@ At the October 1, 2026 community forum, Simple Mining described the current Casc
 
 Those statements materially narrow the earlier design uncertainty, but they remain **company representations based on a preliminary design**. The forum did not supply final mechanical drawings, quantified average/peak/annual municipal water demand, the final coolant product/SDS, leak-containment design, or independently reviewed performance data.
 
-The raw forum source is a YouTube automated-caption transcript and is not human-verified. See [`28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md).
+The raw forum source is a YouTube automated-caption transcript and is not human-verified. See [`../updates/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](../updates/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md).
 
 ## Industry evidence: water use varies dramatically
 
@@ -107,7 +107,7 @@ These are appropriately treated as open questions, not assumptions.
 - Simple Mining — Data Center Water Usage: https://www.simplemining.io/insights/post/data-center-water-usage
 - Simple Mining — Data Center Cooling: https://www.simplemining.io/insights/post/data-center-cooling
 - City of Cascade — June 22, 2026 Council Minutes (records closed-loop representation): https://www.cityofcascade.org/vimages/shared/vnews/stories/6959ce08641c7/June%2022%202026%20Council%20Minutes.pdf
-- October 1 forum summary and transcript provenance: [`28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md)
+- October 1 forum summary and transcript provenance: [`../updates/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](../updates/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md)
 
 ### Independent / academic
 

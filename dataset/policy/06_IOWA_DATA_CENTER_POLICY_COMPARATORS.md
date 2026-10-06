@@ -48,7 +48,7 @@ Because the latest County-hosted version is distributed through an Adobe shared-
 
 ### Sources
 
-- Repository draft/status record: [`comparator-ordinances/JACKSON_COUNTY_IA_HDCF_DRAFT_2026-08-17.md`](comparator-ordinances/JACKSON_COUNTY_IA_HDCF_DRAFT_2026-08-17.md)
+- Repository draft/status record: [`../comparator-ordinances/JACKSON_COUNTY_IA_HDCF_DRAFT_2026-08-17.md`](../comparator-ordinances/JACKSON_COUNTY_IA_HDCF_DRAFT_2026-08-17.md)
 - Jackson County zoning ordinance page: https://jacksoncounty.iowa.gov/zoning/ordinances/
 - August 17, 2026 Zoning Commission agenda: https://jacksoncounty.iowa.gov/files/meetings/2026-08-17_agenda_5971.pdf
 - August 17, 2026 working draft: https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:f128cbc6-76ca-421a-a011-d151c23259a3

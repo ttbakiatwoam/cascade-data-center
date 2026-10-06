@@ -73,9 +73,9 @@ The October 1 forum narrowed several questions but did not replace final project
 - Simple Mining — Data Center Cooling: https://www.simplemining.io/insights/post/data-center-cooling
 - Simple Mining — Data Center Water Usage: https://www.simplemining.io/insights/post/data-center-water-usage
 - Data Center Dynamics — Simple Mining plans Bitcoin mining expansion in Dubuque County, Iowa: https://www.datacenterdynamics.com/en/news/simple-mining-plans-bitcoin-mining-expansion-in-dubuque-county-iowa/
-- October 1 forum summary and raw-source provenance: [`28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md)
+- October 1 forum summary and raw-source provenance: [`../updates/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](../updates/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md)
 
 
 ## October 1 transcript provenance
 
-The forum source used for this update is a YouTube automatically generated closed-caption WebVTT file. It is preserved unchanged at [`source-materials/2026-10-01_simple-mining-community-forum_youtube-auto-captions.en.vtt`](source-materials/2026-10-01_simple-mining-community-forum_youtube-auto-captions.en.vtt) and should not be treated as a human-certified verbatim transcript.
+The forum source used for this update is a YouTube automatically generated closed-caption WebVTT file. It is preserved unchanged at [`../../sources/community-forums/2026-10-01_simple-mining-community-forum_youtube-auto-captions.en.vtt`](../../sources/community-forums/2026-10-01_simple-mining-community-forum_youtube-auto-captions.en.vtt) and should not be treated as a human-certified verbatim transcript.

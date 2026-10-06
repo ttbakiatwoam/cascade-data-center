@@ -54,107 +54,75 @@ Journalism or trade reporting. Where possible, secondary reporting is traced to 
 
 Calculations, policy proposals, question banks, and model ordinance language created within this research project. These materials are not adopted law, independent engineering reports, or company commitments.
 
-## Dataset files
+## Research by topic
 
-1. [`01_PROJECT_OVERVIEW_AND_TIMELINE.md`](01_PROJECT_OVERVIEW_AND_TIMELINE.md)  
-   Public project chronology and distinction between documented facts and unresolved design questions.
+The original document numbers are retained for continuity; folders group related subjects. For previous paths, see the [file move map](../docs/repository-layout.md#file-move-map).
 
-2. [`02_SIMPLE_MINING_AND_PROJECT_SCOPE.md`](02_SIMPLE_MINING_AND_PROJECT_SCOPE.md)  
-   Simple Mining's public business model, hosting operations, Cascade reporting, and project-scope gaps.
+### Project facts and open questions
 
-3. [`03_DATA_CENTER_WORKLOAD_TYPES.md`](03_DATA_CENTER_WORKLOAD_TYPES.md)  
-   Technical distinction among Bitcoin/ASIC mining, AI/HPC, cloud, colocation, and enterprise workloads.
+- [`01_PROJECT_OVERVIEW_AND_TIMELINE.md`](project/01_PROJECT_OVERVIEW_AND_TIMELINE.md) — Public project chronology and distinction between documented facts and unresolved design questions.
+- [`02_SIMPLE_MINING_AND_PROJECT_SCOPE.md`](project/02_SIMPLE_MINING_AND_PROJECT_SCOPE.md) — Simple Mining's public business model, hosting operations, Cascade reporting, and project-scope gaps.
+- [`21_OPEN_QUESTIONS_AND_EVIDENCE_GAPS.md`](project/21_OPEN_QUESTIONS_AND_EVIDENCE_GAPS.md) — Living tracker of what is documented, represented, preliminary, unknown, or in need of legal review.
+- [`29_SIMPLE_MINING_SITE_PARCEL_AND_ZONING.md`](project/29_SIMPLE_MINING_SITE_PARCEL_AND_ZONING.md) — Dubuque County and City ArcGIS verification of the current Simple Mining parcel, 15.22-acre site area, ownership/acquisition, assessment record, M-2 Heavy Industrial designation, and the older parcel-PIN reference retained in the zoning layer.
 
-4. [`04_CASCADE_ZONING_AND_LOCAL_AUTHORITY.md`](04_CASCADE_ZONING_AND_LOCAL_AUTHORITY.md)  
-   Cascade zoning/building-code structure and Iowa municipal/zoning authority.
+### Local impacts and community protections
 
-5. [`05_PROJECT_MODEL_ACCOUNTABILITY_ORDINANCE.md`](05_PROJECT_MODEL_ACCOUNTABILITY_ORDINANCE.md)  
-   Summary of the June 21, 2026 project-generated model accountability ordinance, clearly identified as non-adopted draft policy.
+- [`07_WATER_AND_COOLING.md`](impacts/07_WATER_AND_COOLING.md) — Closed-loop terminology, water-use variability, dry/evaporative/adiabatic heat rejection, company claims, and project-specific evidence needs.
+- [`08_NOISE_AND_ACOUSTICS.md`](impacts/08_NOISE_AND_ACOUSTICS.md) — dBA/dBC, tonal and low-frequency noise, propagation, Iowa comparator limits, WHO/FHWA references, and recommended testing.
+- [`09_ELECTRICITY_GRID_AND_BACKUP_POWER.md`](impacts/09_ELECTRICITY_GRID_AND_BACKUP_POWER.md) — Data-center load growth, Cascade-specific MW gaps, ratepayer protection, grid upgrades, generators, UPS, and batteries.
+- [`10_AGRICULTURE_GREENHOUSES_AND_LAND_USE.md`](impacts/10_AGRICULTURE_GREENHOUSES_AND_LAND_USE.md) — Iowa agriculture, nutrient/runoff context, greenhouse and hydroponic water demand, and disciplined land-use comparison.
+- [`11_ENVIRONMENTAL_AND_CARBON_SCENARIOS.md`](impacts/11_ENVIRONMENTAL_AND_CARBON_SCENARIOS.md) — Environmental comparison framework and explicitly hypothetical carbon/energy scenarios.
+- [`12_JOBS_TAXES_AND_COMMUNITY_BENEFITS.md`](impacts/12_JOBS_TAXES_AND_COMMUNITY_BENEFITS.md) — Construction vs. permanent employment, workforce development, property tax, incentives, clawbacks, and community-benefit concepts.
+- [`13_INFRASTRUCTURE_TRAFFIC_AND_EMERGENCY_RESPONSE.md`](impacts/13_INFRASTRUCTURE_TRAFFIC_AND_EMERGENCY_RESPONSE.md) — Roads, utilities, stormwater, construction traffic, generators, fire response, batteries, fuels, and public-cost allocation.
+- [`16_MONITORING_ENFORCEMENT_AND_DECOMMISSIONING.md`](impacts/16_MONITORING_ENFORCEMENT_AND_DECOMMISSIONING.md) — Measurable compliance, independent verification, enforcement, material expansion, closure, restoration, and financial assurance.
+- [`23_CASCADE_MUNICIPAL_WATER_BASELINE.md`](impacts/23_CASCADE_MUNICIPAL_WATER_BASELINE.md) — City/DNR baseline for Cascade's wells, nominal daily capacity, average daily consumption, storage, water-quality reporting, and a municipal-pool comparator with explicit source-recovery gaps for pool gallon capacity and metered seasonal use.
 
-6. [`06_IOWA_DATA_CENTER_POLICY_COMPARATORS.md`](06_IOWA_DATA_CENTER_POLICY_COMPARATORS.md)  
-   Linn County, Jones County, Palo, Allamakee County, Norwalk, and West Des Moines comparators.
+### Policy, authority, and public process
 
-7. [`07_WATER_AND_COOLING.md`](07_WATER_AND_COOLING.md)  
-   Closed-loop terminology, water-use variability, dry/evaporative/adiabatic heat rejection, company claims, and project-specific evidence needs.
+- [`04_CASCADE_ZONING_AND_LOCAL_AUTHORITY.md`](policy/04_CASCADE_ZONING_AND_LOCAL_AUTHORITY.md) — Cascade zoning/building-code structure and Iowa municipal/zoning authority.
+- [`05_PROJECT_MODEL_ACCOUNTABILITY_ORDINANCE.md`](policy/05_PROJECT_MODEL_ACCOUNTABILITY_ORDINANCE.md) — Summary of the June 21, 2026 project-generated model accountability ordinance, clearly identified as non-adopted draft policy.
+- [`06_IOWA_DATA_CENTER_POLICY_COMPARATORS.md`](policy/06_IOWA_DATA_CENTER_POLICY_COMPARATORS.md) — Linn County, Jones County, Palo, Allamakee County, Norwalk, and West Des Moines comparators.
+- [`14_ADVISORY_COMMITTEE_AND_OPEN_MEETINGS.md`](policy/14_ADVISORY_COMMITTEE_AND_OPEN_MEETINGS.md) — Iowa Chapter 21, public attendance vs. comment, committee procedure, minutes, disruption rules, and local-code maintenance issue.
+- [`15_MORATORIUM_AND_DEVELOPMENT_PROCESS.md`](policy/15_MORATORIUM_AND_DEVELOPMENT_PROCESS.md) — Cascade's temporary moratorium, subsequent ordinance work, planning milestones, and development-process principles.
+- [`17_PERMITS_AND_REVIEW_TIMING.md`](policy/17_PERMITS_AND_REVIEW_TIMING.md) — Local permit timing and the important distinction between Iowa's state plan-review 60-day fee-refund rule and automatic approval.
+- [`19_EXTERNAL_POLICY_AND_TECHNOLOGY_COMPARATORS.md`](policy/19_EXTERNAL_POLICY_AND_TECHNOLOGY_COMPARATORS.md) — Utah, Lehi, Salt Lake County, and conventional data-center examples used to identify policy and engineering mechanisms.
 
-8. [`08_NOISE_AND_ACOUSTICS.md`](08_NOISE_AND_ACOUSTICS.md)  
-   dBA/dBC, tonal and low-frequency noise, propagation, Iowa comparator limits, WHO/FHWA references, and recommended testing.
+### Computing and technology context
 
-9. [`09_ELECTRICITY_GRID_AND_BACKUP_POWER.md`](09_ELECTRICITY_GRID_AND_BACKUP_POWER.md)  
-   Data-center load growth, Cascade-specific MW gaps, ratepayer protection, grid upgrades, generators, UPS, and batteries.
+- [`03_DATA_CENTER_WORKLOAD_TYPES.md`](technology/03_DATA_CENTER_WORKLOAD_TYPES.md) — Technical distinction among Bitcoin/ASIC mining, AI/HPC, cloud, colocation, and enterprise workloads.
+- [`24_ARTIFICIAL_INTELLIGENCE_BENEFITS_AND_ACCOMPLISHMENTS.md`](technology/24_ARTIFICIAL_INTELLIGENCE_BENEFITS_AND_ACCOMPLISHMENTS.md) — Primary-source research on demonstrated AI benefits in antibiotics, protein structure, medical screening, accessibility, neurotechnology, weather forecasting, materials, fusion, ancient texts, productivity, and frontier mathematics, with claim-strength caveats.
+- [`25_ARTIFICIAL_INTELLIGENCE_DEVELOPMENT_AND_MODERN_USE_TIMELINE.md`](technology/25_ARTIFICIAL_INTELLIGENCE_DEVELOPMENT_AND_MODERN_USE_TIMELINE.md) — Selective 1950–2026 AI development timeline plus examples of AI already embedded in health care, search, accessibility, translation, forecasting, logistics, industry, cybersecurity, knowledge work, and science.
+- [`26_CRYPTOCURRENCY_BENEFITS_RISKS_AND_ECONOMIC_IMPACT.md`](technology/26_CRYPTOCURRENCY_BENEFITS_RISKS_AND_ECONOMIC_IMPACT.md) — Balanced research on cryptocurrency's peer-to-peer architecture, financial access, remittances, stablecoins, humanitarian use, market value, regulated investment products, programmable finance, flexible mining load, illicit markets, laundering, consumer risks, and failed inclusion cases.
 
-10. [`10_AGRICULTURE_GREENHOUSES_AND_LAND_USE.md`](10_AGRICULTURE_GREENHOUSES_AND_LAND_USE.md)  
-    Iowa agriculture, nutrient/runoff context, greenhouse and hydroponic water demand, and disciplined land-use comparison.
+### Evidence methods and source index
 
-11. [`11_ENVIRONMENTAL_AND_CARBON_SCENARIOS.md`](11_ENVIRONMENTAL_AND_CARBON_SCENARIOS.md)  
-    Environmental comparison framework and explicitly hypothetical carbon/energy scenarios.
+- [`18_MEDIA_CLAIMS_AND_SOURCE_VALIDATION.md`](evidence/18_MEDIA_CLAIMS_AND_SOURCE_VALIDATION.md) — Evidence-first method with case studies involving Meta robotics, El Reno's water-line failure, Georgia water metering/billing, and source-quality ratings.
+- [`22_SOURCE_INDEX.md`](evidence/22_SOURCE_INDEX.md) — Consolidated public URL index for the statutes, ordinances, government records, research, company materials, journalism, and comparator documents used throughout the project.
 
-12. [`12_JOBS_TAXES_AND_COMMUNITY_BENEFITS.md`](12_JOBS_TAXES_AND_COMMUNITY_BENEFITS.md)  
-    Construction vs. permanent employment, workforce development, property tax, incentives, clawbacks, and community-benefit concepts.
+### Community questions
 
-13. [`13_INFRASTRUCTURE_TRAFFIC_AND_EMERGENCY_RESPONSE.md`](13_INFRASTRUCTURE_TRAFFIC_AND_EMERGENCY_RESPONSE.md)  
-    Roads, utilities, stormwater, construction traffic, generators, fire response, batteries, fuels, and public-cost allocation.
+- [`20_COMMUNITY_FORUM_QUESTION_BANK.md`](community/20_COMMUNITY_FORUM_QUESTION_BANK.md) — Documentation for the 76-question Simple Mining community-forum dataset.
 
-14. [`14_ADVISORY_COMMITTEE_AND_OPEN_MEETINGS.md`](14_ADVISORY_COMMITTEE_AND_OPEN_MEETINGS.md)  
-    Iowa Chapter 21, public attendance vs. comment, committee procedure, minutes, disruption rules, and local-code maintenance issue.
+### Dated public-record and forum updates
 
-15. [`15_MORATORIUM_AND_DEVELOPMENT_PROCESS.md`](15_MORATORIUM_AND_DEVELOPMENT_PROCESS.md)  
-    Cascade's temporary moratorium, subsequent ordinance work, planning milestones, and development-process principles.
+- [`27_WEEKLY_PUBLIC_RECORD_UPDATE_2026-09-11_TO_2026-09-18.md`](updates/27_WEEKLY_PUBLIC_RECORD_UPDATE_2026-09-11_TO_2026-09-18.md) — Weekly public-record update covering proposed Resolution 92-26, the Resolution 57-26 duration discrepancy, Iowa conflict-of-interest statutes, and Chapter 21/22 governance issues.
+- [`28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](updates/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md) — Evidence-labeled summary of the October 1 Simple Mining forum, including the current preliminary facility concept, utility representations, verbal willingness to accept enforceable conditions, and unresolved documentation needs.
 
-16. [`16_MONITORING_ENFORCEMENT_AND_DECOMMISSIONING.md`](16_MONITORING_ENFORCEMENT_AND_DECOMMISSIONING.md)  
-    Measurable compliance, independent verification, enforcement, material expansion, closure, restoration, and financial assurance.
+## Zoning records, proposals, and preserved sources
 
-17. [`17_PERMITS_AND_REVIEW_TIMING.md`](17_PERMITS_AND_REVIEW_TIMING.md)  
-    Local permit timing and the important distinction between Iowa's state plan-review 60-day fee-refund rule and automatic approval.
-
-18. [`18_MEDIA_CLAIMS_AND_SOURCE_VALIDATION.md`](18_MEDIA_CLAIMS_AND_SOURCE_VALIDATION.md)  
-    Evidence-first method with case studies involving Meta robotics, El Reno's water-line failure, Georgia water metering/billing, and source-quality ratings.
-
-19. [`19_EXTERNAL_POLICY_AND_TECHNOLOGY_COMPARATORS.md`](19_EXTERNAL_POLICY_AND_TECHNOLOGY_COMPARATORS.md)  
-    Utah, Lehi, Salt Lake County, and conventional data-center examples used to identify policy and engineering mechanisms.
-
-20. [`20_COMMUNITY_FORUM_QUESTION_BANK.md`](20_COMMUNITY_FORUM_QUESTION_BANK.md)  
-    Documentation for the 76-question Simple Mining community-forum dataset.
-
-21. [`21_OPEN_QUESTIONS_AND_EVIDENCE_GAPS.md`](21_OPEN_QUESTIONS_AND_EVIDENCE_GAPS.md)  
-    Living tracker of what is documented, represented, preliminary, unknown, or in need of legal review.
-
-22. [`22_SOURCE_INDEX.md`](22_SOURCE_INDEX.md)  
-    Consolidated public URL index for the statutes, ordinances, government records, research, company materials, journalism, and comparator documents used throughout the project.
-
-23. [`23_CASCADE_MUNICIPAL_WATER_BASELINE.md`](23_CASCADE_MUNICIPAL_WATER_BASELINE.md)  
-    City/DNR baseline for Cascade's wells, nominal daily capacity, average daily consumption, storage, water-quality reporting, and a municipal-pool comparator with explicit source-recovery gaps for pool gallon capacity and metered seasonal use.
-
-24. [`24_ARTIFICIAL_INTELLIGENCE_BENEFITS_AND_ACCOMPLISHMENTS.md`](24_ARTIFICIAL_INTELLIGENCE_BENEFITS_AND_ACCOMPLISHMENTS.md)  
-    Primary-source research on demonstrated AI benefits in antibiotics, protein structure, medical screening, accessibility, neurotechnology, weather forecasting, materials, fusion, ancient texts, productivity, and frontier mathematics, with claim-strength caveats.
-
-25. [`25_ARTIFICIAL_INTELLIGENCE_DEVELOPMENT_AND_MODERN_USE_TIMELINE.md`](25_ARTIFICIAL_INTELLIGENCE_DEVELOPMENT_AND_MODERN_USE_TIMELINE.md)  
-    Selective 1950–2026 AI development timeline plus examples of AI already embedded in health care, search, accessibility, translation, forecasting, logistics, industry, cybersecurity, knowledge work, and science.
-
-26. [`26_CRYPTOCURRENCY_BENEFITS_RISKS_AND_ECONOMIC_IMPACT.md`](26_CRYPTOCURRENCY_BENEFITS_RISKS_AND_ECONOMIC_IMPACT.md)  
-    Balanced research on cryptocurrency's peer-to-peer architecture, financial access, remittances, stablecoins, humanitarian use, market value, regulated investment products, programmable finance, flexible mining load, illicit markets, laundering, consumer risks, and failed inclusion cases.
-
-27. [`27_WEEKLY_PUBLIC_RECORD_UPDATE_2026-09-11_TO_2026-09-18.md`](27_WEEKLY_PUBLIC_RECORD_UPDATE_2026-09-11_TO_2026-09-18.md)  
-    Weekly public-record update covering proposed Resolution 92-26, the Resolution 57-26 duration discrepancy, Iowa conflict-of-interest statutes, and Chapter 21/22 governance issues.
-
-28. [`28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md)  
-    Evidence-labeled summary of the October 1 Simple Mining forum, including the current preliminary facility concept, utility representations, verbal willingness to accept enforceable conditions, and unresolved documentation needs.
-
-29. [`29_SIMPLE_MINING_SITE_PARCEL_AND_ZONING.md`](29_SIMPLE_MINING_SITE_PARCEL_AND_ZONING.md)  
-    Dubuque County and City ArcGIS verification of the current Simple Mining parcel, 15.22-acre site area, ownership/acquisition, assessment record, M-2 Heavy Industrial designation, and the older parcel-PIN reference retained in the zoning layer.
+- [Cascade zoning transcriptions](cascade-zoning/00_INDEX.md) — base code and ordinance/amendment transcriptions, with draft status retained.
+- [Comparator ordinance records](comparator-ordinances/README.md) — external working drafts and their source status.
+- [Project policy proposals](../proposals/README.md) — project-generated draft language, not adopted law.
+- [Preserved source files](../sources/README.md) — the zoning PDF, supplied Word files, OCR working copy, and raw forum captions.
 
 ## Preserved forum source material
 
-- [`source-materials/2026-10-01_simple-mining-community-forum_youtube-auto-captions.en.vtt`](source-materials/2026-10-01_simple-mining-community-forum_youtube-auto-captions.en.vtt) — raw WebVTT caption file from the October 1 forum. **The transcript was created by YouTube using its automated closed-captioning system** and is not a human-verified/certified verbatim transcript. The raw file is preserved unchanged; interpret proper nouns, numbers, and fragmented audience questions cautiously.
+- [`../sources/community-forums/2026-10-01_simple-mining-community-forum_youtube-auto-captions.en.vtt`](../sources/community-forums/2026-10-01_simple-mining-community-forum_youtube-auto-captions.en.vtt) — raw WebVTT caption file from the October 1 forum. **The transcript was created by YouTube using its automated closed-captioning system** and is not a human-verified/certified verbatim transcript. The raw file is preserved unchanged; interpret proper nouns, numbers, and fragmented audience questions cautiously.
 
-## Source material
+## Data and tools
 
-- [`source-materials/2026-10-01_simple-mining-community-forum_youtube-auto-captions.en.vtt`](source-materials/2026-10-01_simple-mining-community-forum_youtube-auto-captions.en.vtt) — raw October 1 forum WebVTT captions, preserved unchanged. **Created by YouTube using its automated closed-captioning system; not a human-certified verbatim transcript.**
-
-## Root data files
-
-- [`../questions.csv`](../questions.csv) — machine-readable 76-question community-forum question bank.
-- [`../submit-questions.sh`](../submit-questions.sh) — optional local submission helper; the public copy prompts the operator for their own identifying information and does not contain the dataset author's personal information.
+- [`community/questions.csv`](community/questions.csv) — machine-readable 76-question community-forum question bank.
+- [`../scripts/submit-questions.sh`](../scripts/submit-questions.sh) — optional local submission helper; the public copy prompts the operator for their own identifying information and does not contain the dataset author's personal information.
 - [`../README.md`](../README.md) — repository overview.
 
 ## Research rules
@@ -200,9 +168,9 @@ Research into AI, cryptocurrency, or other data-center workloads should preserve
 
 When new Simple Mining documents, City records, utility information, technical studies, peer-reviewed research, or forum answers become available:
 
-1. add the original public source to [`22_SOURCE_INDEX.md`](22_SOURCE_INDEX.md);
+1. add the original public source to [`evidence/22_SOURCE_INDEX.md`](evidence/22_SOURCE_INDEX.md);
 2. update the relevant topical note;
-3. update [`21_OPEN_QUESTIONS_AND_EVIDENCE_GAPS.md`](21_OPEN_QUESTIONS_AND_EVIDENCE_GAPS.md) when a Cascade-specific evidence gap changes;
+3. update [`project/21_OPEN_QUESTIONS_AND_EVIDENCE_GAPS.md`](project/21_OPEN_QUESTIONS_AND_EVIDENCE_GAPS.md) when a Cascade-specific evidence gap changes;
 4. distinguish a preliminary estimate from a final/enforceable commitment;
 5. distinguish a proposed scientific result from an independently validated result;
 6. record material corrections rather than silently overwriting prior claims when the history matters.

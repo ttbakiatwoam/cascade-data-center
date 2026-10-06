@@ -38,7 +38,7 @@ The forum supplied several preliminary infrastructure/emergency representations:
 
 These are forum representations and should be checked against final civil drawings, utility agreements, fire plans, air permits, and emergency-response documents.
 
-See [`28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md).
+See [`../updates/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](../updates/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md).
 
 ## Traffic
 
@@ -88,7 +88,7 @@ At the October 1 forum, Simple Mining represented that the conceptual site would
 
 The company said it would coordinate with local police, fire, and emergency-management personnel and expressed willingness to make an **emergency action plan** an enforceable ordinance requirement. It also said fire suppression would be designed to applicable code. Detailed fire-protection drawings, UPS/BESS information, hazardous-material inventories, generator fuel-storage quantities, emergency runtime, traffic estimates, and responder-equipment/training impacts were not supplied.
 
-These are preliminary company representations. See [`28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md); the preserved transcript is YouTube automated closed captions and is not a certified verbatim transcript.
+These are preliminary company representations. See [`../updates/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](../updates/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md); the preserved transcript is YouTube automated closed captions and is not a certified verbatim transcript.
 
 ## Iowa comparator practices
 
@@ -124,6 +124,6 @@ The June 2026 model ordinance proposed an emergency response plan covering fire,
 - Linn County — Data Centers in Unincorporated Linn County: https://www.linncountyiowa.gov/1862/Data-Centers-in-Unincorporated-Linn-Coun
 - Linn County approved data-center ordinance: https://www.linncountyiowa.gov/DocumentCenter/View/27695/PA26-0001-Ordinance-PDF
 - Jones County data-center ordinance: https://www.linncountyiowa.gov/DocumentCenter/View/27656/Jones-County-Data-Center-Ordinance
-- October 1 forum summary and transcript provenance: [`28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md)
+- October 1 forum summary and transcript provenance: [`../updates/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](../updates/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md)
 - City of Cascade — Building & Zoning: https://www.cityofcascade.org/vnews/display.v/SEC/City%2520Government%257CBuilding%2520%2526%2520Zoning
 - City of Cascade — Building Permit Form: https://www.cityofcascade.org/vimages/shared/vnews/stories/5eac3f7b7dfb8/Building%20Permit%20Form_2022.pdf
