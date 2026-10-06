@@ -98,6 +98,20 @@
 
 # 2. Simple Mining and the Cascade proposal
 
+## Cascade site parcel, deed, and zoning record
+
+- **Dubuque County Beacon — Simple Mining parcel, PIN 1932176027 / 113 Industrial St SE** — Primary / official county parcel and assessment record  
+  https://beacon.schneidercorp.com/Application.aspx?AppID=93&LayerID=929&PageTypeID=4&PageID=593&Q=18912084&KeyValue=1932176027
+
+- **Dubuque County Land Records — deed instrument 202500010226 / 2025-10226** — Primary / official land record; records the 2025 conveyance associated with the current parcel  
+  https://cotthosting.com/iadubuque/LandRecords/protected/SrchInstNumber.aspx?bAutoSearch=true&fn=202500010226&idx=GEN
+
+- **City of Cascade ArcGIS zoning map — Simple Mining site area** — Primary / official City GIS reviewed October 6, 2026. The selected feature identifies the district as **M-2 Heavy Industrial**, while displaying older PIN **1932127004** and a July 19, 2022 edit date. Current parcel identity is independently established by Dubuque County as PIN **1932176027**.  
+  https://www.arcgis.com/home/item.html?id=9d8fa54bc857439dabb56288d8461088#overview
+
+- **Project evidence note — Simple Mining parcel and zoning**  
+  [`29_SIMPLE_MINING_SITE_PARCEL_AND_ZONING.md`](29_SIMPLE_MINING_SITE_PARCEL_AND_ZONING.md)
+
 - **Simple Mining — Hosting** — Primary / company  
   https://www.simplemining.io/hosting
 
