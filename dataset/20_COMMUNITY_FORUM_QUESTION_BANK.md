@@ -2,11 +2,13 @@
 
 > The complete machine-readable question set is maintained in [`../questions.csv`](../questions.csv). This file documents the purpose, categories, and evidence standard behind the question bank without adding any participant name, address, or other personal identifier.
 >
-> Last reviewed: 2026-09-10
+> Last reviewed: 2026-10-06
 
 ## Public forum
 
-Simple Mining announced a public community forum concerning the proposed project in the Cascade Industrial Park for **October 1, 2026**, with advance questions requested by **September 25, 2026**.
+Simple Mining held the public community forum concerning the proposed project in the Cascade Industrial Park on **October 1, 2026**, after accepting advance questions through **September 25, 2026**.
+
+The raw forum transcript preserved in this repository is a WebVTT file created by **YouTube using its automated closed-captioning system**. It has not been human-verified and should not be treated as a certified verbatim transcript. The evidence-labeled forum summary is maintained in [`28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md).
 
 The public Google Form asks for:
 
@@ -114,7 +116,9 @@ This classification will make it possible to compare what was promised at the fo
 
 - [`../questions.csv`](../questions.csv) — complete 76-question set
 - [`../submit-questions.sh`](../submit-questions.sh) — optional local helper for submitting questions through the public form
-- [`21_OPEN_QUESTIONS_AND_EVIDENCE_GAPS.md`](21_OPEN_QUESTIONS_AND_EVIDENCE_GAPS.md) — project evidence gaps to update as documents become available
+- [`21_OPEN_QUESTIONS_AND_EVIDENCE_GAPS.md`](21_OPEN_QUESTIONS_AND_EVIDENCE_GAPS.md) — project evidence gaps updated as forum answers and later documents become available
+- [`28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md) — October 1 answer/representation summary
+- [`source-materials/2026-10-01_simple-mining-community-forum_youtube-auto-captions.en.vtt`](source-materials/2026-10-01_simple-mining-community-forum_youtube-auto-captions.en.vtt) — raw YouTube automated-caption transcript
 
 ## Public source
 
