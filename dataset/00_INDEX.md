@@ -140,6 +140,9 @@ Calculations, policy proposals, question banks, and model ordinance language cre
 28. [`28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md)  
     Evidence-labeled summary of the October 1 Simple Mining forum, including the current preliminary facility concept, utility representations, verbal willingness to accept enforceable conditions, and unresolved documentation needs.
 
+29. [`29_SIMPLE_MINING_SITE_PARCEL_AND_ZONING.md`](29_SIMPLE_MINING_SITE_PARCEL_AND_ZONING.md)  
+    Dubuque County and City ArcGIS verification of the current Simple Mining parcel, 15.22-acre site area, ownership/acquisition, assessment record, M-2 Heavy Industrial designation, and the older parcel-PIN reference retained in the zoning layer.
+
 ## Preserved forum source material
 
 - [`source-materials/2026-10-01_simple-mining-community-forum_youtube-auto-captions.en.vtt`](source-materials/2026-10-01_simple-mining-community-forum_youtube-auto-captions.en.vtt) — raw WebVTT caption file from the October 1 forum. **The transcript was created by YouTube using its automated closed-captioning system** and is not a human-verified/certified verbatim transcript. The raw file is preserved unchanged; interpret proper nouns, numbers, and fragmented audience questions cautiously.
