@@ -2,7 +2,7 @@
 
 > This file distinguishes health guidance, acoustic engineering principles, and enforceable Iowa comparator standards. None of the external standards cited here automatically applies to the Cascade proposal unless adopted or incorporated into an approval.
 >
-> Last reviewed: 2026-09-10
+> Last reviewed: 2026-10-06
 
 ## Why data-center noise requires more than one dB number
 
@@ -62,6 +62,16 @@ The World Health Organization's environmental and night-noise publications provi
 
 Consumer-device or household sound levels can help readers understand the decibel scale, but such comparisons should not be used as substitutes for a facility acoustic study. For example, ResMed publishes approximately 27 dBA sound-pressure level for an AirSense 11 configuration under its specified test standard. A single appliance measured near the device is acoustically different from multiple outdoor industrial sources operating continuously.
 
+## October 1 Cascade forum update
+
+Simple Mining's October 1 presentation added preliminary project-specific noise representations. The presenter discussed roughly **50 dB** in describing hydro-cooling noise/property-line conditions and repeatedly said the company wanted a clear, enforceable property-line limit. During Q&A, the company acknowledged that hotter-weather cooling can be louder and stated that **50 dB was not a guaranteed constant level 24/7**. A limit around **65 dB at the property line** was discussed as an example the company believed it could meet.
+
+The company also said backup generators would be enclosed and subject to the same overall compliance framework. However, no final acoustic model, low-frequency/tonal analysis, hot-day full-load model, generator-test model, or independent acceptance study was presented. When specifically asked about propagation modeling, the response indicated such modeling could be performed rather than demonstrating that it already existed.
+
+Accordingly, the forum changes the evidence status from “no project-specific representation” to **company representation/preliminary**, not to independently verified acoustic performance.
+
+See [`28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md).
+
 ## Recommended project-specific evidence
 
 Before final approval, a robust Cascade record could include:
@@ -80,7 +90,7 @@ Potential mitigation includes source selection, fan-speed controls, equipment or
 
 ## Open Cascade evidence gap
 
-No project-specific final acoustic study or full-buildout property-line/residential prediction was located in the public sources reviewed for this dataset. Claims that the facility will either be harmlessly quiet or unacceptably loud should therefore be treated as unproven until the design is modeled and measured.
+No project-specific **final** acoustic study or full-buildout property-line/residential prediction has been located. The October 1 forum supplied company noise estimates and willingness to accept an enforceable limit, but those statements should not be treated as a substitute for modeling and measurement.
 
 ## Sources
 
