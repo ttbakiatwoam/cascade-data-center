@@ -4,6 +4,10 @@ Research, source material, community questions, and policy analysis related to p
 
 The working position of this independent community project is **pro-data-center development with appropriate community protections, transparency, and accountability**. Read the [research scope and project stance](docs/research-scope.md) for the full purpose, areas of focus, and policy principles.
 
+## Committee website
+
+A committee-friendly website is maintained from `docs/` and published through GitHub Pages. The expected public URL is **https://ttbakiatwoam.github.io/cascade-data-center/** once Pages is enabled for GitHub Actions in repository settings. The next proposed Data Center Advisory Committee meeting date is **October 19, 2026**.
+
 ## Start here
 
 | To find… | Start with… |
@@ -12,6 +16,7 @@ The working position of this independent community project is **pro-data-center 
 | Site ownership, parcel, and zoning evidence | [Site parcel and zoning](dataset/project/29_SIMPLE_MINING_SITE_PARCEL_AND_ZONING.md) |
 | What is documented, preliminary, or still unknown | [Open questions and evidence gaps](dataset/project/21_OPEN_QUESTIONS_AND_EVIDENCE_GAPS.md) |
 | October 1 forum statements and caveats | [Forum record](dataset/updates/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md) |
+| Advisory Committee recommendation package | [October 19 working package](proposals/CASCADE-ADVISORY-COMMITTEE-RECOMMENDATIONS-2026-10-19.md) — **draft for discussion** |
 | The proposed M-2 performance standards | [Draft amendment](proposals/DRAFT-ORDINANCE-M2-DATA-CENTER-PERFORMANCE-STANDARDS-2026-10-06.md) — **not adopted law** |
 | The cover email to the Mayor and City Council | [Prepared email text](#email-to-the-mayor-and-city-council) — October 6, 2026 |
 | Every research note and the evidence rules | [Research index](dataset/00_INDEX.md) |
