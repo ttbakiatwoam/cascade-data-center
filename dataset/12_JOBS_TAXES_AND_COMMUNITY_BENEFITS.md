@@ -41,6 +41,14 @@ Data-center operations are increasingly automated in software and, at some hyper
 
 A separate Iowa news example previously reviewed involved nearly 200 state IT layoffs connected with a cloud/outsourcing transition. It is relevant only as general workforce-transition context; it is not evidence that a Cascade data center would create or eliminate that number of jobs.
 
+## October 1 investment and workforce representations
+
+Simple Mining estimated approximately **$400 million** in total project investment and said it intended to use local contractors and Iowa suppliers where practical. It also stated an intent to recruit locally and work with regional education/workforce partners, including NICC.
+
+During the tax/incentive discussion, the company said it expected to use Iowa's existing data-center sales/use-tax incentives and represented that it was **not seeking additional local or federal incentives at that time**. The presenter discussed a potentially material property-tax base but did not provide a verified assessed value or annual City/county/school tax-revenue estimate.
+
+The forum statements should be treated as company projections/positions until supported by an application, assessor analysis, development agreement, incentive filing, or other primary records. See [`28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md).
+
 ## Property tax
 
 The economic question for Cascade is not simply the developer's capital expenditure. The relevant public-fiscal data include:
@@ -81,6 +89,7 @@ The model included illustrative payment formulas tied to energized MW, square fo
 
 ## Sources
 
+- October 1 forum summary and transcript provenance: [`28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md)
 - West Des Moines Chamber — Microsoft Data Centers: https://wdmchamber.org/economic-development/microsoft-data-centers/
 - Norwalk Project West — development/infrastructure agreement context: https://norwalkiaswdevelopment.com/datacenter
 - Linn County — Data Centers in Unincorporated Linn County / Economic Development Agreement and community fund: https://www.linncountyiowa.gov/1862/Data-Centers-in-Unincorporated-Linn-Coun
