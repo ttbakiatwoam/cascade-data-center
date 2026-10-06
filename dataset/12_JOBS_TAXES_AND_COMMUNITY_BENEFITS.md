@@ -2,7 +2,7 @@
 
 > Economic claims should be separated into construction employment, permanent operations employment, taxable value, public incentives, utility/infrastructure investment, and contractual community benefits. None should be inferred from another data center without project-specific documentation.
 >
-> Last reviewed: 2026-09-10
+> Last reviewed: 2026-10-06
 
 ## Construction jobs vs. permanent jobs
 
@@ -19,7 +19,15 @@ Useful project-specific measures include:
 - apprenticeships, internships, and training commitments;
 - changes in staffing at later phases or after automation.
 
-The public materials reviewed for this dataset do not establish a final permanent FTE figure for the Cascade project.
+At the October 1, 2026 forum, Simple Mining projected approximately **20–25 permanent positions** supporting a 24/7/365 operation. The company discussed operations/site management, maintenance, electrical, mechanical, security, and IT-related roles. It projected an average salary of roughly **$75,000–$80,000**, with benefits, while explaining that entry-level positions would be below the average and some skilled roles could exceed $100,000. These are company projections, not a binding staffing agreement.
+
+## October 1 investment and tax representations
+
+Simple Mining projected approximately **$400 million** of total capital investment and said it intended to use local contractors and Iowa suppliers where practical. Capital investment is **not the same thing as assessed or taxable value**.
+
+The company said it expected to use existing Iowa data-center sales/use-tax incentives and stated that it was not then seeking additional local or federal incentives. It did not provide a verified assessed value or annual City/county/school property-tax forecast. Those figures still require assessor/fiscal analysis and review of any final incentive or development agreement.
+
+See [`28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md).
 
 ## Workforce development
 
@@ -45,7 +53,7 @@ The economic question for Cascade is not simply the developer's capital expendit
 - TIF or other incentive effects;
 - public-service and infrastructure costs.
 
-No verified project-specific final taxable value or annual property-tax estimate was located in the reviewed public materials.
+No verified project-specific final assessed/taxable value or annual property-tax estimate has been located. The October 1 forum's roughly $400 million capital-investment projection should not be converted directly into taxable value.
 
 ## West Des Moines comparator
 
