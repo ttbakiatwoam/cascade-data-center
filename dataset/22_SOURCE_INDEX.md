@@ -2,7 +2,7 @@
 
 > This index consolidates public URLs cited, quoted, or used as research references in the Cascade Data Center project. It intentionally excludes Facebook posts/comments, private messages, private correspondence, screenshots containing personal information, law-enforcement correspondence, individual contact details, and other personally identifying material.
 >
-> Last reviewed: 2026-09-18
+> Last reviewed: 2026-10-06
 
 ## Source classification
 
@@ -614,6 +614,7 @@ These are part of the research dataset but are **not independent sources or adop
 - [`25_ARTIFICIAL_INTELLIGENCE_DEVELOPMENT_AND_MODERN_USE_TIMELINE.md`](25_ARTIFICIAL_INTELLIGENCE_DEVELOPMENT_AND_MODERN_USE_TIMELINE.md) — sourced AI chronology and modern-use analysis.
 - [`26_CRYPTOCURRENCY_BENEFITS_RISKS_AND_ECONOMIC_IMPACT.md`](26_CRYPTOCURRENCY_BENEFITS_RISKS_AND_ECONOMIC_IMPACT.md) — sourced cryptocurrency benefits/risks analysis.
 - [`27_WEEKLY_PUBLIC_RECORD_UPDATE_2026-09-11_TO_2026-09-18.md`](27_WEEKLY_PUBLIC_RECORD_UPDATE_2026-09-11_TO_2026-09-18.md) — weekly public-record/governance update.
+- [`28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md) — transcript-derived October 1 forum record; source captions were generated automatically by YouTube.
 
 ---
 
@@ -863,6 +864,17 @@ The DNR's current facility databases can be used for future source recovery, but
 
 ---
 
+# 20. October 1, 2026 Simple Mining Community Forum
+
+- **Raw October 1 forum WebVTT transcript** — Primary event source / automated caption record  
+  [`source-materials/2026-10-01_simple-mining-community-forum_youtube-auto-captions.en.vtt`](source-materials/2026-10-01_simple-mining-community-forum_youtube-auto-captions.en.vtt)  
+  **Provenance note:** this transcript was created by **YouTube using its automated closed-captioning system**. It is preserved unchanged, but it has not been human-verified or certified as a verbatim transcript. Proper nouns, technical terms, numbers, and fragmented audience questions may contain automated-recognition errors. Original raw-file SHA-256: `2186d4ce43ab6a141c0a9fa015f43af7203c7c050255ce62317b1e23db89e079`.
+
+- **October 1 forum evidence summary** — Project-generated analysis derived from the raw automated captions  
+  [`28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md)  
+  Separates company/utility representations, preliminary estimates, verbal willingness to accept conditions, and issues still requiring plans, agreements, permits, or independent verification.
+
+---
 ## Source-index maintenance rule
 
 When adding a new document:
