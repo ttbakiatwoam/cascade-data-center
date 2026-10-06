@@ -2,7 +2,7 @@
 
 > Public-source research dataset concerning the proposed data-center / Simple Mining project in Cascade, Iowa.
 >
-> Dataset assembled through: 2026-09-18
+> Dataset assembled through: 2026-10-06
 
 ## Purpose
 
@@ -136,6 +136,13 @@ Calculations, policy proposals, question banks, and model ordinance language cre
 
 27. [`27_WEEKLY_PUBLIC_RECORD_UPDATE_2026-09-11_TO_2026-09-18.md`](27_WEEKLY_PUBLIC_RECORD_UPDATE_2026-09-11_TO_2026-09-18.md)  
     Weekly public-record update covering proposed Resolution 92-26, the Resolution 57-26 duration discrepancy, Iowa conflict-of-interest statutes, and Chapter 21/22 governance issues.
+
+28. [`28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md)  
+    Evidence-labeled summary of the October 1 Simple Mining forum, including the current preliminary facility concept, utility representations, verbal willingness to accept enforceable conditions, and unresolved documentation needs.
+
+## Preserved forum source material
+
+- [`source-materials/2026-10-01_simple-mining-community-forum_youtube-auto-captions.en.vtt`](source-materials/2026-10-01_simple-mining-community-forum_youtube-auto-captions.en.vtt) — raw WebVTT caption file from the October 1 forum. **The transcript was created by YouTube using its automated closed-captioning system** and is not a human-verified/certified verbatim transcript. The raw file is preserved unchanged; interpret proper nouns, numbers, and fragmented audience questions cautiously.
 
 ## Root data files
 
