@@ -102,7 +102,7 @@ Questions seek ongoing reporting, independent compliance testing, complaint proc
 
 ## Evidence standard for answers
 
-For dataset purposes, answers should later be classified as one of:
+The October 1 forum now supplies preliminary answers to many of the 76 questions. For dataset purposes, those answers are classified as one of:
 
 1. **Documented commitment** — written plan, permit application, engineering study, agreement, or formal company submission.
 2. **Company representation** — verbal/written company statement without independent verification.
@@ -123,3 +123,8 @@ This classification will make it possible to compare what was promised at the fo
 ## Public source
 
 - Simple Mining community-forum question form: https://docs.google.com/forms/d/e/1FAIpQLSez9hfMvtFT9ME96bN0J2wK14d57DDhZLc4ksjsuHIOtmiI4A/viewform?pli=1
+
+
+## October 1 follow-up principle
+
+Where the forum supplied a number or commitment, the evidence tracker now records it as **represented**, **preliminary**, or **projected** unless a written plan, utility agreement, permit, assessor analysis, or other independent record supports it. Questions about final engineering, acoustic modeling, water-use totals, generator testing, assessed value, tenant identity, and enforceable development terms remain open.
