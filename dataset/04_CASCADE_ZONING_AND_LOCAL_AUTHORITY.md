@@ -2,7 +2,7 @@
 
 > This is policy/legal research, not legal advice. Exact enforceability should be reviewed by the City Attorney against the current official ordinance text and Iowa law.
 >
-> Last reviewed: 2026-09-10
+> Last reviewed: 2026-10-06
 
 ## Cascade zoning record
 
@@ -11,6 +11,16 @@ Cascade's current online Code of Ordinances does not reproduce the full 1992 zon
 That means a reliable determination of whether a particular data-center design is permitted, conditionally permitted, or requires a zoning change should be made from the underlying zoning ordinance and amendments, not from an assumption based solely on the abbreviated online index.
 
 The searchable Chapter 11 index reviewed for this project did not itself contain a definition of “data center.”
+
+## Site-specific zoning record — October 6, 2026
+
+The City of Cascade ArcGIS zoning map identifies the Simple Mining site area as **Heavy Industrial, M-2**. The selected zoning feature displays **PIN 1932127004** and reports a July 19, 2022 last-edit date.
+
+Dubuque County's current parcel record identifies the property instead as **PIN 1932176027, 113 Industrial St SE, Lot 2 Cascade Industrial Park 14th Addition**, containing **15.22 acres** and owned by **Simple Mining LLC**. The most supportable working interpretation is that the zoning layer retains an older/predecessor PIN while the county record reflects the later/current parcel configuration.
+
+This mismatch does **not** by itself establish a zoning change. For this research dataset, the City ArcGIS map supports the **M-2 Heavy Industrial** district designation, while Dubuque County controls the current parcel identity, acreage, ownership, sale, and assessment facts. Whether a final data-center application is permitted, conditional, or requires another approval remains a separate legal question under the controlling ordinance text.
+
+See [`29_SIMPLE_MINING_SITE_PARCEL_AND_ZONING.md`](29_SIMPLE_MINING_SITE_PARCEL_AND_ZONING.md).
 
 ## Building-permit authority
 
