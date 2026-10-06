@@ -32,15 +32,16 @@
 
 | Question | Current status | Evidence needed |
 |---|---|---|
-| What exactly will be built? | Represented / preliminary | October 1 forum described one permanent traditional data-center building of about 60,000 sq. ft. on about 15.2 gross acres; final site plan, narrative, and equipment schedule still required |
+| What exactly will be built? | Represented / preliminary | October 1 forum described one permanent traditional data-center building of about 60,000 sq. ft.; the county independently confirms the underlying site is 15.22 acres, while the final developed footprint/site plan remains pending |
 | Initial building/container count and square footage | Represented / preliminary | One approximately 60,000-sq.-ft. building was presented; final application/site plan required |
 | Maximum buildout | Represented / preliminary | Company said it has no current Cascade expansion plan and expressed willingness to accept limits; enforceable maximum/phase plan still required |
 | Construction phases and dates | Represented / preliminary | Company estimated about 12–18 months from authorization/ability to proceed to operation; final development schedule required |
-| Legal project owner | Unknown | Application, deed/entity documentation |
+| Current site/parcel owner | **Documented** | Dubuque County identifies Simple Mining LLC as deed holder of PIN 1932176027, 15.22 acres, Lot 2 Cascade Industrial Park 14th Addition |
+| Final applicant/developer legal entity | Unknown | Final application/entity documentation; site ownership alone does not establish every project-contracting entity |
 | Operating entity | Unknown | Application/development agreement |
 | Cryptocurrency-only or other future workloads | Represented / preliminary | Company described a conventional data center capable of AI-related computing, said no tenant/customer was committed, and did not limit the site to cryptocurrency; final applicant narrative and enforceable use/impact conditions needed |
 
-Early March trade reporting described approximately four acres and around 40 containerized cryptocurrency-mining units. The October 1 forum presented a materially different permanent-building concept. Neither early reporting nor the forum presentation should be treated as the final approved design.
+Early March trade reporting described approximately four acres and around 40 containerized cryptocurrency-mining units. The October 1 forum presented a materially different permanent-building concept. Dubuque County now confirms that the underlying property itself is **15.22 acres**, so the earlier four-acre figure should not be treated as the parcel size. Neither early reporting nor the forum presentation should be treated as the final approved design. See [`29_SIMPLE_MINING_SITE_PARCEL_AND_ZONING.md`](29_SIMPLE_MINING_SITE_PARCEL_AND_ZONING.md).
 
 ## Electricity
 
@@ -119,8 +120,8 @@ Do not infer Cascade employment from a hyperscale cloud/AI project or from indus
 
 | Question | Current status | Evidence needed |
 |---|---|---|
-| Initial assessed/taxable value | Unknown | Assessor/fiscal analysis |
-| Full-buildout taxable value | Unknown; company projected about $400 million total capital investment, which is not the same as taxable value | Fiscal analysis |
+| Current pre-development parcel assessment | **Documented** | 2026 county record: $236,800 assessed land, $0 building, $236,800 gross assessed value; this is not a completed-project valuation |
+| Completed-project assessed/taxable value | Unknown; company projected about $400 million total capital investment, which is not the same as taxable value | Assessor/fiscal analysis after final project/incentive treatment |
 | Annual City/county/school tax revenue | Unknown | Assessed-value and levy analysis |
 | Requested abatements/TIF/incentives | Represented | Company said at the forum it expected only existing Iowa data-center sales/use-tax incentives and was not then seeking additional local or federal incentives; final applications/agreement needed |
 | Utility incentives or special rate | Unknown | Public utility agreement/tariff where disclosable |
@@ -147,7 +148,8 @@ West Des Moines and other projects show what is possible under different agreeme
 
 | Question | Current status | Evidence needed |
 |---|---|---|
-| Exact current land-use approval path | Needs legal review | Current saved zoning ordinance/amendments + application |
+| Site zoning district | **Documented in City ArcGIS as M-2 Heavy Industrial** | City GIS feature carries older PIN 1932127004; county current PIN is 1932176027. See parcel/zoning evidence note for reconciliation. |
+| Exact current land-use approval path | Needs legal review | Current saved zoning ordinance/amendments + application; M-2 designation alone does not answer whether a data center is permitted/conditional under the controlling text |
 | Enforceability of workload/tenant restrictions | Needs legal review | City Attorney analysis |
 | Physical-impact standards City may impose | Needs legal review | Ordinance drafting/legal review |
 | Development-agreement authority and terms | Needs legal review | Iowa/local law + negotiated agreement |
