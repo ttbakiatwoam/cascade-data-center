@@ -2,11 +2,11 @@
 
 > Dataset scope: public-record and research summary for the proposed data-center project in Cascade, Iowa. Social-media conversations, private correspondence, personal disputes, and personally identifying information are intentionally excluded.
 >
-> Last reviewed: 2026-09-18
+> Last reviewed: 2026-10-06
 
 ## Working description
 
-Simple Mining has been publicly associated with a proposed computing facility in the Cascade Industrial Park. The company's existing public business is Bitcoin-mining equipment sales, hosting, repair, and operations. The precise final scope, maximum electrical load, final cooling design, permanent employment, tax value, and future workload flexibility of the Cascade proposal remain questions for the applicant and the City.
+Simple Mining has been publicly associated with a proposed computing facility in the Cascade Industrial Park. The company's existing public business is Bitcoin-mining equipment sales, hosting, repair, and operations. The October 1, 2026 community forum materially narrowed the current concept: Simple Mining represented a roughly 15.2-acre site, one approximately 60,000-square-foot permanent data-center building, about 40 MW of electrical demand, 20–25 permanent positions, closed-loop liquid cooling with dry/air-cooled heat rejection, and roughly $400 million of capital investment. These remain preliminary company/utility representations pending final plans, agreements, permits, and independent review.
 
 The project dataset therefore separates:
 
@@ -37,6 +37,14 @@ Council minutes record approval of Resolution 79-26 appointing members to the Da
 
 A public invitation announced a Simple Mining community forum for October 1, 2026, with questions accepted in advance through a Google Form. The repository's `questions.csv` was assembled to seek project-specific answers rather than infer Cascade impacts from unrelated facilities.
 
+### October 1, 2026 — Simple Mining community forum
+
+Simple Mining presented a materially revised project concept compared with the March containerized Bitcoin-mining proposal. The company described a permanent conventional data-center building of about 60,000 square feet on approximately 15.2 gross acres, with a projected electrical load of about 40 MW, roughly 20–25 permanent jobs, closed-loop liquid cooling with an air-cooled condenser/dry heat-rejection approach, and approximately $400 million in capital investment.
+
+The Maquoketa Valley Electric Cooperative representative said no Cascade service contract had yet been executed, described a capacity study finding adequate transmission capacity for the approximately 40 MW concept while reserving capacity for native growth, and said Simple Mining would be expected to pay project-driven transmission, substation, and distribution upgrades upfront. The company also estimated approximately 15 diesel backup generators, projected a 12–18 month construction/commissioning period after authorization to proceed, and said no tenant/customer had yet been committed.
+
+These are forum representations, not final approved specifications. The full transcript-derived record is in [`28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md). The raw captions were generated automatically by YouTube and are preserved in [`source-materials/`](source-materials/).
+
 ### September 14, 2026 — committee clarification placed on Council agenda
 
 The City Council agenda packet included proposed Resolution 92-26 to clarify Data Center Advisory Committee membership, voting authority, quorum, procedure, public attendance, and the committee's advisory-only role. The draft proposed eight voting members, a five-member quorum, non-voting technical/advisory participants, and referral of proposed ordinance language to Planning & Zoning and the City Council.
@@ -51,18 +59,22 @@ As of the September 18 review, the City's 2026 records page did not yet list Sep
 - Early public reporting described a containerized cryptocurrency-mining design.
 - The City adopted a temporary data-center construction moratorium on June 22, 2026.
 - The City later created a Data Center Advisory Committee to work on ordinance language.
-- Closed-loop cooling has been represented in public discussion, but the final engineering design should be verified from applicant plans.
+- The October 1 forum presented a current concept of about 15.2 gross acres, one approximately 60,000-square-foot permanent building, and roughly 40 MW of demand.
+- Closed-loop liquid cooling with dry/air-cooled heat rejection has been represented, but the final engineering design should be verified from applicant plans.
+- Approximately 20–25 permanent jobs and roughly $400 million of capital investment were projected by the company.
+- No tenant/customer was identified as committed at the October 1 forum.
+- The utility representative stated that no Cascade service contract had yet been executed.
 
 ### Still requiring project-specific documentation
 
 - final site plan and phase plan;
-- initial and maximum MW demand;
-- exact cooling and heat-rejection architecture;
+- final utility-confirmed initial and maximum MW demand and executed service/interconnection terms;
+- final cooling and heat-rejection architecture;
 - average, peak, and annual water use;
 - modeled and measured property-line/residential noise;
-- generator and UPS/BESS design;
-- permanent full-time employment and wages;
-- assessed/taxable value and requested incentives;
+- final generator and UPS/BESS design, including testing schedule;
+- binding permanent-employment/wage commitments, if any;
+- assessed/taxable value and final incentive treatment;
 - road, utility, water, sewer, drainage, and emergency-service impacts;
 - ownership/operator entities and enforceable development commitments;
 - decommissioning and financial assurance.
@@ -77,3 +89,5 @@ As of the September 18 review, the City's 2026 records page did not yet list Sep
 - Simple Mining hosting: https://www.simplemining.io/hosting
 - Simple Mining documentation: https://docs.simplemining.io/
 - Public forum question form: https://docs.google.com/forms/d/e/1FAIpQLSez9hfMvtFT9ME96bN0J2wK14d57DDhZLc4ksjsuHIOtmiI4A/viewform?pli=1
+
+- October 1, 2026 forum record: [`28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md)
