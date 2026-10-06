@@ -1,0 +1,55 @@
+name: Build committee proposal documents
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - 'proposals/CASCADE-ADVISORY-COMMITTEE-RECOMMENDATIONS-2026-10-19.md'
+      - 'scripts/style_committee_proposal.py'
+      - '.github/workflows/build-committee-proposal-documents.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+
+      - name: Install document tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc libreoffice-writer fonts-liberation
+          python3 -m pip install python-docx
+
+      - name: Build Word document
+        run: |
+          pandoc proposals/CASCADE-ADVISORY-COMMITTEE-RECOMMENDATIONS-2026-10-19.md \
+            --from=gfm --to=docx --toc --toc-depth=2 \
+            --metadata title='Cascade Data Center / Major Industrial Facility Zoning Recommendations' \
+            --metadata subtitle='Draft for Advisory Committee and Planning & Zoning Review - Proposed October 19, 2026 Meeting' \
+            -o proposals/CASCADE-ADVISORY-COMMITTEE-RECOMMENDATIONS-2026-10-19.docx
+          python3 scripts/style_committee_proposal.py proposals/CASCADE-ADVISORY-COMMITTEE-RECOMMENDATIONS-2026-10-19.docx
+
+      - name: Build PDF
+        run: |
+          mkdir -p /tmp/cascade-proposal
+          libreoffice --headless --convert-to pdf --outdir /tmp/cascade-proposal \
+            proposals/CASCADE-ADVISORY-COMMITTEE-RECOMMENDATIONS-2026-10-19.docx
+          cp /tmp/cascade-proposal/CASCADE-ADVISORY-COMMITTEE-RECOMMENDATIONS-2026-10-19.pdf proposals/
+
+      - name: Commit generated documents
+        run: |
+          git add proposals/CASCADE-ADVISORY-COMMITTEE-RECOMMENDATIONS-2026-10-19.docx \
+                  proposals/CASCADE-ADVISORY-COMMITTEE-RECOMMENDATIONS-2026-10-19.pdf
+          if git diff --cached --quiet; then
+            echo 'Generated documents are already current.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Build committee recommendation DOCX and PDF [skip ci]'
+          git push
