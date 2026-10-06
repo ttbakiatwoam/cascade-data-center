@@ -236,6 +236,20 @@
 - **Jones County Data Center Ordinance 2025-02 — copy hosted by Linn County** — Primary / official-document comparator  
   https://www.linncountyiowa.gov/DocumentCenter/View/27656/Jones-County-Data-Center-Ordinance
 
+## Jackson County
+
+- **Jackson County zoning ordinances page — HDCF Working Drafts (For Discussion Purposes)** — Primary / official draft-policy comparator  
+  https://jacksoncounty.iowa.gov/zoning/ordinances/
+
+- **Jackson County High-Density Computing Facilities Ordinance working draft — August 17, 2026** — Primary / official **draft; not adopted law**  
+  https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:f128cbc6-76ca-421a-a011-d151c23259a3
+
+- **Jackson County Zoning Commission agenda — August 17, 2026** — Primary / official; continued review/discussion of draft and states no public hearing or final recommendation was scheduled  
+  https://jacksoncounty.iowa.gov/files/meetings/2026-08-17_agenda_5971.pdf
+
+- **Earlier Jackson County HDCF draft (June 15, 2026) — mirror hosted by Dubuque County** — Primary-document comparator / historical draft; **not the current August 17 version**  
+  https://dubuquecountyiowa.gov/DocumentCenter/View/8372/DCAD-Jackson-Co-Draft-Data-Center-Ordinace
+
 ## Palo
 
 - **City of Palo Ordinance 93-2026 — EU-1 Data Center Exclusive Use District** — Primary / official comparator  
