@@ -1,8 +1,8 @@
 # Advisory Committee and Iowa Open-Meetings Research
 
-> This file summarizes public-governance research relevant to a City-created data-center advisory body. It omits committee-member names and all private correspondence.
+> This file summarizes public-governance research relevant to a City-created data-center advisory body. It uses names only where they are explicitly listed in public City records and continues to omit private correspondence.
 >
-> Last reviewed: 2026-09-18
+> Last reviewed: 2026-10-06
 
 ## Cascade action
 
@@ -10,15 +10,48 @@ On July 27, 2026, Cascade City Council minutes record approval of Resolution 70-
 
 Because the committee was formally created by a public governing body to perform public-policy work, Iowa Open Meetings Law is a central procedural reference.
 
-## September 14 proposed clarification
+## Resolution 92-26 clarification and revised proposed membership
 
-The September 14 City Council packet included proposed Resolution 92-26 to clarify committee structure and procedure. The draft proposed eight voting members—two City Council representatives, two Cascade Economic Development Corporation representatives, two Planning & Zoning Commission representatives, and two citizen representatives—with non-voting technical/advisory participants excluded from quorum. It proposed a quorum of five voting members.
+The September 14 City Council packet included proposed Resolution 92-26 to clarify committee structure and procedure. The subsequently posted September 14 minutes record that Council **tabled** Resolution 92-26.
 
-The draft describes the committee as advisory only and says it may research and recommend policy concerning zoning, land use, water/wastewater, electricity, cooling, noise, environmental issues, fire protection, construction, economic impacts, public safety, community safeguards, and ordinance language. It expressly withholds authority to approve/deny projects, spend City funds, execute agreements, or grant permits.
+The September 28 Council agenda packet then published a revised City Administrator memo and revised proposed Resolution 92-26. The September 24 memo changed the proposed voting structure to **two City Council representatives, two Planning & Zoning Commission representatives, and four citizen representatives**. The memo states that the two CEDC members were removed after discussion with the City Attorney and the NDA that had been signed.
+
+### Proposed voting members in the September 28 packet
+
+| Name | Proposed representation |
+|---|---|
+| Mark Weber | City Council |
+| Mike Delaney | City Council |
+| Dave Mehrl | Planning & Zoning Commission |
+| Gayle Walter | Planning & Zoning Commission |
+| Andrew Saunders | Citizen Representative |
+| Doug Frey | Citizen Representative |
+| Michael Rogers | Cascade Concerned Citizen Group |
+| Rob McNally | Citizen Representative / Experience |
+
+The revised draft proposes a quorum of **five** of the eight voting members.
+
+### Proposed non-voting advisors in the September 28 packet
+
+| Name | Proposed advisory role |
+|---|---|
+| Nic Kremer | Cascade Fire Department |
+| Bert Krai | Cascade Fire Department |
+| Kim Lynch | Cascade Ambulance Service |
+| Chris Felton | Cascade Ambulance Service |
+| Shontele Orr | Cascade Municipal Utilities |
+| Alice Dobler | Cascade Concerned Citizen Group |
+| Bill Kramer | HVAC / Cooling knowledge |
+| Ben McDermott | Citizen Representative / Experience |
+| Christie Remley | Maquoketa Valley REC |
+
+The revised draft states that non-voting advisors may provide reports, technical information, answer questions, and submit recommendations, but do not vote or count toward quorum.
+
+The draft continues to describe the committee as advisory only and says it may research and recommend policy concerning zoning, land use, water/wastewater, electricity, cooling, noise, environmental issues, fire protection, construction, economic impacts, public safety, community safeguards, and ordinance language. It expressly withholds authority to approve/deny projects, spend City funds, execute agreements, or grant permits.
 
 The draft also provides for Chapter 21 compliance, posted agendas, official minutes, public attendance, and reasonable conduct rules, while stating that committee agendas would not contain a standing public-comment area.
 
-**Status:** as of September 18, the City's records index had not posted September 14 meeting minutes. This dataset therefore treats the resolution as proposed packet language rather than confirmed adopted text.
+**Status as of October 6:** the City's public Council-records page shows the September 28 agenda packet but the latest posted Council minutes are still September 14. Accordingly, this repository treats the revised September 28 roster and Resolution 92-26 as **proposed packet language pending confirmation of final Council action**.
 
 ## Conflict-of-interest statutes: scope matters
 
@@ -94,6 +127,8 @@ The objective is a committee whose process is legally defensible, transparent, w
 - Iowa Acts 2024, Chapter 1004 — §48 repealing §69.16A: https://www.legis.iowa.gov/docs/acts/2024/CH1004.pdf
 - Iowa Code 2026 §69.16A reference: https://www.legis.iowa.gov/docs/code/2026/69.16A.pdf
 - City of Cascade — September 14, 2026 City Council Agenda and Packet: https://www.cityofcascade.org/vimages/shared/vnews/stories/6959ce08641c7/City%20Council%20Agenda%20and%20Packet%20September%2014%202026.pdf
+- City of Cascade — September 14, 2026 City Council Minutes: https://www.cityofcascade.org/vimages/shared/vnews/stories/6959ce08641c7/September%2014th.pdf
+- City of Cascade — September 28, 2026 City Council Agenda and Packet: https://www.cityofcascade.org/vimages/shared/vnews/stories/6959ce08641c7/September%2028%202026%20Agenda%20and%20Packet.pdf
 - Iowa Code §362.5 — Interest in public contract prohibited — exceptions: https://www.legis.iowa.gov/docs/code/2026/362.5.pdf
 - Iowa Code §362.6 — Conflict of interest: https://www.legis.iowa.gov/docs/code/2026/362.6.pdf
 - Iowa Code Chapter 22 — Public Records: https://www.legis.iowa.gov/docs/code/2026/22.pdf
