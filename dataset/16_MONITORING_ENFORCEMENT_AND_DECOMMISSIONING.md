@@ -2,7 +2,7 @@
 
 > Project protections are only meaningful if they are measurable, reported, independently verifiable where appropriate, and connected to enforcement mechanisms.
 >
-> Last reviewed: 2026-09-10
+> Last reviewed: 2026-10-06
 
 ## Monitoring principle
 
@@ -34,6 +34,21 @@ The project has considered public or City-accessible reporting of:
 - material expansions or cooling-system changes.
 
 Security-sensitive details should be handled consistently with Iowa public-record law and applicable exemptions rather than either disclosed indiscriminately or labeled confidential without analysis.
+
+## October 1 company willingness to accept enforceable conditions
+
+At the October 1 forum, Simple Mining repeatedly expressed willingness, in principle, to operate under clear enforceable conditions. Specific examples included:
+
+- a measurable property-line noise limit;
+- a water-use cap;
+- restrictions limiting future expansion of the Cascade project;
+- an emergency action plan;
+- screening/downcast-lighting and landscaping requirements;
+- decommissioning/cleanup financial assurance such as a surety bond.
+
+These statements are useful negotiating evidence but **are not yet binding commitments**. They become enforceable only if incorporated into adopted ordinance language, permit conditions, an executed development agreement, a bond/letter of credit, or another valid legal instrument.
+
+See [`28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md).
 
 ## Independent verification
 
