@@ -2,7 +2,7 @@
 
 > National data-center electricity forecasts describe the sector as a whole. They do not establish the load of the proposed Cascade facility.
 >
-> Last reviewed: 2026-09-10
+> Last reviewed: 2026-10-06
 
 ## National context
 
@@ -25,11 +25,26 @@ A data center's local electrical impact depends on:
 - who pays capital and ongoing costs;
 - backup generation and UPS/BESS configuration.
 
-The public materials reviewed for this dataset do not establish Cascade's final initial or maximum MW demand.
+At the October 1, 2026 forum, both Simple Mining and the Maquoketa Valley Electric Cooperative representative described the current Cascade concept as approximately **40 MW**. This is now a project-specific representation, but the final maximum demand should still be verified from the executed utility/interconnection documents.
 
 ## Simple Mining operating context
 
 Simple Mining advertises more than 150 MW under management across its Iowa hosting fleet. That provides company-scale context but should not be used to infer the proposed Cascade site's load. The company should provide the site's actual design demand by phase and at maximum buildout.
+
+## October 1 utility representations
+
+The Maquoketa Valley Electric Cooperative representative made several project-specific statements at the forum:
+
+- no Cascade service agreement had yet been executed/signed as of October 1;
+- the current project concept was about **40 MW**;
+- a capacity study performed with Central Iowa Power Cooperative was described as finding adequate transmission capacity for that load while reserving capacity for ordinary/native growth;
+- Simple Mining would be expected to pay **100% of project-driven transmission, substation, and distribution upgrades upfront**, subject to a later true-up;
+- a load of this size would be required to bring/add **new generation** rather than consume generation reserved for existing/native load;
+- if structured as described, the utility expected the project to have a neutral or positive impact on other cooperative members' rates.
+
+These are utility representations at the forum, not substitutes for the underlying study, tariff, generation arrangement, or executed service/interconnection agreement.
+
+See [`28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md).
 
 ## Ratepayer protection
 
@@ -56,7 +71,9 @@ Backup-power systems can create separate local impacts from normal grid consumpt
 - battery/UPS chemistry and capacity;
 - fire-response requirements.
 
-The community-question bank asks Simple Mining to identify the number, type, size, fuel, emissions, testing schedule, and noise associated with backup generators and to disclose whether large battery-energy-storage or UPS systems are planned.
+At the October 1 forum, Simple Mining estimated approximately **15 backup generators** and later identified **diesel** as the planned fuel. The company described them as outage/backup equipment rather than normal primary generation and said they would be enclosed and subject to state air permitting. The exact models, aggregate MW, fuel storage, runtime, emissions, and testing cadence remained unresolved; when asked for a testing frequency, the presenter deferred rather than giving a firm schedule.
+
+The community-question bank still seeks the final number, type, size, emissions, testing schedule, noise, and UPS/BESS configuration.
 
 ## Recommended Cascade evidence
 
