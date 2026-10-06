@@ -21,6 +21,11 @@ These Markdown files were created from the scanned zoning-code PDF and the OCR W
 - [`ORDINANCE-18-24.md`](ordinances/ORDINANCE-18-24.md)
 - [`ORDINANCE-19-24.md`](ordinances/ORDINANCE-19-24.md)
 
+
+## Project-generated draft amendments
+
+- [`DRAFT-ORDINANCE-M2-DATA-CENTER-PERFORMANCE-STANDARDS-2026-10-06.md`](ordinances/DRAFT-ORDINANCE-M2-DATA-CENTER-PERFORMANCE-STANDARDS-2026-10-06.md) - **Draft for discussion only; not adopted law.** Adds data centers/high-density computing as an M-2 use and proposes district-wide, impact-based M-2 performance standards derived from the October 1, 2026 forum record, nearby Iowa comparators, and industry standards.
+
 ## Source handling
 
 The four one-page ordinance/draft documents and the front matter were checked directly against the scanned PDF. The long Chapter 165 transcription uses the OCR Word document as the working text while preserving the PDF page boundaries in HTML comments. The scanned PDF remains the controlling visual reference for any legal or character-level verification.
