@@ -29,6 +29,13 @@ The current county parcel is PIN 1932176027, 113 Industrial St SE, 15.22 acres. 
 
 The repository tracks Linn County, Jones County, Jackson County, Palo, Allamakee County, Norwalk, and West Des Moines examples. Comparators are policy references; they do not automatically apply inside Cascade.
 
+## Proposed Advisory Committee membership
+
+The September 28 City Council agenda packet published a revised proposed Resolution 92-26 identifying eight voting members and nine non-voting advisors. The September 14 minutes had previously recorded Resolution 92-26 as tabled, so the roster is presented on this site as **proposed** pending confirmation in final minutes or an executed resolution.
+
+- [View proposed committee membership]({{ '/committee/' | relative_url }})
+- [September 28, 2026 City Council agenda and packet](https://www.cityofcascade.org/vimages/shared/vnews/stories/6959ce08641c7/September%2028%202026%20Agenda%20and%20Packet.pdf)
+
 ## Committee and development process
 
 - [Advisory committee and open-meetings research](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/dataset/policy/14_ADVISORY_COMMITTEE_AND_OPEN_MEETINGS.md)
