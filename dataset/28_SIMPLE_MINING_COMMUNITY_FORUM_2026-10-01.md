@@ -21,7 +21,7 @@ The company also repeatedly described the current design as preliminary. Detaile
 | Item | October 1 representation | Evidence status |
 |---|---|---|
 | Facility concept | Permanent data-center building rather than the earlier modular Bitcoin-mining concept | Company representation |
-| Site area | About **15.2 gross acres** | Company representation |
+| Site area | About **15.2 gross acres** | Company representation at forum; **later independently corroborated by Dubuque County at 15.22 acres** |
 | Building area | About **60,000 sq. ft.** | Company representation |
 | Electrical load | About **40 MW** | Company + utility representation |
 | Permanent employment | About **20–25 FTE** across all shifts | Company projection |
@@ -38,6 +38,8 @@ Approximate transcript locations: 00:05:04–00:15:11, 00:23:19–00:23:47, 01:1
 ## Site and building
 
 Simple Mining presented a conceptual site layout with the building near the center of the parcel, electrical/substation and cooling infrastructure, parking, screening/landscaping, and use of the industrial park's regional stormwater infrastructure.
+
+**Post-forum public-record verification:** Dubuque County identifies the site as **PIN 1932176027, 113 Industrial St SE, Lot 2 Cascade Industrial Park 14th Addition**, owned by **Simple Mining LLC** and containing **15.22 acres / 662,983 square feet**. County sales history records the September 19, 2025 purchase from the Cascade Economic Development Corporation for **$608,800**. The City ArcGIS zoning map identifies the site area as **M-2 Heavy Industrial**, although the selected zoning feature retains older PIN **1932127004**. See [`29_SIMPLE_MINING_SITE_PARCEL_AND_ZONING.md`](29_SIMPLE_MINING_SITE_PARCEL_AND_ZONING.md).
 
 The presentation described setbacks of roughly **216–291 feet** from property lines in portions of the concept plan. Later in the Q&A, the company said it was willing to evaluate shifting the building farther west if site engineering allowed it.
 
@@ -156,7 +158,7 @@ Approximate transcript locations: 00:24:17–00:26:18, 00:30:28–00:31:53, 00:4
 The forum resolved or narrowed several factual questions, but the following still require documents or independent review:
 
 1. final site plan, architectural drawings, and equipment schedule;
-2. final legal owner/operator/tenant structure;
+2. final applicant/operator/tenant structure (the underlying parcel owner is now independently documented as Simple Mining LLC);
 3. executed utility service/interconnection and cost-allocation agreements;
 4. utility load study and new-generation arrangement;
 5. final cooling drawings, coolant inventory/SDS, and measured water-use estimate;
@@ -164,7 +166,7 @@ The forum resolved or narrowed several factual questions, but the following stil
 7. generator models, aggregate capacity, fuel storage, emissions, runtime, and testing schedule;
 8. final stormwater/civil calculations;
 9. permanent staffing commitment, job classifications, and wage ranges;
-10. assessed/taxable value and annual tax-revenue analysis;
+10. completed-project assessed/taxable value and annual tax-revenue analysis (current pre-development parcel assessment is now documented);
 11. final incentive requests and tax treatment;
 12. fire-protection, UPS/BESS, hazardous-material, and emergency-response plans;
 13. decommissioning plan and financial-assurance amount/form;
