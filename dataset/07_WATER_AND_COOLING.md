@@ -2,7 +2,7 @@
 
 > Project-specific water use cannot be inferred from the generic phrase “data center.” Cooling architecture, heat-rejection method, climate, electrical load, server utilization, water source, and operating assumptions materially change water demand.
 >
-> Last reviewed: 2026-09-10
+> Last reviewed: 2026-10-06
 
 ## Core distinction: closed loop is not one single design
 
@@ -33,6 +33,16 @@ Therefore, the useful Cascade questions are not merely “Is it closed loop?” 
 Simple Mining's public water article states that its Iowa fleet uses closed-loop systems and claims very low water use, including a figure of approximately 300 gallons per year per 10 MW and no evaporative cooling in its systems. The company also discusses propylene-glycol coolant.
 
 Those are **company statements about its operations**, not an independent engineering determination for Cascade. A Cascade approval process should request sealed design documents, actual WUE/makeup-water estimates, peak-day demand, source-water information, metering, leak detection, and independent review.
+
+## October 1 Cascade forum update
+
+At the October 1, 2026 forum, Simple Mining described the Cascade concept as **closed-loop hydrocooling with an air-cooled condenser / dry heat-rejection system**. The company said municipal water would **not** be used for routine cooling and that the cooling-loop fluid would be brought to the site. Expected municipal use was described mainly as domestic building use (restrooms/sinks) plus possible limited humidification.
+
+The company also expressed willingness to accept an enforceable water-use cap. It discussed a glycol-based coolant and described the coolant used at its Manchester facility as biodegradable/corn-based, but no final Cascade product selection, SDS, coolant inventory, sealed mechanical drawing, or gallons/day/year estimate was provided.
+
+These are company representations. They materially narrow the proposed architecture but do not eliminate the need for final engineering and metering.
+
+See [`28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md).
 
 ## Industry evidence: water use varies dramatically
 
@@ -69,16 +79,16 @@ A defensible local standard should be based on measurable performance rather tha
 
 ## What remains unknown for Cascade
 
-Public sources reviewed for this dataset do not independently establish the proposed facility's:
+The October 1 forum represented a dry/air-cooled heat-rejection design and municipal water limited mainly to domestic uses, but the following still lack final documented values:
 
 - annual gallons/year;
 - maximum gallons/day;
 - peak hot-weather demand;
-- final dry vs. adiabatic heat-rejection design;
-- municipal-water demand;
-- wastewater/blowdown volume;
-- coolant inventory;
-- drought-response plan.
+- final sealed mechanical design;
+- exact municipal-water demand;
+- wastewater volume;
+- final coolant product and inventory;
+- drought-response plan and enforceable water cap.
 
 These are appropriately treated as open questions, not assumptions.
 
