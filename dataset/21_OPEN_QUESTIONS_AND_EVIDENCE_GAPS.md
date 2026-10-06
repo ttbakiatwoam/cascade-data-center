@@ -2,7 +2,7 @@
 
 > This file is a living evidence tracker. “Unknown” means the reviewed public record does not yet establish the answer; it does not imply that the information does not exist or that the applicant has refused to provide it.
 >
-> Last reviewed: 2026-09-18
+> Last reviewed: 2026-10-06
 
 ## Status vocabulary
 
@@ -32,63 +32,63 @@
 
 | Question | Current status | Evidence needed |
 |---|---|---|
-| What exactly will be built? | Preliminary | Final site plan, narrative, equipment schedule |
-| Initial building/container count and square footage | Preliminary | Application and site plan |
-| Maximum buildout | Unknown | Master plan / phase plan |
-| Construction phases and dates | Unknown | Development schedule |
+| What exactly will be built? | Represented / preliminary | October 1 forum described one permanent traditional data-center building of about 60,000 sq. ft. on about 15.2 gross acres; final site plan, narrative, and equipment schedule still required |
+| Initial building/container count and square footage | Represented / preliminary | One approximately 60,000-sq.-ft. building was presented; final application/site plan required |
+| Maximum buildout | Represented / preliminary | Company said it has no current Cascade expansion plan and expressed willingness to accept limits; enforceable maximum/phase plan still required |
+| Construction phases and dates | Represented / preliminary | Company estimated about 12–18 months from authorization/ability to proceed to operation; final development schedule required |
 | Legal project owner | Unknown | Application, deed/entity documentation |
 | Operating entity | Unknown | Application/development agreement |
-| Cryptocurrency-only or other future workloads | Unknown | Applicant narrative and enforceable use/impact conditions |
+| Cryptocurrency-only or other future workloads | Represented / preliminary | Company described a conventional data center capable of AI-related computing, said no tenant/customer was committed, and did not limit the site to cryptocurrency; final applicant narrative and enforceable use/impact conditions needed |
 
-Early trade reporting described approximately four acres and around 40 containerized cryptocurrency-mining units, but that should not be treated as the final approved design.
+Early March trade reporting described approximately four acres and around 40 containerized cryptocurrency-mining units. The October 1 forum presented a materially different permanent-building concept. Neither early reporting nor the forum presentation should be treated as the final approved design.
 
 ## Electricity
 
 | Question | Current status | Evidence needed |
 |---|---|---|
-| Initial average and peak MW | Unknown | Utility-confirmed load study |
-| Maximum full-buildout MW | Unknown | Utility/application documents |
-| Substation/feeder/transmission upgrades | Unknown | Utility engineering study |
+| Initial average and peak MW | Represented | About 40 MW was stated by both Simple Mining and the utility representative; underlying utility-confirmed load study needed |
+| Maximum full-buildout MW | Represented / preliminary | About 40 MW for the current concept; final utility/application documents needed |
+| Substation/feeder/transmission upgrades | Represented / preliminary | Utility representative said transmission capacity was adequate and project-driven upgrades would be identified through utility engineering |
 | Upgrade cost | Unknown | Utility/development agreement |
-| Who pays project-driven electrical infrastructure | Unknown | Written cost-allocation agreement |
+| Who pays project-driven electrical infrastructure | Represented | Utility representative said Simple Mining would pay 100% of transmission, substation, and distribution upgrades upfront, subject to true-up; written agreement needed |
 | Demand-response/curtailment participation | Unknown | Utility tariff/contract |
-| Backup generation capacity | Unknown | Generator plan / air permit |
+| Backup generation capacity | Partially represented | About 15 diesel backup generators were estimated; exact MW, models, fuel storage, and air permit remain needed |
 | UPS/BESS type and capacity | Unknown | Electrical/fire plans |
 
-Simple Mining's company-wide hosting fleet is not a substitute for the Cascade site's load.
+The October 1 forum also recorded the utility representative's statement that no Cascade service contract had yet been executed and that a load of this size would be required to add new generation. The underlying study, tariff, generation arrangement, and executed agreements remain necessary.
 
 ## Cooling and water
 
 | Question | Current status | Evidence needed |
 |---|---|---|
 | Closed-loop internal cooling | Represented | Sealed cooling drawings |
-| External heat-rejection method | Unknown | Mechanical design |
-| Evaporative/adiabatic water use | Unknown | Mechanical design / WUE calculation |
+| External heat-rejection method | Represented / preliminary | October 1 presentation described an air-cooled condenser / dry heat-rejection approach; final mechanical design needed |
+| Evaporative/adiabatic water use | Represented as none for routine cooling | Final mechanical design / WUE calculation |
 | Average gallons/day | Unknown | Engineering estimate |
 | Peak hot-day gallons/day | Unknown | Design-day estimate |
 | Annual gallons/year | Unknown | Water-use study |
-| Water source | Unknown | Utility/well documentation |
-| Potable municipal water requirement | Unknown | Utility agreement |
+| Water source | Partially represented | Company said cooling-loop fluid would be brought onsite and municipal water would be limited mainly to domestic uses and possible humidification; final utility/plumbing documentation needed |
+| Potable municipal water requirement | Represented as limited to building/domestic use | Utility agreement and engineering estimate |
 | Wastewater/blowdown | Unknown | Plumbing/process narrative |
-| Coolant/treatment chemicals | Unknown | SDS/inventory appropriate for public disclosure |
-| Drought response | Unknown | Water Use Agreement/operations plan |
+| Coolant/treatment chemicals | Partially represented | Glycol-based coolant was discussed; final product selection, SDS, volume, and containment plan needed |
+| Drought response | Partially represented | Company expressed willingness to accept a water-use cap; final Water Use Agreement/operations plan needed |
 
-Public discussion has included a closed-loop representation, and Simple Mining makes low-water claims about its existing fleet. Cascade-specific values remain to be documented.
+The October 1 forum materially narrowed the cooling concept but did not supply sealed mechanical drawings or actual gallons/day/year.
 
 ## Noise
 
 | Question | Current status | Evidence needed |
 |---|---|---|
 | Existing ambient baseline | Limited project observations only | Independent baseline survey |
-| Property-line normal-operation dBA/dBC | Unknown | Acoustic model |
+| Property-line normal-operation dBA/dBC | Represented / preliminary | Company discussed roughly 50 dB conditions and an enforceable property-line ceiling around 65 dB as an example; final acoustic model needed |
 | Nearest-residence day/night level | Unknown | Acoustic model |
 | Tonal/low-frequency components | Unknown | Frequency/tonality analysis |
-| Maximum-cooling operating condition | Unknown | Acoustic model |
+| Maximum-cooling operating condition | Unknown | Acoustic model; company acknowledged hotter-day cooling may be louder |
 | Generator-test levels | Unknown | Equipment data/model |
-| Post-construction acceptance criteria | Unknown | Ordinance/permit/development agreement |
+| Post-construction acceptance criteria | Partially represented | Company repeatedly expressed willingness to accept a clear enforceable property-line limit; ordinance/permit/agreement still needed |
 | Recurring/complaint testing | Unknown | Enforcement conditions |
 
-No final Cascade acoustic study has been located in the reviewed public record.
+No final Cascade acoustic study has been located. The October 1 forum added verbal noise representations but did not replace engineered modeling or independent acceptance testing.
 
 ## Environment and drainage
 
@@ -107,10 +107,10 @@ No final Cascade acoustic study has been located in the reviewed public record.
 | Question | Current status | Evidence needed |
 |---|---|---|
 | Temporary construction employment | Unknown | Applicant/EPC estimate |
-| Permanent FTE | Unknown | Staffing plan |
-| Permanent job categories | Unknown | Staffing plan |
-| Wage/salary ranges | Unknown | Workforce commitment |
-| Local recruitment/training | Unknown | Workforce agreement |
+| Permanent FTE | Represented / projected | About 20–25 permanent positions across a 24/7 operation; staffing plan needed |
+| Permanent job categories | Represented | Operations/site management, maintenance, electrical, mechanical, security, and IT-related roles were discussed; staffing plan needed |
+| Wage/salary ranges | Represented / projected | Approximately $75,000–$80,000 average salary, with lower entry-level and higher skilled roles; workforce commitment needed |
+| Local recruitment/training | Represented | Company said it intends to hire locally and work with regional education/workforce partners including NICC; agreement/metrics needed |
 | Automation assumptions | Unknown | Applicant operations plan |
 
 Do not infer Cascade employment from a hyperscale cloud/AI project or from industry-wide job multipliers.
@@ -120,9 +120,9 @@ Do not infer Cascade employment from a hyperscale cloud/AI project or from indus
 | Question | Current status | Evidence needed |
 |---|---|---|
 | Initial assessed/taxable value | Unknown | Assessor/fiscal analysis |
-| Full-buildout taxable value | Unknown | Fiscal analysis |
+| Full-buildout taxable value | Unknown; company projected about $400 million total capital investment, which is not the same as taxable value | Fiscal analysis |
 | Annual City/county/school tax revenue | Unknown | Assessed-value and levy analysis |
-| Requested abatements/TIF/incentives | Unknown | Development/incentive application |
+| Requested abatements/TIF/incentives | Represented | Company said at the forum it expected only existing Iowa data-center sales/use-tax incentives and was not then seeking additional local or federal incentives; final applications/agreement needed |
 | Utility incentives or special rate | Unknown | Public utility agreement/tariff where disclosable |
 | Project-driven road/water/sewer costs | Unknown | Engineering/fiscal study |
 | Net fiscal impact | Unknown | Independent fiscal-impact analysis |
@@ -137,10 +137,10 @@ West Des Moines and other projects show what is possible under different agreeme
 | Construction truck traffic | Unknown | Traffic/construction plan |
 | Normal operating traffic | Unknown | Staffing/traffic study |
 | Road upgrades | Unknown | Civil/traffic study |
-| Fire suppression system | Unknown | Fire-protection design |
-| Stored fuel | Unknown | Generator/fuel plan |
+| Fire suppression system | Represented only as code-compliant | Final fire-protection design |
+| Stored fuel | Partially represented | Diesel backup generation was stated; final generator/fuel plan and storage volume needed |
 | Batteries/UPS hazards | Unknown | Electrical/fire plan |
-| Specialized responder training/equipment | Unknown | Emergency-services impact review |
+| Specialized responder training/equipment | Partially represented | Company expressed willingness to coordinate an emergency action plan with police/fire/emergency management; impact review needed |
 | Developer funding for project-specific responder needs | Unknown | Development agreement |
 
 ## Zoning and legal process
@@ -158,14 +158,14 @@ West Des Moines and other projects show what is possible under different agreeme
 
 | Question | Current status | Evidence needed |
 |---|---|---|
-| Annual compliance reporting | Policy proposal | Ordinance/agreement |
+| Annual compliance reporting | Policy proposal / partial company representation | Company referred to reporting/monitoring obligations; exact applicable reports and local requirements need verification |
 | Independent inspections/testing | Policy proposal | Ordinance/agreement |
-| Material-expansion threshold | Unknown | Ordinance/agreement |
+| Material-expansion threshold | Partially represented | Company said it has no current Cascade expansion plan and is open to enforceable limits; ordinance/agreement needed |
 | Cooling/load changes requiring review | Unknown | Ordinance/agreement |
 | Useful facility life | Unknown | Applicant estimate |
-| Decommissioning plan | Unknown | Applicant plan |
+| Decommissioning plan | Partially represented | Company expressed willingness to discuss cleanup/decommissioning assurance; applicant plan needed |
 | Decommissioning cost | Unknown | Engineer estimate |
-| Bond/LOC/escrow or other security | Policy proposal | Negotiated/legal mechanism |
+| Bond/LOC/escrow or other security | Partially represented | Company expressed openness to a surety bond or similar protection; negotiated/legal mechanism still needed |
 
 ## Comparable facilities
 
@@ -193,3 +193,8 @@ A named comparable site would allow Cascade to replace speculative analogies wit
 - Cascade zoning chapter: https://codelibrary.amlegal.com/codes/cascadeia/latest/cascade_ia/0-0-0-4120
 - Linn County Data Center Ordinance: https://www.linncountyiowa.gov/DocumentCenter/View/27695/PA26-0001-Ordinance-PDF
 - Jones County Data Center Ordinance: https://www.linncountyiowa.gov/DocumentCenter/View/27656/Jones-County-Data-Center-Ordinance
+
+
+## October 1 forum source
+
+See [`28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md) for the transcript-derived forum record. The underlying [raw WebVTT captions](source-materials/2026-10-01_simple-mining-community-forum_youtube-auto-captions.en.vtt) were generated automatically by YouTube and have not been human-certified as a verbatim transcript.
