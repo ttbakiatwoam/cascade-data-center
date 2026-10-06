@@ -25,6 +25,7 @@ Start here:
 - [`dataset/26_CRYPTOCURRENCY_BENEFITS_RISKS_AND_ECONOMIC_IMPACT.md`](dataset/26_CRYPTOCURRENCY_BENEFITS_RISKS_AND_ECONOMIC_IMPACT.md) — cryptocurrency benefits, market impact, financial access, and documented risks
 - [`dataset/27_WEEKLY_PUBLIC_RECORD_UPDATE_2026-09-11_TO_2026-09-18.md`](dataset/27_WEEKLY_PUBLIC_RECORD_UPDATE_2026-09-11_TO_2026-09-18.md) — September 11–18 public-record update covering committee rules, moratorium-source discrepancies, conflict-of-interest statutes, and open-record/open-meeting issues
 - [`dataset/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](dataset/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md) — transcript-derived record of the October 1 forum, with preliminary project figures, utility statements, commitments discussed, and remaining evidence gaps
+- [`dataset/29_SIMPLE_MINING_SITE_PARCEL_AND_ZONING.md`](dataset/29_SIMPLE_MINING_SITE_PARCEL_AND_ZONING.md) — verified 15.22-acre Simple Mining parcel, September 2025 acquisition, current assessment, M-2 Heavy Industrial zoning, and the older-PIN mismatch in the City ArcGIS layer
 
 The public dataset intentionally excludes Facebook comments/reply drafting, screenshots of private/local discussions, private correspondence, personal disputes, law-enforcement correspondence, addresses/contact information, and other personally identifying information.
 
@@ -58,7 +59,7 @@ This project tracks questions and research involving:
 
 The repository preserves the raw October 1 forum captions at [`dataset/source-materials/2026-10-01_simple-mining-community-forum_youtube-auto-captions.en.vtt`](dataset/source-materials/2026-10-01_simple-mining-community-forum_youtube-auto-captions.en.vtt). **The transcript was created by YouTube using its automated closed-captioning system and has not been human-certified as a verbatim transcript.**
 
-The transcript-derived summary distinguishes company/utility representations from independently verified facts. Key preliminary figures presented at the forum include an approximately 15.2-acre site, a roughly 60,000-square-foot permanent data-center building, about 40 MW of electrical demand, 20–25 permanent jobs, roughly $400 million in projected investment, and approximately 15 diesel backup generators. Final engineering, agreements, permits, acoustic modeling, water-use totals, assessed value, tenant identity, and enforceable conditions remain subject to documentation.
+The transcript-derived summary distinguishes company/utility representations from independently verified facts. Dubuque County records now independently confirm that Simple Mining LLC owns the **15.22-acre** parcel at **113 Industrial St SE**, PIN **1932176027**, acquired from the Cascade Economic Development Corporation in September 2025 for **$608,800**. The City ArcGIS zoning map identifies the site as **M-2 Heavy Industrial**, although its selected feature still displays older PIN **1932127004**. Other forum figures — including the roughly 60,000-square-foot building, about 40 MW of electrical demand, 20–25 permanent jobs, roughly $400 million in projected investment, and approximately 15 diesel backup generators — remain preliminary pending final documents. See [`dataset/29_SIMPLE_MINING_SITE_PARCEL_AND_ZONING.md`](dataset/29_SIMPLE_MINING_SITE_PARCEL_AND_ZONING.md).
 
 ## Community forum questions
 
