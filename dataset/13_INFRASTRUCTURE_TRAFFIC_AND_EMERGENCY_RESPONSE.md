@@ -2,7 +2,7 @@
 
 > The relevant question is not whether data centers use infrastructure, but which additional infrastructure the Cascade project requires, who pays for it, and what long-term obligations remain with the public.
 >
-> Last reviewed: 2026-09-10
+> Last reviewed: 2026-10-06
 
 ## Infrastructure categories
 
@@ -25,6 +25,20 @@ A complete site review can involve:
 The project has consistently evaluated the principle that costs created primarily by the new development should be assigned to the developer through lawful agreements rather than silently transferred to existing taxpayers or ratepayers.
 
 Norwalk's Project West materials are a useful Iowa example: the public project page states that project-specific infrastructure is developer funded, while broader improvements may use project-generated financing mechanisms. Linn County's ordinance also uses road-use/restoration agreements for large data-center development.
+
+## October 1 Cascade forum update
+
+The forum supplied several preliminary infrastructure/emergency representations:
+
+- the conceptual site plan showed a utility substation/electrical area, cooling yard, parking, screening, and one permanent building;
+- Simple Mining said the site would use the industrial park's **regional stormwater basin** and represented that a separate onsite retention basin would not be required, subject to final civil review;
+- approximately **15 diesel backup generators** were estimated, with exact models/capacity/testing still unresolved;
+- the company said fire suppression would be built to code and expressed willingness to coordinate a required **emergency action plan** with local police, fire, and emergency-management personnel;
+- the utility representative said project-driven electrical transmission/substation/distribution upgrades would be paid by Simple Mining upfront.
+
+These are forum representations and should be checked against final civil drawings, utility agreements, fire plans, air permits, and emergency-response documents.
+
+See [`28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md).
 
 ## Traffic
 
