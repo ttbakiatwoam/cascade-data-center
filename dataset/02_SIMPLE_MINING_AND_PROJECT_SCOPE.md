@@ -16,9 +16,15 @@ Simple Mining's Site 8 page describes a 50+ MW hydro-cooled location hosting mor
 
 The company's cooling and water articles say its current fleet uses engineered airflow and closed-loop cooling approaches and makes specific low-water-use claims. Those claims are useful evidence of the company's stated operating model, but an independent project review should verify Cascade's exact cooling loop, external heat rejection, makeup-water needs, coolant, peak conditions, and metering.
 
+## Verified Cascade parcel
+
+Dubuque County's current record identifies the project site as **PIN 1932176027, 113 Industrial St SE, Lot 2 Cascade Industrial Park 14th Addition**, containing **15.22 acres / 662,983 square feet** and owned by **Simple Mining LLC**. County sales history records Simple Mining's September 19, 2025 purchase from the Cascade Economic Development Corporation for **$608,800**.
+
+The City ArcGIS zoning map identifies the site area as **M-2 Heavy Industrial**. Its selected zoning feature still displays older PIN **1932127004** and a July 19, 2022 edit date; current parcel identity and acreage should therefore be taken from the county record rather than the older zoning-layer PIN. See [`29_SIMPLE_MINING_SITE_PARCEL_AND_ZONING.md`](29_SIMPLE_MINING_SITE_PARCEL_AND_ZONING.md).
+
 ## Cascade proposal: early concept vs. October 1 concept
 
-March 2026 trade reporting described the proposed Cascade project as roughly four acres with around 40 containerized cryptocurrency-mining units of roughly 160 square feet apiece. At the October 1, 2026 community forum, Simple Mining presented a materially different preliminary concept: a permanent data-center building of about **60,000 square feet** on approximately **15.2 gross acres**, with a proposed electrical load around **40 MW**.
+March 2026 trade reporting described the proposed Cascade project as roughly four acres with around 40 containerized cryptocurrency-mining units of roughly 160 square feet apiece. At the October 1, 2026 community forum, Simple Mining presented a materially different preliminary concept: a permanent data-center building of about **60,000 square feet** on approximately **15.2 gross acres**, with a proposed electrical load around **40 MW**. The county parcel record now independently confirms the gross site area as **15.22 acres**; the four-acre early figure should therefore be read as an early proposed-use/installation footprint rather than the size of the current property.
 
 The company said the project had shifted from the earlier Bitcoin-mining concept toward a conventional data-center development and that no tenant/customer was committed as of the forum. The presenter said the building could support AI-related computing, but the forum does **not** establish a signed AI tenant or a workload-specific commitment.
 
