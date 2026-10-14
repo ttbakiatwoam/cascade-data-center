@@ -2,7 +2,7 @@
 
 > Public-source research dataset concerning the proposed data-center / Simple Mining project in Cascade, Iowa.
 >
-> Dataset assembled through: 2026-10-06
+> Dataset assembled through: 2026-10-13
 
 ## Purpose
 
@@ -77,6 +77,8 @@ The original document numbers are retained for continuity; folders group related
 - [`16_MONITORING_ENFORCEMENT_AND_DECOMMISSIONING.md`](impacts/16_MONITORING_ENFORCEMENT_AND_DECOMMISSIONING.md) — Measurable compliance, independent verification, enforcement, material expansion, closure, restoration, and financial assurance.
 - [`23_CASCADE_MUNICIPAL_WATER_BASELINE.md`](impacts/23_CASCADE_MUNICIPAL_WATER_BASELINE.md) — City/DNR baseline for Cascade's wells, nominal daily capacity, average daily consumption, storage, water-quality reporting, and a municipal-pool comparator with explicit source-recovery gaps for pool gallon capacity and metered seasonal use.
 
+- [`30_UPS_BATTERIES_LITHIUM_ION_FIRE_AND_SUPPRESSION.md`](impacts/30_UPS_BATTERIES_LITHIUM_ION_FIRE_AND_SUPPRESSION.md) — Evidence-based UPS chemistry costs, lithium-ion incidents, suppression, first-responder planning, and unresolved equipment choices.
+
 ### Policy, authority, and public process
 
 - [`04_CASCADE_ZONING_AND_LOCAL_AUTHORITY.md`](policy/04_CASCADE_ZONING_AND_LOCAL_AUTHORITY.md) — Cascade zoning/building-code structure and Iowa municipal/zoning authority.
@@ -95,6 +97,8 @@ The original document numbers are retained for continuity; folders group related
 - [`26_CRYPTOCURRENCY_BENEFITS_RISKS_AND_ECONOMIC_IMPACT.md`](technology/26_CRYPTOCURRENCY_BENEFITS_RISKS_AND_ECONOMIC_IMPACT.md) — Balanced research on cryptocurrency's peer-to-peer architecture, financial access, remittances, stablecoins, humanitarian use, market value, regulated investment products, programmable finance, flexible mining load, illicit markets, laundering, consumer risks, and failed inclusion cases.
 
 ### Evidence methods and source index
+
+- [`31_PUBLIC_OBJECTIONS_EVIDENCE_REVIEW.md`](evidence/31_PUBLIC_OBJECTIONS_EVIDENCE_REVIEW.md) — Neutral objection-by-objection research with sources, project scope boundaries, and open questions.
 
 - [`18_MEDIA_CLAIMS_AND_SOURCE_VALIDATION.md`](evidence/18_MEDIA_CLAIMS_AND_SOURCE_VALIDATION.md) — Evidence-first method with case studies involving Meta robotics, El Reno's water-line failure, Georgia water metering/billing, and source-quality ratings.
 - [`22_SOURCE_INDEX.md`](evidence/22_SOURCE_INDEX.md) — Consolidated public URL index for the statutes, ordinances, government records, research, company materials, journalism, and comparator documents used throughout the project.
