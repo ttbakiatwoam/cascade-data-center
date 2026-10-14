@@ -69,6 +69,7 @@ The original document numbers are retained for continuity; folders group related
 
 - [`07_WATER_AND_COOLING.md`](impacts/07_WATER_AND_COOLING.md) — Closed-loop terminology, water-use variability, dry/evaporative/adiabatic heat rejection, company claims, and project-specific evidence needs.
 - [`08_NOISE_AND_ACOUSTICS.md`](impacts/08_NOISE_AND_ACOUSTICS.md) — dBA/dBC, tonal and low-frequency noise, propagation, Iowa comparator limits, WHO/FHWA references, and recommended testing.
+- [`33_NAVAL_SHIPBOARD_NOISE_SLEEP_AND_LONG_DURATION_EXPOSURE.md`](impacts/33_NAVAL_SHIPBOARD_NOISE_SLEEP_AND_LONG_DURATION_EXPOSURE.md) — Peer-reviewed aircraft-carrier, naval berthing, long-career hearing, and 30/70-day submarine sleep research with explicit study duration, causation and transferability limits.
 - [`09_ELECTRICITY_GRID_AND_BACKUP_POWER.md`](impacts/09_ELECTRICITY_GRID_AND_BACKUP_POWER.md) — Data-center load growth, Cascade-specific MW gaps, ratepayer protection, grid upgrades, generators, UPS, and batteries.
 - [`32_CIPCO_MVEC_CAPACITY_CLAIMS_AND_STUDY_STATUS.md`](impacts/32_CIPCO_MVEC_CAPACITY_CLAIMS_AND_STUDY_STATUS.md) — CIPCO generation planning versus MVEC's October 1 transmission study statement, verbatim-caption caveats, and request for the missing joint study.
 - [`10_AGRICULTURE_GREENHOUSES_AND_LAND_USE.md`](impacts/10_AGRICULTURE_GREENHOUSES_AND_LAND_USE.md) — Iowa agriculture, nutrient/runoff context, greenhouse and hydroponic water demand, and disciplined land-use comparison.
