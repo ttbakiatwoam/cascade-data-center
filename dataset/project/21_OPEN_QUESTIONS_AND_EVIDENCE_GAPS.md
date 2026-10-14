@@ -83,6 +83,8 @@ The October 1 forum materially narrowed the cooling concept but did not supply s
 
 | Question | Current status | Evidence needed |
 |---|---|---|
+| Exact LEED system/version, registration, certification and acoustic credits | Company design goal only; not independently confirmed | Registration record and rating-system version, credit scorecard, exterior pilot eligibility confirmation and evidence submissions |
+| LEED-related enforceable off-site acoustic commitment | Not established | Separate legally binding M-2 performance standard or project agreement, independent residential modeling and postconstruction measurement |
 | Existing ambient baseline | Limited project observations only | Independent baseline survey |
 | Property-line normal-operation dBA/dBC | Represented / preliminary | Company discussed roughly 50 dB conditions and an enforceable property-line ceiling around 65 dB as an example; final acoustic model needed |
 | Nearest-residence day/night level | Unknown | Acoustic model |
