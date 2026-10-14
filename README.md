@@ -22,6 +22,7 @@ A committee-friendly website is maintained from `docs/` and published through Gi
 | The cover email to the Mayor and City Council | [Prepared email text](#email-to-the-mayor-and-city-council) — October 6, 2026 |
 | Public concerns, responses, and source limits | [Issue-by-issue research](dataset/evidence/31_PUBLIC_OBJECTIONS_EVIDENCE_REVIEW.md) and [public site page](https://ttbakiatwoam.github.io/cascade-data-center/public-objections/) |
 | Battery technology, suppression, and firefighter guidance | [UPS batteries and fire safety](dataset/impacts/30_UPS_BATTERIES_LITHIUM_ION_FIRE_AND_SUPPRESSION.md) |
+| Extended naval noise, hearing, shipboard sleep and submarine deployment studies | [Noise and sleep evidence](dataset/impacts/33_NAVAL_SHIPBOARD_NOISE_SLEEP_AND_LONG_DURATION_EXPOSURE.md) |
 | Every research note and the evidence rules | [Research index](dataset/00_INDEX.md) |
 | Public citations and preserved documents | [Source index](dataset/evidence/22_SOURCE_INDEX.md) and [source files](sources/README.md) |
 
