@@ -2,7 +2,7 @@
 
 > This file distinguishes health guidance, acoustic engineering principles, and enforceable Iowa comparator standards. None of the external standards cited here automatically applies to the Cascade proposal unless adopted or incorporated into an approval.
 >
-> Last reviewed: 2026-10-06
+> Last reviewed: 2026-10-13
 
 ## Why data-center noise requires more than one dB number
 
@@ -91,6 +91,26 @@ Potential mitigation includes source selection, fan-speed controls, equipment or
 ## Open Cascade evidence gap
 
 No project-specific **final** acoustic study or full-buildout property-line/residential prediction has been located. The October 1 forum supplied company noise estimates and willingness to accept an enforceable limit, but those statements should not be treated as a substitute for modeling and measurement.
+
+
+## New research: low-frequency sound, infrasound, and bird predation
+
+**dBC versus vibration.** A C-weighted sound-pressure level (dBC) retains more low-frequency acoustic energy than dBA, but does not specify the spectral frequencies, measure physical ground/building vibration, or demonstrate a medical outcome. Evaluate sound spectra and measured vibration separately where required.
+
+**Human health evidence.** Baliatsas et al. (2016) systematically reviewed seven observational studies. Their findings included associations between low-frequency noise and annoyance, sleep problems, concentration difficulty, and headaches, but **very limited evidence concerning chronic medical diseases**. This is neither proof that a small hum causes disease nor proof that every intensity is harmless. A blinded 2023 crossover study of 37 noise-sensitive but otherwise healthy adults found **no measured adverse effects from 72 hours of inaudible simulated wind-turbine infrasound** versus sham. In the same study, **audible traffic noise** worsened sleep. These sound exposures are not equivalent to a proposed data center; an audible tonal mechanical hum cannot be assumed harmless based on inaudible wind-turbine infrasound.
+
+**Avoid an unsupported health claim:** Research does **not** establish that only people with a diagnosed underlying condition or a preexisting sleep disorder can experience sleep disturbance from industrial sound. Vulnerability varies, and sleep disturbance is a health-relevant outcome even without established chronic disease.
+
+**Wildlife evidence and an important limitation.** Francis, Ortega, and Cruz (2009), studying **natural-gas compressor sites in New Mexico**, observed **lower nesting bird-species richness** in noisy habitats but **higher reproductive success for certain birds** associated with predator-prey changes and reduced nest predation. This is not a study of data centers. It did **not** demonstrate that data centers chase off cats or foxes, bring back insects, or restore wildlife habitat in Cascade. Effects differ by species and habitat.
+
+Original research:
+
+- Baliatsas et al. (2016), *Health effects from low-frequency noise and infrasound*: https://pubmed.ncbi.nlm.nih.gov/26994804/
+- Marshall et al. (2023), *The Health Effects of 72 Hours of Simulated Wind Turbine Infrasound*: https://pmc.ncbi.nlm.nih.gov/articles/PMC10032045/
+- Francis et al. (2009), *Noise Pollution Changes Avian Communities and Species Interactions*: https://pubmed.ncbi.nlm.nih.gov/19631542/
+- WHO, *Protecting people from harmful exposure to environmental noise*: https://www.who.int/europe/health-topics/noise/protecting-people-from-harmful-exposure-to-environmental-noise
+
+For proposed enforceable standards and the uncertainty relevant to **this** site, see the [public objections evidence review](../evidence/31_PUBLIC_OBJECTIONS_EVIDENCE_REVIEW.md). These references are comparative studies, not measured Cascade impacts.
 
 ## Sources
 
