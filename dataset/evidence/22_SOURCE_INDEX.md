@@ -889,6 +889,40 @@ The DNR's current facility databases can be used for future source recovery, but
   Separates company/utility representations, preliminary estimates, verbal willingness to accept conditions, and issues still requiring plans, agreements, permits, or independent verification.
 
 ---
+
+---
+
+# 21. Public objections, acoustics, wildlife, UPS, and fire protection (October 13, 2026)
+
+The topical research files below provide the full context, limitations, engineering questions, and distinctions between manufacturer assertions, external studies, company statements, and unresolved Cascade design.
+
+- [Issue-by-issue objections and evidence assessment](31_PUBLIC_OBJECTIONS_EVIDENCE_REVIEW.md) — **Project-generated synthesis**, with no attribution to private individuals.
+- [UPS batteries, battery fires, and suppression](../impacts/30_UPS_BATTERIES_LITHIUM_ION_FIRE_AND_SUPPRESSION.md) — **Project-generated technical synthesis**.
+- [Expanded noise, low-frequency health, and bird predation analysis](../impacts/08_NOISE_AND_ACOUSTICS.md) — **Project-generated research notes**.
+- [Public website issue overview](../../docs/public-objections.md) — **Public-facing research**, not adopted policy.
+
+### Noise, infrasound, and wildlife
+
+- Baliatsas et al. (2016), *Health effects from low-frequency noise and infrasound in the general population: Is it time to listen?* — **Peer-reviewed systematic review**, seven observational studies: https://pubmed.ncbi.nlm.nih.gov/26994804/
+- Marshall et al. (2023), *The Health Effects of 72 Hours of Simulated Wind Turbine Infrasound* — **Peer-reviewed double-blind crossover experiment**, healthy but noise-sensitive adults, simulated inaudible wind-turbine infrasound **not a data-center noise measurement**: https://pmc.ncbi.nlm.nih.gov/articles/PMC10032045/
+- Francis, Ortega and Cruz (2009), *Noise Pollution Changes Avian Communities and Species Interactions* — **Peer-reviewed natural experiment at gas extraction/compressor sites in New Mexico**, some nesting success increased while overall bird nesting richness decreased: https://pubmed.ncbi.nlm.nih.gov/19631542/
+- WHO environmental noise research and health protection — **Public-health guidance**, not an Iowa zoning enactment: https://www.who.int/europe/health-topics/noise/protecting-people-from-harmful-exposure-to-environmental-noise
+
+### UPS batteries, costs, and safety codes
+
+- Uptime Institute (2024), *Global Data Center Survey 2024: Supplier View* — **Industry survey** about perceived lithium-ion adoption growth; percentages are not installation market share: https://datacenter.uptimeinstitute.com/rs/711-RIA-145/images/2024.GlobalDataCenterSurvey.VendorResults.pdf
+- ZincFive / Data Center Frontier (2024), *Data Center Energy Storage Industry Insights* — **Vendor-sponsored, nonrandom survey of 117 professionals** about VRLA, lithium-ion and other battery use: https://zincfive.com/industry-insights-report/data-center-energy-storage-2024/
+- Schneider Electric (2026), *What Every IT Professional Should Know About UPS Total Cost* — **Manufacturer cost scenario**, lower lithium-ion ten-year TCO under modeled single-phase UPS conditions, **not a Cascade-specific quote**: https://blog.se.com/datacenter/2026/04/02/what-every-it-professional-should-know-about-ups-total-cost/
+- US Fire Administration, *Risks and response strategies for lithium-ion battery fires* — **U.S. fire service safety guidance**: https://www.usfa.fema.gov/a-z/lithium-ion-batteries/risks-and-response-strategies/
+- Fire Safety Research Institute, *Four Firefighters Injured in Lithium-Ion Battery Energy Storage System Explosion* — **Primary incident investigation**, 2019 Arizona 2.16 MWh BESS, **not a Cascade installation**: https://fsri.org/research-update/report-four-firefighters-injured-lithium-ion-battery-energy-storage-system
+- UL Solutions, *Understanding UL 9540A, NFPA 855 and Large-Scale Fire Testing* — **Testing/installation standard interpretation**; UL 9540A is a *test method*: https://www.ul.com/thecodeauthority/knowledge/understanding-UL-9540A-NFPA-855
+- NFPA 855, stationary ESS installation guidance — **Consensus safety standard**, application and adopted edition depend on the authority having jurisdiction: https://www.nfpa.org/codes-and-standards/nfpa-standard-development-process/855
+- NFPA 75, IT-equipment fire protection — **Consensus fire standard**, application and edition require AHJ review: https://www.nfpa.org/codes-and-standards/nfpa-standard-development/75
+
+### Existing municipal generation comparison
+
+- Cascade Municipal Utilities Board minutes, August 12, 2026 — **Local public-record payment listing**, McDermott Oil Co. $14,375.18. **Not an itemized invoice or proven engine runtime:** https://www.cityofcascade.org/vimages/shared/vnews/stories/6959ce8e9353c/8-12-2026%20%20Meeting%20Minutes.pdf
+
 ## Source-index maintenance rule
 
 When adding a new document:
