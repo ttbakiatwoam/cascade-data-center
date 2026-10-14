@@ -936,6 +936,25 @@ These sources concern different technical questions. The **Cascade-specific CIPC
 - **MVEC CEO Richert, October 1, 2026 Cascade forum, about 17:28–22:59** — Original public meeting statements as captured by **uncertified YouTube automatic captions**, preserved in [raw .vtt](../../sources/community-forums/2026-10-01_simple-mining-community-forum_youtube-auto-captions.en.vtt). Describes joint study, transmission adequate for about 40 MW, required new generation, developer-paid upgrades, no signed service contract. Requires verification against recording for exact verbatim quotes.
 - **Cascade-specific joint CIPCO/MVEC study** — **MISSING DOCUMENT** as of 2026-10-13; request directly from CIPCO and MVEC; do not substitute the CIPCO system-wide IRP.
 
+## Naval shipboard noise, long-career hearing and submarine sleep studies
+
+Original papers and study limits are detailed in [the naval research note](../impacts/33_NAVAL_SHIPBOARD_NOISE_SLEEP_AND_LONG_DURATION_EXPOSURE.md) and linked from the [main noise note](../impacts/08_NOISE_AND_ACOUSTICS.md). **Comparator studies only**, not measurements of the Cascade site or an accepted local residential limit.
+
+- **Rovig, Bohnker & Page (2004), Hearing health risk in aircraft-carrier flight-deck personnel** — Peer-reviewed occupational cohort comparison; 205 crew, 109 dBA mean flight-deck workday and different impairment prevalence by job: https://pubmed.ncbi.nlm.nih.gov/15281670/
+- **Trost & Shaw (2007), Statistical Analysis of Hearing Loss among Navy Personnel** — Peer-reviewed retrospective records, nearly 268,000 enlisted sailors, 1979-2004; modeled greater long-term hearing-loss risk with time assigned to surface warships: https://pubmed.ncbi.nlm.nih.gov/17484318/
+- **Schaal et al. (2019), Living at Work: 24-hour Noise Exposure Aboard US Navy Aircraft Carriers** — Peer-reviewed; 59 crew monitored in January 2014; 93% above 80 dBA 24-hour occupational comparator, 61% above 70 dBA off-duty auditory rest comparator: https://pubmed.ncbi.nlm.nih.gov/30855086/
+- **Schaal et al. (2019), Sound Level Measurements in Berthing Areas of an Aircraft Carrier** — Peer-reviewed; 60 area readings in eight berthing locations; 72% of *measurements* above 70 dBA auditory recovery comparator: https://pubmed.ncbi.nlm.nih.gov/31260521/
+- **Schaal, Lange & Majar (2019), Noise at sea: characterization of extended shift noise exposures** — Peer-reviewed; 47 carrier support personnel with 12- and 24-hour measures: https://pubmed.ncbi.nlm.nih.gov/30457491/
+- **Sunde et al. (2016), Noise and sleep on board vessels in the Royal Norwegian Navy** — Peer-reviewed measured cabin sound plus actigraphy; 83 sleep periods from 68 sailors, greater noise/noise events associated with worse sleep measures: https://pubmed.ncbi.nlm.nih.gov/26960785/
+- **Matsangas & Shattuck (2021), Habitability in Berthing Compartments and Well-Being of Sailors Working on U.S. Navy Surface Ships** — Peer-reviewed longitudinal observational study; 1,269 crew on six ships; bundled noise, light, temperature and bedding concerns associated with sleep/mood outcomes. First online 2020, journal issue 2021: https://pubmed.ncbi.nlm.nih.gov/32109155/
+- **Chabal, Markwald & Chinoy (2024), Life onboard a submarine: Sleep, fatigue, and lifestyle behaviors** — Peer-reviewed; 58 U.S. submariners during 30 days underway; did not isolate engine/ventilation sound as cause of sleep outcomes: https://pubmed.ncbi.nlm.nih.gov/38820921/
+- **Trousselard et al. (2015), Sleeping under the Ocean** — Peer-reviewed polysomnographic comparison of 19 French submariners on days 21 and 51 of a 70-day patrol; did not show significant deterioration *between measured days*, not noise-specific: https://pubmed.ncbi.nlm.nih.gov/26016656/
+- **Van Puyvelde et al. (2022), submarine work/rest and circadian mission study** — Peer-reviewed; submarine mission observation, not a dose-response test of acoustic exposure: https://pubmed.ncbi.nlm.nih.gov/35142558/
+- **Fernandes et al. (2025), Sleep in Military Submariners** — Peer-reviewed three-week mission with before/during/after sleep comparison, not noise-specific: https://pubmed.ncbi.nlm.nih.gov/40326443/
+- **Oldenburg et al. (2020), Physical influences on seafarers** — Peer-reviewed *merchant shipping* field research, sleeping cabins averaging about 57 dBA (36-66 dBA), not a Navy or data center study: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231309
+- **Marshall et al. (2023), The Health Effects of 72 Hours of Simulated Wind Turbine Infrasound** — Peer-reviewed controlled laboratory trial of *inaudible* simulated infrasound, cannot establish long-term effects of *audible* outdoor mechanical hum: https://pmc.ncbi.nlm.nih.gov/articles/PMC10032045/
+- **WHO, Night Noise Guidelines for Europe** — Official environmental health guideline, **not adopted Cascade law**; outdoor night average metric differs from U.S. Navy occupational hearing-recovery 70 dBA: https://www.who.int/europe/publications/i/item/9789289041737
+
 ## Source-index maintenance rule
 
 When adding a new document:
