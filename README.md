@@ -16,6 +16,7 @@ A committee-friendly website is maintained from `docs/` and published through Gi
 | Site ownership, parcel, and zoning evidence | [Site parcel and zoning](dataset/project/29_SIMPLE_MINING_SITE_PARCEL_AND_ZONING.md) |
 | What is documented, preliminary, or still unknown | [Open questions and evidence gaps](dataset/project/21_OPEN_QUESTIONS_AND_EVIDENCE_GAPS.md) |
 | October 1 forum statements and caveats | [Forum record](dataset/updates/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md) |
+| CIPCO vs. MVEC electricity capacity and the missing joint study | [Website comparison](https://ttbakiatwoam.github.io/cascade-data-center/cipco-mvec-power/) and [source-based technical note](dataset/impacts/32_CIPCO_MVEC_CAPACITY_CLAIMS_AND_STUDY_STATUS.md) |
 | Advisory Committee recommendation package | [October 19 working package](proposals/CASCADE-ADVISORY-COMMITTEE-RECOMMENDATIONS-2026-10-19.md) — **draft for discussion** |
 | The proposed M-2 performance standards | [Draft amendment](proposals/DRAFT-ORDINANCE-M2-DATA-CENTER-PERFORMANCE-STANDARDS-2026-10-06.md) — **not adopted law** |
 | The cover email to the Mayor and City Council | [Prepared email text](#email-to-the-mayor-and-city-council) — October 6, 2026 |
