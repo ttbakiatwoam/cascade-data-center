@@ -112,6 +112,31 @@ Original research:
 
 For proposed enforceable standards and the uncertainty relevant to **this** site, see the [public objections evidence review](../evidence/31_PUBLIC_OBJECTIONS_EVIDENCE_REVIEW.md). These references are comparative studies, not measured Cascade impacts.
 
+## Navy aircraft carriers, submarines and duration of sound exposure
+
+**New comparison reviewed October 13, 2026:** [Expanded research on naval shipboard noise, hearing risk, sleep and long-duration exposure](33_NAVAL_SHIPBOARD_NOISE_SLEEP_AND_LONG_DURATION_EXPOSURE.md). These are **occupational/maritime comparators**, not measurements at the proposed Cascade data center.
+
+**Carrier personal exposure:** A 2019 U.S. Navy study measured 59 sailors during a 2014 five-day underway period. **93% exceeded the study's 24-hour 80 dBA occupational noise threshold** and **61% exceeded 70 dBA off-duty**, a benchmark for **auditory recovery**. These results do not mean 93% had diagnosed hearing loss, and the auditory-recovery comparison is **not a residential nighttime limit**. In a separate 2019 carrier-berthing study, **72% of 60 noise measurements** across eight sleeping locations exceeded 70 dBA; that percentage refers to **measurements**, not sailors.
+
+**Cumulative hearing effects:** A 2007 retrospective study of hearing records for **nearly 268,000 enlisted sailors (1979–2004)** found an estimated **13-percentage-point greater probability of hearing reduction** in a model of half a 30-year career aboard surface warships compared with service ashore. This is stronger long-term occupational **hearing** evidence, not a direct test of quiet low-frequency sound.
+
+**Measured noise and sleep:** A 2016 Royal Norwegian Navy study directly paired **83 sleep periods among 68 sailors** with sleep-time cabin noise measurements. Higher equivalent levels and more noise events were associated with more sleep movement; more events were associated with worse sleep efficiency. The study sampled different surface vessel types, **not just submarines**. A larger U.S. Navy berthing study (1,269 sailors) associated **combined habitability complaints** including noise, light and temperature with poorer perceived sleep and mood, but did not isolate noise as the cause.
+
+**Submariners and sleep:** A **2024 U.S. Navy 30-day study** of **58 submariners** found **77.8%** met criteria for poor subjective sleep quality underway, yet **68.8%** already reported poor quality ashore; the researchers did **not** isolate machinery noise. A **2015 French 70-day patrol** study of **19 submariners** found **no significant deterioration in objectively measured sleep between days 21 and 51** under an organized schedule and controlled environment. Neither finding establishes the lifelong health effects of low-level mechanical hum.
+
+**How to use this evidence:** A **72-hour** inaudible-infrasound experiment cannot settle years-long exposure, but multi-month military deployment alone does not isolate noise without appropriate measurements and controls. The defensible Cascade response is an independent **day-and-night residential acoustic model**, considering **dBA, dBC, tonal peaks, spectral content, noise events, and background conditions**, with post-build verification. Keep **hearing conservation limits** distinct from **community sleep guidance**. Apply impact-based rules to **all similarly situated M-2 industries**, not only data centers.
+
+Selected primary studies:
+- Schaal et al. (2019), 24-hour carrier exposures: https://pubmed.ncbi.nlm.nih.gov/30855086/
+- Schaal et al. (2019), aircraft carrier berthing levels: https://pubmed.ncbi.nlm.nih.gov/31260521/
+- Rovig et al. (2004), carrier flight deck versus engineering and administrative hearing results: https://pubmed.ncbi.nlm.nih.gov/15281670/
+- Trost and Shaw (2007), 1979–2004 Navy service and hearing records: https://pubmed.ncbi.nlm.nih.gov/17484318/
+- Sunde et al. (2016), Norwegian Navy noise dosimetry and actigraphic sleep: https://pubmed.ncbi.nlm.nih.gov/26960785/
+- Matsangas and Shattuck (2021), U.S. Navy berthing habitability: https://pubmed.ncbi.nlm.nih.gov/32109155/
+- Chabal et al. (2024), U.S. submarine 30-day sleep study: https://pubmed.ncbi.nlm.nih.gov/38820921/
+- Trousselard et al. (2015), French submarine 70-day patrol: https://pubmed.ncbi.nlm.nih.gov/26016656/
+- Marshall et al. (2023), 72-hour inaudible infrasound controlled study: https://pmc.ncbi.nlm.nih.gov/articles/PMC10032045/
+
 ## Sources
 
 ### Iowa comparators
