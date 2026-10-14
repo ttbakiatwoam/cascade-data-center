@@ -60,6 +60,9 @@ On October 1, **Maquoketa Valley Electric Cooperative** described a capacity stu
 - [Forum utility section, approx. 16:20-23:02](../updates/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md)
 - [Preserved automated caption transcript](../../sources/community-forums/2026-10-01_simple-mining-community-forum_youtube-auto-captions.en.vtt)
 - [Grid/backup research](../impacts/09_ELECTRICITY_GRID_AND_BACKUP_POWER.md)
+- [CIPCO/MVEC primary-source comparison and unpublished Cascade study status](../impacts/32_CIPCO_MVEC_CAPACITY_CLAIMS_AND_STUDY_STATUS.md)
+
+**Separate generation from transmission.** CIPCO's February 2025 system-wide generation capacity shortfall does not by itself contradict MVEC's October 1 account of a joint study finding transmission headroom for Cascade. MVEC also expressly said Simple Mining must bring new generation. No publicly downloadable copy of the joint CIPCO/MVEC Cascade study was located through October 13, 2026; a direct CIPCO confirmation and the study or nonconfidential summary are outstanding.
 
 ## Objection 6: Do lithium-ion batteries present an uncontrollable fire risk?
 
