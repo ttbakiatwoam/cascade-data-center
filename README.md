@@ -19,6 +19,8 @@ A committee-friendly website is maintained from `docs/` and published through Gi
 | Advisory Committee recommendation package | [October 19 working package](proposals/CASCADE-ADVISORY-COMMITTEE-RECOMMENDATIONS-2026-10-19.md) — **draft for discussion** |
 | The proposed M-2 performance standards | [Draft amendment](proposals/DRAFT-ORDINANCE-M2-DATA-CENTER-PERFORMANCE-STANDARDS-2026-10-06.md) — **not adopted law** |
 | The cover email to the Mayor and City Council | [Prepared email text](#email-to-the-mayor-and-city-council) — October 6, 2026 |
+| Public concerns, responses, and source limits | [Issue-by-issue research](dataset/evidence/31_PUBLIC_OBJECTIONS_EVIDENCE_REVIEW.md) and [public site page](https://ttbakiatwoam.github.io/cascade-data-center/public-objections/) |
+| Battery technology, suppression, and firefighter guidance | [UPS batteries and fire safety](dataset/impacts/30_UPS_BATTERIES_LITHIUM_ION_FIRE_AND_SUPPRESSION.md) |
 | Every research note and the evidence rules | [Research index](dataset/00_INDEX.md) |
 | Public citations and preserved documents | [Source index](dataset/evidence/22_SOURCE_INDEX.md) and [source files](sources/README.md) |
 
