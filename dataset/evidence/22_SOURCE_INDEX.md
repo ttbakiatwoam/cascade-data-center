@@ -955,6 +955,20 @@ Original papers and study limits are detailed in [the naval research note](../im
 - **Marshall et al. (2023), The Health Effects of 72 Hours of Simulated Wind Turbine Infrasound** — Peer-reviewed controlled laboratory trial of *inaudible* simulated infrasound, cannot establish long-term effects of *audible* outdoor mechanical hum: https://pmc.ncbi.nlm.nih.gov/articles/PMC10032045/
 - **WHO, Night Noise Guidelines for Europe** — Official environmental health guideline, **not adopted Cascade law**; outdoor night average metric differs from U.S. Navy occupational hearing-recovery 70 dBA: https://www.who.int/europe/publications/i/item/9789289041737
 
+## LEED certification, data-center acoustic credits and exterior-noise pilot (USGBC)
+
+**Primary-source review as of 2026-10-13:** The project's *LEED goal* is not a verified certification, chosen acoustic credit, or legally enforceable neighborhood sound threshold. See [the complete LEED research note](../impacts/34_LEED_CERTIFICATION_ACOUSTICS_AND_EXTERIOR_NOISE.md) and [public website LEED/noise guide](../../docs/leed-and-noise.md).
+
+- **USGBC, LEED v4.1 BD+C Rating System, EQ Credit Acoustic Performance, Data Centers** — Official PDF; voluntary one-point credit assessing acoustic conditions **inside occupied spaces** (HVAC background, sound isolation, reverberation etc.), *not* an exterior residential boundary cap: https://www.usgbc.org/sites/default/files/2020-11/LEED-v41-BD-C-Rating-System_tracked_7-2020.pdf
+- **USGBC, LEED v5 BD+C Rating System, Occupant Experience / Sound Environment** — Official PDF; optional 1-2 point paths for indoor/outdoor acoustical expectations and measured/modelled criteria, not automatically a neighbor-property limit: https://www.usgbc.org/sites/default/files/2026-03/LEED%20v5%20BD%2BC%20Rating%20System_February%202026.pdf
+- **USGBC Help Center, Applying LEED to data center projects (updated August 7, 2026)** — Official eligibility and rating-system guidance; new data centers can pursue v4/v4.1 Data Centers or v5 BD+C New Construction under specific completion conditions: https://support.usgbc.org/hc/en-us/articles/12154267763987-Applying-LEED-to-data-center-projects
+- **USGBC, Enhanced Acoustical Performance – Exterior Noise Control (Pilot Credit 57)** — Official published pilot text: project noise at least **5 dBA below ambient Ldn** and **no more than 60 dBA** at nearest property line/right of way, with baseline and modelling. **Emergency equipment exempt** from numeric limits, but test plan requested. Availability/eligibility for Cascade unconfirmed: https://www.usgbc.org/sites/default/files/Enhanced%20acoustical%20performance%20-%20exterior%20noise%20control.pdf
+- **USGBC, Pilot Credits and Pilot ACPs** — Official guidance on pilot credit status and changes. Eligibility must be confirmed for any individual project: https://support.usgbc.org/hc/en-us/articles/4404108072211-Pilot-credits-and-pilot-alternative-compliance-paths-ACPs
+- **USGBC, separate Transit BD+C guidance** — Clarifies the **45 dBA 8-hour** residential-adjacent figure belongs to a transit-station rating guide; **not** the data center acoustic credit or the exterior noise pilot: https://www.usgbc.org/sites/default/files/BD%2BC_Transit_2018.pdf
+- **Simple Mining Cascade public forum, October 1, 2026** — Company representation of a LEED design target in [forum summary](../updates/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md); original source is an **uncertified automatic-caption transcript**, not proof of registration or awarded credits.
+
+**Correction maintained in dataset:** Do not attribute a universal **45 dBA eight-hour residential limit** to Pilot Credit 57. Its correct published benchmark is **5 dBA below pre-project ambient Ldn AND no more than 60 dBA**. Pilot 57 is **voluntary and not adopted City of Cascade zoning law**.
+
 ## Source-index maintenance rule
 
 When adding a new document:
