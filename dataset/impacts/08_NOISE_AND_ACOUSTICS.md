@@ -62,6 +62,26 @@ The World Health Organization's environmental and night-noise publications provi
 
 Consumer-device or household sound levels can help readers understand the decibel scale, but such comparisons should not be used as substitutes for a facility acoustic study. For example, ResMed publishes approximately 27 dBA sound-pressure level for an AirSense 11 configuration under its specified test standard. A single appliance measured near the device is acoustically different from multiple outdoor industrial sources operating continuously.
 
+## LEED certification: indoor acoustics versus exterior neighborhood sound
+
+At the October 1 forum, Simple Mining described pursuing **LEED certification as a design target**, not a completed certification, registered project or binding noise agreement. [See the detailed USGBC standards review, source links and eligibility cautions](34_LEED_CERTIFICATION_ACOUSTICS_AND_EXTERIOR_NOISE.md). A [public website explanation](../../docs/leed-and-noise.md) is also available.
+
+**Three separate standards should not be confused:**
+
+- **LEED v4.1 BD+C: Data Centers Acoustic Performance:** An **optional one-point** credit focused on acoustics **inside occupied project spaces**. Eligible spaces must meet two of the specified criteria addressing HVAC noise, sound transmission and reverberation/masking, as applicable. This does **not** create a property-line limit.
+- **LEED v5 BD+C: New Construction, Option 4 Sound Environment:** An **optional 1-2 point** acoustic pathway covering mapping indoor/outdoor sound expectations and, for its higher path, modeling or measuring sound in applicable occupied spaces. USGBC confirms v5 NC can be used for qualifying new data centers. It does **not** independently cap project noise at nearby residences.
+- **USGBC pilot credit, Enhanced Acoustical Performance – Exterior Noise Control (Pilot 57):** A voluntary **exterior** noise model intended to avoid negative impacts. The published pilot asks for project noise **at least 5 dBA below pre-project ambient Ldn**, with **a 60 dBA maximum**, evaluated at the nearest property line or public right of way. It requests a preconstruction ambient sound assessment, noise calculations, mitigation narrative and **emergency generator testing plan**. The pilot *exempts emergency equipment from its numeric limit*. Its ongoing availability and eligibility for this particular Cascade project **are not verified**.
+
+**Important numeric correction:** Pilot 57 does **not** state a universal **45 dBA over eight hours at a residential boundary**. That value comes from other LEED guidance for **transit stations**. It must not be attributed to the exterior-noise pilot or this data-center proposal.
+
+Even if a project earns LEED certification, its chosen credits may have **no enforceable residential nighttime or low-frequency dBC standard**. The City can separately consider **neutral impact-based standards for all similarly situated M-2 businesses**, including independent modeling at nearby homes, maximum hot-weather cooling, nighttime conditions, dBA and dBC, prominent tones, postconstruction testing, and generator testing hours. The LEED pilot is a **possible technical comparator**, not automatically adopted Cascade law.
+
+Primary USGBC documents:
+- [LEED v4.1 BD+C rating system, Data Centers Acoustic Performance](https://www.usgbc.org/sites/default/files/2020-11/LEED-v41-BD-C-Rating-System_tracked_7-2020.pdf)
+- [LEED v5 BD+C rating system, Sound Environment](https://www.usgbc.org/sites/default/files/2026-03/LEED%20v5%20BD%2BC%20Rating%20System_February%202026.pdf)
+- [USGBC pilot credit, Exterior Noise Control](https://www.usgbc.org/sites/default/files/Enhanced%20acoustical%20performance%20-%20exterior%20noise%20control.pdf)
+- [USGBC application to data centers](https://support.usgbc.org/hc/en-us/articles/12154267763987-Applying-LEED-to-data-center-projects)
+
 ## Cooling equipment may cycle or change speed: continuous workload is not fixed noise
 
 **Acoustical distinction:** Data centers produce heat continuously while computing, but **individual cooling components do not necessarily run at a fixed speed or duty cycle**. Refrigerant compressors (where installed) can stage, modulate, or stop when other cooling methods suffice; outdoor dry-cooler/air-cooled-condenser fans can stage or use variable-speed drives, and fans, pumps and transformers may still operate while compressors are off. Neither continuous operation of the facility nor a changing control sequence establishes a constant external sound level.
