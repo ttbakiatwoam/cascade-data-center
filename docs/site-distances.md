@@ -8,7 +8,7 @@ permalink: /site-distances/
 
 Two images help answer this question. The **September 25, 2026 preliminary concept** places the proposed building, cooling yard, electrical yard and substation within the Simple Mining site. A **Dubuque County parcel-map screenshot** marks the land between that site and the houses east of it as **400.50 feet wide**.
 
-The proposed building is set back within the Simple Mining parcel, so the building-to-house distance is **more than 400.5 feet**.
+The presentation also states that the main building is **216–291 feet from every property line**, is about **25 feet tall at the eave and 31 feet at the peak**, and has a proposed **tree row along the east side**. These are developer statements about a concept, not as-built measurements. The building is set back within the Simple Mining parcel, so the building-to-house distance is **more than 400.5 feet**.
 
 ## Approximate separation to the nearest visible home
 
