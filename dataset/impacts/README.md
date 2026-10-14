@@ -4,6 +4,7 @@
 
 - [`07_WATER_AND_COOLING.md`](07_WATER_AND_COOLING.md) — Closed-loop terminology, water-use variability, dry/evaporative/adiabatic heat rejection, company claims, and project-specific evidence needs.
 - [`08_NOISE_AND_ACOUSTICS.md`](08_NOISE_AND_ACOUSTICS.md) — dBA/dBC, tonal and low-frequency noise, propagation, Iowa comparator limits, WHO/FHWA references, and recommended testing.
+- [`33_NAVAL_SHIPBOARD_NOISE_SLEEP_AND_LONG_DURATION_EXPOSURE.md`](33_NAVAL_SHIPBOARD_NOISE_SLEEP_AND_LONG_DURATION_EXPOSURE.md) — Original studies of carrier occupational noise, measured naval cabin sleep, cumulative shipboard hearing loss, 30- and 70-day submarine missions, and evidence limits for Cascade.
 - [`09_ELECTRICITY_GRID_AND_BACKUP_POWER.md`](09_ELECTRICITY_GRID_AND_BACKUP_POWER.md) — Data-center load growth, Cascade-specific MW gaps, ratepayer protection, grid upgrades, generators, UPS, and batteries.
 - [`32_CIPCO_MVEC_CAPACITY_CLAIMS_AND_STUDY_STATUS.md`](32_CIPCO_MVEC_CAPACITY_CLAIMS_AND_STUDY_STATUS.md) — Primary CIPCO and MVEC statements on generation versus transmission capacity, October 1 forum excerpts, and the missing Cascade-specific utility study.
 - [`10_AGRICULTURE_GREENHOUSES_AND_LAND_USE.md`](10_AGRICULTURE_GREENHOUSES_AND_LAND_USE.md) — Iowa agriculture, nutrient/runoff context, greenhouse and hydroponic water demand, and disciplined land-use comparison.
