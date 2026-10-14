@@ -76,6 +76,8 @@ Cryptocurrency-mining loads can sometimes be more interruptible than conventiona
 
 ## Backup generation, UPS, and batteries
 
+For detailed research on central versus tenant/rack UPS, lead-acid and lithium-ion costs, fire suppression, firefighter response, and NFPA/UL safety measures, see [UPS Batteries, Lithium-Ion Fires, and Data-Center Fire Protection](30_UPS_BATTERIES_LITHIUM_ION_FIRE_AND_SUPPRESSION.md). No actual battery chemistry or UPS capacity is established for Cascade.
+
 Backup-power systems can create separate local impacts from normal grid consumption:
 
 - generator count and MW;
