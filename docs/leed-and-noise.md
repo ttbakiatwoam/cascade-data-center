@@ -16,13 +16,23 @@ At the **October 1, 2026 public forum**, Simple Mining described **LEED certific
 | --- | --- | --- |
 | **LEED v4.1 Building Design + Construction: Data Centers** | Optional **one-point Acoustic Performance credit** for **occupied indoor spaces** including HVAC background sound, transmission isolation and reverberation. | Does not establish an outdoor property-line noise limit for adjacent homes. |
 | **LEED v5 Building Design + Construction: New Construction** | Optional **Sound Environment** design pathway worth 1–2 points, considering indoor and outdoor acoustic expectations, with modeling or measurements for higher credit. USGBC lists v5 New Construction as a possible data-center path. | Does not automatically cap noise at neighboring homes or enforce ongoing sound levels. |
-| **LEED Pilot Credit 57: Exterior Noise Control** | Voluntary exterior-noise benchmark: **project sound at least 5 dBA below pre-project ambient Ldn and no more than 60 dBA** at the nearest property line or public right of way. Calls for baseline measurements, projected equipment-noise calculations and a mitigation narrative. | Pilot eligibility and current availability for this data-center project are **unverified**. This is **not adopted Cascade law**, and the pilot exempts emergency-generator noise from its numeric threshold while requiring a testing plan. |
+| **LEED Pilot Credit 57: Exterior Noise Control** | **An optional pilot with revised criteria.** The **2011 original** used **5 dBA below pre-project ambient Ldn and a 60 dBA ceiling**. Its **2015 revision** instead limits project sound to **45 dBA Leq(8h)** at boundaries adjoining residential buildings, with **Lmax no greater than existing ambient or 60 dBA**. Other boundaries use **60 dBA Ldn/CNEL**. | A voluntary credit, **not required for LEED certification** or current City of Cascade law. Project eligibility remains unconfirmed. Emergency-generator noise is exempt from the numeric credit limits, but a testing plan is required. |
 
 [Official LEED v4.1 rating system](https://www.usgbc.org/sites/default/files/2020-11/LEED-v41-BD-C-Rating-System_tracked_7-2020.pdf) · [Official LEED v5 rating system](https://www.usgbc.org/sites/default/files/2026-03/LEED%20v5%20BD%2BC%20Rating%20System_February%202026.pdf) · [USGBC exterior pilot PDF](https://www.usgbc.org/sites/default/files/Enhanced%20acoustical%20performance%20-%20exterior%20noise%20control.pdf)
 
-### A correction about the 45 dBA figure
+### Two versions of the exterior noise pilot
 
-The exterior-noise pilot **does not** set a universal **45 dBA eight-hour limit** for data centers. That figure appeared in a separate LEED **transit-station** rating guide. **Do not combine it with the USGBC Exterior Noise Control pilot.** The pilot's actual criteria are relative to **existing ambient day-night sound levels (Ldn)** and impose a **60 dBA ceiling**. Local codes may use different dBA, dBC and nighttime measurements.
+[The original 2011 USGBC pilot PDF](https://s3.amazonaws.com/legacy.usgbc.org/usgbc/docs/Archive/General/Docs10404.pdf) required new project sound to be at least **5 dBA below existing ambient Ldn**, with a **60 dBA maximum** at the nearest property boundary/right of way.
+
+The [revised 2015 pilot wording and change log](https://leeduser.buildinggreen.com/credit/Pilot-Credits/EQpc57) instead call for **45 dBA Leq(8h)** at boundaries adjoining residential buildings and **Lmax no greater than existing ambient or 60 dBA**, with **60 dBA Ldn/CNEL** for other boundaries. It requests a baseline sound assessment and a generator-testing plan. The credit remains voluntary, with Cascade eligibility/registration unverified.
+
+### Existing industrial noise near Cascade homes
+
+During the **October 1 forum**, near **1:24:26**, a resident said she could hear workers at a nearby building when her doors were open. The [original automated transcript](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/sources/community-forums/2026-10-01_simple-mining-community-forum_youtube-auto-captions.en.vtt) does **not clearly name that business**.
+
+A personal meter reading of about **60 dB** was also reported, but its weighting, time, location, duration and instrument calibration were not established. It is **not a certified 60 dBA Ldn or Leq(8h) baseline**. A [January 8, 2026 federal job posting for Cascade Lumber Company](https://seasonaljobs.dol.gov/jobs/H-400-25364-516568) documents planned truss assembly with hammers, staple guns and nailing, including a schedule ending at **1 a.m.** It does not establish continuous 24/7 machine operation.
+
+The resident's statement demonstrates that **industrial sound already reaches some homes**. It does **not prove that every industrial business between the source and those homes is audible**, or that residents lose their right to object to additional sound. To evaluate a new project, measure existing industrial noise at different times, identify likely sources, and predict **both added and combined noise** at the homes. Neutral M-2 rules should apply consistently to businesses creating comparable impacts.
 
 ## What this means for the proposed facility
 
