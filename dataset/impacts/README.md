@@ -5,6 +5,7 @@
 - [`07_WATER_AND_COOLING.md`](07_WATER_AND_COOLING.md) — Closed-loop terminology, water-use variability, dry/evaporative/adiabatic heat rejection, company claims, and project-specific evidence needs.
 - [`08_NOISE_AND_ACOUSTICS.md`](08_NOISE_AND_ACOUSTICS.md) — dBA/dBC, tonal and low-frequency noise, propagation, Iowa comparator limits, WHO/FHWA references, and recommended testing.
 - [`09_ELECTRICITY_GRID_AND_BACKUP_POWER.md`](09_ELECTRICITY_GRID_AND_BACKUP_POWER.md) — Data-center load growth, Cascade-specific MW gaps, ratepayer protection, grid upgrades, generators, UPS, and batteries.
+- [`32_CIPCO_MVEC_CAPACITY_CLAIMS_AND_STUDY_STATUS.md`](32_CIPCO_MVEC_CAPACITY_CLAIMS_AND_STUDY_STATUS.md) — Primary CIPCO and MVEC statements on generation versus transmission capacity, October 1 forum excerpts, and the missing Cascade-specific utility study.
 - [`10_AGRICULTURE_GREENHOUSES_AND_LAND_USE.md`](10_AGRICULTURE_GREENHOUSES_AND_LAND_USE.md) — Iowa agriculture, nutrient/runoff context, greenhouse and hydroponic water demand, and disciplined land-use comparison.
 - [`11_ENVIRONMENTAL_AND_CARBON_SCENARIOS.md`](11_ENVIRONMENTAL_AND_CARBON_SCENARIOS.md) — Environmental comparison framework and explicitly hypothetical carbon/energy scenarios.
 - [`12_JOBS_TAXES_AND_COMMUNITY_BENEFITS.md`](12_JOBS_TAXES_AND_COMMUNITY_BENEFITS.md) — Construction vs. permanent employment, workforce development, property tax, incentives, clawbacks, and community-benefit concepts.
