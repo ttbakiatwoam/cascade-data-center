@@ -52,18 +52,27 @@ Primary: https://pubmed.ncbi.nlm.nih.gov/15281670/ ; DOI https://doi.org/10.7205
 
 Primary: https://pubmed.ncbi.nlm.nih.gov/30457491/
 
+### 4a. Trost and Shaw (2007), *Statistical Analysis of Hearing Loss among Navy Personnel*
+
+- **Design:** Retrospective examination of hearing-test records from **nearly 268,000 enlisted sailors** covering **1979-2004**, linked to occupational station assignments. The authors modeled hearing risk against time spent aboard surface warships versus time ashore.
+- **Results:** In the authors' modeled comparison, spending **one-half of a 30-year career** assigned to a surface warship corresponded to a **13-percentage-point higher estimated probability** of reduced hearing at separation than a shore-only career. This is a modeled comparison, **not an observed longitudinal cohort continuously wearing sound monitors for 30 years**.
+- **Interpretation:** Stronger evidence about cumulative naval occupational **hearing** risk than several-day sound-level snapshots, and a relevant response to claims that all naval evidence covers only 72 hours.
+- **Limit:** Does **not** isolate sound frequency, berthing exposure, submariner sleep, or modest outdoor residential noise. The sample selection and duration are not equivalent to the proposed data center. A separate 2005 CNA report summarized a differently constructed study cohort and should not be conflated with the 2007 published article.
+
+Primary: https://pubmed.ncbi.nlm.nih.gov/17484318/ ; DOI https://doi.org/10.7205/MILMED.172.4.426
+
 ## Naval berthing, measured nighttime sound and well-being
 
 ### 5. Royal Norwegian Navy (2016), *Noise and Sleep on Board Vessels in the Royal Norwegian Navy*
 
-- **Design:** **68** sailors across **21 vessels** contributing **83 monitored sleep periods**. Researchers measured cabin noise with dosimeters and sleep activity with actigraphy, with statistical adjustment for selected factors.
+- **Design:** **68** sailors recruited across **21 vessels** (20 represented in the analyzed sample) contributing **83 monitored sleep periods**. Researchers measured cabin noise with dosimeters and sleep activity with actigraphy, with statistical adjustment for selected factors.
 - **Results:** Equivalent sound levels and noise events per hour were associated with greater movement during sleep. More noise events per hour were associated with reduced sleep efficiency.
 - **Interpretation:** **Direct objective evidence** that nighttime shipboard noise can disturb sleep. A continuous average alone may miss the importance of events and peaks.
 - **Limit:** Observational association; vessel mix should **not** be labeled exclusively submarines or carriers. Results cannot establish long-term disease caused by a particular low-frequency sound.
 
 Primary: https://pubmed.ncbi.nlm.nih.gov/26960785/ ; free text https://pmc.ncbi.nlm.nih.gov/articles/PMC4918679/
 
-### 6. Matsangas et al. (2020), *Habitability in Berthing Compartments and Well-Being of Sailors Working on U.S. Navy Surface Ships*
+### 6. Matsangas and Shattuck (published online 2020; journal issue 2021), *Habitability in Berthing Compartments and Well-Being of Sailors Working on U.S. Navy Surface Ships*
 
 - **Design:** Naturalistic longitudinal study with **1,269 sailors aboard six surface ships**. Sailors reported noise, light, temperature, and other sleeping-area conditions; sleep and mood were assessed with questionnaires and actigraphy.
 - **Results:** Noise was among the frequently reported habitability concerns. Greater numbers of habitability complaints were associated with more daytime sleepiness, insomnia symptoms, poorer perceived sleep quality, and worse mood.
