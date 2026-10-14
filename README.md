@@ -23,6 +23,7 @@ A committee-friendly website is maintained from `docs/` and published through Gi
 | Public concerns, responses, and source limits | [Issue-by-issue research](dataset/evidence/31_PUBLIC_OBJECTIONS_EVIDENCE_REVIEW.md) and [public site page](https://ttbakiatwoam.github.io/cascade-data-center/public-objections/) |
 | Battery technology, suppression, and firefighter guidance | [UPS batteries and fire safety](dataset/impacts/30_UPS_BATTERIES_LITHIUM_ION_FIRE_AND_SUPPRESSION.md) |
 | Extended naval noise, hearing, shipboard sleep and submarine deployment studies | [Noise and sleep evidence](dataset/impacts/33_NAVAL_SHIPBOARD_NOISE_SLEEP_AND_LONG_DURATION_EXPOSURE.md) |
+| LEED acoustics and neighborhood exterior-noise criteria | [Detailed research](dataset/impacts/34_LEED_CERTIFICATION_ACOUSTICS_AND_EXTERIOR_NOISE.md) and [website guide](https://ttbakiatwoam.github.io/cascade-data-center/leed-noise/) |
 | Every research note and the evidence rules | [Research index](dataset/00_INDEX.md) |
 | Public citations and preserved documents | [Source index](dataset/evidence/22_SOURCE_INDEX.md) and [source files](sources/README.md) |
 
