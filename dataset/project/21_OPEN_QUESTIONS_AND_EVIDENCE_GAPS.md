@@ -2,7 +2,7 @@
 
 > This file is a living evidence tracker. “Unknown” means the reviewed public record does not yet establish the answer; it does not imply that the information does not exist or that the applicant has refused to provide it.
 >
-> Last reviewed: 2026-10-06
+> Last reviewed: 2026-10-13
 
 ## Status vocabulary
 
@@ -52,6 +52,9 @@ Early March trade reporting described approximately four acres and around 40 con
 | Substation/feeder/transmission upgrades | Represented / preliminary | Utility representative said transmission capacity was adequate and project-driven upgrades would be identified through utility engineering |
 | Upgrade cost | Unknown | Utility/development agreement |
 | Who pays project-driven electrical infrastructure | Represented | Utility representative said Simple Mining would pay 100% of transmission, substation, and distribution upgrades upfront, subject to true-up; written agreement needed |
+| CIPCO–MVEC joint Cascade transmission/capacity study | Referenced at October 1 forum; report not publicly located as of October 13 | Study or nonconfidential executive summary; study date/ID, assumptions, modeled contingencies, written conclusion, required upgrades, and confirmation directly from CIPCO |
+| Dedicated or contracted new generation to support approximately 40 MW | Required according to MVEC forum statement; not confirmed as procured | Source, procurement schedule, capacity accreditation, power supply/tariff, and commitment documents |
+| CIPCO statement specifically rejecting Cascade electrical service | Not established by attributable public record reviewed | Dated official CIPCO minutes, speaker, written statement, or decision identifying Cascade and the specific capacity constraint |
 | Demand-response/curtailment participation | Unknown | Utility tariff/contract |
 | Backup generation capacity | Partially represented | About 15 diesel backup generators were estimated; exact MW, models, fuel storage, and air permit remain needed |
 | UPS/BESS type and capacity | Unknown | Electrical/fire plans |
