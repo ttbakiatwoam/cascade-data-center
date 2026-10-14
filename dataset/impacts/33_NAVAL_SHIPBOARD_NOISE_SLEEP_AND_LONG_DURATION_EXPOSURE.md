@@ -126,6 +126,14 @@ A 2016 systematic review of **seven observational studies** found associations b
 
 Primary: https://pubmed.ncbi.nlm.nih.gov/26994804/
 
+## The proposed Cascade cooling system may not create a fixed-amplitude hum
+
+The Navy studies concern **measured shipboard sound** under specific watch patterns and machinery operating states. They do not justify treating a proposed data-center cooling system as either **always equally loud** or **regularly silent**. Servers generate heat all day, while particular dry-cooler fans, pumps and other systems may run at varying speeds, cycle, or stage based on load and air temperature. Some data-center refrigeration arrangements can bypass compressors in free-cooling modes. A dry cooler itself does **not necessarily contain a refrigerant compressor**. At the October 1 forum, Simple Mining described air-cooled dry heat rejection, but did not provide definitive models or control sequences.
+
+The proper acoustic analysis should distinguish a **steady background tone** from time-varying sound and start/stop events, accounting for the **worst modeled full-load summertime case**, cooler periods, nighttime low background, pumps and transformer noise. No naval result can replace verified Cascade equipment specifications and measurements.
+
+Engineering references: [ENERGY STAR data-center fan-speed controls](https://www.energystar.gov/products/data_center_equipment/5-simple-ways-avoid-energy-waste-your-data-center/replace-standard-fans-variable-speed-fans), [DOE data-center economizing](https://www.energy.gov/cmei/femp/cooling-water-efficiency-opportunities-federal-data-centers), [ASHRAE dry cooling and variable-speed recommendations](https://www.ashrae.org/technical-resources/topics-and-initiatives/ai-data-center/energy-and-thermal-efficiency).
+
 ## What can and cannot be inferred for Cascade
 
 | Proposed inference | Evidence assessment |
