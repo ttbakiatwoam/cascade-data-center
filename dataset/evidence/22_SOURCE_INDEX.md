@@ -2,7 +2,7 @@
 
 > This index consolidates public URLs cited, quoted, or used as research references in the Cascade Data Center project. It intentionally excludes Facebook posts/comments, private messages, private correspondence, screenshots containing personal information, law-enforcement correspondence, individual contact details, and other personally identifying material.
 >
-> Last reviewed: 2026-10-06
+> Last reviewed: 2026-10-13
 
 ## Source classification
 
@@ -922,6 +922,19 @@ The topical research files below provide the full context, limitations, engineer
 ### Existing municipal generation comparison
 
 - Cascade Municipal Utilities Board minutes, August 12, 2026 — **Local public-record payment listing**, McDermott Oil Co. $14,375.18. **Not an itemized invoice or proven engine runtime:** https://www.cityofcascade.org/vimages/shared/vnews/stories/6959ce8e9353c/8-12-2026%20%20Meeting%20Minutes.pdf
+
+## CIPCO and MVEC electric-capacity source record (2025–2026)
+
+These sources concern different technical questions. The **Cascade-specific CIPCO/MVEC study remains unpublished/not located** as of October 13, 2026. Refer to [the detailed comparison](../impacts/32_CIPCO_MVEC_CAPACITY_CLAIMS_AND_STUDY_STATUS.md) for a claim-level evidence table and direct forum timestamps.
+
+- **CIPCO, February 24, 2025, `IRP Verifies New Generation Needed`** — Primary / official; system-wide generating capacity shortfall above 150 MW and 2030 need, not a Cascade service refusal: https://www.cipco.net/news/irp-verifies-new-generation-needed
+- **ACES/CIPCO capacity RFP, January 20, 2026** — Primary / published procurement notice for MISO Zone 3 capacity through 2029/30, not a local transmission feasibility study: https://www.naema.com/news/aces---cipco---miso-capacity-rfp
+- **MVEC, 2026 Annual Meeting (August 20, recap September 11)** — Primary / cooperative recap; CEO discussed large loads and rates: https://www.mvec.coop/2026-annual-meeting
+- **MVEC, CEO Insights, September 11, 2026, Jeremy Richert** — Primary / CEO's statement describing joint large-load assessment with CIPCO and customer funding of infrastructure: https://www.mvec.coop/ceo-insights
+- **MVEC, Power Source** — Primary / official statement confirming MVEC's CIPCO membership and wholesale supply relationship: https://mvec.coop/power-source
+- **CIPCO, Hickory Grove Generating Station** — Primary / official; proposed 240 MW peaking resource expected late 2029 and explicitly not tied to any single data center: https://www.cipco.net/hickory-grove-generating-station
+- **MVEC CEO Richert, October 1, 2026 Cascade forum, about 17:28–22:59** — Original public meeting statements as captured by **uncertified YouTube automatic captions**, preserved in [raw .vtt](../../sources/community-forums/2026-10-01_simple-mining-community-forum_youtube-auto-captions.en.vtt). Describes joint study, transmission adequate for about 40 MW, required new generation, developer-paid upgrades, no signed service contract. Requires verification against recording for exact verbatim quotes.
+- **Cascade-specific joint CIPCO/MVEC study** — **MISSING DOCUMENT** as of 2026-10-13; request directly from CIPCO and MVEC; do not substitute the CIPCO system-wide IRP.
 
 ## Source-index maintenance rule
 
