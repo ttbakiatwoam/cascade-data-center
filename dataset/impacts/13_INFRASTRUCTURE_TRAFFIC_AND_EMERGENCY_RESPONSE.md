@@ -68,6 +68,10 @@ Industrial structures, equipment yards, roads, and parking increase impervious a
 
 ## Fire and emergency response
 
+The separate [UPS, lithium-ion/lead-acid battery, fire suppression, and firefighter response research](30_UPS_BATTERIES_LITHIUM_ION_FIRE_AND_SUPPRESSION.md) addresses hazard mechanisms, actual documented incidents, suppression limits, UL/NFPA standard scope, and unresolved design/ownership details for Cascade.
+
+**Important:** A leased rack and private ownership do not remove the site's fire/building/electrical code obligations. The October 1 forum did not identify the final UPS battery chemistry or a separate BESS.
+
 Data-center emergency planning should be based on the actual equipment installed. Potential hazards include:
 
 - electrical faults/arc hazards;
