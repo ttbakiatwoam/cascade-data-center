@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 660" role="img" aria-labelledby="title desc">
+<title id="title">Illustrative tracing of the September 25 2026 Simple Mining site concept</title>
+<desc id="desc">Site concept showing Industrial Street access on the west, regional basin on the northwest, substation southwest, rectangular main building, cooling yard north, electrical yard south, drive loop, and an eastern tree row.</desc>
+<rect width="1080" height="660" fill="#f7f9f8"/>
+<text x="34" y="46" fill="#13283b" font-size="27" font-weight="700" font-family="Arial,sans-serif">Proposed Cascade site: preliminary concept</text>
+<text x="34" y="73" fill="#64748b" font-size="16" font-family="Arial,sans-serif">Diagram redrawn from the labeled Fehr Graham concept, Sept. 25, 2026. Not a construction drawing.</text>
+<path d="M165 137 L917 111 L923 548 L612 552 L610 615 L166 625 Z" fill="#f1efe5" stroke="#424d54" stroke-width="4"/>
+<rect x="87" y="139" width="57" height="475" fill="#909ca5"/>
+<text x="120" y="510" font-family="Arial,sans-serif" font-size="20" fill="#fff" text-anchor="middle" transform="rotate(-90 120 510)">Industrial Street SE</text>
+<path d="M152 280 L215 280 L253 200 L760 200 Q863 200 863 284 L863 459 Q863 503 814 503 L261 503 Q210 503 210 455 L210 353 L152 353" fill="none" stroke="#8d9190" stroke-width="60" stroke-linejoin="round"/>
+<path d="M152 280 L215 280 L253 200 L760 200 Q863 200 863 284 L863 459 Q863 503 814 503 L261 503 Q210 503 210 455 L210 353 L152 353" fill="none" stroke="#d5d7d5" stroke-width="45" stroke-linejoin="round"/>
+<rect x="285" y="236" width="476" height="71" fill="#e9c58e" stroke="#a36a1f" stroke-width="3"/>
+<text x="520" y="279" font-family="Arial,sans-serif" font-size="25" font-weight="700" text-anchor="middle" fill="#68400c">Cooling yard</text>
+<rect x="250" y="318" width="481" height="113" fill="#9addd5" stroke="#137c78" stroke-width="4"/>
+<text x="490" y="361" font-family="Arial,sans-serif" font-size="28" font-weight="700" text-anchor="middle" fill="#124742">Main building</text>
+<text x="490" y="392" font-family="Arial,sans-serif" font-size="22" text-anchor="middle" fill="#124742">480 × 125 ft</text>
+<rect x="301" y="442" width="436" height="55" fill="#c9b5e7" stroke="#7351a2" stroke-width="3"/>
+<text x="518" y="478" font-family="Arial,sans-serif" font-size="23" font-weight="700" text-anchor="middle" fill="#41306f">Electrical yard</text>
+<rect x="242" y="530" width="219" height="83" fill="#bbd1ed" stroke="#4e78b2" stroke-width="3"/>
+<text x="350" y="578" font-family="Arial,sans-serif" font-size="25" font-weight="700" text-anchor="middle" fill="#2a5185">Substation</text>
+<rect x="271" y="111" width="214" height="59" fill="#cee0e1" stroke="#719b9b" stroke-width="2"/>
+<text x="378" y="137" font-family="Arial,sans-serif" font-size="21" text-anchor="middle" fill="#405a60">Regional basin</text>
+<g fill="#4f9668"><circle cx="892" cy="179" r="12"/><circle cx="892" cy="221" r="12"/><circle cx="892" cy="264" r="12"/><circle cx="892" cy="307" r="12"/><circle cx="892" cy="351" r="12"/><circle cx="892" cy="394" r="12"/><circle cx="892" cy="438" r="12"/></g>
+<text x="935" y="337" font-family="Arial,sans-serif" font-size="19" fill="#28744f" transform="rotate(90 935 337)">Tree row</text>
+<text x="74" y="125" font-family="Arial,sans-serif" font-size="16" fill="#5b6470">Street access</text>
+</svg>

@@ -63,6 +63,7 @@ The original document numbers are retained for continuity; folders group related
 - [`01_PROJECT_OVERVIEW_AND_TIMELINE.md`](project/01_PROJECT_OVERVIEW_AND_TIMELINE.md) — Public project chronology and distinction between documented facts and unresolved design questions.
 - [`02_SIMPLE_MINING_AND_PROJECT_SCOPE.md`](project/02_SIMPLE_MINING_AND_PROJECT_SCOPE.md) — Simple Mining's public business model, hosting operations, Cascade reporting, and project-scope gaps.
 - [`21_OPEN_QUESTIONS_AND_EVIDENCE_GAPS.md`](project/21_OPEN_QUESTIONS_AND_EVIDENCE_GAPS.md) — Living tracker of what is documented, represented, preliminary, unknown, or in need of legal review.
+- [`35_PRELIMINARY_FACILITY_TO_HOME_DISTANCES_2026-10-13.md`](project/35_PRELIMINARY_FACILITY_TO_HOME_DISTANCES_2026-10-13.md) — Preliminary screenshot-based measurements between proposed equipment and nearby rooflines, with uncertainty and method.
 - [`29_SIMPLE_MINING_SITE_PARCEL_AND_ZONING.md`](project/29_SIMPLE_MINING_SITE_PARCEL_AND_ZONING.md) — Dubuque County and City ArcGIS verification of the current Simple Mining parcel, 15.22-acre site area, ownership/acquisition, assessment record, M-2 Heavy Industrial designation, and the older parcel-PIN reference retained in the zoning layer.
 
 ### Local impacts and community protections

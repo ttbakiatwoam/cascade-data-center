@@ -40,9 +40,15 @@ This page reviews recurring questions about the proposed Cascade data center wit
 
 ## Setbacks and nearby homes
 
-The project-generated **draft** proposes a 100-foot building setback and a 200-foot setback for significant exterior equipment relative to certain **residential zoning boundaries**, not house front doors. The company described preliminary building setbacks around **216-291 feet** in parts of its October 1 plan. **Distances from the actual sound sources to individual homes remain unverified.** Sound from an ideal point source generally drops about 6 dB each time distance doubles; final noise needs an engineered site model.
+A comparison of the **September 25 preliminary site concept** with a **Dubuque County parcel screenshot** now permits an **approximate**, not surveyed, measurement. The separate parcel between Simple Mining's eastern lot line and residential lot lines is **400.50 feet** wide. Nearby houses sit farther east, while the facilities sit farther west inside Simple Mining's own parcel.
 
-[Draft setback and acoustic requirements](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/proposals/DRAFT-ORDINANCE-M2-DATA-CENTER-PERFORMANCE-STANDARDS-2026-10-06.md) · [Current parcel evidence](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/dataset/project/29_SIMPLE_MINING_SITE_PARCEL_AND_ZONING.md)
+The estimated closest roofline distances are **roughly 610 feet from the cooling yard**, **640 feet from the electrical yard**, **670 feet from the main 480 × 125-foot building**, and **1,020 feet from the substation**. These figures carry roughly **50–100 feet or more of uncertainty** and may change when the final layout and survey are available. The outdoor cooling equipment appears closer to homes than the building wall.
+
+The project-generated **draft** proposes 100-foot building setbacks and 200-foot significant-equipment setbacks at specified **residential zoning boundaries**. Those draft numbers are not existing City law and should not be confused with home-to-equipment distances.
+
+**Distance cannot establish audibility, sleep effects or compliance.** Require a final surveyed layout and independent acoustic modeling and verification at occupied homes, with dBA, dBC, tonal components and nighttime operating conditions.
+
+[Detailed method and illustrated measurements]({{ '/site-distances/' | relative_url }}) · [Full research dataset](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/dataset/project/35_PRELIMINARY_FACILITY_TO_HOME_DISTANCES_2026-10-13.md) · [Draft setback and acoustic requirements](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/proposals/DRAFT-ORDINANCE-M2-DATA-CENTER-PERFORMANCE-STANDARDS-2026-10-06.md)
 
 ## Diesel generators and emissions
 

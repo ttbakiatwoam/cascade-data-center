@@ -13,6 +13,7 @@ A committee-friendly website is maintained from `docs/` and published through Gi
 | To find… | Start with… |
 | --- | --- |
 | Project background and chronology | [Project overview and timeline](dataset/project/01_PROJECT_OVERVIEW_AND_TIMELINE.md) |
+| Preliminary distances from cooling, building and substation to nearby homes | [Illustrated site-distance page](https://ttbakiatwoam.github.io/cascade-data-center/site-distances/) and [calculation](dataset/project/35_PRELIMINARY_FACILITY_TO_HOME_DISTANCES_2026-10-13.md) |
 | Site ownership, parcel, and zoning evidence | [Site parcel and zoning](dataset/project/29_SIMPLE_MINING_SITE_PARCEL_AND_ZONING.md) |
 | What is documented, preliminary, or still unknown | [Open questions and evidence gaps](dataset/project/21_OPEN_QUESTIONS_AND_EVIDENCE_GAPS.md) |
 | October 1 forum statements and caveats | [Forum record](dataset/updates/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md) |

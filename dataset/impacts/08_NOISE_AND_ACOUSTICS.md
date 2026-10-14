@@ -193,3 +193,9 @@ Selected primary studies:
 - Noise Pollution Clearinghouse — Household noise levels: https://www.nonoise.org/library/household/
 - CDC — What Causes Noise-Induced Hearing Loss: https://www.cdc.gov/hearing-loss/causes/
 - ResMed — AirSense 11 User Guide / declared sound values: https://document.resmed.com/documents/products/machine/airsense-11/user-guide/398291_airsense-11_user-guide_amer_multi.pdf
+
+## Preliminary site distances, October 13, 2026
+
+The September 25 preliminary concept and an October 13 county-parcel screenshot indicate a separate **400.50-foot** parcel between the Simple Mining east lot line and residential lot lines. After allowing for the visible roofline setback and the proposed structures' own setback inside the Simple Mining parcel, a project-generated screening estimate is **~610 ft cooling yard**, **~640 ft electrical yard**, **~670 ft main building**, and **~1,020 ft substation** to a nearby visible roofline. These are **not surveyed measurements**. The approximate building location can shift with final design, and the equipment edges are partly obscured by annotation labels.
+
+These distances improve receptor selection for a future acoustic study but **cannot predict sound exposure** by themselves. See [the fully documented scale and plan assumptions](../project/35_PRELIMINARY_FACILITY_TO_HOME_DISTANCES_2026-10-13.md) and [the public illustrated page](../../docs/site-distances.md).

@@ -35,6 +35,7 @@ CIPCO's system-wide need for additional **generation** is not the same question 
 
 ## Site, parcel, and zoning
 
+- [Preliminary facility-to-home distances and image-scale method]({{ '/site-distances/' | relative_url }})
 - [Simple Mining parcel, ownership, and zoning record](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/dataset/project/29_SIMPLE_MINING_SITE_PARCEL_AND_ZONING.md)
 - [Cascade zoning and local authority research](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/dataset/policy/04_CASCADE_ZONING_AND_LOCAL_AUTHORITY.md)
 
