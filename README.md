@@ -6,7 +6,7 @@ The working position of this independent community project is **pro-data-center 
 
 ## Committee website
 
-A committee-friendly website is maintained from `docs/` and published through GitHub Pages. The expected public URL is **https://ttbakiatwoam.github.io/cascade-data-center/** once Pages is enabled for GitHub Actions in repository settings. The next proposed Data Center Advisory Committee meeting date is **October 19, 2026**.
+A committee-friendly website is maintained from `docs/` and published through GitHub Pages. The expected public URL is **https://ttbakiatwoam.github.io/cascade-data-center/** once Pages is enabled for GitHub Actions in repository settings. The previously proposed October 19, 2026 meeting date has passed. Consult official City notices for the next confirmed meeting.
 
 ## Start here
 
@@ -17,6 +17,7 @@ A committee-friendly website is maintained from `docs/` and published through Gi
 | Site ownership, parcel, and zoning evidence | [Site parcel and zoning](dataset/project/29_SIMPLE_MINING_SITE_PARCEL_AND_ZONING.md) |
 | What is documented, preliminary, or still unknown | [Open questions and evidence gaps](dataset/project/21_OPEN_QUESTIONS_AND_EVIDENCE_GAPS.md) |
 | October 1 forum statements and caveats | [Forum record](dataset/updates/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md) |
+| Electric franchise fee option, MVEC Rate 7 40 MW revenue estimates, 40-job income tax analysis | [Public website guide](https://ttbakiatwoam.github.io/cascade-data-center/franchise-fee-and-jobs/) and [detailed fiscal research](dataset/impacts/36_CASCADE_ELECTRIC_FRANCHISE_FEE_AND_40MW_FISCAL_SCENARIOS.md) |
 | CIPCO vs. MVEC electricity capacity and the missing joint study | [Website comparison](https://ttbakiatwoam.github.io/cascade-data-center/cipco-mvec-power/) and [source-based technical note](dataset/impacts/32_CIPCO_MVEC_CAPACITY_CLAIMS_AND_STUDY_STATUS.md) |
 | Advisory Committee recommendation package | [October 19 working package](proposals/CASCADE-ADVISORY-COMMITTEE-RECOMMENDATIONS-2026-10-19.md) — **draft for discussion** |
 | The proposed M-2 performance standards | [Draft amendment](proposals/DRAFT-ORDINANCE-M2-DATA-CENTER-PERFORMANCE-STANDARDS-2026-10-06.md) — **not adopted law** |
