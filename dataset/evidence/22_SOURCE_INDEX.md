@@ -2,7 +2,7 @@
 
 > This index consolidates public URLs cited, quoted, or used as research references in the Cascade Data Center project. It intentionally excludes Facebook posts/comments, private messages, private correspondence, screenshots containing personal information, law-enforcement correspondence, individual contact details, and other personally identifying material.
 >
-> Last reviewed: 2026-10-13
+> Last reviewed: 2026-10-22
 
 ## Source classification
 
@@ -969,6 +969,24 @@ Original papers and study limits are detailed in [the naval research note](../im
 - **Detailed correction and LEED comparison**: [LEED and community acoustic assessment](../impacts/34_LEED_CERTIFICATION_ACOUSTICS_AND_EXTERIOR_NOISE.md)
 
 **Important historical correction:** The **2011 initial** and **2015 revised** exterior-noise pilot specify **different limits**. Prior categorical claims that Pilot 57 had no 45 dBA provision were incorrect. The exterior pilot remains voluntary, not adopted law, and project eligibility has not been verified.
+
+## October 22, 2026 — Electric franchise fee and payroll tax source collection
+
+- **Primary Iowa statute:** [2026 Iowa Code §364.2(4)](https://www.legis.iowa.gov/docs/code/2026/364.2.pdf) — franchises, notice/hearings, election exceptions, 5% ceiling, gross within-city sales, revenue-purpose statement.
+- **Primary Iowa statute:** [§384.3A](https://www.legis.iowa.gov/docs/code/2026/384.3A.pdf) — allowed uses of franchise receipts.
+- **Primary Iowa statute:** [§384.89](https://www.legis.iowa.gov/docs/code/2026/384.89.pdf) — municipal utility surplus transfers and debt covenant restrictions.
+- **Primary Iowa statute:** [§423B.5](https://www.legis.iowa.gov/docs/code/2026/423B.5.pdf) — LOST interaction with franchise/user-fee electricity.
+- **Primary Iowa statute:** [§423.3(95)](https://www.legis.iowa.gov/docs/code/2026/423.3.pdf) — conditional data center electricity sales/use tax exemption.
+- **State tax guidance:** [Iowa Department of Revenue, Data Center Sales and Use Tax Incentives (2025)](https://revenue.iowa.gov/taxes/tax-guidance/sales-use-excise-tax/data-centers).
+- **Company rate source:** [MVEC Master Electric Tariff, June 2024, Rate 7, sheet 17-13/14](https://mvec.coop/sites/default/files/MVEC%20Master%20Tariff%20-%20June%202024.pdf), published historical benchmark, not the proposed project's confirmed special contract.
+- **City published rate comparator:** [Cascade Municipal Utilities, Electric](https://www.cityofcascade.org/vnews/display.v/SEC/Municipal%20Utilities%7CElectric).
+- **Comparator adopted municipal ordinance:** [Maquoketa §113.09: 5% MVEC electric franchise fee](https://codelibrary.amlegal.com/codes/maquoketaia/latest/maquoketa_ia/0-0-0-4009).
+- **Comparator adopted municipal ordinance:** [Manchester Chapter 112: MVEC franchise](https://codelibrary.amlegal.com/codes/manchesteria/latest/manchester_ia/0-0-0-23750), [§112.11 initial fee-increase limit](https://codelibrary.amlegal.com/codes/manchesteria/latest/manchester_ia/0-0-0-23772).
+- **Sector/municipal guidance:** [Iowa League of Cities, Franchise Fees (2026 update)](https://iowaleague.org/resource/franchise-fees/) and [Iowa Clerks Handbook (2024)](https://cms2.revize.com/revize/northiacog/Document%20Center/Resources/2024ClerksManual.pdf).
+- **Observed Iowa municipal customer-rate comparisons:** [Iowa Utility Association Franchise Fees, January 2026](https://www.iowautility.org/about/franchise-fees/).
+- **Income-tax primary guidance:** [Iowa Department of Revenue, 2026 3.8% individual rate](https://revenue.iowa.gov/press-release/2025-10-21/idr-announces-2026-individual-income-tax-and-interest-rates), [Iowa taxable income instructions](https://revenue.iowa.gov/taxes/tax-guidance/individual-income-tax/1040-expanded-instructions/conformity-irc), and [IRS 2026 tax tables/standard deduction](https://www.irs.gov/irb/2025-45_IRB).
+
+**Linked analysis:** [detailed research and assumptions](../impacts/36_CASCADE_ELECTRIC_FRANCHISE_FEE_AND_40MW_FISCAL_SCENARIOS.md); [public website page](../../docs/franchise-fee-and-jobs.md). Rates and hypothetical tax outcomes are **project-generated scenario calculations**, not enacted Cascade fees or verified jobs.
 
 ## Source-index maintenance rule
 
