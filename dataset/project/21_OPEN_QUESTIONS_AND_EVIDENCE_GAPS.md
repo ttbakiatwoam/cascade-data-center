@@ -2,7 +2,7 @@
 
 > This file is a living evidence tracker. “Unknown” means the reviewed public record does not yet establish the answer; it does not imply that the information does not exist or that the applicant has refused to provide it.
 >
-> Last reviewed: 2026-10-13
+> Last reviewed: 2026-10-22
 
 ## Status vocabulary
 
@@ -120,6 +120,10 @@ No final Cascade acoustic study has been located. The October 1 forum added verb
 | Automation assumptions | Unknown | Applicant operations plan |
 
 Do not infer Cascade employment from a hyperscale cloud/AI project or from industry-wide job multipliers.
+
+## October 22 MVEC franchise and payroll-tax evidence gaps
+
+The project now has a [detailed Cascade electric franchise/40 MW fiscal and income tax scenario](../impacts/36_CASCADE_ELECTRIC_FRANCHISE_FEE_AND_40MW_FISCAL_SCENARIOS.md). Published law authorizes possible 0–5% MVEC fee arrangements. Maquoketa has an actual 5% MVEC franchise and Manchester has a similar franchise. **Unknown:** Cascade's own franchise agreement status, precise within-city delivery/sales boundary, PILOT parity, legal authority for an M-2-only rate, applicable 2026 MVEC special contract/gross receipt amount, and whether the proposed data center is actually eligible for sales tax exemption. The **40-job $80k assumption is hypothetical**, versus 20–25 jobs projected at the October 1 forum. Federal/Iowa income taxes are **not Cascade income**.
 
 ## Taxes, incentives, and public costs
 
