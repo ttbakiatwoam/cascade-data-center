@@ -10,7 +10,7 @@ title: Cascade Data Center Research
 
 ## Current committee work
 
-The Data Center Advisory Committee is expected to continue meeting. The **next proposed meeting date is October 19, 2026**.
+The Data Center Advisory Committee is expected to continue meeting. The previously listed October 19, 2026 proposed date has passed; the next confirmed date should be checked against City notices.
 
 The immediate goal is to move from repeated issue-identification to review of concrete zoning language that can be revised by the Advisory Committee, Planning & Zoning, City staff, the City Attorney, and ultimately the City Council.
 
@@ -21,6 +21,7 @@ The immediate goal is to move from repeated issue-identification to review of co
 - [Public concerns and evidence]({{ '/public-objections/' | relative_url }}) - issue-by-issue source review, including noise, wildlife, electricity rates, generators, batteries, fire response, AI, and property values.
 - [Facility-to-home distances]({{ '/site-distances/' | relative_url }}) - preliminary image-scale estimates of 600–700 feet for the building and outdoor equipment, with diagrams and source limits.
 - [LEED and neighborhood noise]({{ '/leed-noise/' | relative_url }}) - USGBC certification versus optional acoustic credits, the exterior pilot and enforceable local industrial noise limits.
+- [MVEC franchise fees and payroll income taxes]({{ '/franchise-fee-and-jobs/' | relative_url }}) - Iowa franchise law, Cascade's municipal utility, M-2 class limitations, actual MVEC franchises in Maquoketa and Manchester, modeled 1%-5% revenue on a 40 MW electricity load, and income taxes on a hypothetical 40 jobs at $80,000.
 - [CIPCO and MVEC power capacity]({{ '/cipco-mvec-power/' | relative_url }}) - direct utility statements, generating-versus-transmission capacity, October 1 timecoded quotes, and the status of the unpublished Cascade load study.
 - [Evidence and source guide]({{ '/evidence/' | relative_url }}) - October 1 forum record, parcel/zoning evidence, local authority research, Iowa comparators, and moratorium/process notes.
 - [Full GitHub repository](https://github.com/ttbakiatwoam/cascade-data-center) - source documents, preserved transcripts, research notes, and change history.
