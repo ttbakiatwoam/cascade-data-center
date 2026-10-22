@@ -35,6 +35,12 @@ The [Iowa League of Cities' Municipal Policy Leaders' Handbook (2026)](https://i
 
 The October 1 forum record describes MVEC/CIPCO's approximately **40 MW** service proposal and reports **no executed service agreement at the time**. This project does not possess a signed tariff/service contract, and MVEC did not commit to a city franchise fee at that forum. [Read the separate power-study analysis]({{ '/cipco-mvec-power/' | relative_url }}).
 
+## Verified MVEC franchise agreements in nearby Iowa cities
+
+This is not just theoretical: [Maquoketa's Code of Ordinances, Chapter 113, §113.09](https://codelibrary.amlegal.com/codes/maquoketaia/latest/maquoketa_ia/0-0-0-4009) imposes a **5% electricity franchise fee on MVEC gross revenue from sales inside city limits**. MVEC must show the fee separately on customer bills and remit collections quarterly. This is a drafting/billing comparator, **not** proof of Cascade's franchise authority over this exact project.
+
+[Manchester's Code of Ordinances, Chapter 112](https://codelibrary.amlegal.com/codes/manchesteria/latest/manchester_ia/0-0-0-23750) grants an MVEC electric franchise. [§112.11](https://codelibrary.amlegal.com/codes/manchesteria/latest/manchester_ia/0-0-0-23772) restricts increases beyond **3% for the first five years** of the agreement's 25-year term. Both municipal codes are online publisher copies; attorneys should obtain official signed versions. **Neither enacted example establishes legal authority to single out M-2 lots or one data-center customer.**
+
 ## 3. Could the fee apply *only* in M-2 Heavy Industrial?
 
 **Not established.** The Simple Mining parcel is mapped as **M-2 Heavy Industrial** in Cascade's zoning layer, but **zoning and a municipal utility franchise are different legal powers**. §364.2 measures franchise fee revenues by **sales within the city**, not by zoning district. It does not expressly provide an M-2-only rate.
@@ -146,6 +152,10 @@ For scale only, **3.8% of gross $3.2 million = $121,600** is an **overstated gro
 - [Iowa Department of Revenue — data-center tax incentives](https://revenue.iowa.gov/taxes/tax-guidance/sales-use-excise-tax/data-centers)
 - [MVEC Master Tariff (June 2024), Rate 7, sheets 17-13/14](https://mvec.coop/sites/default/files/MVEC%20Master%20Tariff%20-%20June%202024.pdf)
 - [Cascade Municipal Utilities published rates](https://www.cityofcascade.org/vnews/display.v/SEC/Municipal%20Utilities%7CElectric)
+- [Maquoketa §113.09 — 5% MVEC electric franchise fee](https://codelibrary.amlegal.com/codes/maquoketaia/latest/maquoketa_ia/0-0-0-4009)
+- [Manchester Chapter 112 — MVEC electric franchise](https://codelibrary.amlegal.com/codes/manchesteria/latest/manchester_ia/0-0-0-23750)
+- [Manchester §112.11 — initial fee-increase limit](https://codelibrary.amlegal.com/codes/manchesteria/latest/manchester_ia/0-0-0-23772)
+- [Iowa League of Cities — Franchise Fees (2026)](https://iowaleague.org/resource/franchise-fees/)
 - [Iowa Utility Association (2026) — municipality/customer class franchise fee examples](https://www.iowautility.org/about/franchise-fees/)
 - [Iowa League of Cities municipal-policy handbook (2026)](https://ia-fairfield.civicplus.com/DocumentCenter/View/12239/2026MunicipalPolicyHandbook)
 - [Iowa Clerks Handbook (2024), franchises and PILOT guidance](https://cms2.revize.com/revize/northiacog/Document%20Center/Resources/2024ClerksManual.pdf)
