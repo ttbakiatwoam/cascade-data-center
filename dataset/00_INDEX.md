@@ -2,7 +2,7 @@
 
 > Public-source research dataset concerning the proposed data-center / Simple Mining project in Cascade, Iowa.
 >
-> Dataset assembled through: 2026-10-13
+> Dataset assembled through: 2026-10-22
 
 ## Purpose
 
@@ -76,6 +76,7 @@ The original document numbers are retained for continuity; folders group related
 - [`32_CIPCO_MVEC_CAPACITY_CLAIMS_AND_STUDY_STATUS.md`](impacts/32_CIPCO_MVEC_CAPACITY_CLAIMS_AND_STUDY_STATUS.md) — CIPCO generation planning versus MVEC's October 1 transmission study statement, verbatim-caption caveats, and request for the missing joint study.
 - [`10_AGRICULTURE_GREENHOUSES_AND_LAND_USE.md`](impacts/10_AGRICULTURE_GREENHOUSES_AND_LAND_USE.md) — Iowa agriculture, nutrient/runoff context, greenhouse and hydroponic water demand, and disciplined land-use comparison.
 - [`11_ENVIRONMENTAL_AND_CARBON_SCENARIOS.md`](impacts/11_ENVIRONMENTAL_AND_CARBON_SCENARIOS.md) — Environmental comparison framework and explicitly hypothetical carbon/energy scenarios.
+- [`36_CASCADE_ELECTRIC_FRANCHISE_FEE_AND_40MW_FISCAL_SCENARIOS.md`](impacts/36_CASCADE_ELECTRIC_FRANCHISE_FEE_AND_40MW_FISCAL_SCENARIOS.md) — MVEC franchise and Cascade PILOT legal options, M-2 differentiation uncertainty, Maquoketa/Manchester precedents, 1%–5% 40 MW revenue scenarios, 2026 payroll income taxes.
 - [`12_JOBS_TAXES_AND_COMMUNITY_BENEFITS.md`](impacts/12_JOBS_TAXES_AND_COMMUNITY_BENEFITS.md) — Construction vs. permanent employment, workforce development, property tax, incentives, clawbacks, and community-benefit concepts.
 - [`13_INFRASTRUCTURE_TRAFFIC_AND_EMERGENCY_RESPONSE.md`](impacts/13_INFRASTRUCTURE_TRAFFIC_AND_EMERGENCY_RESPONSE.md) — Roads, utilities, stormwater, construction traffic, generators, fire response, batteries, fuels, and public-cost allocation.
 - [`16_MONITORING_ENFORCEMENT_AND_DECOMMISSIONING.md`](impacts/16_MONITORING_ENFORCEMENT_AND_DECOMMISSIONING.md) — Measurable compliance, independent verification, enforcement, material expansion, closure, restoration, and financial assurance.
