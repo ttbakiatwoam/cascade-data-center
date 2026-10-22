@@ -2,7 +2,13 @@
 
 > Economic claims should be separated into construction employment, permanent operations employment, taxable value, public incentives, utility/infrastructure investment, and contractual community benefits. None should be inferred from another data center without project-specific documentation.
 >
-> Last reviewed: 2026-10-06
+> Last reviewed: 2026-10-22 (added franchise and job-related tax scenarios)
+
+## October 22 MVEC franchise fee and income-tax companion
+
+The new [Cascade MVEC 40 MW franchise fee and 2026 job-related income-tax model](36_CASCADE_ELECTRIC_FRANCHISE_FEE_AND_40MW_FISCAL_SCENARIOS.md) evaluates Iowa Code §§364.2, 384.3A, 384.89 and 423B.5, compares Maquoketa and Manchester franchise agreements actually involving MVEC, and models 1%–5% of **$20.64 million/year** in published Rate 7 charges under an **illustrative 40 MW continuous-load scenario**. This is not a confirmed data-center tariff or collectible city revenue.
+
+At the user's requested **40 jobs × $80,000 average** (distinct from the company's forum projection of **20–25** employees), gross annual payroll would be **$3.2 million**. A simplified 2026 single-taxpayer scenario produces **$350,800 federal income tax and $97,128 Iowa income tax**, **$0 directly to Cascade**, excluding payroll taxes, credits, and indirect local economic activity. See [public website page](../../docs/franchise-fee-and-jobs.md). Both state/federal tax estimates are modeling assumptions, not city receipts.
 
 ## Construction jobs vs. permanent jobs
 
