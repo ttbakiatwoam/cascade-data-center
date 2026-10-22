@@ -10,6 +10,12 @@ Iowa Code 2026 §364.2(4) generally permits a nonexclusive city electricity fran
 
 The City of Cascade owns its municipal utility. A city-owned utility does not owe itself franchise fees. Municipal-utility PILOT instead depends on **surplus** transfers under Iowa Code §384.89, with applicable bond/reserve restrictions. Iowa League of Cities handbook and clerk manual advise attention to parity where a city owns a utility and a cooperative also sells power inside it.
 
+## Actual MVEC franchise precedents
+
+- **Maquoketa City Code §113.09** imposes **5%** on MVEC gross electricity sales within municipal limits; bills show the fee separately; MVEC remits collections quarterly. Official code publisher: https://codelibrary.amlegal.com/codes/maquoketaia/latest/maquoketa_ia/0-0-0-4009. This is a concrete MVEC-specific precedent for ordinary **within-city retail sales**.
+- **Manchester City Code Chapter 112** franchises MVEC; **§112.11** restricts fee increases beyond **3% during the agreement's first five years**. Sources: https://codelibrary.amlegal.com/codes/manchesteria/latest/manchester_ia/0-0-0-23750 and https://codelibrary.amlegal.com/codes/manchesteria/latest/manchester_ia/0-0-0-23772.
+- Neither example validates a zoning-targeted or customer-specific fee. City counsel should review the official signed instruments (the publisher disclaims conclusiveness).
+
 ## Statutory matrix
 
 | Provision | Summary | Cascade-specific qualification |
@@ -100,6 +106,10 @@ For 2026 assume **each worker is single**, works in Iowa, earns $80,000 in wages
 - [IDR data-center exemptions](https://revenue.iowa.gov/taxes/tax-guidance/sales-use-excise-tax/data-centers)
 - [MVEC Master Tariff, Rate 7, June 2024](https://mvec.coop/sites/default/files/MVEC%20Master%20Tariff%20-%20June%202024.pdf)
 - [Cascade Municipal Utilities electric rates](https://www.cityofcascade.org/vnews/display.v/SEC/Municipal%20Utilities%7CElectric)
+- [Maquoketa city code 113.09: MVEC 5% fee](https://codelibrary.amlegal.com/codes/maquoketaia/latest/maquoketa_ia/0-0-0-4009)
+- [Manchester city code Chapter 112: MVEC franchise](https://codelibrary.amlegal.com/codes/manchesteria/latest/manchester_ia/0-0-0-23750)
+- [Manchester city code 112.11: 3% limit for initial five years](https://codelibrary.amlegal.com/codes/manchesteria/latest/manchester_ia/0-0-0-23772)
+- [Iowa League of Cities, franchise fee overview](https://iowaleague.org/resource/franchise-fees/)
 - [Iowa Utility Association 2026 franchise fee list](https://www.iowautility.org/about/franchise-fees/)
 - [Iowa Municipal Policy Handbook 2026](https://ia-fairfield.civicplus.com/DocumentCenter/View/12239/2026MunicipalPolicyHandbook)
 - [Iowa Clerks Handbook 2024](https://cms2.revize.com/revize/northiacog/Document%20Center/Resources/2024ClerksManual.pdf)
