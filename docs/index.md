@@ -17,7 +17,7 @@ The immediate goal is to move from repeated issue-identification to review of co
 ### Start here
 
 - [Committee recommendation package]({{ '/committee-recommendations/' | relative_url }}) - proposed actions, standards, remaining evidence requests, process recommendations, and the full draft ordinance.
-- [Draft M-2 zoning ordinance]({{ '/draft-ordinance/' | relative_url }}) - the October 6 working ordinance, clearly labeled as non-adopted draft language.
+- [Draft M-2 zoning ordinance]({{ '/draft-ordinance/' | relative_url }}) - the October 26 proposed revision (preserving the October 6 historical draft), clearly labeled as non-adopted draft language.
 - [Public concerns and evidence]({{ '/public-objections/' | relative_url }}) - issue-by-issue source review, including noise, wildlife, electricity rates, generators, batteries, fire response, AI, and property values.
 - [Facility-to-home distances]({{ '/site-distances/' | relative_url }}) - preliminary image-scale estimates of 600–700 feet for the building and outdoor equipment, with diagrams and source limits.
 - [LEED and neighborhood noise]({{ '/leed-noise/' | relative_url }}) - USGBC certification versus optional acoustic credits, the exterior pilot and enforceable local industrial noise limits.
@@ -25,6 +25,11 @@ The immediate goal is to move from repeated issue-identification to review of co
 - [CIPCO and MVEC power capacity]({{ '/cipco-mvec-power/' | relative_url }}) - direct utility statements, generating-versus-transmission capacity, October 1 timecoded quotes, and the status of the unpublished Cascade load study.
 - [Evidence and source guide]({{ '/evidence/' | relative_url }}) - October 1 forum record, parcel/zoning evidence, local authority research, Iowa comparators, and moratorium/process notes.
 - [Full GitHub repository](https://github.com/ttbakiatwoam/cascade-data-center) - source documents, preserved transcripts, research notes, and change history.
+
+## October 27 packet review
+
+- [October 26 packet comparison](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/dataset/updates/37_ADVISORY_PACKET_REVIEW_2026-10-26.md) — new suggested enforcement improvements, compared with the existing research; links will become available after merge.
+- The original 90-page PDF and Word attachment are referenced by page map and verified source metadata. The binary originals have not yet been copied into GitHub.
 
 ## Core policy principle
 
