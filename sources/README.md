@@ -28,3 +28,13 @@ The scanned PDF is the controlling visual reference for the repository transcrip
 - [ORDINANCE #19-24 Fence Heights 8ft in C and M Districts.docx](cascade-zoning/ORDINANCE%20%2319-24%20Fence%20Heights%208ft%20in%20C%20and%20M%20Districts.docx)
 
 Read the [zoning transcription index](../dataset/cascade-zoning/00_INDEX.md) for coverage and source-handling notes.
+
+## October 27, 2026 advisory committee meeting packet
+
+The October 26 user-supplied attachments have **not** yet been copied as original DOCX/PDF bytes into this repository. The following **derivative** records preserve their names, original sizes, SHA-256 hashes, substantive issue transcription, and a 90-page index:
+
+- [90-page meeting packet source/page record](committee-materials/2026-10-27/PACKET_PAGE_AND_PROVENANCE_RECORD.md)
+- [Things to consider - source transcription](committee-materials/2026-10-27/THINGS_TO_CONSIDER_SOURCE_RECORD.md)
+- [Packet analysis and change rationale](../dataset/updates/37_ADVISORY_PACKET_REVIEW_2026-10-26.md)
+
+The original attachments remain necessary to verify exact visual content. The source index does **not** claim the original attachments are stored here.
