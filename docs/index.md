@@ -10,7 +10,7 @@ title: Cascade Data Center Research
 
 ## Advisory Committee meeting: Wednesday, October 28, 7:00-8:00 p.m. Central
 
-The [City of Cascade's official calendar](https://www.cityofcascade.org/) lists **Advisory Committee Meeting 7pm** on **October 28, 2026**. An earlier 90-page packet has an October 27, 6:00 p.m. cover; that date is superseded by the newer City calendar listing for this meeting. Verify any changes or the meeting location directly with City Hall.
+The [City of Cascade's official calendar](https://www.cityofcascade.org/) lists **Advisory Committee Meeting 7pm** on **October 28, 2026**. An earlier 90-page packet bears an October 27, 6:00 p.m. public-notice cover, while the City's calendar lists October 28 at 7:00 p.m. Those records differ; calendar publication alone does not establish whether legally required notice procedures were satisfied. Verify any changes or the meeting location directly with City Hall.
 
 **[Meeting brief and current source links]({{ '/meeting-2026-10-28/' | relative_url }})** - a short, evidence-labeled index to the current ordinance, the updated committee recommendations, other Iowa examples, and unresolved technical questions.
 
