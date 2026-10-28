@@ -2,7 +2,7 @@
 
 > This is policy/legal research, not legal advice. Exact enforceability should be reviewed by the City Attorney against the current official ordinance text and Iowa law.
 >
-> Last reviewed: 2026-10-06
+> Last reviewed: 2026-10-26
 
 ## Cascade zoning record
 
@@ -58,6 +58,14 @@ The research project has treated the following as the strongest candidates for l
 A recurring project question has been whether zoning should dictate who a private facility may serve or exactly what lawful computing workload may run inside it. Iowa zoning law clearly reaches land use and physical development, but a restriction aimed primarily at customers, tenants, or data-processing content is legally different from regulating noise, water, structures, roads, or other land-use impacts.
 
 Accordingly, any tenant-mix, cryptocurrency percentage, AI-use, or customer restriction should receive specific legal review rather than being assumed valid. A more durable regulatory approach may be to define the maximum physical operating envelope regardless of customer: MW, water, noise, cooling, generator emissions, traffic, setbacks, and buildout.
+
+## Two-mile jurisdiction and a potential larger data center (October 26)
+
+A question submitted for the October 27 Advisory Committee packet asks about a potential larger facility within two miles of Cascade. A City M-2 zoning change does **not** automatically apply to land outside municipal boundaries. Iowa Code §414.23 permits specified municipal zoning jurisdiction beyond city limits only in the circumstances the statute authorizes, including a restriction where county zoning applies. Cascade spans Dubuque and Jones Counties, each of which has zoning; the county, city boundary, parcel and applicable local ordinance must be determined first. Section 354.9 is a **different** power for subdivision plat review under applicable conditions, not a general municipal land-use veto. City Attorney review is required for any jurisdictional assertion or cooperative agreement.
+
+- Iowa Code §414.23: https://www.legis.iowa.gov/docs/code/2026/414.23.pdf
+- Iowa Code §354.9: https://www.legis.iowa.gov/docs/code/2026/354.9.pdf
+- [October 26 packet review](../updates/37_ADVISORY_PACKET_REVIEW_2026-10-26.md)
 
 ## Sources
 

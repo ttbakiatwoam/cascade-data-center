@@ -92,6 +92,12 @@ Those figures demonstrate that data centers can create material tax base and inf
 
 - West Des Moines Chamber — Microsoft Data Centers: https://wdmchamber.org/economic-development/microsoft-data-centers/
 
+## Greene County and Decorah in October 27 Cascade packet
+
+- **Greene County, pages 9–12 of packet:** County ordinance amendment covering site limits, setbacks, noise, water and utility documentation, emergency planning and decommissioning. Check the final enacted text before relying on exact limits. This is a county comparator, not Cascade law.
+- **Decorah, pages 13–16:** Proposed municipal ordinance and hearing resolution with a data-center use definition, cooling requirements, equipment setbacks, generator/emissions documentation, emergency planning, and decommissioning. Inclusion in the packet does not prove final adoption.
+- **Jackson County, pages 30–56:** The detailed working draft addresses independent technical review, road-use security, periodic acoustical testing, separate vibration thresholds, annual compliance certifications and decommissioning bonds. **Draft only**, not adopted. See the [packet page map](../../sources/committee-materials/2026-10-27/PACKET_PAGE_AND_PROVENANCE_RECORD.md) and [October 26 review](../updates/37_ADVISORY_PACKET_REVIEW_2026-10-26.md).
+
 ## Comparator-use rule
 
 Before using another project's outcome as evidence for Cascade, match the variables that materially drive the claimed impact: scale, MW, cooling, water source, site design, distance to homes, generators, utility structure, land use, climate, and enforceable permit conditions.

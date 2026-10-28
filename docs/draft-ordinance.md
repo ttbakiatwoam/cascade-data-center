@@ -4,10 +4,10 @@ title: Draft M-2 Data Center and Major Industrial Facility Ordinance
 permalink: /draft-ordinance/
 ---
 
-# DRAFT - M-2 Heavy Industrial District Data Center and Performance Standards Amendment
+# DRAFT - M-2 Heavy Industrial District Data Center and Performance Standards Amendment (October 26 proposed revision)
 
 > **DRAFT - FOR DISCUSSION ONLY - NOT ADOPTED LAW**  
-> Prepared October 6, 2026 for policy discussion and City Attorney / Planning & Zoning review.  
+> Original prepared October 6, 2026; proposed review revision dated October 26, 2026 for policy discussion and City Attorney / Planning & Zoning review.  
 > This is a project-generated draft and is not legal advice. Section numbering, amendment mechanics, grandfathering, enforcement, and consistency with Iowa law should be reviewed by the City Attorney before introduction.
 >
 > **Uniformity principle:** The ordinance is intentionally written so that zoning and performance standards apply throughout the M-2 Heavy Industrial District to all similarly situated businesses. Data centers are added as an expressly recognized use type, while noise, lighting, screening, water, emergency planning, generators, infrastructure, and other impact standards apply district-wide or through neutral, objective impact thresholds.
@@ -79,6 +79,8 @@ Before issuance of a building permit for a new principal M-2 use or Major Indust
 
 For a Major Industrial Facility, the plan shall additionally identify maximum anticipated electrical load, water demand, stationary generation capacity, fuel storage, cooling technology, principal noise-generating equipment, and proposed phasing.
 
+For any Major Industrial Facility using stationary backup or on-site generation, the applicant shall provide a generator schedule identifying each engine's proposed manufacturer/model, rated electrical and thermal capacity, fuel type, exhaust configuration, fuel tank and containment, anticipated emergency and non-emergency operating modes, reasonably foreseeable simultaneous-operation scenarios, planned testing frequency and duration, and applicable state or federal emissions permits or permit-exemption determinations. Information requiring legitimate security protection may be submitted in an appropriately redacted public version and a protected version, only as authorized by Iowa law. The City shall not purport to issue or replace air-quality permits.
+
 ### 3. Operational Noise
 
 All M-2 uses shall be designed, constructed, operated, and maintained so that noise attributable to the use does not exceed the following standards, measured in accordance with generally accepted professional acoustic practice:
@@ -101,7 +103,12 @@ Every Major Industrial Facility shall provide, at the applicant's expense:
 1. A preconstruction baseline acoustic evaluation;
 2. A predictive acoustic model demonstrating compliance at property boundaries and nearby sensitive receptors under maximum reasonably anticipated operating conditions, including hot-weather conditions where relevant;
 3. A post-construction compliance test after the facility reaches normal operating load; and
-4. A new compliance evaluation at least once every five (5) years, or following a material modification reasonably expected to affect noise levels.
+4. A post-startup compliance evaluation within sixty (60) days after commencing normal operations at reasonably representative load and weather conditions, or within a documented alternative period approved for commissioning constraints; and
+5. A recurring compliance evaluation at least once every three (3) years, or following a material modification reasonably expected to affect noise levels.
+
+The required acoustic model and post-startup testing shall examine ordinary peak operations, reasonably foreseeable simultaneous generator testing or emergency backup operation, identifiable low-frequency or tonal equipment sources, and nearby residential and other sensitive receptors. Where safety or operational requirements prevent actual simultaneous generator testing, a qualified professional may combine measured source data with documented predictive modeling, with assumptions stated in the report.
+
+Any separate structure-borne or ground-vibration concern must be evaluated with measurements appropriate to vibration (such as peak particle velocity), not inferred from dBA/dBC sound measurements. A numeric vibration ceiling is **not adopted in this draft** pending independent engineering and legal review.
 
 The City may require reasonable corrective measures where testing demonstrates noncompliance.
 
@@ -216,6 +223,8 @@ Where an M-2 development creates a documented need for road, water, sewer, drain
 
 This provision shall apply equally to every M-2 development creating the same type and degree of infrastructure burden.
 
+Where substantial construction hauling is reasonably expected to affect City roads, the City may, pursuant to an independently authorized permit or written road-use agreement, require a preconstruction photographic/engineering condition survey, defined haul routes and axle/load limits, reasonable maintenance and restoration terms, postconstruction verification, and proportionate financial security supported by an engineering estimate. No fixed multiplier or new fee is prescribed here without legal review.
+
 ### 16. Decommissioning of Major Industrial Facilities
 
 An application for a Major Industrial Facility shall include a decommissioning plan describing:
@@ -233,6 +242,10 @@ Following abandonment, decommissioning shall be completed within twelve (12) mon
 
 The form and amount of financial assurance shall be established in a manner approved by the City Attorney and shall be reasonably related to the documented cost of decommissioning and site restoration.
 
+A qualified professional's decommissioning cost estimate shall be reviewed at least once every three (3) years and following a material expansion or ownership/operator change that materially alters restoration obligations. The City may require adjustment of assurance to the reasonable documented cost of performance, including contingencies, only through a legally authorized and objectively administered instrument.
+
+To the extent enforceable under Iowa law, approval conditions and any separate recorded agreement shall identify responsible owners and operators, notice requirements upon transfer, acceptable successor security, and procedures for default and lawful recovery. Private contracts shall not transfer away obligations imposed by law or approval conditions.
+
 ### 17. Material Expansion
 
 An approved Major Industrial Facility shall require an updated Special Exception review where a proposed modification would increase any of the following by **twenty percent (20%) or more** above the previously approved maximum:
@@ -249,6 +262,10 @@ Crossing a Major Industrial Facility threshold for the first time shall require 
 ### 18. Compliance, Inspection, and Corrective Action
 
 The Zoning Administrator may require documentation reasonably necessary to verify compliance with conditions of approval and the objective standards of this section. Where specialized testing or engineering is reasonably required because of a credible compliance question involving a Major Industrial Facility, the City may require the owner or operator to provide qualified professional testing, subject to applicable law and any fee or cost-recovery provisions adopted by the City.
+
+Each Major Industrial Facility shall submit a brief annual compliance certification to the Zoning Administrator by March 1 for the prior calendar year, identifying the facility owner and operator; material changes in electricity demand, generation equipment, cooling and water use; whether prescribed acoustic tests and generator logs have been maintained; reported material incidents or violations; and the status of financial assurance. The certification is a compliance statement, not automatic approval of unverified representations.
+
+Where reasonably necessary and authorized by an adopted fee schedule or agreement, the City may retain or approve an independent qualified professional to review applicant studies and required remedial testing at reasonable, documented applicant cost. For complex matters, the City may require a deposit or escrow established through lawful procedures with an accounting and refund of unused amounts. The applicant must not control or direct the independent expert's findings.
 
 Nothing in this section limits other remedies available under Chapter 165 or applicable law.
 
@@ -368,4 +385,21 @@ The City Attorney should specifically review:
 6. Public-record treatment of security-sensitive facility information;
 7. State or federal preemption affecting utilities, air emissions, fuel storage, batteries, and emergency systems;
 8. Whether any separate general noise, nuisance, fire-code, or building-code amendments should accompany the zoning amendment; and
-9. Final numbering and integration with all amendments to Chapter 165 adopted after the base zoning text.
+9. Final numbering and integration with all amendments to Chapter 165 adopted after the base zoning text;
+10. Whether an annual March 1 certification, third-party review deposit, generator documentation, commissioning deadline, and recorded decommissioning obligations require separate enabling ordinances, adopted schedules, or development agreements;
+11. How Iowa Code §414.23 limits municipal zoning beyond Cascade city limits when county zoning applies, and the distinct plat-review authority under Iowa Code §354.9;
+12. Whether a later separate engineering study supports measurable vibration standards; Jackson County's proposed peak-particle-velocity figures are not imported without independent review; and
+13. Whether the requested generator equipment schedules or security-sensitive response plans require protection under Iowa Code Chapter 22 while preserving lawful public access.
+
+## I. October 26 Advisory Packet and Community Suggestions
+
+The 90-page October 27 Cascade Data Center Advisory Committee packet supplies new policy comparisons, primarily the Greene County and Decorah examples and more detailed provisions from a Jackson County **working draft**. It also reproduces the original October 6 Cascade M-2 discussion draft on PDF pages 58–72 and the October 1 Simple Mining presentation on pages 73–90. Reproduction in a packet does not make a proposed ordinance adopted law.
+
+A separate submitted Word note asks about emissions and noise from approximately fifteen generators and a possible data center outside city limits but within two miles. These concerns are documented in the packet-review record and source transcription. They are addressed through equipment-specific documentation, noise compliance modeling, and jurisdictional research rather than a City attempt to set independent air-emissions limits or to regulate county-zoned parcels.
+
+The Jackson County material supports considering annual reporting, independently reviewed acoustic testing, appropriate physical vibration measurement, objective applicant-funded review, a road-use agreement, and funded decommissioning. It does **not** establish those provisions as enacted Jackson County law or as scientifically validated thresholds for Cascade.
+
+- [Packet page/provenance index](../sources/committee-materials/2026-10-27/PACKET_PAGE_AND_PROVENANCE_RECORD.md)
+- [Community suggestions / source transcription](../sources/committee-materials/2026-10-27/THINGS_TO_CONSIDER_SOURCE_RECORD.md)
+- Iowa Code §414.23: https://www.legis.iowa.gov/docs/code/2026/414.23.pdf
+- Iowa Code §354.9: https://www.legis.iowa.gov/docs/code/2026/354.9.pdf
