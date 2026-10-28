@@ -2,7 +2,7 @@
 
 > This file summarizes public-governance research relevant to a City-created data-center advisory body. It uses names only where they are explicitly listed in public City records and continues to omit private correspondence.
 >
-> Last reviewed: 2026-10-06
+> Last reviewed: 2026-10-28 (meeting calendar and September 28 official minutes only; other research retained)
 
 ## Cascade action
 
@@ -132,3 +132,10 @@ The objective is a committee whose process is legally defensible, transparent, w
 - Iowa Code §362.5 — Interest in public contract prohibited — exceptions: https://www.legis.iowa.gov/docs/code/2026/362.5.pdf
 - Iowa Code §362.6 — Conflict of interest: https://www.legis.iowa.gov/docs/code/2026/362.6.pdf
 - Iowa Code Chapter 22 — Public Records: https://www.legis.iowa.gov/docs/code/2026/22.pdf
+
+
+## October 28, 2026 meeting and September 28 membership-status update
+
+The [City of Cascade official calendar](https://www.cityofcascade.org/) shows the Advisory Committee meeting on **Wednesday October 28, 2026 from 7:00 to 8:00 p.m. Central**. A user-provided, 90-page meeting packet bears an earlier cover date of **Tuesday October 27, 2026 at 6:00 p.m.** Those dates are intentionally kept distinct. Refer to the City's current calendar and any posted amended notice for final logistics. The independent research site's meeting brief is not an official notice.
+
+The [adopted September 28 Council minutes](https://www.cityofcascade.org/vimages/shared/vnews/stories/6959ce08641c7/September%2028th%20minutes.pdf) state that Resolution 92-26, clarifying advisory membership/quorum/procedure, **remained tabled**. The revised roster printed in the September 28 agenda packet therefore cannot be represented as an adopted resolution on that evidence alone. Further action requires subsequent minutes or executed final text.

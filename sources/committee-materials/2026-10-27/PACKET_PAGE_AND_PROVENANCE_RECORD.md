@@ -13,6 +13,10 @@
 | Reviewed | October 26, 2026 |
 | Provenance | User-provided combined packet; separate document authorship and adoption status must be established independently |
 
+## Meeting-time correction observed October 28
+
+The original packet cover states Tuesday, October 27, 2026, **6:00 p.m.** The [City of Cascade's current official calendar](https://www.cityofcascade.org/) lists **Advisory Committee Meeting, Wednesday October 28, 2026, 7:00-8:00 p.m. Central**. The packet metadata is preserved as historical evidence and must not be silently revised into an amended public notice.
+
 ## Packet page map (PDF page numbers, 1-based)
 
 | Pages | Document(s) included | How to use |

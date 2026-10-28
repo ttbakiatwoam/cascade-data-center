@@ -1,6 +1,6 @@
 # Research scope and project stance
 
-[Back to repository overview](../README.md)
+[Back to repository overview](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/README.md)
 
 ## Purpose
 

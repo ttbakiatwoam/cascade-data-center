@@ -2,6 +2,10 @@
 
 > **Research comparison, not City action or adopted law.** The packet and note were uploaded by the project author on October 26. The original PDF and DOCX **have not been uploaded in binary form** to this repository; see derivative source records and their original-file SHA-256 hashes.
 
+## October 28 timing confirmation
+
+The scanned packet's first page lists **Tuesday October 27, 2026 at 6:00 p.m.** The [City of Cascade's official calendar](https://www.cityofcascade.org/) now lists an **Advisory Committee Meeting Wednesday October 28, 2026 at 7:00-8:00 p.m. Central**. This source review retains the packet's original date while recognizing the calendar's updated meeting time. Refer to [the October 28 meeting brief](../../docs/meeting-2026-10-28.md).
+
 ## Source records
 
 - [90-page packet page index and provenance](../../sources/committee-materials/2026-10-27/PACKET_PAGE_AND_PROVENANCE_RECORD.md)

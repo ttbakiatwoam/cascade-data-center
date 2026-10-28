@@ -102,9 +102,8 @@ Every Major Industrial Facility shall provide, at the applicant's expense:
 
 1. A preconstruction baseline acoustic evaluation;
 2. A predictive acoustic model demonstrating compliance at property boundaries and nearby sensitive receptors under maximum reasonably anticipated operating conditions, including hot-weather conditions where relevant;
-3. A post-construction compliance test after the facility reaches normal operating load; and
-4. A post-startup compliance evaluation within sixty (60) days after commencing normal operations at reasonably representative load and weather conditions, or within a documented alternative period approved for commissioning constraints; and
-5. A recurring compliance evaluation at least once every three (3) years, or following a material modification reasonably expected to affect noise levels.
+3. A post-construction compliance evaluation within sixty (60) days after commencing normal operations at reasonably representative load and weather conditions, or within a documented alternative period approved for commissioning constraints; and
+4. A recurring compliance evaluation at least once every three (3) years, or following a material modification reasonably expected to affect noise levels.
 
 The required acoustic model and post-startup testing shall examine ordinary peak operations, reasonably foreseeable simultaneous generator testing or emergency backup operation, identifiable low-frequency or tonal equipment sources, and nearby residential and other sensitive receptors. Where safety or operational requirements prevent actual simultaneous generator testing, a qualified professional may combine measured source data with documented predictive modeling, with assumptions stated in the report.
 
@@ -399,7 +398,7 @@ A separate submitted Word note asks about emissions and noise from approximately
 
 The Jackson County material supports considering annual reporting, independently reviewed acoustic testing, appropriate physical vibration measurement, objective applicant-funded review, a road-use agreement, and funded decommissioning. It does **not** establish those provisions as enacted Jackson County law or as scientifically validated thresholds for Cascade.
 
-- [Packet page/provenance index](../sources/committee-materials/2026-10-27/PACKET_PAGE_AND_PROVENANCE_RECORD.md)
-- [Community suggestions / source transcription](../sources/committee-materials/2026-10-27/THINGS_TO_CONSIDER_SOURCE_RECORD.md)
+- [Packet page/provenance index](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/sources/committee-materials/2026-10-27/PACKET_PAGE_AND_PROVENANCE_RECORD.md)
+- [Community suggestions / source transcription](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/sources/committee-materials/2026-10-27/THINGS_TO_CONSIDER_SOURCE_RECORD.md)
 - Iowa Code §414.23: https://www.legis.iowa.gov/docs/code/2026/414.23.pdf
 - Iowa Code §354.9: https://www.legis.iowa.gov/docs/code/2026/354.9.pdf

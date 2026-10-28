@@ -6,7 +6,7 @@ permalink: /committee/
 
 # Cascade Data Center Advisory Committee
 
-> **Status note:** The committee was created by the City Council in July 2026 and members were appointed in August. Resolution 92-26, intended to clarify voting membership, quorum, procedures, and advisory roles, was tabled at the September 14 Council meeting. The September 28 Council agenda packet published a revised proposed Resolution 92-26 with the roster below. Until final September 28 minutes or an executed resolution are available, this page labels the roster **proposed** rather than finally adopted.
+> **Status note:** The committee was created by the City Council in July 2026 and members were appointed in August. Resolution 92-26, intended to clarify voting membership, quorum, procedures, and advisory roles, was tabled at the September 14 Council meeting. **The adopted September 28 Council minutes confirm the Council voted to keep it tabled.** The September 28 agenda packet nonetheless included a revised *proposed* roster. That proposal is shown below for historical transparency, not as a verified official voting roster. Subsequent appointments or adoption would require an updated official record.
 
 ## Proposed voting members
 
@@ -91,7 +91,8 @@ Primary source:
 
 Related records:
 
+- [September 28, 2026 City Council Minutes](https://www.cityofcascade.org/vimages/shared/vnews/stories/6959ce08641c7/September%2028th%20minutes.pdf) - confirms Resolution 92-26 remained tabled.
 - [September 14, 2026 City Council Minutes](https://www.cityofcascade.org/vimages/shared/vnews/stories/6959ce08641c7/September%2014th.pdf) - records that Resolution 92-26 was tabled.
 - [Advisory committee/open-meetings research](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/dataset/policy/14_ADVISORY_COMMITTEE_AND_OPEN_MEETINGS.md)
 
-The next proposed Advisory Committee meeting date being used by this project is **October 19, 2026**.
+**Next meeting listed on the City calendar as of October 28:** Wednesday, October 28, 2026, **7:00-8:00 p.m. Central**. The earlier supplied packet says October 27 at 6:00 p.m.; consult [the City's current calendar](https://www.cityofcascade.org/) for timing and location. See the [October 28 meeting brief]({{ '/meeting-2026-10-28/' | relative_url }}) and [current committee recommendation package]({{ '/committee-recommendations/' | relative_url }}).
