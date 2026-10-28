@@ -8,6 +8,16 @@ permalink: /evidence/
 
 This page points committee members to the records most directly relevant to the proposed zoning work.
 
+## October 28 meeting references and current proposals
+
+- [Current meeting brief, confirmed 7:00-8:00 p.m. on City calendar]({{ '/meeting-2026-10-28/' | relative_url }})
+- [Revised October 28 committee recommendations]({{ '/committee-recommendations/' | relative_url }}) and [current October 26 proposed M-2 ordinance]({{ '/draft-ordinance/' | relative_url }})
+- [October 26 packet review and what's new](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/dataset/updates/37_ADVISORY_PACKET_REVIEW_2026-10-26.md)
+- [90-page packet page index](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/sources/committee-materials/2026-10-27/PACKET_PAGE_AND_PROVENANCE_RECORD.md) and [complete Word-note transcription](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/sources/committee-materials/2026-10-27/THINGS_TO_CONSIDER_SOURCE_RECORD.md)
+- [City of Cascade calendar](https://www.cityofcascade.org/) - lists the Wednesday October 28 advisory meeting at 7:00 p.m.
+
+The 90-page packet cover lists **October 27 at 6:00 p.m.**, while the City's current calendar shows **October 28 at 7:00 p.m.** The original PDF and DOCX are not yet deposited in GitHub; the repository preserves source records with verified original-file checksums.
+
 ## October 1 community forum
 
 - [Forum summary and caveats](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/dataset/updates/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md)
@@ -50,7 +60,7 @@ The repository tracks Linn County, Jones County, Jackson County, Palo, Allamakee
 
 ## Proposed Advisory Committee membership
 
-The September 28 City Council agenda packet published a revised proposed Resolution 92-26 identifying eight voting members and nine non-voting advisors. The September 14 minutes had previously recorded Resolution 92-26 as tabled, so the roster is presented on this site as **proposed** pending confirmation in final minutes or an executed resolution.
+The September 28 City Council agenda packet published a revised proposed Resolution 92-26 identifying eight voting members and nine non-voting advisors. The September 28 **adopted minutes confirmed that Resolution 92-26 was kept tabled**, so these remain proposed roles rather than an adopted roster, so the roster is presented on this site as **proposed** pending confirmation in final minutes or an executed resolution.
 
 - [View proposed committee membership]({{ '/committee/' | relative_url }})
 - [September 28, 2026 City Council agenda and packet](https://www.cityofcascade.org/vimages/shared/vnews/stories/6959ce08641c7/September%2028%202026%20Agenda%20and%20Packet.pdf)
