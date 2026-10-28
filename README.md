@@ -6,7 +6,7 @@ The working position of this independent community project is **pro-data-center 
 
 ## Committee website
 
-A committee-friendly website is maintained from `docs/` and published through GitHub Pages. The expected public URL is **https://ttbakiatwoam.github.io/cascade-data-center/** once Pages is enabled for GitHub Actions in repository settings. The previously proposed October 19, 2026 meeting date has passed. Consult official City notices for the next confirmed meeting.
+A committee-friendly website is maintained from `docs/` and published via GitHub Pages: **https://ttbakiatwoam.github.io/cascade-data-center/**. A successful publishing workflow was recorded October 28, 2026. The [City's official calendar](https://www.cityofcascade.org/) lists the Data Center Advisory Committee meeting on **Wednesday, October 28, 2026 at 7:00 p.m. Central**, with the next research [meeting brief](docs/meeting-2026-10-28.md) and current proposed M-2 standards linked below.
 
 ## Start here
 
@@ -19,7 +19,8 @@ A committee-friendly website is maintained from `docs/` and published through Gi
 | October 1 forum statements and caveats | [Forum record](dataset/updates/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md) |
 | Electric franchise fee option, MVEC Rate 7 40 MW revenue estimates, 40-job income tax analysis | [Public website guide](https://ttbakiatwoam.github.io/cascade-data-center/franchise-fee-and-jobs/) and [detailed fiscal research](dataset/impacts/36_CASCADE_ELECTRIC_FRANCHISE_FEE_AND_40MW_FISCAL_SCENARIOS.md) |
 | CIPCO vs. MVEC electricity capacity and the missing joint study | [Website comparison](https://ttbakiatwoam.github.io/cascade-data-center/cipco-mvec-power/) and [source-based technical note](dataset/impacts/32_CIPCO_MVEC_CAPACITY_CLAIMS_AND_STUDY_STATUS.md) |
-| Advisory Committee recommendation package | [October 19 working package](proposals/CASCADE-ADVISORY-COMMITTEE-RECOMMENDATIONS-2026-10-19.md) — **draft for discussion** |
+| Advisory Committee recommendation package | [October 28 updated package](proposals/CASCADE-ADVISORY-COMMITTEE-RECOMMENDATIONS-2026-10-28.md) — **draft for discussion**; [historical October 19 package](proposals/CASCADE-ADVISORY-COMMITTEE-RECOMMENDATIONS-2026-10-19.md) |
+| Tonight's committee meeting brief | [October 28 meeting brief](docs/meeting-2026-10-28.md) — City calendar confirms 7:00–8:00 p.m. Central; source and legal-review links |
 | The proposed M-2 performance standards | [October 26 proposed revision](proposals/DRAFT-ORDINANCE-M2-DATA-CENTER-PERFORMANCE-STANDARDS-2026-10-26.md) and [historical October 6 draft](proposals/DRAFT-ORDINANCE-M2-DATA-CENTER-PERFORMANCE-STANDARDS-2026-10-06.md) — **not adopted law** |
 | October 27 advisory packet and suggested changes | [Packet comparison](dataset/updates/37_ADVISORY_PACKET_REVIEW_2026-10-26.md), [packet source/page index](sources/committee-materials/2026-10-27/PACKET_PAGE_AND_PROVENANCE_RECORD.md), and [separate Word note transcription](sources/committee-materials/2026-10-27/THINGS_TO_CONSIDER_SOURCE_RECORD.md) |
 | The cover email to the Mayor and City Council | [Prepared email text](#email-to-the-mayor-and-city-council) — October 6, 2026 |
