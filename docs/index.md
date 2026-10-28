@@ -8,16 +8,18 @@ title: Cascade Data Center Research
 > **Independent community research - not an official City of Cascade website.**  
 > The working position of this project is pro-development with clear, measurable community protections, transparency, and accountability.
 
-## Current committee work
+## Advisory Committee meeting: Wednesday, October 28, 7:00-8:00 p.m. Central
 
-The Data Center Advisory Committee is expected to continue meeting. The previously listed October 19, 2026 proposed date has passed; the next confirmed date should be checked against City notices.
+The [City of Cascade's official calendar](https://www.cityofcascade.org/) lists **Advisory Committee Meeting 7pm** on **October 28, 2026**. An earlier 90-page packet has an October 27, 6:00 p.m. cover; that date is superseded by the newer City calendar listing for this meeting. Verify any changes or the meeting location directly with City Hall.
 
-The immediate goal is to move from repeated issue-identification to review of concrete zoning language that can be revised by the Advisory Committee, Planning & Zoning, City staff, the City Attorney, and ultimately the City Council.
+**[Meeting brief and current source links]({{ '/meeting-2026-10-28/' | relative_url }})** - a short, evidence-labeled index to the current ordinance, the updated committee recommendations, other Iowa examples, and unresolved technical questions.
+
+The goal of this independent research is to help the committee move from broad concerns to proposed measurable, generally applicable M-2 zoning language for City Attorney and Planning & Zoning review. Nothing here constitutes project approval or an official City recommendation.
 
 ### Start here
 
-- [Committee recommendation package]({{ '/committee-recommendations/' | relative_url }}) - proposed actions, standards, remaining evidence requests, process recommendations, and the full draft ordinance.
-- [Draft M-2 zoning ordinance]({{ '/draft-ordinance/' | relative_url }}) - the October 26 proposed revision (preserving the October 6 historical draft), clearly labeled as non-adopted draft language.
+- [October 28 committee recommendation package]({{ '/committee-recommendations/' | relative_url }}) - updated agenda-ready recommendations and current proposed M-2 ordinance attached.
+- [Current draft M-2 zoning ordinance]({{ '/draft-ordinance/' | relative_url }}) - October 26 proposed enforcement revision, clearly labeled not adopted law; the October 6 original is preserved.
 - [Public concerns and evidence]({{ '/public-objections/' | relative_url }}) - issue-by-issue source review, including noise, wildlife, electricity rates, generators, batteries, fire response, AI, and property values.
 - [Facility-to-home distances]({{ '/site-distances/' | relative_url }}) - preliminary image-scale estimates of 600–700 feet for the building and outdoor equipment, with diagrams and source limits.
 - [LEED and neighborhood noise]({{ '/leed-noise/' | relative_url }}) - USGBC certification versus optional acoustic credits, the exterior pilot and enforceable local industrial noise limits.
@@ -28,7 +30,7 @@ The immediate goal is to move from repeated issue-identification to review of co
 
 ## October 27 packet review
 
-- [October 26 packet comparison](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/dataset/updates/37_ADVISORY_PACKET_REVIEW_2026-10-26.md) — new suggested enforcement improvements, compared with the existing research; links will become available after merge.
+- [October 26 packet comparison](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/dataset/updates/37_ADVISORY_PACKET_REVIEW_2026-10-26.md) — new suggested enforcement improvements, compared with the existing research; the source files are now merged into the repository.
 - The original 90-page PDF and Word attachment are referenced by page map and verified source metadata. The binary originals have not yet been copied into GitHub.
 
 ## Core policy principle
