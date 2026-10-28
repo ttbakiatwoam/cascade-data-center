@@ -2,7 +2,8 @@
 
 These are project-generated discussion drafts. **They are not adopted law, official City proposals, or binding company commitments.** Preserve the status labels and drafting notes when quoting them.
 
-- [Advisory Committee recommendation package](CASCADE-ADVISORY-COMMITTEE-RECOMMENDATIONS-2026-10-19.md) — October 6 working package prepared for the proposed October 19, 2026 committee meeting; includes recommendations, a proposed motion, evidence requests, process steps, and the full ordinance as Appendix A.
+- [Current October 28 Advisory Committee recommendations](CASCADE-ADVISORY-COMMITTEE-RECOMMENDATIONS-2026-10-28.md) — meeting-ready proposal with revised ordinance as Appendix A. **Not adopted City policy.**
+- [Historical October 19 working package](CASCADE-ADVISORY-COMMITTEE-RECOMMENDATIONS-2026-10-19.md) — preserved original recommendations and Appendix A based on October 6 draft, not the current version.
 - [October 26 proposed M-2 revision](DRAFT-ORDINANCE-M2-DATA-CENTER-PERFORMANCE-STANDARDS-2026-10-26.md) — packet-informed review copy, not adopted law. The October 6 original remains unchanged below.
 - [M-2 data center and performance standards amendment](DRAFT-ORDINANCE-M2-DATA-CENTER-PERFORMANCE-STANDARDS-2026-10-06.md) — October 6, 2026 draft for policy discussion and City Attorney / Planning & Zoning review.
 - [Model accountability ordinance overview](../dataset/policy/05_PROJECT_MODEL_ACCOUNTABILITY_ORDINANCE.md) — research note summarizing the June 21, 2026 project-generated model.
@@ -13,7 +14,7 @@ For transcribed City documents, use the [Cascade zoning index](../dataset/cascad
 
 ## Website
 
-A committee-friendly GitHub Pages site is maintained from the repository's `docs/` directory. Once GitHub Pages is enabled with **Source: GitHub Actions**, the expected public address is:
+A committee-friendly GitHub Pages site is maintained from the repository's `docs/` directory. The GitHub Actions publishing workflow has completed successfully; the public site address is:
 
 `https://ttbakiatwoam.github.io/cascade-data-center/`
 
