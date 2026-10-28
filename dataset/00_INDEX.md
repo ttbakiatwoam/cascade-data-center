@@ -2,7 +2,7 @@
 
 > Public-source research dataset concerning the proposed data-center / Simple Mining project in Cascade, Iowa.
 >
-> Dataset assembled through: 2026-10-22
+> Dataset assembled through: 2026-10-28 (the October 22 comprehensive evidence tracker remains separately dated)
 
 ## Purpose
 
@@ -116,6 +116,14 @@ The original document numbers are retained for continuity; folders group related
 
 - [`27_WEEKLY_PUBLIC_RECORD_UPDATE_2026-09-11_TO_2026-09-18.md`](updates/27_WEEKLY_PUBLIC_RECORD_UPDATE_2026-09-11_TO_2026-09-18.md) — Weekly public-record update covering proposed Resolution 92-26, the Resolution 57-26 duration discrepancy, Iowa conflict-of-interest statutes, and Chapter 21/22 governance issues.
 - [`28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](updates/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md) — Evidence-labeled summary of the October 1 Simple Mining forum, including the current preliminary facility concept, utility representations, verbal willingness to accept enforceable conditions, and unresolved documentation needs.
+
+## October 28 committee meeting refresh
+
+- [Current meeting brief](../docs/meeting-2026-10-28.md) - official City calendar lists Wednesday, October 28 at 7:00 p.m. Central; original 90-page packet cover has an earlier date/time.
+- [Updated committee recommendations](../proposals/CASCADE-ADVISORY-COMMITTEE-RECOMMENDATIONS-2026-10-28.md) - updated October 28 discussion package including current M-2 proposal.
+- [Current October 26 M-2 proposed revision](../proposals/DRAFT-ORDINANCE-M2-DATA-CENTER-PERFORMANCE-STANDARDS-2026-10-26.md).
+- [Review of 90-page committee packet](updates/37_ADVISORY_PACKET_REVIEW_2026-10-26.md) and [source page map](../sources/committee-materials/2026-10-27/PACKET_PAGE_AND_PROVENANCE_RECORD.md).
+- Raw October 27 packet PDF and Word note are **not yet deposited** in the repository. Verified original-file hashes and descriptive records are provided. A source transcription is not a binary archive.
 
 ## Zoning records, proposals, and preserved sources
 
