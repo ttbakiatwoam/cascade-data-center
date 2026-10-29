@@ -10,3 +10,5 @@
 - [`15_MORATORIUM_AND_DEVELOPMENT_PROCESS.md`](15_MORATORIUM_AND_DEVELOPMENT_PROCESS.md) — Cascade's temporary moratorium, subsequent ordinance work, planning milestones, and development-process principles.
 - [`17_PERMITS_AND_REVIEW_TIMING.md`](17_PERMITS_AND_REVIEW_TIMING.md) — Local permit timing and the important distinction between Iowa's state plan-review 60-day fee-refund rule and automatic approval.
 - [`19_EXTERNAL_POLICY_AND_TECHNOLOGY_COMPARATORS.md`](19_EXTERNAL_POLICY_AND_TECHNOLOGY_COMPARATORS.md) — Utah, Lehi, Salt Lake County, and conventional data-center examples used to identify policy and engineering mechanisms.
+
+- [National data center litigation tracker (October 28, 2026)](39_NATIONAL_DATA_CENTER_LITIGATION_2026-10-28.md) — federal and state cases, settlements, pending developer disputes, Eighth Circuit relevance, and build-status evidence.
