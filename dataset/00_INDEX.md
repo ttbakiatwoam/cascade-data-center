@@ -56,6 +56,8 @@ Calculations, policy proposals, question banks, and model ordinance language cre
 
 ## Research by topic
 
+- **Nationwide litigation (October 28, 2026):** [`39_NATIONAL_DATA_CENTER_LITIGATION_2026-10-28.md`](policy/39_NATIONAL_DATA_CENTER_LITIGATION_2026-10-28.md) — 26 case/dispute records with actual court venues, federal district and circuit comparison, outcome and construction status; linked public [website tracker](../docs/data-center-litigation.md).
+
 The original document numbers are retained for continuity; folders group related subjects. For previous paths, see the [file move map](../docs/repository-layout.md#file-move-map).
 
 ### Project facts and open questions
