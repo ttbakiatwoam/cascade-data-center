@@ -10,6 +10,8 @@ permalink: /draft-ordinance/
 > Original prepared October 6, 2026; proposed review revision dated October 26, 2026 for policy discussion and City Attorney / Planning & Zoning review.  
 > This is a project-generated draft and is not legal advice. Section numbering, amendment mechanics, grandfathering, enforcement, and consistency with Iowa law should be reviewed by the City Attorney before introduction.
 >
+> **Definitions reference:** [Iowa state-law and proposed Cascade M-2 definitions table]({{ '/definitions/' | relative_url }}) includes direct links to official Iowa statutes and administrative rules. State tax, air, water, building and zoning terminology is distinguished from proposed local ordinance definitions.
+>
 > **Uniformity principle:** The ordinance is intentionally written so that zoning and performance standards apply throughout the M-2 Heavy Industrial District to all similarly situated businesses. Data centers are added as an expressly recognized use type, while noise, lighting, screening, water, emergency planning, generators, infrastructure, and other impact standards apply district-wide or through neutral, objective impact thresholds.
 
 **CITY OF CASCADE, IOWA**  
