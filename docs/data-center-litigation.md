@@ -48,12 +48,13 @@ permalink: /data-center-litigation/
 | **Quantum Maryland data-center developer v. Frederick County** (MD) | Circuit Court for Frederick County (state) | D. Maryland (geographic mapping) | Fourth | Developer moratorium suit reported Oct. 8, 2026; pending | Not verified built |
 | **Silver Fox 606 v. Village of Indiantown** (FL) | 19th Judicial Circuit Court, Martin County (state) | S.D. Florida (geographic mapping) | Eleventh | Developer plat/land-use suit reported Oct. 7, 2026; pending | Not verified built |
 
-## Developer-adverse outcomes and corrections (3)
+## Developer-adverse outcomes and corrections (4)
 
 These matters prevent selection bias. They must not be characterized as developer wins.
 
 | Case | Actual court | U.S. district (actual or geographic) | Circuit | Result as of Oct. 28, 2026 | Construction status |
 | --- | --- | --- | --- | --- | --- |
+| **NewRays One LLC v. Faulkner County** (AR) | U.S. District Court, Eastern District of Arkansas | E.D. Arkansas (actual federal venue) | Eighth | Preliminary injunction denied Oct. 6, 2024; amended order Oct. 8; later merits unresolved in reviewed records | Existing cryptocurrency-mining facility; ongoing operation does not establish zoning compliance |
 | **State ex rel. Bristolville 25 Developer LLC v. Village of Lordstown** (OH) | Supreme Court of Ohio (state) | N.D. Ohio (geographic mapping) | Sixth | Developer lost writ action Oct. 20, 2026 | Proposed; not verified built |
 | **DCB Nashville LLC / DC BLOX v. Metropolitan Government of Nashville** (TN) | U.S. District Court, Middle District of Tennessee | M.D. Tennessee (actual federal venue) | Sixth | Original federal complaint dismissed Oct. 6, 2026; later action not verified | Not verified built |
 | **National Land Developers LLC v. Andover Township** (NJ) | Sussex County Superior Court (state) | D. New Jersey (geographic mapping) | Third | Developer voluntarily dismissed with prejudice Oct. 2026 | No build confirmed |
@@ -294,6 +295,16 @@ These matters prevent selection bias. They must not be characterized as develope
 
 ### Adverse outcomes
 
+### NewRays One LLC v. Faulkner County (AR)
+
+- **Docket:** 4:24-cv-00824-LPR.
+- **Actual court:** U.S. District Court for the Eastern District of Arkansas (Central Division).
+- **Federal geographic district:** E.D. Arkansas (actual federal venue). **Circuit:** Eighth.
+- **Outcome or current stage:** Developer's preliminary injunction motion **denied October 6, 2024**, with a clarifying amended order entered October 8, 2024. An August 22, 2025 order addressed some issues in a motion to dismiss without fully disposing of it; final disposition after that order was not verified.
+- **Development status:** Existing cryptocurrency-mining facility. Do not treat operation as judicial approval of noise levels or other compliance.
+- **Scope and caution:** The federal court rejected the developer's request to temporarily stop county enforcement of a noise ordinance. Its preliminary reasoning addresses Arkansas preemption, takings, and constitutional claims using the Eighth Circuit's injunction standard; it is **not a final Eighth Circuit appellate precedent** and is not a definitive Iowa zoning ruling. This is an especially relevant municipal-defense contrast to the favorable Jones Digital case in the **same federal judicial district and circuit**.
+- **Sources:** [Amended preliminary-injunction order](https://law.justia.com/cases/federal/district-courts/arkansas/aredce/4%3A2024cv00824/145096/32/); [Federal docket](https://dockets.justia.com/docket/arkansas/aredce/4%3A2024cv00824/145096); [August 22, 2025 court order](https://www.govinfo.gov/content/pkg/USCOURTS-ared-4_24-cv-00824/pdf/USCOURTS-ared-4_24-cv-00824-2.pdf).
+
 ### State ex rel. Bristolville 25 Developer LLC v. Village of Lordstown (OH)
 
 - **Docket:** 2025-1497.
@@ -341,6 +352,7 @@ These matters prevent selection bias. They must not be characterized as develope
 1. **Document the public-welfare record:** link every proposed restriction to evidence about noise, utilities, water, safety, traffic, or another legitimate land-use effect; avoid unsupported assertions.
 2. **Apply objective standards consistently:** regulate similarly situated industrial impacts under neutral thresholds while defining data-center uses clearly. Treat “same industry” differently from “same measurable impact” when drafting.
 3. **Follow Iowa process:** notice, hearing, recommendation, council readings, publication, and timing requirements matter. A court can decide procedural defects without reaching scientific or economic merits.
+- **Eighth Circuit local noise enforcement contrast:** [*NewRays One LLC v. Faulkner County* preliminary-injunction order](https://law.justia.com/cases/federal/district-courts/arkansas/aredce/4%3A2024cv00824/145096/32/) denied relief against county noise-ordinance enforcement; this is a preliminary ruling under Arkansas law, not binding Iowa district-court precedent.
 4. **Distinguish local vs federal law:** no reported example listed here establishes that Iowa municipalities are barred from setting data-center-specific zoning rules. Arkansas crypto-mining preemption is Arkansas-specific.
 5. **Avoid inflated claims:** one consent settlement led to active construction; another existing facility resumed operations. Most 2026 cases remain unbuilt or their construction status is not independently verified.
 6. **Review real orders:** news headlines about lawsuits, temporary injunctions, dismissed motions, or proposed settlements do not substitute for a docket and signed court order.
