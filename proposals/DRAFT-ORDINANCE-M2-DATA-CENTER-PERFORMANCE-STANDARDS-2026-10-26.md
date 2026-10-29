@@ -264,15 +264,59 @@ Nothing in this section limits other remedies available under Chapter 165 or app
 
 ## SECTION IV. SECTION 165.41 - DEFINITIONS
 
-Section 165.41 is amended by adding the following definitions:
+Section 165.41 is amended by adding the following definitions, while preserving all other definitions not expressly amended. State statutory and administrative definitions used in other regulatory programs are not automatically adopted as zoning definitions. The terms below govern this proposed amendment where a term is not already defined in Chapter 165.
 
-**Data Center or High-Density Computing Facility:** A building, structure, or portion thereof principally used for the operation of networked computer servers, electronic data-processing equipment, digital storage, artificial-intelligence computing, cloud computing, colocation, scientific computing, cryptocurrency computing or mining, or substantially similar high-density computing activities. Ordinary computer rooms, telecommunications equipment, and server equipment incidental and subordinate to another principal use are excluded.
+**Data Center or High-Density Computing Facility:** A building, structure, or portion thereof principally used for networked servers, electronic data processing, digital storage, artificial-intelligence, cloud, colocation, scientific, or cryptocurrency computing. Incidental computer rooms and telecommunications equipment subordinate to another principal use are excluded.
 
-**Major Industrial Facility:** Any M-2 use meeting one or more objective thresholds established in Section 165.11, M-2 Heavy Industrial District, subsection D(8).
+**Major Industrial Facility:** An M-2 use exceeding any one threshold in proposed §165.11(D)(8): 5 MW coincident demand, 25,000 gallons in any 24 hours, 2 MW aggregate stationary generation, or 5 MWh storage. Also includes a modification that crosses a threshold.
 
-**Material Expansion:** An enlargement or operational modification meeting the thresholds established in Section 165.11, M-2 Heavy Industrial District, subsection G(17).
+**Material Expansion:** A modification increasing an approved maximum by 20 percent or more for electrical demand, water demand, stationary generation, energy storage, exterior mechanical capacity, or developed building area, or crossing a Major Industrial Facility threshold for the first time.
 
-**Sensitive Receptor:** An occupied dwelling, school, licensed child-care facility, hospital, nursing facility, place of worship, public library, public park facility, or comparable occupied use where protection from continuous industrial noise is reasonably necessary.
+**Sensitive Receptor:** An occupied dwelling, school, licensed child-care facility, hospital, nursing facility, place of worship, public library, public park facility, or comparable occupied use requiring protection from continuous industrial noise.
+
+**Ambient Noise / Baseline Sound:** Sound at a specified receiving location from existing natural and human-made sources before the proposed facility's contribution; measured over representative day/night periods and operating conditions.
+
+**Facility-Attributable Noise:** The sound contribution from the regulated M-2 operation at the applicable receptor, including operational mechanical equipment and other covered sources, calculated or measured using documented acoustical methods.
+
+**dBA:** A-weighted decibels of sound pressure, measured with calibrated equipment using the applicable professional noise measurement method.
+
+**dBC:** C-weighted decibels of sound pressure, which place greater relative weight on low-frequency sound than A-weighting.
+
+**Hourly Average Sound Level (Leq,1h):** The energy-equivalent continuous sound-pressure level for the full 60-minute measurement interval, using the stated frequency weighting and measurement procedure.
+
+**Prominent Tone / Tonal Noise:** An identifiable recurring or steady audible frequency component distinguishable from neighboring sound bands when evaluated under the ordinance's specified professional acoustical method.
+
+**Acoustic Study:** A qualified professional's documented baseline survey, maximum-design-operation model, receptor analysis, assumptions, equipment schedule, and verification protocol.
+
+**Maximum Anticipated Coincident Electrical Demand:** The maximum expected simultaneous demand of the complete site, in megawatts, under reasonably foreseeable operating conditions, without treating separately rated equipment nameplate capacity as coincident demand.
+
+**Aggregate Stationary Generation Capacity:** The sum of rated electrical outputs of all stationary generators covered by the section, in megawatts, excluding fire pumps only where expressly provided.
+
+**Aggregate Electrical-Energy-Storage Capacity:** The summed rated stored electrical energy of covered stationary storage systems, in megawatt-hours, using documented nameplate energy ratings.
+
+**Exterior Mechanical Equipment:** Permanently located outdoor fans, compressors, cooling equipment, generators, transformers, heat-rejection systems, and comparable mechanical installations serving an M-2 principal use.
+
+**Property Boundary / Lot Line:** The legally established boundary of the parcel under review as supported by a recorded plat, survey, deed, or other legally controlling boundary record.
+
+**Residential Zoning District Boundary:** The official delineation between an M-2 parcel or district and land designated residential by the City's controlling zoning map.
+
+**Sensitive-Receptor Measurement Location:** The specified exterior wall, occupied outdoor-use area, or other objectively identified receiving point at a sensitive receptor, documented on an approved site/acoustic plan.
+
+**Once-Through Cooling:** A process in which municipal potable water passes through a cooling system once and is discharged rather than being recirculated for heat rejection.
+
+**Closed-Loop Cooling:** A recirculating coolant system intended to keep working fluid contained, subject to any limited makeup or process losses specifically disclosed.
+
+**Emergency Response Plan:** A written, site-specific plan documenting access, contacts, utility isolation, fuel, chemicals, battery systems, suppression, evacuation, spills, and coordination with first responders.
+
+**Decommissioning:** The safe disconnection, dismantling, lawful removal, cleanup, and site restoration work required at the end of a covered facility's life.
+
+**Abandonment:** Continuous cessation of a facility's principal approved industrial operation for the period specified in §165.11(G)(16), subject to its listed reasonable exceptions.
+
+**Financial Assurance:** A legally authorized and enforceable instrument providing funds for documented decommissioning and restoration obligations.
+
+**Independent Qualified Professional:** An appropriately licensed or credentialed expert with relevant technical competence and no financial or managerial interest that would compromise independent evaluation.
+
+**Material Modification (for monitoring):** A change in equipment, site layout, generation operation, or other covered operation reasonably likely to change the regulated environmental or infrastructure impact.
 
 ## SECTION V. CONFLICTS AND MORE RESTRICTIVE REQUIREMENTS
 
@@ -365,6 +409,10 @@ The following matters are generally better addressed through a development agree
 - project-specific representations concerning jobs, investment, tenant mix, or expansion.
 
 If the City wants any of these concepts to become district-wide zoning rules, they should be rewritten to apply uniformly to all similarly situated M-2 businesses and reviewed for statutory authority.
+
+
+
+**State-law definitions reference (research, not codified):** [Iowa statutory and administrative definitions, plus proposed local definitions](https://ttbakiatwoam.github.io/cascade-data-center/definitions/). The referenced glossary identifies the law controlling each quoted or paraphrased state definition and distinguishes it from municipal land-use terminology. State statutory definitions apply only within their respective contexts unless expressly incorporated in this ordinance.
 
 ## H. Required Legal Review Before Introduction
 
