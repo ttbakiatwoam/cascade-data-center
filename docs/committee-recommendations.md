@@ -6,6 +6,8 @@ permalink: /committee-recommendations/
 
 # Proposed Recommendations for Cascade Data Center / Major Industrial Facility Zoning (October 28 meeting update)
 
+> **Definitions reference:** [Iowa state-law definitions and proposed Cascade M-2 additions]({{ '/definitions/' | relative_url }}) includes official statutory and rule citations, and clearly distinguishes local drafting choices.
+>
 > **DRAFT FOR DISCUSSION - NOT ADOPTED CITY POLICY OR LAW**  
 > Prepared for the Cascade Data Center Advisory Committee and Planning & Zoning review.  
 > **Current meeting:** Wednesday, October 28, 2026, 7:00-8:00 p.m. Central, listed on the [City's official calendar](https://www.cityofcascade.org/). The earlier supplied packet cover is dated October 27 at 6:00 p.m.; the City calendar provides the newer event time.  
