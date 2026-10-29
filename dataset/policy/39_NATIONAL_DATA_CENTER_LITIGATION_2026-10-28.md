@@ -346,10 +346,11 @@ These matters prevent selection bias. They must not be characterized as develope
 1. **Document the public-welfare record:** link every proposed restriction to evidence about noise, utilities, water, safety, traffic, or another legitimate land-use effect; avoid unsupported assertions.
 2. **Apply objective standards consistently:** regulate similarly situated industrial impacts under neutral thresholds while defining data-center uses clearly. Treat “same industry” differently from “same measurable impact” when drafting.
 3. **Follow Iowa process:** notice, hearing, recommendation, council readings, publication, and timing requirements matter. A court can decide procedural defects without reaching scientific or economic merits.
-- **Eighth Circuit local noise enforcement contrast:** [*NewRays One LLC v. Faulkner County* preliminary-injunction order](https://law.justia.com/cases/federal/district-courts/arkansas/aredce/4%3A2024cv00824/145096/32/) denied relief against county noise-ordinance enforcement; this is a preliminary ruling under Arkansas law, not binding Iowa district-court precedent.
 4. **Distinguish local vs federal law:** no reported example listed here establishes that Iowa municipalities are barred from setting data-center-specific zoning rules. Arkansas crypto-mining preemption is Arkansas-specific.
 5. **Avoid inflated claims:** one consent settlement led to active construction; another existing facility resumed operations. Most 2026 cases remain unbuilt or their construction status is not independently verified.
 6. **Review real orders:** news headlines about lawsuits, temporary injunctions, dismissed motions, or proposed settlements do not substitute for a docket and signed court order.
+
+7. **Compare relevant Eighth Circuit district cases:** [*NewRays One LLC v. Faulkner County*](https://law.justia.com/cases/federal/district-courts/arkansas/aredce/4%3A2024cv00824/145096/32/) denied preliminary relief against county noise enforcement, while [*Jones Digital LLC v. Arkansas County*](https://dockets.justia.com/docket/arkansas/aredce/2%3A2023cv00220/140903) was resolved favorably to a developer. Neither establishes a controlling Iowa state-law rule or a binding Eighth Circuit appellate holding.
 
 ### Coverage and ongoing verification
 
