@@ -2,7 +2,7 @@
 
 [All research and methodology](../00_INDEX.md) · [Repository overview](../../README.md)
 
-- [`38_IOWA_STATE_AND_M2_DEFINITIONS_2026-10-28.md`](38_IOWA_STATE_AND_M2_DEFINITIONS_2026-10-28.md) — official Iowa state-law terms, applicable limits and proposed local Cascade M-2 definitions, with citations and statute-vs-zoning safeguards.
+- [`38_IOWA_STATE_AND_M2_DEFINITIONS_2026-10-28.md`](38_IOWA_STATE_AND_M2_DEFINITIONS_2026-10-28.md) — state-law, Oxford, Merriam-Webster, and legal dictionary comparison across 86 glossary terms, retaining official citations and statute-vs-zoning safeguards.
 - [`04_CASCADE_ZONING_AND_LOCAL_AUTHORITY.md`](04_CASCADE_ZONING_AND_LOCAL_AUTHORITY.md) — Cascade zoning/building-code structure and Iowa municipal/zoning authority.
 - [`05_PROJECT_MODEL_ACCOUNTABILITY_ORDINANCE.md`](05_PROJECT_MODEL_ACCOUNTABILITY_ORDINANCE.md) — Summary of the June 21, 2026 project-generated model accountability ordinance, clearly identified as non-adopted draft policy.
 - [`06_IOWA_DATA_CENTER_POLICY_COMPARATORS.md`](06_IOWA_DATA_CENTER_POLICY_COMPARATORS.md) — Linn County, Jones County, Palo, Allamakee County, Norwalk, and West Des Moines comparators.
