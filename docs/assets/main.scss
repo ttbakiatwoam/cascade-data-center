@@ -473,3 +473,31 @@ summary {
     break-inside: avoid;
   }
 }
+
+
+/* Selected community-infrastructure mark: preserve Minima navigation behavior. */
+.site-title {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.65rem;
+  min-height: 55px;
+}
+.site-title::before {
+  content: "";
+  display: inline-block;
+  flex: 0 0 45px;
+  width: 45px;
+  height: 45px;
+  background: url("{{ site.baseurl }}/assets/branding/concepts/B-community-infrastructure-icon.svg") center / contain no-repeat;
+}
+.cascade-home-logo {
+  display: block;
+  width: min(100%, 720px);
+  height: auto;
+  margin: 0 0 1.4rem;
+}
+@media screen and (max-width: 600px) {
+  .site-title { max-width: calc(100% - 70px); gap: .35rem; font-size: .98rem; line-height: 1.3; padding-right: 0; }
+  .site-title::before { flex-basis: 34px; width: 34px; height: 34px; }
+  .cascade-home-logo { width: 100%; }
+}
