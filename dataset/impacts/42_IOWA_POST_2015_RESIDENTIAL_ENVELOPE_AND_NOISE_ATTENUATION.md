@@ -25,3 +25,13 @@ The canonical, public-facing referenced summary is [the website research page](h
 6. PNNL, *Iowa 2012 IECC energy impact and amendments*, <https://www.pnnl.gov/main/publications/external/technical_reports/PNNL-24946Rev1.pdf>.
 
 **Interpretation:** Do not infer minimum or actual low-frequency facade attenuation from 2015+ construction date alone. Any project prediction should state its measured or supported building-specific transmission loss by frequency.
+
+## Owner refusal and exterior-measurement fallback (November 3, 2026)
+
+Proposed §165.11(G)(4)(e) expressly permits a property owner or lawful occupant to decline voluntary indoor noise testing. If indoor access is declined, a qualified professional measures sound at the source-facing boundary of the sensitive-receptor parcel, where lawfully accessible and representative, or documents the closest suitable lawful alternative. Outdoor testing on private land also requires permission or other lawful authority.
+
+The professional separately estimates the level at the protected building facade and then the predicted interior Leq,1h with documented **outdoor-to-indoor noise reduction (OINR)** or other frequency-dependent acoustic transmission-loss data. The model must address the sound spectrum, low-frequency industrial equipment, A and C weightings, background sound, propagation and uncertainty. The resulting **estimated** interior value is distinct from a direct interior measurement.
+
+**Thermal insulation R-values are not acoustic ratings:** the Iowa energy code provides information about the likely wall assembly, not a lawful fixed subtraction in dBA or dBC. Do not convert wall insulation R-values into a decibel adjustment. FHWA's typical 20 dB light-frame closed-window highway-noise factor may be mentioned as a sensitivity example, but it is not proof of any Cascade home's performance, especially for low-frequency sound. A conservative 0 dB screening assumption is not, by itself, proof of violating an indoor limit.
+
+References: [FHWA Noise Measurement Handbook, section 6](https://www.fhwa.dot.gov/Environment/noise/measurement/handbook.cfm); [ASTM E966 facade field sound attenuation](https://store.astm.org/standards/e966); [Iowa Supreme Court, Singer v. City of Orange City (2024)](https://www.iowacourts.gov/iowa-courts/supreme-court/supreme-court-opinions/case/23-1600).
