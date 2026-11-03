@@ -1,0 +1,42 @@
+name: Verify original Cascade M-2 scan and redline
+on:
+  pull_request:
+    paths:
+      - 'scripts/build_m2_concordance.py'
+      - 'scripts/requirements-m2.txt'
+      - '.github/workflows/m2-scan-review.yml'
+      - 'proposals/**'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  source-and-concordance:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout original preserved source and proposed amendments
+        uses: actions/checkout@v4
+      - name: Upload unaltered original City zoning scan for provenance
+        uses: actions/upload-artifact@v4
+        with:
+          name: original-cascade-zoning-scan
+          path: sources/cascade-zoning/Entire zoning code-1.pdf
+          retention-days: 60
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install PDF dependencies
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y fonts-dejavu-core libpango-1.0-0 libpangocairo-1.0-0 libharfbuzz0b
+          python -m pip install -r scripts/requirements-m2.txt
+      - name: Generate original-scan M-2 changes PDF
+        run: python scripts/build_m2_concordance.py --root . --out m2-build
+      - name: Upload comparison PDFs and scan
+        uses: actions/upload-artifact@v4
+        with:
+          name: m2-original-and-highlighted-changes
+          path: |
+            m2-build/*.pdf
+            m2-build/*.png
+          retention-days: 90

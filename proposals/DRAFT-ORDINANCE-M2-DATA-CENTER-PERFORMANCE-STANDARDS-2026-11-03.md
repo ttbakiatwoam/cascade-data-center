@@ -13,6 +13,8 @@
 
 **NOW, BE IT ENACTED by the City Council of the City of Cascade, Iowa, as follows:**
 
+> **Amendment mechanics / controlling baseline.** This proposal uses §165.11 in the City's scanned Chapter 165 (the M-2 district is on original PDF pages 45–49), as modified by the October 10, 2022 Ordinance 05-22 adding fitness businesses as M-2 permitted use B(18). **Existing A, B(1)–(18), C(1)–(4), D(1)–(7), E, F, and G(1) remain unchanged.** This review also recognizes the 2024 fence ordinance in §165.12(12); no local requirement in this draft overrides that ordinance without a separately enacted amendment. The 2009 zero-lot-line document within the original scan is marked **DRAFT**, so adoption cannot be assumed. The City Clerk/Attorney must confirm the complete amendment history and current codification before introduction. See the [original M-2 scan and redlined comparison](https://ttbakiatwoam.github.io/cascade-data-center/m2-concordance/).
+
 ## SECTION I. SECTION 165.11 M-2 - PERMITTED PRINCIPAL USES
 
 Iowa Code authorizes zoning of industrial land use and requires district-wise uniformity for classes or kinds of buildings; this proposal does not confer project approval.[^1][^2]
@@ -45,15 +47,15 @@ The requirements of this subsection shall apply **without regard to the business
 
 ## SECTION III. SECTION 165.11 M-2 - UNIFORM PERFORMANCE STANDARDS
 
-Subsection G, Special Requirements, is amended by adding the following provisions. These requirements supplement all other applicable provisions of Chapter 165.
+**Existing §165.11(G)(1), “Supplementary District Regulations (Section 165.12),” remains unchanged.** Add the following as §165.11(G)(2) through (19), immediately after the existing G(1). These provisions supplement, rather than replace, existing M-2 requirements and §165.12. Existing allowed uses, special exceptions, yard and height limits, signs, and later amendments remain in force.
 
-### 1. Uniform Applicability
+### 2. Uniform Applicability
 
 The requirements of this subsection apply uniformly to M-2 uses, structures, and operations unless a provision expressly establishes an objective physical or operational threshold. No requirement shall be imposed, waived, or varied solely because of the identity of the owner, operator, tenant, customer, industry, computing workload, product, or business model.
 
 A lawful preexisting use, structure, or condition shall be treated in accordance with Sections 165.14 through 165.20 and other applicable law. To the maximum extent legally permissible, new construction, material expansion, replacement equipment, and materially modified operations after the effective date shall comply with the standards applicable to that work or modification.
 
-### 2. Site Development Plan
+### 3. Site Development Plan
 
 Before issuance of a building permit for a new principal M-2 use or Major Industrial Facility, the applicant shall submit an engineered site development plan identifying, as applicable:
 
@@ -77,7 +79,7 @@ For a Major Industrial Facility, the plan shall additionally identify maximum an
 
 For any Major Industrial Facility using stationary backup or on-site generation, the applicant shall provide a generator schedule identifying each engine's proposed manufacturer/model, rated electrical and thermal capacity, fuel type, exhaust configuration, fuel tank and containment, anticipated emergency and non-emergency operating modes, reasonably foreseeable simultaneous-operation scenarios, planned testing frequency and duration, and applicable state or federal emissions permits or permit-exemption determinations. Information requiring legitimate security protection may be submitted in an appropriately redacted public version and a protected version, only as authorized by Iowa law. The City shall not purport to issue or replace air-quality permits.
 
-### 3. Operational Noise
+### 4. Operational Noise
 
 All M-2 uses shall be designed, constructed, operated, and maintained so that noise attributable to the use does not exceed the following standards, measured in accordance with generally accepted professional acoustic practice:
 
@@ -92,7 +94,7 @@ All M-2 uses shall be designed, constructed, operated, and maintained so that no
 
 **d. Measurement:** The one-hour average is the energy-equivalent continuous sound level (Leq,1h), not an arithmetic mean of decibel readings. A qualified acoustical professional shall use a calibrated Type 1 or Type 2 sound-level meter appropriate for the purpose, identify A- or C-weighting, document meteorology, receiving location, background sources, and source operating conditions, and apply a documented ANSI/ASA S12.9 or successor environmental-noise assessment method. The City shall evaluate only facility-attributable noise using the approved background-noise adjustment procedure. These measurement protocols shall not be construed to set a new statewide noise standard.[^5][^6]
 
-### 4. Acoustic Study and Verification
+### 5. Acoustic Study and Verification
 
 Every Major Industrial Facility shall provide, at the applicant's expense:
 
@@ -107,7 +109,7 @@ Any separate structure-borne or ground-vibration concern must be evaluated with 
 
 The City may require reasonable corrective measures where testing demonstrates noncompliance.
 
-### 5. Generator and Elevated-Noise Testing
+### 6. Generator and Elevated-Noise Testing
 
 Routine and pre-planned testing of stationary generators or other equipment producing substantially elevated noise shall occur only between **8:00 a.m. and 6:00 p.m., Monday through Friday**, except where operation outside those hours is:
 
@@ -118,7 +120,7 @@ Routine and pre-planned testing of stationary generators or other equipment prod
 
 This restriction applies uniformly to M-2 businesses operating such equipment. "Emergency generator" as classified for Iowa air-quality permitting follows applicable state air regulations; local zoning testing-hour rules do not alter air-permit classifications or authorize impermissible emissions.[^7]
 
-### 6. Generator Operating Records
+### 7. Generator Operating Records
 
 Any M-2 facility having aggregate stationary generation capacity of two (2) MW or more shall maintain records identifying:
 
@@ -129,7 +131,7 @@ Any M-2 facility having aggregate stationary generation capacity of two (2) MW o
 
 Records shall be retained for at least three (3) years and made available to the City upon reasonable request for zoning-compliance purposes, subject to applicable public-record and confidentiality law.
 
-### 7. Major Industrial Facility Setbacks
+### 8. Major Industrial Facility Setbacks
 
 Existing M-2 dimensional requirements shall remain applicable generally. In addition, for a new Major Industrial Facility:
 
@@ -139,7 +141,7 @@ Existing M-2 dimensional requirements shall remain applicable generally. In addi
 
 Nothing in this subsection authorizes a setback reduction that conflicts with any other applicable code, easement, fire requirement, or utility clearance.
 
-### 8. Exterior Lighting
+### 9. Exterior Lighting
 
 All new or replacement exterior lighting within the M-2 District shall:
 
@@ -148,13 +150,13 @@ All new or replacement exterior lighting within the M-2 District shall:
 3. Not exceed **0.5 foot-candle at a residential zoning boundary**, excluding existing public street lighting; and
 4. Use automatic controls or reduced lighting levels during periods when full illumination is unnecessary, except for safety, security, and emergency lighting.
 
-### 9. Screening
+### 10. Screening
 
 Exterior mechanical equipment, generators, fuel tanks, refuse areas, substations, and comparable industrial equipment visible from an adjoining residential district or public right-of-way shall be screened through landscaping, berms, walls, fencing, equipment enclosures, or a combination thereof.
 
 Screening shall not interfere with required ventilation, fire access, utility clearance, security, or equipment safety.
 
-### 10. Water Use and Cooling
+### 11. Water Use and Cooling
 
 Any M-2 use reasonably expected to use **25,000 gallons or more of water in a twenty-four-hour period** shall provide:
 
@@ -169,7 +171,7 @@ Any M-2 use reasonably expected to use **25,000 gallons or more of water in a tw
 
 Closed-loop or non-evaporative cooling shall be preferred. An evaporative system may be approved where professional engineering demonstrates that the alternative will not create an unreasonable demand upon municipal water resources and adequately controls drift, plume, condensation, and icing.
 
-### 11. Electrical Utility Verification
+### 12. Electrical Utility Verification
 
 Before issuance of a building permit for any M-2 use having maximum anticipated electrical demand of five (5) MW or more, the applicant shall provide written documentation from the serving electric utility confirming that:
 
@@ -180,7 +182,7 @@ Before issuance of a building permit for any M-2 use having maximum anticipated 
 
 Nothing in this ordinance regulates electric rates, utility service territories, generation procurement, or matters preempted or otherwise committed by law to a public utility, electric cooperative, state agency, or federal authority.
 
-### 12. Fuel, Batteries, Hazardous Materials, and Emergency Response
+### 13. Fuel, Batteries, Hazardous Materials, and Emergency Response
 
 A Major Industrial Facility shall provide an Emergency Response Plan to the City and appropriate emergency-response agencies before occupancy.
 
@@ -200,11 +202,11 @@ The plan shall identify, where applicable:
 
 The plan shall be reviewed following material facility modifications and at reasonable intervals requested by the City or responding agencies.
 
-### 13. Heat Rejection, Drift, Condensation, and Icing
+### 14. Heat Rejection, Drift, Condensation, and Icing
 
 No M-2 mechanical exhaust, cooling, or heat-rejection system shall be operated in a manner that causes ice, condensate, cooling-tower drift, mist, or similar discharge to accumulate upon an adjoining property or public right-of-way or create an unreasonable safety hazard.
 
-### 14. Stormwater and Drainage
+### 15. Stormwater and Drainage
 
 All new M-2 development shall comply with applicable City, state, and federal stormwater requirements.
 
@@ -212,7 +214,7 @@ A Major Industrial Facility shall submit engineered stormwater calculations demo
 
 The property owner shall be responsible for repair of documented project-caused damage to City drainage infrastructure to the extent permitted by law.
 
-### 15. Public Infrastructure
+### 16. Public Infrastructure
 
 Where an M-2 development creates a documented need for road, water, sewer, drainage, emergency-service, or other public improvements beyond existing system capacity, the City may require a development or infrastructure agreement allocating proportionate project-related costs to the applicant to the extent permitted by Iowa law.
 
@@ -220,7 +222,7 @@ This provision shall apply equally to every M-2 development creating the same ty
 
 Where substantial construction hauling is reasonably expected to affect City roads, the City may, pursuant to an independently authorized permit or written road-use agreement, require a preconstruction photographic/engineering condition survey, defined haul routes and axle/load limits, reasonable maintenance and restoration terms, postconstruction verification, and proportionate financial security supported by an engineering estimate. No fixed multiplier or new fee is prescribed here without legal review.
 
-### 16. Decommissioning of Major Industrial Facilities
+### 17. Decommissioning of Major Industrial Facilities
 
 An application for a Major Industrial Facility shall include a decommissioning plan describing:
 
@@ -241,7 +243,7 @@ A qualified professional's decommissioning cost estimate shall be reviewed at le
 
 To the extent enforceable under Iowa law, approval conditions and any separate recorded agreement shall identify responsible owners and operators, notice requirements upon transfer, acceptable successor security, and procedures for default and lawful recovery. Private contracts shall not transfer away obligations imposed by law or approval conditions.
 
-### 17. Material Expansion
+### 18. Material Expansion
 
 An approved Major Industrial Facility shall require an updated Special Exception review where a proposed modification would increase any of the following by **twenty percent (20%) or more** above the previously approved maximum:
 
@@ -254,7 +256,7 @@ An approved Major Industrial Facility shall require an updated Special Exception
 
 Crossing a Major Industrial Facility threshold for the first time shall require Special Exception approval regardless of percentage increase.
 
-### 18. Compliance, Inspection, and Corrective Action
+### 19. Compliance, Inspection, and Corrective Action
 
 The Zoning Administrator may require documentation reasonably necessary to verify compliance with conditions of approval and the objective standards of this section. Where specialized testing or engineering is reasonably required because of a credible compliance question involving a Major Industrial Facility, the City may require the owner or operator to provide qualified professional testing, subject to applicable law and any fee or cost-recovery provisions adopted by the City.
 
@@ -328,6 +330,8 @@ For interpretation **within the respective state-regulated subject**, the follow
 
 ### Interpretation and conflicts
 
+The originally scanned M-2 dimensional standards are a 25-foot front yard, 25-foot rear yard, 20-foot side yard, 20-foot street-side yard for corner lots, and 60-foot maximum height, except where duly adopted later provisions modify them. The source PDF itself includes an unsigned and undated **2009 draft** proposing a zero-lot-line exception; the scan alone cannot establish whether it was enacted. A later Ordinance 05-22 adds permitted fitness uses as item B(18), and Ordinance 19-24 permits fences up to eight feet in M-2 subject to its additional conditions. **No unconditional assertion of current-law completeness is made.**[^15][^16]
+
 The proposal preserves existing Cascade definitions of "Building/Structure," "Accessory Use," "Lot," and "Dwelling" except where a later duly adopted amendment controls. The City Attorney shall verify all intervening amendments to the 1992 base zoning code and confirm final section numbering, cross-references, and special-exception authority before introduction.[^3][^11]
 
 ## SECTION V. CONFLICTS AND MORE RESTRICTIVE REQUIREMENTS
@@ -362,6 +366,9 @@ Superscript note markers in this proposal point to these numbered sources. Notes
 [^9]: Iowa General Assembly, *Iowa Code* §364.3 (2026), limitations on municipal topsoil and stormwater runoff requirements, <https://www.legis.iowa.gov/docs/code/2026/364.3.pdf>.
 [^13]: Iowa General Assembly, *Iowa Code* §455B.301(9) (2026), definition of financial assurance instrument for sanitary disposal projects, <https://www.legis.iowa.gov/docs/code/2026/455B.301.pdf>.
 [^14]: Iowa Department of Natural Resources, *Iowa Administrative Code* 567—60.1 (2026), wastewater and incorporated stormwater definitions, <https://www.legis.iowa.gov/docs/iac/rule/567.60.1.pdf>.
+
+[^15]: City of Cascade, *Chapter 165 Zoning Ordinance*, original scanned M-2 Heavy Industrial District, “Entire zoning code-1.pdf,” source PDF pp. 45–49 (printed code pp. 34–38), preserved at <https://github.com/ttbakiatwoam/cascade-data-center/blob/master/sources/cascade-zoning/Entire%20zoning%20code-1.pdf>; source transcription at <https://github.com/ttbakiatwoam/cascade-data-center/blob/master/dataset/cascade-zoning/CHAPTER-165-ZONING-ORDINANCE.md>. The same scan labels its 2009 zero-lot-line proposal a **draft** (PDF p. 6).
+[^16]: City of Cascade, *Ordinance 05-22*, adopted October 10, 2022, adds fitness centers as M-2 B(18), <https://github.com/ttbakiatwoam/cascade-data-center/blob/master/dataset/cascade-zoning/ordinances/ORDINANCE-05-22.md>; *Ordinance 19-24*, adopted September 9, 2024, amends §165.12(12), including M-2 fencing, <https://github.com/ttbakiatwoam/cascade-data-center/blob/master/dataset/cascade-zoning/ordinances/ORDINANCE-19-24.md>.
 
 # NON-CODIFIED DRAFTING NOTES AND SOURCE BASIS
 

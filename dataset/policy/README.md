@@ -1,5 +1,7 @@
 # Policy, authority, and public process
 
+- [Original M-2 scan compared with Nov. 3 amendment](41_M2_ORIGINAL_SCAN_CONCORDANCE_2026-11-03.md) — preserves current G(1), checks original §165.11 A–G, enacted 2022/2024 amendments, and separately flags the unverified 2009 draft. [Website and annotated PDF](https://ttbakiatwoam.github.io/cascade-data-center/m2-concordance/).
+
 [All research and methodology](../00_INDEX.md) · [Repository overview](../../README.md)
 
 - [`38_IOWA_STATE_AND_M2_DEFINITIONS_2026-11-03.md`](38_IOWA_STATE_AND_M2_DEFINITIONS_2026-11-03.md) — updated 86-term source-linked and Chicago-footnoted glossary, with Oxford, Merriam-Webster and legal dictionary comparators.
