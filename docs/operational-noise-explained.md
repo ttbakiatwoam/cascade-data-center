@@ -100,7 +100,18 @@ The Federal Highway Administration's *Noise Measurement Handbook*, Table 6-1, us
 
 **[Read the full Iowa home construction and noise reduction analysis]({{ '/house-noise-attenuation-iowa/' | relative_url }})**, including the building-code sources, assumptions, and why acoustic verification should be building-specific.
 
-## 6. What happens with generators, existing businesses, and major facilities?
+## 6. Preconstruction indoor baseline measurements at neighboring homes
+
+Before an industrial facility begins construction, proposed **§165.11(G)(5)** requires an acoustical professional to establish the **existing sound baseline**, including the nearest eligible homes, schools, and other sensitive-receptor structures and any other locations predicted to receive greater noise.
+
+- The developer must **offer nearby owners or lawful occupants voluntary indoor baseline testing at no cost**. Participation is optional; declining does not waive future noise protections.
+- **If entry is permitted**, the professional measures existing daytime and nighttime **dBA and dBC Leq,1h** in the nearest normally occupied room facing the planned industrial source. Windows and doors remain closed, with the same microphone placement specified in proposed §G(4)(b). The report documents room ventilation, background noise, measurement time, and conditions. Where lawful access permits, a paired outside measurement helps characterize building attenuation.
+- **If entry is declined**, the professional measures the preconstruction exterior baseline at the **source-facing boundary of the neighboring sensitive-receptor parcel**, provided that location is representative and access is lawful. Otherwise the nearest suitable lawful measurement location is used and documented. Permission to enter a house is separate from permission to enter a yard.
+- Where an indoor baseline must be **estimated**, the model must rely on substantiated acoustic facade data, not a direct conversion from Iowa thermal insulation R-values to decibels. An estimated value must be labeled as such, including uncertainty; it is **not a verified indoor baseline**.
+
+A properly documented baseline gives the City comparable **before-and-after evidence**. It does **not** allow the facility to claim that every sound heard near a home comes from that facility, nor does it change the proposed numeric limits. [Read the Iowa residential building-envelope and noise attenuation research]({{ '/house-noise-attenuation-iowa/' | relative_url }}).
+
+## 7. What happens with generators, existing businesses, and major facilities?
 
 - **All M-2 uses:** The proposed operational limits are drafted as district-wide performance requirements, not special restrictions on data centers alone. Proposed §165.11(G)(2) separately addresses lawful preexisting uses and nonconforming situations; it does **not** establish that every older business must retrofit immediately.
 - **Generators:** Under proposed §165.11(G)(6), routine elevated-noise generator testing is generally limited to **8 a.m.–6 p.m., Monday–Friday**, with listed emergency, safety, regulatory, and authorized exceptions. These hours are **additional to**, not a replacement for, the noise provisions.
@@ -108,7 +119,7 @@ The Federal Highway Administration's *Noise Measurement Handbook*, Table 6-1, us
 
 The facility's loudest reasonably anticipated conditions matter, including hot-weather cooling, multiple operating units, and appropriate generator scenarios. A single quiet-day reading is not a full compliance demonstration.
 
-## 7. Questions to resolve before adoption
+## 8. Questions to resolve before adoption
 
 The existing draft already calls for a qualified acoustical professional, a calibrated **Type 1 or Type 2** meter, A/C frequency weighting, weather and background documentation, and an ANSI/ASA S12.9-based method. That is useful groundwork. The remaining decisions should be made explicit:
 
