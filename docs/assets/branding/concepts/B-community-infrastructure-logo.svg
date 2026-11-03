@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="236" viewBox="0 0 920 236" role="img" aria-label="Cascade Data Center Research logo"><g><rect x="16" y="16" width="188" height="188" rx="35" fill="#F8F6EF" stroke="#EAE4D5" stroke-width="2"/>
+ <path d="M36 136 C64 111 82 117 109 137 C138 154 159 141 184 124" fill="none" stroke="#2B746D" stroke-width="11" stroke-linecap="round"/>
+ <path d="M36 163 C66 143 87 148 112 166 C142 184 163 169 184 154" fill="none" stroke="#BFA063" stroke-width="9" stroke-linecap="round"/>
+ <g fill="#FFFFFF" stroke="#142C3D" stroke-width="7"><rect x="83" y="47" width="42" height="91" rx="9"/><rect x="126" y="65" width="42" height="73" rx="9"/></g>
+ <g fill="#1FAE9A"><rect x="93" y="65" width="22" height="7" rx="3"/><rect x="93" y="85" width="22" height="7" rx="3"/><rect x="93" y="105" width="22" height="7" rx="3"/><circle cx="151" cy="82" r="4.7"/><circle cx="151" cy="100" r="4.7"/><circle cx="151" cy="118" r="4.7"/></g></g>
+ <text x="239" y="111" fill="#182D3D" font-family="Lato, Arial, sans-serif" font-weight="900" font-size="64" letter-spacing="1">CASCADE</text>
+ <text x="242" y="158" fill="#1FAE9A" font-family="Lato, Arial, sans-serif" font-weight="700" font-size="26" letter-spacing="4.4">DATA CENTER RESEARCH</text>
+ <text x="241" y="191" fill="#607785" font-family="Lato, Arial, sans-serif" font-size="20" letter-spacing=".3">Independent research · Cascade, Iowa</text>
+</svg>
