@@ -1,0 +1,54 @@
+name: Validate Chicago-cited research PDFs
+
+on:
+  pull_request:
+    paths:
+      - 'docs/**'
+      - 'proposals/**'
+      - 'dataset/policy/**'
+      - 'scripts/export_research_pdfs.py'
+      - 'scripts/requirements-pdf.txt'
+      - '.github/workflows/pdf-qa.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  pdf-qa:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out proposed research
+        uses: actions/checkout@v4
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install PDF rendering libraries
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y fonts-dejavu-core libpango-1.0-0 libpangocairo-1.0-0 libharfbuzz0b
+          python -m pip install -r scripts/requirements-pdf.txt
+      - name: Export all four complete-source PDFs and combined PDF
+        run: python scripts/export_research_pdfs.py --root . --out ./pdf-output
+      - name: Verify citations and text extraction
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          from pypdf import PdfReader
+          outputs=list(Path('pdf-output').glob('*.pdf'))
+          assert len(outputs)==5, [p.name for p in outputs]
+          for p in outputs:
+              reader=PdfReader(str(p))
+              assert len(reader.pages)>0, p
+              txt=''.join((page.extract_text() or '') for page in reader.pages)
+              assert len(txt)>500, (p, len(txt))
+              assert '2026' in txt, p
+          print('Validated',len(outputs),'PDFs')
+          PY
+      - name: Upload reviewed PDFs
+        uses: actions/upload-artifact@v4
+        with:
+          name: cascade-cited-research-pdfs
+          path: pdf-output/*.pdf
+          retention-days: 90
