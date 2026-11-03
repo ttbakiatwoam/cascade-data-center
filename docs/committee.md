@@ -8,6 +8,12 @@ permalink: /committee/
 
 > **Status note:** The committee was created by the City Council in July 2026 and members were appointed in August. Resolution 92-26, intended to clarify voting membership, quorum, procedures, and advisory roles, was tabled at the September 14 Council meeting. **The adopted September 28 Council minutes confirm the Council voted to keep it tabled.** The September 28 agenda packet nonetheless included a revised *proposed* roster. That proposal is shown below for historical transparency, not as a verified official voting roster. Subsequent appointments or adoption would require an updated official record.
 
+## October 28 meeting: observed membership and leadership
+
+The supplied [October 28 committee minutes]({{ '/meeting-2026-10-28/' | relative_url }}) list **Delaney, Weber, Mehrl, Saunders, Rogers, McNally and Frey** as attending, with **Walter excused**. The minutes record **Rob McNally elected Chair (4 ayes, 2 nays)** and **Dave Mehrl elected Vice Chair (all ayes)**. They also report that members were to bring **definitions with source citations** to the next meeting on **November 11, 2026 at 7:00 p.m.**
+
+These are reported proceedings, not proof that the earlier proposed Resolution 92-26 was adopted. The minutes list seven attendees but only six counted votes for the Chair; the reason is not stated. See the [source transcription](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/sources/committee-materials/2026-10-28/OCTOBER_28_2026_MINUTES_SOURCE_TRANSCRIPTION.md) for the original wording and provenance. No ordinance adoption is recorded.
+
 ## Proposed voting members
 
 The revised September 28 packet identifies **eight voting members**:
@@ -95,4 +101,4 @@ Related records:
 - [September 14, 2026 City Council Minutes](https://www.cityofcascade.org/vimages/shared/vnews/stories/6959ce08641c7/September%2014th.pdf) - records that Resolution 92-26 was tabled.
 - [Advisory committee/open-meetings research](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/dataset/policy/14_ADVISORY_COMMITTEE_AND_OPEN_MEETINGS.md)
 
-**Next meeting listed on the City calendar as of October 28:** Wednesday, October 28, 2026, **7:00-8:00 p.m. Central**. The earlier supplied packet says October 27 at 6:00 p.m.; consult [the City's current calendar](https://www.cityofcascade.org/) for timing and location. See the [October 28 meeting brief]({{ '/meeting-2026-10-28/' | relative_url }}) and [current committee recommendation package]({{ '/committee-recommendations/' | relative_url }}).
+**Next meeting according to the October 28 minutes:** Wednesday, **November 11, 2026 at 7:00 p.m. Central**. Each member was assigned to bring proposed ordinance definitions and citations for sources. Confirm location, final agenda, and notice with [the City of Cascade](https://www.cityofcascade.org/). Read the [October 28 meeting minutes summary]({{ '/meeting-2026-10-28/' | relative_url }}) and the [independent current ordinance proposal]({{ '/draft-ordinance/' | relative_url }}).

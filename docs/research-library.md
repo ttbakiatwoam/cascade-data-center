@@ -22,7 +22,7 @@ The header links to the principal pages. Everything else remains available below
 
 - [Advisory Committee overview]({{ '/committee/' | relative_url }}) — scope, proposed structure, and documented status.
 - [October 28 committee recommendation package]({{ '/committee-recommendations/' | relative_url }}) — **historical meeting version**; use the current proposed ordinance above for the latest wording.
-- [October 28 meeting brief]({{ '/meeting-2026-10-28/' | relative_url }}) — **archived meeting preparation**, not a current meeting notice.
+- **[October 28 committee minutes and November 11 next steps]({{ '/meeting-2026-10-28/' | relative_url }})** — recorded Chair/Vice Chair votes, sourced-definitions assignment, vote-tally clarification, and preserved pre-meeting brief. [Supplied-minutes transcription](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/sources/committee-materials/2026-10-28/OCTOBER_28_2026_MINUTES_SOURCE_TRANSCRIPTION.md).
 - [Proposed utility-consumption information request to Diana](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/dataset/updates/38_UTILITY_INFORMATION_REQUEST_EMAIL_DRAFT_2026-11-03.md) — **draft correspondence**, not proof of sending or a City response.
 - [Public-record and committee updates](https://github.com/ttbakiatwoam/cascade-data-center/tree/master/dataset/updates) — dated source updates and meeting reviews.
 

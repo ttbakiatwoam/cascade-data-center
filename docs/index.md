@@ -10,13 +10,11 @@ title: Cascade Data Center Research
 > **Independent community research - not an official City of Cascade website.**  
 > The working position of this project is pro-development with clear, measurable community protections, transparency, and accountability.
 
-## Advisory Committee meeting: Wednesday, October 28, 7:00-8:00 p.m. Central
+## Committee update: October 28 minutes and November 11 assignment
 
-The [City of Cascade's official calendar](https://www.cityofcascade.org/) lists **Advisory Committee Meeting 7pm** on **October 28, 2026**. An earlier 90-page packet bears an October 27, 6:00 p.m. public-notice cover, while the City's calendar lists October 28 at 7:00 p.m. Those records differ; calendar publication alone does not establish whether legally required notice procedures were satisfied. Verify any changes or the meeting location directly with City Hall.
+The [October 28 Data Center Advisory Committee minutes]({{ '/meeting-2026-10-28/' | relative_url }}) record **Rob McNally as Chair**, **Dave Mehrl as Vice Chair**, and a next meeting of **Wednesday, November 11, 2026 at 7:00 p.m.** Every committee member was assigned to bring **proposed M-2 ordinance definitions with source citations**. The record does not include a vote adopting any ordinance or approving a development.
 
-**[Meeting brief and current source links]({{ '/meeting-2026-10-28/' | relative_url }})** - a short, evidence-labeled index to the current ordinance, the updated committee recommendations, other Iowa examples, and unresolved technical questions.
-
-The goal of this independent research is to help the committee move from broad concerns to proposed measurable, generally applicable M-2 zoning language for City Attorney and Planning & Zoning review. Nothing here constitutes project approval or an official City recommendation.
+**[Read the meeting outcomes, minutes transcription, and next steps]({{ '/meeting-2026-10-28/' | relative_url }})**. The chair vote is recorded as **4–2** despite seven members being listed as attending; the minutes do not explain the missing vote. The meeting minutes were supplied to this project, and their City-approval status has not been independently verified. The site remains an **independent research resource**, not an official City meeting notice.
 
 ### November 3, 2026 - source-cited ordinance and litigation packet
 

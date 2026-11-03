@@ -57,6 +57,10 @@ The City Council agenda packet included proposed Resolution 92-26 to clarify Dat
 
 As of the September 18 review, the City's 2026 records page did not yet list September 14 meeting minutes. The repository therefore treats Resolution 92-26 as proposed packet language pending official confirmation of disposition.
 
+### October 28, 2026 — first recorded committee working meeting and definitions assignment
+
+A one-page set of minutes supplied on November 3 states that Mayor Steve Knepper convened the committee at 7:00 p.m.; seven members attended and one was excused; the committee elected Rob McNally Chair (four ayes, two nays recorded) and Dave Mehrl Vice Chair (all ayes). The committee discussed an M-2 permitted-use ordinance and directed members to bring definitions with source citations to the next meeting, scheduled **November 11, 2026 at 7:00 p.m.** No ordinance-adoption vote appears in these minutes. The six-vote Chair tally does not explain the seventh attendee's status. [Transcription and PDF provenance](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/sources/committee-materials/2026-10-28/OCTOBER_28_2026_MINUTES_SOURCE_TRANSCRIPTION.md); [meeting summary](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/dataset/updates/39_ADVISORY_COMMITTEE_MINUTES_2026-10-28.md).
+
 ## What is established vs. still open
 
 ### Established or publicly documented

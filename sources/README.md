@@ -38,3 +38,12 @@ The October 26 user-supplied attachments have **not** yet been copied as origina
 - [Packet analysis and change rationale](../dataset/updates/37_ADVISORY_PACKET_REVIEW_2026-10-26.md)
 
 The original attachments remain necessary to verify exact visual content. The source index does **not** claim the original attachments are stored here.
+
+## October 28, 2026 committee minutes
+
+A one-page PDF named `October 28 2026 Minutes.pdf` was provided to the research project on November 3, 2026. The source PDF is **not yet stored as original binary bytes in this repository**. The exact-text derivative record provides the PDF's original filename, size, SHA-256 digest, and the motion/meeting transcription:
+
+- [October 28 meeting minutes: source transcription and provenance](committee-materials/2026-10-28/OCTOBER_28_2026_MINUTES_SOURCE_TRANSCRIPTION.md)
+- [Meeting outcome and November 11 follow-up](../dataset/updates/39_ADVISORY_COMMITTEE_MINUTES_2026-10-28.md)
+
+Do not describe the transcription as a certified or formally approved version of the minutes. The supplied text contains no ordinance adoption vote.

@@ -6,7 +6,7 @@ The working position of this independent community project is **pro-data-center 
 
 ## Committee website
 
-A committee-friendly website is maintained from `docs/` and published via GitHub Pages: **https://ttbakiatwoam.github.io/cascade-data-center/**. A successful publishing workflow was recorded October 28, 2026. The [City's official calendar](https://www.cityofcascade.org/) lists the Data Center Advisory Committee meeting on **Wednesday, October 28, 2026 at 7:00 p.m. Central**, with the next research [meeting brief](docs/meeting-2026-10-28.md) and current proposed M-2 standards linked below.
+A committee-friendly website is maintained from `docs/` and published via GitHub Pages: **https://ttbakiatwoam.github.io/cascade-data-center/**. The [October 28 committee minutes and next actions](docs/meeting-2026-10-28.md) record Chair **Rob McNally**, Vice Chair **Dave Mehrl**, and the November 11, 2026 at 7:00 p.m. meeting with a member assignment to bring ordinance definitions and citations. See the [source transcription](sources/committee-materials/2026-10-28/OCTOBER_28_2026_MINUTES_SOURCE_TRANSCRIPTION.md) and [evidence-labeled summary](dataset/updates/39_ADVISORY_COMMITTEE_MINUTES_2026-10-28.md); the minutes do not record adoption of an M-2 ordinance. The website and draft proposals are independent, not official City publications.
 
 ## Existing Cascade M-2 categories and building-class analysis
 

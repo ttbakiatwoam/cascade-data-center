@@ -9,4 +9,6 @@
 
 - [`38_UTILITY_INFORMATION_REQUEST_EMAIL_DRAFT_2026-11-03.md`](38_UTILITY_INFORMATION_REQUEST_EMAIL_DRAFT_2026-11-03.md) — Draft email to Diana listing requested historical CMU and MVEC electricity data, large water users, municipal infrastructure usage, and federal EIA comparison records for the Data Center Advisory Committee. This is a draft, not confirmation that the email was sent.
 
+- [`39_ADVISORY_COMMITTEE_MINUTES_2026-10-28.md`](39_ADVISORY_COMMITTEE_MINUTES_2026-10-28.md) — October 28 minutes, Chair and Vice Chair elections, November 11 definitions-with-citations assignment, and the six-votes-versus-seven-attendees record question. The source PDF was supplied on November 3; its full text is preserved as a derivative transcription.
+
 These records describe the evidence available at their stated dates. Consult the [project evidence tracker](../project/21_OPEN_QUESTIONS_AND_EVIDENCE_GAPS.md) for later developments.
