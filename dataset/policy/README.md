@@ -1,5 +1,9 @@
 # Policy, authority, and public process
 
+- [Iowa §414.2 uniformity and comparator evaluation](43_IA_414_2_UNIFORMITY_COMPARATOR_REVIEW_2026-11-03.md) — ten jurisdictions, distinctions between municipal §414.2 and county §335.4, and written-consent exceptions under §414.5/§335.7.
+- [Complete text of Iowa §414.2 and interpretation](42_IOWA_414_2_DISTRICT_UNIFORMITY_2026-11-03.md) — exact operative wording and statutory source.
+
+
 - [Original M-2 scan compared with Nov. 3 amendment](41_M2_ORIGINAL_SCAN_CONCORDANCE_2026-11-03.md) — preserves current G(1), checks original §165.11 A–G, enacted 2022/2024 amendments, and separately flags the unverified 2009 draft. [Website and annotated PDF](https://ttbakiatwoam.github.io/cascade-data-center/m2-concordance/).
 
 [All research and methodology](../00_INDEX.md) · [Repository overview](../../README.md)
