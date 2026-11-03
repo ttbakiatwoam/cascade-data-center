@@ -1,0 +1,2 @@
+-r requirements-pdf.txt
+pymupdf>=1.26,<2
