@@ -25,15 +25,15 @@ Section 165.41 of Cascade's zoning ordinance would be amended to add these defin
 
 **Sensitive Receptor:** An occupied dwelling, school, licensed child-care facility, hospital, nursing facility, place of worship, public library, public park facility, or comparable occupied use requiring protection from continuous industrial noise.
 
-**Ambient Noise / Baseline Sound:** The sound environment at a designated receiving location without the regulated facility's incremental contribution, determined under representative day, night, and meteorological conditions. Ambient noise is not the Iowa air-quality term "ambient air."[^8][^10]
+**Ambient Noise / Baseline Sound:** The sound environment at a designated receiving location without the regulated facility's incremental contribution, determined under representative day, night, and meteorological conditions. Ambient noise is not the Iowa air-quality term "ambient air."[^3][^4]
 
-**Facility-Attributable Noise:** The sound contribution attributable to a regulated M-2 use at the specified receiving point, including reasonably foreseeable simultaneous operation of equipment; exclude unrelated transportation, natural, and third-party background noise through an approved, documented acoustical procedure.[^10]
+**Facility-Attributable Noise:** The sound contribution attributable to a regulated M-2 use at the specified receiving point, including reasonably foreseeable simultaneous operation of equipment; exclude unrelated transportation, natural, and third-party background noise through an approved, documented acoustical procedure.[^4]
 
 **dBA:** A-weighted decibels of sound pressure, measured with calibrated equipment using the applicable professional noise measurement method.
 
 **dBC:** C-weighted decibels of sound pressure, which place greater relative weight on low-frequency sound than A-weighting.
 
-**Hourly Average Sound Level (Leq,1h):** The energy-equivalent continuous sound-pressure level over sixty (60) minutes, expressed using the specified A- or C-weighting; intermittent contributions are averaged on an acoustic energy basis, not by taking an arithmetic mean of decibel values. The qualified professional shall identify source operation, background sound, measurement location, and calibration.[^10]
+**Hourly Average Sound Level (Leq,1h):** The energy-equivalent continuous sound-pressure level over sixty (60) minutes, expressed using the specified A- or C-weighting; intermittent contributions are averaged on an acoustic energy basis, not by taking an arithmetic mean of decibel values. The qualified professional shall identify source operation, background sound, measurement location, and calibration.[^4]
 
 **Prominent Tone / Tonal Noise:** An identifiable recurring or steady audible frequency component distinguishable from neighboring sound bands when evaluated under the ordinance's specified professional acoustical method.
 
@@ -63,7 +63,7 @@ Section 165.41 of Cascade's zoning ordinance would be amended to add these defin
 
 **Abandonment:** Continuous cessation of a facility's principal approved industrial operation for the period specified in §165.11(G)(16), subject to its listed reasonable exceptions.
 
-**Financial Assurance:** A surety, letter of credit, escrow, performance bond, trust, or other legally authorized and enforceable arrangement in a reasonable amount covering documented decommissioning and site restoration duties. The statutory definition applicable to sanitary-disposal facilities under Iowa Code §455B.301(9) does not itself grant the City authority to impose that requirement on M-2 data centers; a separate legal basis must be confirmed by the City Attorney.[^13]
+**Financial Assurance:** A surety, letter of credit, escrow, performance bond, trust, or other legally authorized and enforceable arrangement in a reasonable amount covering documented decommissioning and site restoration duties. The statutory definition applicable to sanitary-disposal facilities under Iowa Code §455B.301(9) does not itself grant the City authority to impose that requirement on M-2 data centers; a separate legal basis must be confirmed by the City Attorney.[^5]
 
 **Independent Qualified Professional:** An appropriately licensed or credentialed expert with relevant technical competence and no financial or managerial interest that would compromise independent evaluation.
 
@@ -71,13 +71,13 @@ Section 165.41 of Cascade's zoning ordinance would be amended to add these defin
 
 ## SECTION III. INTERPRETATION AND STATE-LAW DEFINITIONS
 
-1. **City zoning definition governs locally.** The local definition of a data center does not import sales-tax eligibility or incentives under Iowa Code §423.3(95)(f). State tax definitions may inform terminology only within their legal scope.[^3]
-2. **Separate regulatory programs remain separate.** Terms relating to water allocation, air contaminants, hazardous substances, wastewater, and stormwater retain their state statutory or administrative meanings when those programs apply. State permit requirements remain applicable and are not replaced by this amendment.[^4][^5][^6]
-3. **Major industrial vs. major air source.** The City's proposed Major Industrial Facility classification is not the same as an air-permitting Major Stationary Source under Iowa Code §455B.131.[^5]
-4. **Special exceptions and variances.** Local definitions do not limit the Board of Adjustment's statutory authority under Iowa Code §414.12(2)-(4), including the 2025-added separate practical-difficulties test for qualifying numerical and dimensional variances.[^7]
-5. **No silent incorporation of dictionaries.** The [86-term glossary comparing Iowa law, Oxford, Merriam-Webster, Black's Law Dictionary, and Cornell Wex](../dataset/policy/38_IOWA_STATE_AND_M2_DEFINITIONS_2026-10-28.md) is noncodified research. Where statutory text or an adopted definition controls, general-purpose dictionary definitions do not displace it.[^8]
-6. **Acoustic measurement.** The ordinance and any adopted compliance protocol shall specify a calibrated sound-level instrument, A/C-weighting, representative operating conditions, background adjustments, one-hour energy-equivalent average (Leq,1h), and qualified analysis of tonal sources. No claim is made that Iowa has enacted these particular numerical industrial noise limits.[^9]
-7. **Stormwater and local limits.** Any post-construction runoff requirement must observe Iowa Code §364.3(19), including applicable limitations on restrictions and financial responsibility for city-imposed more restrictive standards.[^10]
+1. **City zoning definition governs locally.** The local definition of a data center does not import sales-tax eligibility or incentives under Iowa Code §423.3(95)(f). State tax definitions may inform terminology only within their legal scope.[^6]
+2. **Separate regulatory programs remain separate.** Terms relating to water allocation, air contaminants, hazardous substances, wastewater, and stormwater retain their state statutory or administrative meanings when those programs apply. State permit requirements remain applicable and are not replaced by this amendment.[^7][^8][^9]
+3. **Major industrial vs. major air source.** The City's proposed Major Industrial Facility classification is not the same as an air-permitting Major Stationary Source under Iowa Code §455B.131.[^8]
+4. **Special exceptions and variances.** Local definitions do not limit the Board of Adjustment's statutory authority under Iowa Code §414.12(2)-(4), including the 2025-added separate practical-difficulties test for qualifying numerical and dimensional variances.[^10]
+5. **No silent incorporation of dictionaries.** The [86-term glossary comparing Iowa law, Oxford, Merriam-Webster, Black's Law Dictionary, and Cornell Wex](../dataset/policy/38_IOWA_STATE_AND_M2_DEFINITIONS_2026-10-28.md) is noncodified research. Where statutory text or an adopted definition controls, general-purpose dictionary definitions do not displace it.[^3]
+6. **Acoustic measurement.** The ordinance and any adopted compliance protocol shall specify a calibrated sound-level instrument, A/C-weighting, representative operating conditions, background adjustments, one-hour energy-equivalent average (Leq,1h), and qualified analysis of tonal sources. No claim is made that Iowa has enacted these particular numerical industrial noise limits.[^11]
+7. **Stormwater and local limits.** Any post-construction runoff requirement must observe Iowa Code §364.3(19), including applicable limitations on restrictions and financial responsibility for city-imposed more restrictive standards.[^4]
 8. **Existing lawful operations.** The amendment does not, by mere use of a dictionary definition, extinguish an otherwise lawful preexisting use or strip protections established under the controlling zoning ordinance and Iowa law.
 
 ## SECTION IV. CONFLICTS AND SEVERABILITY
@@ -94,14 +94,14 @@ This ordinance takes effect after passage, approval, and publication as Iowa law
 
 [^1]: Iowa General Assembly, *Iowa Code* §414.1 (2026), https://www.legis.iowa.gov/docs/code/2026/414.1.pdf.
 [^2]: Iowa General Assembly, *Iowa Code* §§414.2-414.3 (2026), https://www.legis.iowa.gov/docs/code/2026/414.2.pdf and https://www.legis.iowa.gov/docs/code/2026/414.3.pdf.
-[^3]: Iowa General Assembly, *Iowa Code* §423.3(95)(f) (2026), data-center tax definitions, https://www.legis.iowa.gov/docs/code/2026/423.3.pdf.
-[^4]: Iowa General Assembly, *Iowa Code* §455B.261 (2026), water allocation terms, https://www.legis.iowa.gov/docs/code/2026/455B.261.pdf.
-[^5]: Iowa General Assembly, *Iowa Code* §455B.131 (2026); Iowa Department of Natural Resources, *Iowa Administrative Code* 567—22.1, https://www.legis.iowa.gov/docs/code/2026/455B.131.pdf and https://www.legis.iowa.gov/docs/iac/rule/02-25-2026.567.22.1.pdf.
-[^6]: Iowa General Assembly, *Iowa Code* §§455B.381 and 455B.411 (2026); Iowa Department of Natural Resources, *Iowa Administrative Code* 567—60.1, https://www.legis.iowa.gov/docs/code/2026/455B.pdf and https://www.legis.iowa.gov/docs/iac/rule/567.60.1.pdf.
-[^7]: Iowa General Assembly, *Iowa Code* §414.12(2)-(4) (2026), https://www.legis.iowa.gov/docs/code/2026/414.12.pdf.
-[^8]: Oxford University Press, *Oxford English Dictionary*, https://www.oed.com/ (full-entry verification limited); Merriam-Webster, *Merriam-Webster.com Dictionary*, https://www.merriam-webster.com/; Bryan A. Garner, ed., *Black's Law Dictionary*, 12th ed. (Thomson Reuters, 2024), https://legal.thomsonreuters.com/en/products/law-books/blacks-law-dictionary; Cornell Law School, *Wex*, https://www.law.cornell.edu/wex. Source-qualified editorial comparisons, not verbatim copyrighted definitions.
-[^9]: American National Standards Institute / Acoustical Society of America, *ANSI/ASA S12.9 Environmental Sound*, https://webstore.ansi.org/; choose precise part/edition upon acoustical review.
-[^10]: Iowa General Assembly, *Iowa Code* §364.3(19) (2026), https://www.legis.iowa.gov/docs/code/2026/364.3.pdf.
+[^6]: Iowa General Assembly, *Iowa Code* §423.3(95)(f) (2026), data-center tax definitions, https://www.legis.iowa.gov/docs/code/2026/423.3.pdf.
+[^7]: Iowa General Assembly, *Iowa Code* §455B.261 (2026), water allocation terms, https://www.legis.iowa.gov/docs/code/2026/455B.261.pdf.
+[^8]: Iowa General Assembly, *Iowa Code* §455B.131 (2026); Iowa Department of Natural Resources, *Iowa Administrative Code* 567—22.1, https://www.legis.iowa.gov/docs/code/2026/455B.131.pdf and https://www.legis.iowa.gov/docs/iac/rule/02-25-2026.567.22.1.pdf.
+[^9]: Iowa General Assembly, *Iowa Code* §§455B.381 and 455B.411 (2026); Iowa Department of Natural Resources, *Iowa Administrative Code* 567—60.1, https://www.legis.iowa.gov/docs/code/2026/455B.pdf and https://www.legis.iowa.gov/docs/iac/rule/567.60.1.pdf.
+[^10]: Iowa General Assembly, *Iowa Code* §414.12(2)-(4) (2026), https://www.legis.iowa.gov/docs/code/2026/414.12.pdf.
+[^3]: Oxford University Press, *Oxford English Dictionary*, https://www.oed.com/ (full-entry verification limited); Merriam-Webster, *Merriam-Webster.com Dictionary*, https://www.merriam-webster.com/; Bryan A. Garner, ed., *Black's Law Dictionary*, 12th ed. (Thomson Reuters, 2024), https://legal.thomsonreuters.com/en/products/law-books/blacks-law-dictionary; Cornell Law School, *Wex*, https://www.law.cornell.edu/wex. Source-qualified editorial comparisons, not verbatim copyrighted definitions.
+[^11]: American National Standards Institute / Acoustical Society of America, *ANSI/ASA S12.9 Environmental Sound*, https://webstore.ansi.org/; choose precise part/edition upon acoustical review.
+[^4]: Iowa General Assembly, *Iowa Code* §364.3(19) (2026), https://www.legis.iowa.gov/docs/code/2026/364.3.pdf.
 
 ## Publication and reconciliation
 
