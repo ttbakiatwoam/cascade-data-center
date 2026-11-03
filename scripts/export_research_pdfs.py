@@ -125,9 +125,15 @@ def local_link_to_public(href: str, source_path: Path, root: Path) -> str:
 def simplify_reference_tables(soup: BeautifulSoup) -> None:
     """Reflow seven-column dictionaries into accessible printable entries."""
     tables = list(soup.find_all("table"))
-    if len(tables) < 3:
-        raise RuntimeError("Expected state, legal-concept, and local-definition tables")
-    for table in tables[:3]:
+    # A stray blank line or closing </div> can terminate the first Markdown
+    # table early. Without strict row counts, the remaining definition rows
+    # appear as raw pipe-delimited text in the PDF instead of glossary entries.
+    expected_rows = (55, 5, 26)
+    if len(tables) != len(expected_rows):
+        raise RuntimeError(
+            f"Expected {len(expected_rows)} glossary tables, found {len(tables)}"
+        )
+    for index, table in enumerate(tables):
         thead = table.find("thead")
         heads = [cell.get_text(" ", strip=True) for cell in thead.find_all("th")] if thead else []
         if len(heads) < 6:
@@ -136,6 +142,12 @@ def simplify_reference_tables(soup: BeautifulSoup) -> None:
         new["class"] = ["glossary-entries"]
         tbody = table.find("tbody")
         entries = tbody.find_all("tr", recursive=False) if tbody else []
+        if len(entries) != expected_rows[index]:
+            raise RuntimeError(
+                f"Glossary table {index+1} has {len(entries)} rows; "
+                f"expected {expected_rows[index]}. Check for a broken "
+                "Markdown table boundary or prematurely closed wrapper."
+            )
         for tr in entries:
             cells = tr.find_all("td", recursive=False)
             if len(cells) != len(heads):
