@@ -9,6 +9,9 @@ on:
       - 'dataset/policy/**'
       - 'scripts/export_research_pdfs.py'
       - 'scripts/requirements-pdf.txt'
+      - 'scripts/build_m2_concordance.py'
+      - 'scripts/requirements-m2.txt'
+      - 'sources/cascade-zoning/Entire zoning code-1.pdf'
       - '.github/workflows/pages.yml'
   workflow_dispatch:
 
@@ -35,13 +38,15 @@ jobs:
         run: |
           sudo apt-get update -qq
           sudo apt-get install -y fonts-dejavu-core libpango-1.0-0 libpangocairo-1.0-0 libharfbuzz0b
-          python -m pip install -r scripts/requirements-pdf.txt
+          python -m pip install -r scripts/requirements-m2.txt
       - name: Export cited research PDFs
         run: python scripts/export_research_pdfs.py --root . --out docs/downloads
+      - name: Build original M-2 scanned ordinance and highlighted concordance
+        run: python scripts/build_m2_concordance.py --root . --out docs/downloads
       - name: Archive five generated PDFs
         uses: actions/upload-artifact@v4
         with:
-          name: cascade-published-research-pdfs
+          name: cascade-published-research-pdfs-and-original-m2-concordance
           path: docs/downloads/*.pdf
           retention-days: 90
       - name: Configure Pages
