@@ -1,5 +1,8 @@
 # Policy, authority, and public process
 
+- [Existing Cascade M-2 uses and building categories under Iowa §414.2](44_CASCADE_M2_EXISTING_USE_AND_STRUCTURE_CATEGORIES_2026-11-03.md) — source-based review of §165.11 A–G, §165.41 definitions, differentiated special-exception controls, the 2022/2024 amendments, and implications for the proposed ordinance.
+
+
 - [Iowa §414.2 uniformity and ten-jurisdiction comparison](43_IA_414_2_UNIFORMITY_COMPARATOR_REVIEW_2026-11-03.md) — city §414.2, county §335.4, and written-consent exceptions under §§414.5/335.7.
 - [Iowa §414.2 full statutory passage](42_IOWA_414_2_DISTRICT_UNIFORMITY_2026-11-03.md) — source text and interpretation.
 

@@ -22,6 +22,10 @@ The goal of this independent research is to help the committee move from broad c
 
 **Print-ready PDFs with superscript Chicago source notes:** [M-2 ordinance]({{ '/downloads/cascade-m2-ordinance-2026-11-03.pdf' | relative_url }}) · [Definitions ordinance]({{ '/downloads/cascade-definitions-ordinance-2026-11-03.pdf' | relative_url }}) · [Definitions reference]({{ '/downloads/cascade-definitions-reference-2026-11-03.pdf' | relative_url }}) · [Court abstracts]({{ '/downloads/cascade-case-abstracts-2026-11-03.pdf' | relative_url }}) · [Complete combined packet]({{ '/downloads/cascade-complete-research-packet-2026-11-03.pdf' | relative_url }}).
 
+### Existing Cascade M-2 use categories
+
+**[Does the current M-2 ordinance define distinct classes or kinds of buildings?]({{ '/m2-existing-use-classes/' | relative_url }})** The historical code lists permitted and special-exception uses and imposes different conditions on some of them. It does not expressly organize M-2 into statutory building classes. The analysis compares the scanned code, 2022 and 2024 amendments, and Iowa Code §414.2, with original source citations.
+
 ### Iowa zoning uniformity and comparator ordinances
 
 **[Read the §414.2 analysis and neighboring Iowa ordinance evaluations]({{ '/iowa-zoning-uniformity/' | relative_url }})** — explains why Cascade should avoid singling out data centers for stricter M-2 environmental rules when equivalent industrial impacts remain unregulated. The analysis also explains that §§414.2/335.4 permit legitimate classes and separate districts, and §§414.5/335.7 provide specific written-agreement exceptions. Ten county and city comparators are reviewed.
