@@ -28,6 +28,9 @@ The [original scanned Cascade M-2 zoning text and proposed redline]({{ '/m2-conc
 
 ### Start here
 
+**[Browse the Research Library]({{ '/research-library/' | relative_url }})** for supporting studies, definitions, historical revisions, committee materials, and detailed source records. The header now focuses on the five most useful destinations.
+
+
 - [November 3 litigation abstracts and Chicago citations]({{ '/data-center-case-abstracts/' | relative_url }}) - 27 court disputes with outcome, venue, relevance, and numbered source notes.
 - [National data center litigation tracker]({{ '/data-center-litigation/' | relative_url }}) - developer wins, settlements, pending lawsuits, construction status, and federal district/circuit mappings, including cases in Iowa's Eighth Circuit.
 - [Separate Chapter 165 definitions ordinance]({{ '/draft-definitions-ordinance/' | relative_url }}) - alternative companion legislative vehicle; do not adopt both definitions sections without consolidation.
