@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Proposed M-2 Ordinance - November 3, 2026
+title: Proposed Ordinance
 permalink: /draft-ordinance/
 ---
 
