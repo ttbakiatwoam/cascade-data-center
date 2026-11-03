@@ -58,6 +58,16 @@ The working ordinance's proposed **§165.11(G)(4)(b)** places the receiver **ins
 
 **Practical conclusion:** Post-2015 Iowa residential code compliance provides a basis for expecting **insulated, air-sealed building envelopes**, not a documented **minimum 20 dB, 25 dB, or 35 dB acoustic reduction** for any individual home.
 
+## 5. Owner choice, before-and-after baseline and HVAC testing conditions
+
+The revised **proposed** M-2 ordinance requires the developer to **offer voluntary preconstruction indoor sound measurements** to the owners or lawful occupants of selected neighboring homes and other sensitive-receptor structures. When access is granted, a qualified professional measures **daytime and nighttime A- and C-weighted Leq,1h** before construction under the same general conditions to be used after construction.
+
+**Testing conditions when a dwelling has a user-controllable forced-air system:** All exterior windows and doors remain closed. For the full indoor measurement period, set the **HVAC circulation fan to ON continuously, not AUTO**. Set the heating/cooling thermostat within **65°F–75°F** where reasonably practicable and safe. Heating/cooling calls may still cycle normally while the circulation fan runs throughout. Record actual blower operation, thermostat settings, indoor temperature and background sound. Repeat comparable conditions for postconstruction testing. The range and fan setting are **proposed Cascade testing conditions**, not requirements of the Iowa energy code or of ASHRAE Standard 55.[^9]
+
+**When the owner declines voluntary indoor testing**, the acoustician measures at the source-facing sensitive-receptor **parcel boundary closest to the industrial property** when acoustically representative and lawfully accessible; otherwise the nearest appropriate lawful exterior location is documented. The indoor baseline is then **estimated** from an acoustical transmission-loss model, not measured indoors. An R-20 thermal-insulation rating is **not** a 20-decibel sound reduction. Sound-spectrum-appropriate exterior-to-interior attenuation and the model's uncertainty must be documented.[^6][^7]
+
+**Evidence of a change versus an absolute limit:** A specific claim that the project **raised indoor sound** should be supported by comparable pre- and postconstruction data and a professional attribution analysis. A resident **does not have to establish that the home was originally silent**, and lack of a preconstruction reading does **not** bar a complaint about an absolute noise-limit exceedance or independently available nuisance remedies. An occupant's decision not to allow voluntary access does not give a tester unrestricted access to a private yard or building.[^10]
+
 ## Sources — Chicago-style notes
 
 [^1]: U.S. Department of Energy, *Building Energy Codes Program, Iowa*, <https://www.energycodes.gov/status/states/iowa>, identifies Iowa's 2012 IECC with amendments and April 1, 2014 effective date.
@@ -68,5 +78,8 @@ The working ordinance's proposed **§165.11(G)(4)(b)** places the receiver **ins
 [^6]: Federal Highway Administration, *Noise Measurement Handbook*, FHWA-HEP-18-065 (2018), §6.0 and Table 6-1, <https://www.fhwa.dot.gov/Environment/noise/measurement/handbook.cfm>. The table supplies typical **highway** noise reduction assumptions and recommends site-specific calculations and verification.
 [^7]: Federal Highway Administration, *Noise Measurement Handbook*, §6.0, identifies ISO 12354-3:2017 as a method for predicting façade transmission; see also Acoustical Society of America / ANSI, *S12.9-2016/Part 7 (R2025)*, <https://webstore.ansi.org/standards/asa/asaansis122016partr2025>, for low-frequency noise in occupied spaces.
 [^8]: World Health Organization, *Guidelines for Community Noise* (1999), <https://www.who.int/publications-detail-redirect/a68672>. Nonbinding indoor sleep-protection guidance; not an Iowa standard.
+
+[^9]: American Society of Heating, Refrigerating and Air-Conditioning Engineers (ASHRAE), *ANSI/ASHRAE Standard 55*, <https://www.ashrae.org/technical-resources/bookstore/standard-55-thermal-environmental-conditions-for-human-occupancy>. Its comfort framework does not prescribe this proposed 65°F–75°F acoustical testing interval or a compulsory fan-ON measurement.
+[^10]: *Camara v. Municipal Court*, 387 U.S. 523 (1967), administrative inspections, <https://supreme.justia.com/cases/federal/us/387/523/>; Iowa Supreme Court, *Singer v. City of Orange City*, No. 23-1600 (Dec. 20, 2024), <https://law.justia.com/cases/iowa/supreme-court/2024/23-1600.html>. Any compelled inspection requires lawful authorization; this draft provides for voluntary participation.
 
 [Back to the proposed noise limits]({{ '/operational-noise/' | relative_url }}) · [Read the proposed M-2 ordinance]({{ '/draft-ordinance/' | relative_url }})
