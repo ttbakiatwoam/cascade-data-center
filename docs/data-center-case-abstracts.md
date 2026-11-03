@@ -258,9 +258,9 @@ permalink: /data-center-case-abstracts/
 
 [^28]: Woodbury County and residents v. City of Salix, Iowa state court; docket not independently verified. Iowa state district court (state). Sources and status evidence: [Radio Iowa Aug. 6, 2026](https://www.radioiowa.com/2026/08/06/woodbury-county-suing-salix-over-land-annexation-for-data-center/); [KTIV Aug. 21, 2026](https://www.ktiv.com/2026/08/21/city-salix-files-motion-dismiss-lawsuit-regarding-potential-data-center/). Research collected through October 28, 2026; verify the docket for developments after that date.
 
-[^1]: U.S. Congress, *28 U.S.C.* §95, judicial districts of Iowa, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section95&num=0&edition=prelim.
-[^29]: Iowa General Assembly, *Iowa Code* §§414.1-414.3 (2026), https://www.legis.iowa.gov/docs/code/2026/414.1.pdf; https://www.legis.iowa.gov/docs/code/2026/414.2.pdf; https://www.legis.iowa.gov/docs/code/2026/414.3.pdf.
-[^30]: Iowa General Assembly, *Iowa Code* §414.12(2)-(4) (2026), https://www.legis.iowa.gov/docs/code/2026/414.12.pdf.
+[^1]: U.S. Congress, *28 U.S.C.* §95, judicial districts of Iowa, <https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section95&num=0&edition=prelim>.
+[^29]: Iowa General Assembly, *Iowa Code* §§414.1-414.3 (2026), <https://www.legis.iowa.gov/docs/code/2026/414.1.pdf>; <https://www.legis.iowa.gov/docs/code/2026/414.2.pdf>; <https://www.legis.iowa.gov/docs/code/2026/414.3.pdf>.
+[^30]: Iowa General Assembly, *Iowa Code* §414.12(2)-(4) (2026), <https://www.legis.iowa.gov/docs/code/2026/414.12.pdf>.
 
 ## Source relationship and publication
 

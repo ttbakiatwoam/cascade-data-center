@@ -100,27 +100,27 @@ This ordinance takes effect after passage, approval, and publication as Iowa law
 
 ## Chicago-style numbered notes (noncodified)
 
-[^1]: Iowa General Assembly, *Iowa Code* §414.1 (2026), https://www.legis.iowa.gov/docs/code/2026/414.1.pdf.
+[^1]: Iowa General Assembly, *Iowa Code* §414.1 (2026), <https://www.legis.iowa.gov/docs/code/2026/414.1.pdf>.
 
-[^2]: Iowa General Assembly, *Iowa Code* §§414.2-414.3 (2026), https://www.legis.iowa.gov/docs/code/2026/414.2.pdf and https://www.legis.iowa.gov/docs/code/2026/414.3.pdf.
+[^2]: Iowa General Assembly, *Iowa Code* §§414.2-414.3 (2026), <https://www.legis.iowa.gov/docs/code/2026/414.2.pdf> and <https://www.legis.iowa.gov/docs/code/2026/414.3.pdf>.
 
-[^3]: Oxford University Press, *Oxford English Dictionary*, https://www.oed.com/ (full-entry verification limited); Merriam-Webster, *Merriam-Webster.com Dictionary*, https://www.merriam-webster.com/; Bryan A. Garner, ed., *Black's Law Dictionary*, 12th ed. (Thomson Reuters, 2024), https://legal.thomsonreuters.com/en/products/law-books/blacks-law-dictionary; Cornell Law School, *Wex*, https://www.law.cornell.edu/wex. Source-qualified editorial comparisons, not verbatim copyrighted definitions.
+[^3]: Oxford University Press, *Oxford English Dictionary*, <https://www.oed.com/> (full-entry verification limited); Merriam-Webster, *Merriam-Webster.com Dictionary*, <https://www.merriam-webster.com/>; Bryan A. Garner, ed., *Black's Law Dictionary*, 12th ed. (Thomson Reuters, 2024), <https://legal.thomsonreuters.com/en/products/law-books/blacks-law-dictionary>; Cornell Law School, *Wex*, <https://www.law.cornell.edu/wex>. Source-qualified editorial comparisons, not verbatim copyrighted definitions.
 
-[^4]: Iowa General Assembly, *Iowa Code* §364.3(19) (2026), https://www.legis.iowa.gov/docs/code/2026/364.3.pdf.
+[^4]: Iowa General Assembly, *Iowa Code* §364.3(19) (2026), <https://www.legis.iowa.gov/docs/code/2026/364.3.pdf>.
 
-[^5]: Iowa General Assembly, *Iowa Code* §455B.301(9) (2026), financial assurance instrument defined for sanitary disposal projects only; this statute does not automatically authorize a municipal data-center decommissioning requirement, https://www.legis.iowa.gov/docs/code/2026/455B.301.pdf.
+[^5]: Iowa General Assembly, *Iowa Code* §455B.301(9) (2026), financial assurance instrument defined for sanitary disposal projects only; this statute does not automatically authorize a municipal data-center decommissioning requirement, <https://www.legis.iowa.gov/docs/code/2026/455B.301.pdf>.
 
-[^6]: Iowa General Assembly, *Iowa Code* §423.3(95)(f) (2026), data-center tax definitions, https://www.legis.iowa.gov/docs/code/2026/423.3.pdf.
+[^6]: Iowa General Assembly, *Iowa Code* §423.3(95)(f) (2026), data-center tax definitions, <https://www.legis.iowa.gov/docs/code/2026/423.3.pdf>.
 
-[^7]: Iowa General Assembly, *Iowa Code* §455B.261 (2026), water allocation terms, https://www.legis.iowa.gov/docs/code/2026/455B.261.pdf.
+[^7]: Iowa General Assembly, *Iowa Code* §455B.261 (2026), water allocation terms, <https://www.legis.iowa.gov/docs/code/2026/455B.261.pdf>.
 
-[^8]: Iowa General Assembly, *Iowa Code* §455B.131 (2026); Iowa Department of Natural Resources, *Iowa Administrative Code* 567—22.1, https://www.legis.iowa.gov/docs/code/2026/455B.131.pdf and https://www.legis.iowa.gov/docs/iac/rule/02-25-2026.567.22.1.pdf.
+[^8]: Iowa General Assembly, *Iowa Code* §455B.131 (2026); Iowa Department of Natural Resources, *Iowa Administrative Code* 567—22.1, <https://www.legis.iowa.gov/docs/code/2026/455B.131.pdf> and <https://www.legis.iowa.gov/docs/iac/rule/02-25-2026.567.22.1.pdf>.
 
-[^9]: Iowa General Assembly, *Iowa Code* §§455B.381 and 455B.411 (2026); Iowa Department of Natural Resources, *Iowa Administrative Code* 567—60.1, https://www.legis.iowa.gov/docs/code/2026/455B.pdf and https://www.legis.iowa.gov/docs/iac/rule/567.60.1.pdf.
+[^9]: Iowa General Assembly, *Iowa Code* §§455B.381 and 455B.411 (2026); Iowa Department of Natural Resources, *Iowa Administrative Code* 567—60.1, <https://www.legis.iowa.gov/docs/code/2026/455B.pdf> and <https://www.legis.iowa.gov/docs/iac/rule/567.60.1.pdf>.
 
-[^10]: Iowa General Assembly, *Iowa Code* §414.12(2)-(4) (2026), https://www.legis.iowa.gov/docs/code/2026/414.12.pdf.
+[^10]: Iowa General Assembly, *Iowa Code* §414.12(2)-(4) (2026), <https://www.legis.iowa.gov/docs/code/2026/414.12.pdf>.
 
-[^11]: American National Standards Institute / Acoustical Society of America, *ANSI/ASA S12.9 Environmental Sound*, https://webstore.ansi.org/; choose precise part/edition upon acoustical review.
+[^11]: American National Standards Institute / Acoustical Society of America, *ANSI/ASA S12.9 Environmental Sound*, <https://webstore.ansi.org/>; choose precise part/edition upon acoustical review.
 
 ## Publication and reconciliation
 
