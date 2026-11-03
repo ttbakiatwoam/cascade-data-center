@@ -3,16 +3,8 @@ description: Independent research and working zoning recommendations concerning 
 theme: minima
 markdown: kramdown
 header_pages:
-  - meeting-2026-10-28.md
-  - committee.md
-  - committee-recommendations.md
   - draft-ordinance.md
-  - m2-concordance.md
-  - draft-definitions-ordinance.md
-  - definitions.md
+  - committee.md
+  - research-library.md
   - data-center-litigation.md
-  - data-center-case-abstracts.md
   - downloads.md
-  - franchise-fee-and-jobs.md
-  - evidence.md
-  - public-objections.md
