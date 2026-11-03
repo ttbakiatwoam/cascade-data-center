@@ -3,6 +3,8 @@ layout: home
 title: Cascade Data Center Research
 ---
 
+![Cascade Data Center Research, independent research · Cascade, Iowa]({{ '/assets/branding/concepts/B-community-infrastructure-logo.svg' | relative_url }}){: .cascade-home-logo }
+
 # Cascade Data Center Research & Zoning Work
 
 > **Independent community research - not an official City of Cascade website.**  
