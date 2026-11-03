@@ -80,7 +80,27 @@ The facility must satisfy the property-line rule where applicable. It also must 
 
 That distinction matters in Cascade because an intervening parcel has been discussed for the proposed site. The presence of a parcel between properties **does not prove compliance**, and it does **not by itself establish the shortest distance** from equipment to a home.
 
-## 5. What happens with generators, existing businesses, and major facilities?
+## 5. Do Iowa homes built after 2015 already reduce outside noise?
+
+Yes, in ordinary construction they can reduce outside noise significantly, but **the state energy code does not guarantee a particular number of decibels**. Iowa retained the **2012 IECC with state amendments** as its residential energy code, effective **April 1, 2014**. Post-2015 construction typically has insulated, air-sealed exterior walls, energy-rated windows and sealed penetrations. Iowa's amendment sets a **4 ACH50** blower-door air-leakage test ceiling; common prescriptive wood-frame wall options include **R-20 cavity insulation or R-13 plus R-5 continuous insulation**. These requirements address *energy*, not a mandated acoustic STC or outdoor-to-indoor dBA/dBC reduction.[^9]
+
+The Federal Highway Administration's *Noise Measurement Handbook*, Table 6-1, uses the following **highway-traffic-noise planning factors**, not Iowa building-code requirements:[^10]
+
+| FHWA building/window assumption | Illustrative outside-to-inside reduction |
+| --- | ---: |
+| Any building, open windows | 10 dB |
+| Light-frame home, ordinary **closed** windows | **20 dB** |
+| Light-frame home with storm windows | **25 dB** |
+| Masonry building with single glazing | **25 dB** |
+| Masonry building with double glazing | **35 dB** |
+
+**Example, not a Cascade measurement:** A properly comparable **65 dBA outdoors** and **20 dB measured sound reduction** would imply approximately **45 dBA indoors**. The actual number depends on the home's construction and the noise spectrum. The FHWA's A-weighted traffic-noise factors **cannot simply be subtracted from dBC levels** associated with low-frequency cooling or transformer hum. Sound can travel differently through glazing, wall assemblies, vents and mechanical penetrations. The separate M-2 outdoor property-line standard continues to apply.
+
+**Cascade-specific detail:** Dubuque County is in IECC **Climate Zone 5A**, while Delaware County is **Zone 6A** under the 2012-era county classification. Cascade adopted the current State Building Code by reference in **Ordinance 02-22 (August 22, 2022)**; the applicable permit-date code still needs to be confirmed for each home.[^11]
+
+**[Read the full Iowa home construction and noise reduction analysis]({{ '/house-noise-attenuation-iowa/' | relative_url }})**, including the building-code sources, assumptions, and why acoustic verification should be building-specific.
+
+## 6. What happens with generators, existing businesses, and major facilities?
 
 - **All M-2 uses:** The proposed operational limits are drafted as district-wide performance requirements, not special restrictions on data centers alone. Proposed §165.11(G)(2) separately addresses lawful preexisting uses and nonconforming situations; it does **not** establish that every older business must retrofit immediately.
 - **Generators:** Under proposed §165.11(G)(6), routine elevated-noise generator testing is generally limited to **8 a.m.–6 p.m., Monday–Friday**, with listed emergency, safety, regulatory, and authorized exceptions. These hours are **additional to**, not a replacement for, the noise provisions.
@@ -88,7 +108,7 @@ That distinction matters in Cascade because an intervening parcel has been discu
 
 The facility's loudest reasonably anticipated conditions matter, including hot-weather cooling, multiple operating units, and appropriate generator scenarios. A single quiet-day reading is not a full compliance demonstration.
 
-## 6. Questions to resolve before adoption
+## 7. Questions to resolve before adoption
 
 The existing draft already calls for a qualified acoustical professional, a calibrated **Type 1 or Type 2** meter, A/C frequency weighting, weather and background documentation, and an ANSI/ASA S12.9-based method. That is useful groundwork. The remaining decisions should be made explicit:
 
@@ -115,5 +135,8 @@ The objective is a rule that protects residents **and** gives every M-2 business
 [^6]: International Organization for Standardization, *ISO 1996-2:2017*, <https://www.iso.org/standard/59766.html>, environmental sound assessment with indoor-placement guidance. The five-foot rule is proposed Cascade language, not an ISO requirement.
 [^7]: Acoustical Society of America / ANSI, *S12.72-2015 (R2025)*, <https://webstore.ansi.org/standards/asa/asaansis12722015r2025>, and *S12.9-2016/Part 7 (R2025)*, <https://webstore.ansi.org/standards/asa/asaansis122016partr2025>, indoor ambient and low-frequency sound measurement methods.
 [^8]: World Health Organization, *Guidelines for Community Noise* (1999), <https://www.who.int/publications-detail-redirect/a68672>, indoor nighttime bedroom reference (30 dBA Leq); nonbinding guidance.
+[^9]: U.S. Department of Energy, *Iowa Building Energy Code Status*, <https://www.energycodes.gov/status/states/iowa>; Iowa Administrative Code 481—301.24, *Residential Energy Code*, <https://www.legis.iowa.gov/DOCS/ACO/IAC/LINC/Rule.481.301.24.pdf>; Pacific Northwest National Laboratory, *Iowa 2012 IECC amendments*, <https://www.pnnl.gov/main/publications/external/technical_reports/PNNL-24946Rev1.pdf>. These specify thermal insulation and envelope leakage, not acoustic isolation.
+[^10]: Federal Highway Administration, *Noise Measurement Handbook* (2018), §6.0, Table 6-1, <https://www.fhwa.dot.gov/Environment/noise/measurement/handbook.cfm>. Highway source spectra and building types limit use of these planning factors for industrial noise.
+[^11]: U.S. Department of Energy, *Guide to Determining Climate Regions by County* (2015), <https://www.energy.gov/eere/buildings/articles/building-america-best-practices-series-volume-73-guide-determining-climate>; City of Cascade, Code §6-12-8, Ordinance 02-22, <https://codelibrary.amlegal.com/codes/cascadeia/latest/cascade_ia/0-0-0-4159>.
 
 [Return to the current draft ordinance]({{ '/draft-ordinance/' | relative_url }}) · [Browse the Research Library]({{ '/research-library/' | relative_url }})
