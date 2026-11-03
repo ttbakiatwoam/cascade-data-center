@@ -2,6 +2,8 @@
 
 These are project-generated discussion drafts. **They are not adopted law, official City proposals, or binding company commitments.** Preserve the status labels and drafting notes when quoting them.
 
+- [Current November 3 M-2 ordinance with Chicago source notes](DRAFT-ORDINANCE-M2-DATA-CENTER-PERFORMANCE-STANDARDS-2026-11-03.md) — current review text, **not adopted law**.
+- [Companion standalone Chapter 165 definitions ordinance](DRAFT-ORDINANCE-CH165-DEFINITIONS-2026-11-03.md) — alternative legislative vehicle to the integrated definitions section, **not adopted**.
 - [Current October 28 Advisory Committee recommendations](CASCADE-ADVISORY-COMMITTEE-RECOMMENDATIONS-2026-10-28.md) — meeting-ready proposal with revised ordinance as Appendix A. **Not adopted City policy.**
 - [Historical October 19 working package](CASCADE-ADVISORY-COMMITTEE-RECOMMENDATIONS-2026-10-19.md) — preserved original recommendations and Appendix A based on October 6 draft, not the current version.
 - [Iowa state-law definitions and Cascade M-2 glossary](../dataset/policy/38_IOWA_STATE_AND_M2_DEFINITIONS_2026-10-28.md) — 86 source-linked terms with Oxford, Merriam-Webster, and Black's / Cornell Wex comparisons alongside state law and local zoning additions; also published [on the website](https://ttbakiatwoam.github.io/cascade-data-center/definitions/).
