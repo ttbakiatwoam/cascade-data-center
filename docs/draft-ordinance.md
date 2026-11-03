@@ -16,6 +16,8 @@ permalink: /draft-ordinance/
 >
 > **Legal comparison:** [§414.2 district uniformity and ten neighboring Iowa ordinance reviews]({{ '/iowa-zoning-uniformity/' | relative_url }}) explains why comparable M-2 facilities should receive comparable operational standards, and clarifies the lawful exceptions.
 >
+> **Existing-law baseline:** [Does Cascade's M-2 ordinance already define classes or kinds of buildings?]({{ '/m2-existing-use-classes/' | relative_url }}) documents the permitted and special-exception categories and their existing use-specific conditions. The draft remains proposed law.
+>
 > **Uniformity principle:** The ordinance is intentionally written so that zoning and performance standards apply throughout the M-2 Heavy Industrial District to all similarly situated businesses. Data centers are added as an expressly recognized use type, while noise, lighting, screening, water, emergency planning, generators, infrastructure, and other impact standards apply district-wide or through neutral, objective impact thresholds.
 
 **CITY OF CASCADE, IOWA**  
