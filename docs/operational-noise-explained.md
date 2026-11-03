@@ -15,11 +15,13 @@ The proposal creates **two separate checks** on noise from any M-2 industrial us
 | Where sound is evaluated | 7:00 a.m.–10:00 p.m. | 10:00 p.m.–7:00 a.m. |
 | --- | --- | --- |
 | **Any M-2 property boundary** | **65 dBA and 75 dBC** | **65 dBA and 75 dBC** |
-| **At an existing dwelling or other sensitive receptor** | **55 dBA and 65 dBC** | **50 dBA and 60 dBC** |
+| **Inside a dwelling or other sensitive-receptor structure, doors and windows closed** | **55 dBA and 65 dBC** | **50 dBA and 60 dBC** |
 
-The property-boundary limit does not change at night. The stricter nighttime limits apply **at the protected location**, not automatically at every industrial boundary.
+The property-boundary limit does not change at night. The different nighttime limits apply **inside occupied sensitive structures**, not automatically at every industrial boundary.
 
-The sensitive-receptor list includes an **existing dwelling, school, licensed child-care facility, hospital, nursing facility, place of worship, public library, or comparable occupied sensitive use**. The proposed measurement point is at an **exterior wall or outdoor use area** of that use. It is not an indoor room measurement.
+The sensitive-receptor list includes an **existing dwelling, school, licensed child-care facility, hospital, nursing facility, place of worship, public library, or comparable occupied sensitive use**. The measurement would be made in the **nearest normally occupied room on the source-facing side**, initially at the closest qualifying occupied structure. The microphone would be **within five feet of the interior surface of the nearest exterior wall**, normally **at least 1.5 feet away from reflective surfaces**, about four to five feet above the floor. **All doors and windows must be closed**. An acoustician would also check other qualifying structures where sound might be greater because of terrain or equipment direction. Indoor entry requires consent or other lawful authority.[^6][^7]
+
+**Important change in protection:** This replaces the original exterior-wall/outdoor-use-area measurement. A closed building generally reduces outside sound, so **the same 50 dBA nighttime limit is considerably less protective when measured indoors**. WHO guidance uses **30 dBA Leq indoors at night for bedrooms** as a sleep-related benchmark. That is guidance, not Iowa law. The draft deliberately preserves its earlier numbers for committee discussion, and they **need independent acoustical review before adoption**.[^8] Outdoor patios and yards are no longer checked under this separate sensitive-receptor limit, though the M-2 property-line limit remains.
 
 ## 1. What do dBA and dBC mean?
 
@@ -48,7 +50,7 @@ Proposed **§4(d)** defines the one-hour average as **Leq,1h**, the energy-equiv
 
 **Illustrative example:** If a facility alone produced **80 dBA for one minute** and no sound for the remaining 59 minutes, its one-hour Leq would be about **62.2 dBA**. That is below the proposed 65 dBA property-line limit, even though the brief event was louder. The example ignores existing background sound, tonal penalties, other rules, and other operating periods.
 
-**Important:** This section does **not explicitly create a separate maximum instantaneous level (Lmax)**. Other rules, including generator-testing hours and applicable nuisance law, may still matter. For clarity, the City should state **explicitly** whether the residential/sensitive-receptor limits also use Leq,1h; §4(d) defines an hourly average, but §4(b) does not separately name the averaging interval.
+**Important:** This section does **not create a separate maximum instantaneous level (Lmax)**. Other rules, including generator-testing hours and applicable nuisance law, may still matter. The revised §4(b) expressly applies **Leq,1h** to the indoor sensitive-receptor limits.
 
 ## 3. What if the neighborhood is already noisy?
 
@@ -72,9 +74,9 @@ It can matter for **setbacks or adjacency rules**, but **not the existence of th
 
 Think of the locations in order:
 
-**M-2 facility → industrial property boundary → intervening parcel → existing home's exterior wall or outdoor use area.**
+**M-2 facility → industrial property boundary → intervening parcel → occupied room inside the existing home (doors/windows closed).**
 
-The facility must satisfy the property-line rule where applicable. It also must satisfy the sensitive-receptor rule **at the home**, even without a shared property boundary. The home's actual location and acoustical exposure must be established by mapping and professional assessment. [See the preliminary site-distance research]({{ '/site-distances/' | relative_url }}).
+The facility must satisfy the property-line rule where applicable. It also must satisfy the sensitive-receptor rule **inside the home**, even without a shared property boundary. The home's actual location, building attenuation, and acoustical exposure must be established by mapping and professional assessment. Indoor testing requires consent or lawful access; when access is unavailable, professionally modeled levels should be clearly identified as estimates rather than verified measurements. [See the preliminary site-distance research]({{ '/site-distances/' | relative_url }}).
 
 That distinction matters in Cascade because an intervening parcel has been discussed for the proposed site. The presence of a parcel between properties **does not prove compliance**, and it does **not by itself establish the shortest distance** from equipment to a home.
 
@@ -90,8 +92,8 @@ The facility's loudest reasonably anticipated conditions matter, including hot-w
 
 The existing draft already calls for a qualified acoustical professional, a calibrated **Type 1 or Type 2** meter, A/C frequency weighting, weather and background documentation, and an ANSI/ASA S12.9-based method. That is useful groundwork. The remaining decisions should be made explicit:
 
-1. **Same time metric at homes?** State whether all residential dBA/dBC limits are Leq,1h, or define a different duration.
-2. **Exact microphone position?** Specify placement near exterior walls, outdoor use areas, boundaries, and reflective surfaces.
+1. **Reassess the indoor limits.** The 55/50 dBA residential numbers were written for outdoor measurement. Decide whether to lower them for occupied indoor rooms and whether an outdoor living-area standard should remain.
+2. **Confirm microphone placement.** Evaluate the draft's 1.5-to-5-foot wall distance, room selection, window clearance, and special low-frequency test positions with an acoustician.
 3. **Background correction?** Identify the applicable standard, acceptable measurement conditions, and treatment of uncertainty when source and background levels are close.
 4. **Intermittent peaks and tones?** Decide whether a separate event maximum, tonal test, or correction is needed.
 5. **Multiple industries?** Explain how individual responsibility is assigned when several nearby businesses contribute sound.
@@ -110,5 +112,8 @@ The objective is a rule that protects residents **and** gives every M-2 business
 [^3]: Federal Highway Administration, [*Noise Measurement Handbook*](https://www.fhwa.dot.gov/Environment/noise/measurement/handbook.cfm), definitions of equivalent continuous sound level and formulas for combined noise.
 [^4]: Acoustical Society of America / ANSI, [*ASA/ANSI S12.9-2013/Part 3 (R2023): Short-term Measurements with an Observer Present*](https://webstore.ansi.org/standards/asa/asaansis122013partr2023-2504997), scope and background-correction procedures. The exact method to use should be adopted clearly and reviewed by an acoustician.
 [^5]: [*LEED and Neighborhood Noise*]({{ '/leed-noise/' | relative_url }}) and [the source-based noise research](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/dataset/impacts/08_NOISE_AND_ACOUSTICS.md), which distinguish informal reported ambient sound from a professional baseline.
+[^6]: International Organization for Standardization, *ISO 1996-2:2017*, <https://www.iso.org/standard/59766.html>, environmental sound assessment with indoor-placement guidance. The five-foot rule is proposed Cascade language, not an ISO requirement.
+[^7]: Acoustical Society of America / ANSI, *S12.72-2015 (R2025)*, <https://webstore.ansi.org/standards/asa/asaansis12722015r2025>, and *S12.9-2016/Part 7 (R2025)*, <https://webstore.ansi.org/standards/asa/asaansis122016partr2025>, indoor ambient and low-frequency sound measurement methods.
+[^8]: World Health Organization, *Guidelines for Community Noise* (1999), <https://www.who.int/publications-detail-redirect/a68672>, indoor nighttime bedroom reference (30 dBA Leq); nonbinding guidance.
 
 [Return to the current draft ordinance]({{ '/draft-ordinance/' | relative_url }}) · [Browse the Research Library]({{ '/research-library/' | relative_url }})
