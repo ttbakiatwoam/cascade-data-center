@@ -53,8 +53,8 @@ Each of the following is **new proposed text**, not a requirement already appear
 | --- | --- | --- |
 | G(2) | Uniform applicability | Neutral, impact-based coverage; existing lawful uses remain governed by nonconforming-use law. |
 | G(3) | Site development plan | Engineering and utility, mechanical, generation, fuel, and receptor documentation. |
-| G(4) | Operational noise | 65 dBA/75 dBC outdoors at the M-2 property line; day/night sensitive-receptor limits measured in a normally occupied indoor room, windows/doors closed, within 5 ft of the nearest source-facing exterior wall; tonal adjustment. |
-| G(5) | Acoustic studies | Baseline, predictive, postconstruction and triennial verification. |
+| G(4) | Operational noise | Outdoors: 65 dBA/75 dBC M-2 property line. Indoor sensitive-receptor day/night limits: doors/windows closed, wall-facing room, HVAC fan **ON continuously** where equipped, 65-75°F thermostat where practicable; owner may decline indoor testing, with lawful exterior parcel-boundary fallback and professionally supported acoustic (not thermal R-value) correction. |
+| G(5) | Acoustic studies | **Before construction:** offer consent-based indoor daytime/nighttime baselines at nearby occupied sensitive-receptor structures, with continuous fan ON and matching closed-window conditions. Document declined access and lawful exterior baseline alternative. After construction: compare like-for-like indoor levels and establish source-attributable increase; repeat verification at startup and triennially. Absolute-limit complaints do not require proof of prior quiet. |
 | G(6) | Generator testing | Generally 8 a.m.–6 p.m. weekdays, with defined exceptions. |
 | G(7) | Generator logs | Three years of records for facilities with >=2 MW stationary generation. |
 | G(8) | Adjacency setbacks | 100 ft principal buildings and 200 ft exterior industrial mechanical equipment when adjacent to residential **zoning districts**, with limited exception procedure. |
