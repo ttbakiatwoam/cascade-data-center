@@ -10,6 +10,7 @@ permalink: /downloads/
 
 | PDF | Contents | Canonical editable Markdown |
 | --- | --- | --- |
+| [Highlighted original M-2 scan and redlined comparison]({{ '/downloads/cascade-m2-original-scan-highlighted-comparison-2026-11-03.pdf' | relative_url }}) | Marked comparison, five annotated scan pages, five unchanged source scan pages, full updated M-2 proposal, and 2009 zero-lot-line *draft* appendix | [Original-versus-proposed analysis]({{ '/m2-concordance/' | relative_url }}) |
 | [Revised M-2 ordinance]({{ '/downloads/cascade-m2-ordinance-2026-11-03.pdf' | relative_url }}) | Full November 3 proposed M-2 industrial performance standards amendment, 26 local definitions, and 14 supporting source notes | [Read the ordinance]({{ '/draft-ordinance/' | relative_url }}) |
 | [Companion Chapter 165 definitions ordinance]({{ '/downloads/cascade-definitions-ordinance-2026-11-03.pdf' | relative_url }}) | Separate optional legislative vehicle for 26 local definitions, with 11 supporting notes | [Read the companion]({{ '/draft-definitions-ordinance/' | relative_url }}) |
 | [86-term Iowa and dictionary reference]({{ '/downloads/cascade-definitions-reference-2026-11-03.pdf' | relative_url }}) | 55 state-defined terms, five legal concepts, 26 local proposals; Oxford, Merriam-Webster, Black's/Cornell Wex comparisons; 64 notes | [Browse the definitions]({{ '/definitions/' | relative_url }}) |
