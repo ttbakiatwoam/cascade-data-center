@@ -85,14 +85,16 @@ All M-2 uses shall be designed, constructed, operated, and maintained so that no
 
 **a. M-2 property-line standard:** 65 dBA and 75 dBC hourly average at any property boundary, except where the residential/sensitive-receptor standard below is more restrictive.
 
-**b. Residential or sensitive-receptor standard:** At the exterior wall or outdoor use area of an existing dwelling, school, licensed child-care facility, hospital, nursing facility, place of worship, public library, or comparable occupied sensitive use:
+**b. Residential or sensitive-receptor standard:** At each existing dwelling, school, licensed child-care facility, hospital, nursing facility, place of worship, public library, or comparable occupied sensitive use, compliance shall be evaluated **inside the closest normally occupied room on the side of the structure nearest the M-2 noise source**. The initial assessment shall include the nearest existing qualifying occupied structure. Additional qualifying structures shall be evaluated where source orientation, terrain, or shielding could produce higher exposure.
+
+The sound-level meter microphone shall be placed **within five (5) feet of the interior face of the nearest source-facing exterior wall**, but **at least 1.5 feet (0.5 meter) from that wall and other large reflecting surfaces**, where physically practicable, at approximately four (4) to five (5) feet above the finished floor. **All doors and windows shall be closed throughout the measurement.** The qualified acoustical professional shall identify the room and measurement positions and document any necessary deviation from these placement requirements. The following **indoor, facility-attributable one-hour equivalent continuous sound levels (Leq,1h)** shall not be exceeded:
 
 - 55 dBA and 65 dBC from 7:00 a.m. to 10:00 p.m.; and
 - 50 dBA and 60 dBC from 10:00 p.m. to 7:00 a.m.
 
 **c. Tonal noise:** Where an industrial sound source produces a prominent recurring tone, whine, screech, or hum, the applicable A-weighted limit shall be reduced by five (5) decibels.
 
-**d. Measurement:** The one-hour average is the energy-equivalent continuous sound level (Leq,1h), not an arithmetic mean of decibel readings. A qualified acoustical professional shall use a calibrated Type 1 or Type 2 sound-level meter appropriate for the purpose, identify A- or C-weighting, document meteorology, receiving location, background sources, and source operating conditions, and apply a documented ANSI/ASA S12.9 or successor environmental-noise assessment method. The City shall evaluate only facility-attributable noise using the approved background-noise adjustment procedure. These measurement protocols shall not be construed to set a new statewide noise standard.[^5][^6]
+**d. Measurement:** The one-hour average is the energy-equivalent continuous sound level (Leq,1h), not an arithmetic mean of decibel readings. A qualified acoustical professional shall use a calibrated Type 1 or Type 2 sound-level meter appropriate for the purpose, identify A- or C-weighting, document meteorology for exterior measurements, receiving location, background sources, room conditions for interior measurements, and source operating conditions. Outdoor source assessment shall use a documented ANSI/ASA S12.9 or successor environmental-noise assessment method. Indoor sensitive-receptor assessment shall use a documented method appropriate for room sound and low-frequency industrial noise, including ANSI/ASA S12.72 and S12.9 Part 7 where applicable.[^17][^18] The City shall evaluate only facility-attributable noise using a documented background-noise adjustment procedure, accounting for unrelated indoor sound sources. Entry into an occupied structure for testing requires occupant consent or other lawful authority. If access is unavailable, the professional may report modeled indoor exposure with explicit assumptions, but shall not represent an outdoor measurement as a direct indoor compliance test. These measurement protocols shall not be construed to set a new statewide noise standard.[^5][^6]
 
 ### 5. Acoustic Study and Verification
 
@@ -370,6 +372,10 @@ Superscript note markers in this proposal point to these numbered sources. Notes
 [^15]: City of Cascade, *Chapter 165 Zoning Ordinance*, original scanned M-2 Heavy Industrial District, “Entire zoning code-1.pdf,” source PDF pp. 45–49 (printed code pp. 34–38), preserved at <https://github.com/ttbakiatwoam/cascade-data-center/blob/master/sources/cascade-zoning/Entire%20zoning%20code-1.pdf>; source transcription at <https://github.com/ttbakiatwoam/cascade-data-center/blob/master/dataset/cascade-zoning/CHAPTER-165-ZONING-ORDINANCE.md>. The same scan labels its 2009 zero-lot-line proposal a **draft** (PDF p. 6).
 [^16]: City of Cascade, *Ordinance 05-22*, adopted October 10, 2022, adds fitness centers as M-2 B(18), <https://github.com/ttbakiatwoam/cascade-data-center/blob/master/dataset/cascade-zoning/ordinances/ORDINANCE-05-22.md>; *Ordinance 19-24*, adopted September 9, 2024, amends §165.12(12), including M-2 fencing, <https://github.com/ttbakiatwoam/cascade-data-center/blob/master/dataset/cascade-zoning/ordinances/ORDINANCE-19-24.md>.
 
+[^17]: Acoustical Society of America / ANSI, *ASA/ANSI S12.72-2015 (R2025), Procedure for Measuring the Ambient Noise Level in a Room*, <https://webstore.ansi.org/standards/asa/asaansis12722015r2025>; *ASA/ANSI S12.9-2016/Part 7 (R2025), Measurement of Low-frequency Noise and Infrasound Outdoors in the Presence of Wind and Indoors in Occupied Spaces*, <https://webstore.ansi.org/standards/asa/asaansis122016partr2025>. Both are measurement frameworks; neither establishes the proposed numeric Cascade limits.
+[^18]: International Organization for Standardization, *ISO 1996-2:2017, Acoustics—Description, Measurement and Assessment of Environmental Noise—Part 2*, <https://www.iso.org/standard/59766.html>. Contains guidance on indoor environmental-noise measurement; the draft's five-foot proximity criterion is a proposed local choice.
+[^19]: World Health Organization, *Guidelines for Community Noise* (1999), indoor-bedroom night-noise guidance of 30 dBA Leq, <https://www.who.int/publications-detail-redirect/a68672>. This guideline is not binding Iowa law.
+
 # NON-CODIFIED DRAFTING NOTES AND SOURCE BASIS
 
 > The material below is explanatory and is **not intended to be codified as part of Chapter 165**. It documents why specific concepts appear in the draft and identifies issues for legal and technical review.
@@ -423,6 +429,10 @@ Iowa Administrative Code Chapter 50:
 
 The draft's dBA/dBC structure is intended to address both ordinary audible sound and low-frequency industrial hum. The reference to ANSI/ASA S12.9 provides a recognized environmental-noise measurement framework rather than creating a project-specific testing method.
 
+**November 3 indoor-receptor revision:** Proposed §165.11(G)(4)(b) now evaluates the nearest normally occupied interior room, within five feet of the source-facing exterior wall, with doors and windows closed. The separate M-2 property-line standard remains outdoors. The five-foot maximum placement distance is a **proposed local rule**, not a distance mandated by ISO or ANSI. A 0.5-meter minimum clearance from reflective surfaces and documenting room conditions draw on accepted acoustic measurement principles.[^18]
+
+**Substantive policy question:** The numerical 55/65 dBA/dBC daytime and 50/60 dBA/dBC nighttime limits were carried forward unchanged, but an *indoor* limit is not equivalent to the original *outdoor* limit because walls and closed windows attenuate exterior sound. WHO's community-noise guidance identifies 30 dBA Leq for bedrooms at night as a sleep-protection guideline. The proposed 50 dBA nighttime indoor limit should therefore be explicitly reviewed by an independent acoustician and the City Attorney, not presented as a WHO-derived or state-mandated standard.[^19] Closing windows also removes the draft's prior direct protection of outdoor living areas. Occupant consent or other lawful authority is required for indoor access; modeled exposure is a screening tool, not a substitute for a direct measurement.
+
 ANSI/ASA standards catalog:  
 <https://webstore.ansi.org/>
 
@@ -468,7 +478,8 @@ The City Attorney should specifically review:
 10. Whether an annual March 1 certification, third-party review deposit, generator documentation, commissioning deadline, and recorded decommissioning obligations require separate enabling ordinances, adopted schedules, or development agreements;
 11. How Iowa Code §414.23 limits municipal zoning beyond Cascade city limits when county zoning applies, and the distinct plat-review authority under Iowa Code §354.9;
 12. Whether a later separate engineering study supports measurable vibration standards; Jackson County's proposed peak-particle-velocity figures are not imported without independent review; and
-13. Whether the requested generator equipment schedules or security-sensitive response plans require protection under Iowa Code Chapter 22 while preserving lawful public access.
+13. Whether the requested generator equipment schedules or security-sensitive response plans require protection under Iowa Code Chapter 22 while preserving lawful public access; and
+14. Whether interior-receptor levels, microphone placement, closed-window conditions, indoor access limitations, and modeled-versus-measured verification adequately protect occupied structures and can be administered fairly.
 
 ## I. October 26 Advisory Packet and Community Suggestions
 
