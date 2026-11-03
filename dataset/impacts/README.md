@@ -4,6 +4,7 @@
 
 - [`07_WATER_AND_COOLING.md`](07_WATER_AND_COOLING.md) — Closed-loop terminology, water-use variability, dry/evaporative/adiabatic heat rejection, company claims, and project-specific evidence needs.
 - [`08_NOISE_AND_ACOUSTICS.md`](08_NOISE_AND_ACOUSTICS.md) — dBA/dBC, tonal and low-frequency noise, propagation, Iowa comparator limits, WHO/FHWA references, and recommended testing.
+- [`42_IOWA_POST_2015_RESIDENTIAL_ENVELOPE_AND_NOISE_ATTENUATION.md`](42_IOWA_POST_2015_RESIDENTIAL_ENVELOPE_AND_NOISE_ATTENUATION.md) — Iowa energy-code wall assemblies versus acoustic attenuation; optional indoor preconstruction baseline, source-facing property-boundary fallback, and **65–75°F thermostat / continuous HVAC fan ON** testing.
 - [`34_LEED_CERTIFICATION_ACOUSTICS_AND_EXTERIOR_NOISE.md`](34_LEED_CERTIFICATION_ACOUSTICS_AND_EXTERIOR_NOISE.md) — USGBC's optional LEED v4.1/v5 acoustics, exterior-noise pilot limits and generator exception, and the distinction between certification goals and enforceable Cascade standards.
 - [`33_NAVAL_SHIPBOARD_NOISE_SLEEP_AND_LONG_DURATION_EXPOSURE.md`](33_NAVAL_SHIPBOARD_NOISE_SLEEP_AND_LONG_DURATION_EXPOSURE.md) — Original studies of carrier occupational noise, measured naval cabin sleep, cumulative shipboard hearing loss, 30- and 70-day submarine missions, and evidence limits for Cascade.
 - [`09_ELECTRICITY_GRID_AND_BACKUP_POWER.md`](09_ELECTRICITY_GRID_AND_BACKUP_POWER.md) — Data-center load growth, Cascade-specific MW gaps, ratepayer protection, grid upgrades, generators, UPS, and batteries.
