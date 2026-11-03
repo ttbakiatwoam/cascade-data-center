@@ -8,6 +8,10 @@ The working position of this independent community project is **pro-data-center 
 
 A committee-friendly website is maintained from `docs/` and published via GitHub Pages: **https://ttbakiatwoam.github.io/cascade-data-center/**. A successful publishing workflow was recorded October 28, 2026. The [City's official calendar](https://www.cityofcascade.org/) lists the Data Center Advisory Committee meeting on **Wednesday, October 28, 2026 at 7:00 p.m. Central**, with the next research [meeting brief](docs/meeting-2026-10-28.md) and current proposed M-2 standards linked below.
 
+## Existing Cascade M-2 categories and building-class analysis
+
+[Read the public M-2 classes analysis](https://ttbakiatwoam.github.io/cascade-data-center/m2-existing-use-classes/) or [the complete source-linked Markdown](dataset/policy/44_CASCADE_M2_EXISTING_USE_AND_STRUCTURE_CATEGORIES_2026-11-03.md). The scanned code lists **permitted and special-exception industrial uses**, some with specific siting and operational conditions. It does **not expressly establish a §414.2 taxonomy of “classes or kinds of buildings.”** This distinction informs the proposed neutral Major Industrial Facility impact thresholds; the City Clerk must still verify the complete enacted code.
+
 ## Iowa zoning uniformity: city and county ordinance comparisons
 
 **[Public §414.2 analysis](https://ttbakiatwoam.github.io/cascade-data-center/iowa-zoning-uniformity/)** | [Source-linked Markdown memorandum](dataset/policy/43_IA_414_2_UNIFORMITY_COMPARATOR_REVIEW_2026-11-03.md). Compares ten Iowa jurisdictions and the city (§414.2) versus county (§335.4) uniformity rules. **Our drafting recommendation:** apply comparable M-2 impact requirements to all facilities with like impacts, rather than one named business category. Legitimate zoning classes or separate districts can still be created where authorized.
