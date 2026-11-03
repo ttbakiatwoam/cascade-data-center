@@ -2,9 +2,21 @@
 
 > This file distinguishes health guidance, acoustic engineering principles, and enforceable Iowa comparator standards. None of the external standards cited here automatically applies to the Cascade proposal unless adopted or incorporated into an approval.
 >
-> Last reviewed: 2026-10-13
+> Last reviewed: 2026-11-03
 
 **Related public explainer (November 3, 2026):** [Understanding the proposed M-2 operational-noise limits](../../docs/operational-noise-explained.md). This plain-language guide covers dBA/dBC, an intervening parcel, hour-average Leq, source attribution, tonal corrections, generator testing, and open enforcement questions in the current working ordinance.
+
+## November 3, 2026 proposal: consent-based indoor baselines and continuous HVAC fan
+
+The **current proposed §165.11(G)(4)-(5)** retains outdoor industrial property-boundary limits and calls for *separate* sensitive-receptor measurements **inside the nearest normally occupied room** with exterior windows and doors closed. The new preconstruction acoustic study offers voluntary, applicant-funded daytime and nighttime indoor **Leq,1h in both dBA and dBC** at selected existing neighboring homes and other sensitive receptors, with the owner's or lawful occupant's permission.
+
+During each dwelling's **preconstruction, postconstruction, or complaint-response indoor test**, the HVAC circulation fan is set to **ON continuously for the full measurement** when a controllable forced-air fan is available, **not AUTO**. The thermostat setpoint is **65°F–75°F** where reasonably practicable and safe. Heating and cooling may cycle normally while the blower continues running. The acoustic professional documents fan operation and HVAC background, which may mask industrial sound. The same setup is used for before-and-after comparisons.
+
+Owners and lawful occupants may decline voluntary interior access. The proposed alternative uses an acoustically representative **source-facing sensitive-receptor parcel boundary**, nearest the industrial property, where access is lawful. A source-spectrum-appropriate outdoor-to-indoor acoustical correction is required to *estimate* indoor values. **Iowa energy-code thermal insulation R-values are not acoustic decibel ratings and cannot be directly subtracted from measurements.** Estimated indoor results must not be labeled measured results.
+
+A claimed **facility-attributable increase** should be supported by reliable comparisons between equivalent before-and-after interior conditions, with uncertainty and other background sources addressed. This is distinct from an **absolute** indoor or industrial property-line limit: an individual may report an exceedance without proving the home was silent or participating in the original baseline test. All numbers remain proposed local policy rather than adopted Cascade law.
+
+Sources: [Current proposed ordinance](../../proposals/DRAFT-ORDINANCE-M2-DATA-CENTER-PERFORMANCE-STANDARDS-2026-11-03.md) · [Public noise guide](../../docs/operational-noise-explained.md) · [Iowa housing and noise-reduction research](42_IOWA_POST_2015_RESIDENTIAL_ENVELOPE_AND_NOISE_ATTENUATION.md).
 
 ## Why data-center noise requires more than one dB number
 
