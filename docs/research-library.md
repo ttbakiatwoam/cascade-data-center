@@ -37,8 +37,8 @@ The header links to the principal pages. Everything else remains available below
 
 ## Plain-language ordinance guides
 
-- **[Operational noise: dBA, dBC, hourly averages and nearby homes]({{ '/operational-noise/' | relative_url }})** — how the proposed uniform M-2 limits would be measured, where both sets of limits apply, background-noise examples, and items for City Attorney/acoustician review.
-- **[Iowa homes built after 2015: insulation, air sealing and sound reduction]({{ '/house-noise-attenuation-iowa/' | relative_url }})** — 2012 IECC with Iowa amendments, Cascade's building-code adoption, FHWA 20–35 dB traffic-noise planning factors, and why low-frequency industrial attenuation requires verification.
+- **[Operational noise: dBA, dBC, hourly averages and nearby homes]({{ '/operational-noise/' | relative_url }})** — how proposed uniform M-2 limits would be measured, including optional preconstruction indoor baselines, owner refusal and outdoor fallback, closed doors/windows, continuous HVAC fan ON, and 65–75°F thermostat settings.
+- **[Iowa homes built after 2015: insulation, air sealing and sound reduction]({{ '/house-noise-attenuation-iowa/' | relative_url }})** — Iowa energy-code insulation requirements, FHWA sound-reduction planning factors, sound transmission versus thermal R-values, and the indoor/outdoor baseline and HVAC measurement protocol.
 
 ## Community impacts and site questions
 
