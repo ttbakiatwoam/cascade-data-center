@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Download cited Cascade M-2 PDFs
+title: Downloads
 permalink: /downloads/
 ---
 
