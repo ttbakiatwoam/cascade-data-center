@@ -1,6 +1,6 @@
 # Iowa Code §414.2 (2026): District Uniformity and Cascade M-2
 
-**Official statute, complete operative text and publication history.** This appendix reproduces the 2026 Iowa Code §414.2 wording from the one-page Iowa General Assembly PDF supplied for the project. Its *exact original PDF page* is appended, unchanged, to the applicable published research PDFs. [Read the source PDF](https://www.legis.iowa.gov/docs/code/2026/414.2.pdf).[^1]
+**Official statute, complete operative text and publication history.** This appendix reproduces the 2026 Iowa Code §414.2 wording from the one-page Iowa General Assembly PDF supplied for the project. The official PDF is linked directly; the user also supplied the full **14-page 2026 Chapter 414** for broader analysis. [Read the source PDF](https://www.legis.iowa.gov/docs/code/2026/414.2.pdf).[^1]
 
 ## Statutory text (verbatim)
 
@@ -27,11 +27,13 @@
 
 **Preserve the current draft's neutral thresholds.** The proposal's 5 MW coincident demand, 25,000 gallons/24 h water, 2 MW generation, and 5 MWh storage review triggers are proposed local policy choices, **not thresholds specified by Iowa Code §414.2**. The evidence supporting those thresholds and their consistent treatment should be documented before enactment.
 
-**Source status.** The attached PDF is statutory text, not a judicial interpretation or a City Council finding. This note is noncodified legal research, not a statement that the proposed Cascade ordinance has been adopted.
+**Source status.** The linked official statute is controlling source text, not a judicial interpretation or City Council finding. This note is noncodified legal research, not a statement that the proposed Cascade ordinance has been adopted.
 
 ## Chicago numbered note
 
-[^1]: Iowa General Assembly, *Iowa Code* §414.2, “Districts” (2026), <https://www.legis.iowa.gov/docs/code/2026/414.2.pdf>. The exact original one-page PDF supplied by the user is appended to the source-relevant PDF exports.
+[^1]: Iowa General Assembly, *Iowa Code* §414.2, “Districts” (2026), <https://www.legis.iowa.gov/docs/code/2026/414.2.pdf>. The project was supplied both the original one-page PDF and the full 14-page 2026 Chapter 414. Publication of a static website link does not independently certify the contents of earlier PDF exports.
+
+**Expanded analysis:** [§414.2 city uniformity, county §335.4, the §414.5 exception, and neighboring ordinance comparisons](43_IA_414_2_UNIFORMITY_COMPARATOR_REVIEW_2026-11-03.md).
 
 ## Related project materials
 
