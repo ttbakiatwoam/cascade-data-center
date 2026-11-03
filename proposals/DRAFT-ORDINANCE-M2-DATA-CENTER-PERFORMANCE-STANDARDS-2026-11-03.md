@@ -348,20 +348,20 @@ This ordinance shall be in full force and effect after its final passage, approv
 
 Superscript note markers in this proposal point to these numbered sources. Notes are documentary authorities and **are not operative zoning terms**. Project-specific engineering assumptions and proposed numerical thresholds still require independent validation.
 
-[^1]: Iowa General Assembly, *Iowa Code* §414.1 (2026), municipal regulation of building location and industrial land use, https://www.legis.iowa.gov/docs/code/2026/414.1.pdf.
-[^2]: Iowa General Assembly, *Iowa Code* §414.2 (2026), uniformity for each class or kind of building throughout each zoning district, https://www.legis.iowa.gov/docs/code/2026/414.2.pdf.
-[^4]: Iowa General Assembly, *Iowa Code* §414.3 (2026), comprehensive-plan and health, safety, conservation, and public-facility considerations, https://www.legis.iowa.gov/docs/code/2026/414.3.pdf.
-[^3]: Iowa General Assembly, *Iowa Code* §414.12(2)-(4) (2026), Board of Adjustment special exceptions and variances, including 2025-added subsection (4), https://www.legis.iowa.gov/docs/code/2026/414.12.pdf.
-[^10]: Iowa General Assembly, *Iowa Code* §423.3(95)(f) (2026), definitions applicable to data-center tax treatment, https://www.legis.iowa.gov/docs/code/2026/423.3.pdf.
-[^11]: Iowa General Assembly, *Iowa Code* §103A.3 (2026), construction and building definitions, https://www.legis.iowa.gov/docs/code/2026/103A.3.pdf; City of Cascade, *Chapter 165 Zoning Ordinance*, §165.41, transcription in this repository: https://github.com/ttbakiatwoam/cascade-data-center/blob/master/dataset/cascade-zoning/CHAPTER-165-ZONING-ORDINANCE.md.
-[^8]: Iowa General Assembly, *Iowa Code* §455B.261 (2026), water allocation, beneficial use, nonregulated use, and regulated use, https://www.legis.iowa.gov/docs/code/2026/455B.261.pdf.
-[^7]: Iowa Department of Natural Resources, *Iowa Administrative Code* 567—22.1, air-quality definitions and emergency generators, https://www.legis.iowa.gov/docs/iac/rule/02-25-2026.567.22.1.pdf.
-[^5]: Iowa General Assembly, *Iowa Code* §657.1 (2026), nuisance, https://www.legis.iowa.gov/docs/code/2026/657.1.pdf.
-[^6]: Acoustical Society of America / American National Standards Institute, *ANSI/ASA S12.9*, environmental sound measurement and assessment standards, https://webstore.ansi.org/ (exact current edition and applicable part require acoustical expert verification).
-[^12]: Iowa General Assembly, *Iowa Code* §§455B.131, 455B.381, and 455B.411 (2026), air contaminants, hazardous conditions, and waste-management terms, https://www.legis.iowa.gov/docs/code/2026/455B.pdf.
-[^9]: Iowa General Assembly, *Iowa Code* §364.3 (2026), limitations on municipal topsoil and stormwater runoff requirements, https://www.legis.iowa.gov/docs/code/2026/364.3.pdf.
-[^13]: Iowa General Assembly, *Iowa Code* §455B.301(9) (2026), definition of financial assurance instrument for sanitary disposal projects, https://www.legis.iowa.gov/docs/code/2026/455B.301.pdf.
-[^14]: Iowa Department of Natural Resources, *Iowa Administrative Code* 567—60.1 (2026), wastewater and incorporated stormwater definitions, https://www.legis.iowa.gov/docs/iac/rule/567.60.1.pdf.
+[^1]: Iowa General Assembly, *Iowa Code* §414.1 (2026), municipal regulation of building location and industrial land use, <https://www.legis.iowa.gov/docs/code/2026/414.1.pdf>.
+[^2]: Iowa General Assembly, *Iowa Code* §414.2 (2026), uniformity for each class or kind of building throughout each zoning district, <https://www.legis.iowa.gov/docs/code/2026/414.2.pdf>.
+[^4]: Iowa General Assembly, *Iowa Code* §414.3 (2026), comprehensive-plan and health, safety, conservation, and public-facility considerations, <https://www.legis.iowa.gov/docs/code/2026/414.3.pdf>.
+[^3]: Iowa General Assembly, *Iowa Code* §414.12(2)-(4) (2026), Board of Adjustment special exceptions and variances, including 2025-added subsection (4), <https://www.legis.iowa.gov/docs/code/2026/414.12.pdf>.
+[^10]: Iowa General Assembly, *Iowa Code* §423.3(95)(f) (2026), definitions applicable to data-center tax treatment, <https://www.legis.iowa.gov/docs/code/2026/423.3.pdf>.
+[^11]: Iowa General Assembly, *Iowa Code* §103A.3 (2026), construction and building definitions, <https://www.legis.iowa.gov/docs/code/2026/103A.3.pdf>; City of Cascade, *Chapter 165 Zoning Ordinance*, §165.41, transcription in this repository: <https://github.com/ttbakiatwoam/cascade-data-center/blob/master/dataset/cascade-zoning/CHAPTER-165-ZONING-ORDINANCE.md>.
+[^8]: Iowa General Assembly, *Iowa Code* §455B.261 (2026), water allocation, beneficial use, nonregulated use, and regulated use, <https://www.legis.iowa.gov/docs/code/2026/455B.261.pdf>.
+[^7]: Iowa Department of Natural Resources, *Iowa Administrative Code* 567—22.1, air-quality definitions and emergency generators, <https://www.legis.iowa.gov/docs/iac/rule/02-25-2026.567.22.1.pdf>.
+[^5]: Iowa General Assembly, *Iowa Code* §657.1 (2026), nuisance, <https://www.legis.iowa.gov/docs/code/2026/657.1.pdf>.
+[^6]: Acoustical Society of America / American National Standards Institute, *ANSI/ASA S12.9*, environmental sound measurement and assessment standards, <https://webstore.ansi.org/> (exact current edition and applicable part require acoustical expert verification).
+[^12]: Iowa General Assembly, *Iowa Code* §§455B.131, 455B.381, and 455B.411 (2026), air contaminants, hazardous conditions, and waste-management terms, <https://www.legis.iowa.gov/docs/code/2026/455B.pdf>.
+[^9]: Iowa General Assembly, *Iowa Code* §364.3 (2026), limitations on municipal topsoil and stormwater runoff requirements, <https://www.legis.iowa.gov/docs/code/2026/364.3.pdf>.
+[^13]: Iowa General Assembly, *Iowa Code* §455B.301(9) (2026), definition of financial assurance instrument for sanitary disposal projects, <https://www.legis.iowa.gov/docs/code/2026/455B.301.pdf>.
+[^14]: Iowa Department of Natural Resources, *Iowa Administrative Code* 567—60.1 (2026), wastewater and incorporated stormwater definitions, <https://www.legis.iowa.gov/docs/iac/rule/567.60.1.pdf>.
 
 # NON-CODIFIED DRAFTING NOTES AND SOURCE BASIS
 
@@ -380,7 +380,7 @@ This draft intentionally avoids regulating Simple Mining, cryptocurrency mining,
 The approach should be reviewed for consistency with Iowa Code Chapter 414, including the zoning-uniformity provisions of Iowa Code section 414.2.
 
 Official Iowa Legislature source:  
-https://www.legis.iowa.gov/docs/code/414.2.pdf
+<https://www.legis.iowa.gov/docs/code/414.2.pdf>
 
 ## C. Nearby Iowa Comparators
 
@@ -389,17 +389,17 @@ https://www.legis.iowa.gov/docs/code/414.2.pdf
 Linn County's 2026 data-center ordinance provides useful measurable provisions involving setbacks, acoustic studies, recurring sound testing, emergency planning, road impacts, and water review. Its noise framework includes 55 dBA / 65 dBC for adjacent residential occupied structures and 65 dBA / 75 dBC for adjacent nonresidential occupied structures, along with recurring acoustic testing.
 
 Official ordinance:  
-https://www.linncountyiowa.gov/DocumentCenter/View/27695/PA26-0001-Ordinance-PDF
+<https://www.linncountyiowa.gov/DocumentCenter/View/27695/PA26-0001-Ordinance-PDF>
 
 Staff report:  
-https://www.linncountyiowa.gov/DocumentCenter/View/27694/PA26-0001-Data-Centers-Ordinance-Staff-Report---3rd-Consideration-PDF
+<https://www.linncountyiowa.gov/DocumentCenter/View/27694/PA26-0001-Data-Centers-Ordinance-Staff-Report---3rd-Consideration-PDF>
 
 ### Jones County
 
 Jones County Ordinance 2025-02 includes special-use/site-plan review, applicant-funded third-party noise analysis, cooling and water documentation, electric-utility verification, emergency planning, and decommissioning. It includes continuous-noise limits and a five-decibel adjustment for prominent steady tones, and requires liquid/closed-loop cooling for the regulated use.
 
 Copy hosted by Linn County:  
-https://www.linncountyiowa.gov/DocumentCenter/View/27656/Jones-County-Data-Center-Ordinance
+<https://www.linncountyiowa.gov/DocumentCenter/View/27656/Jones-County-Data-Center-Ordinance>
 
 ### Other comparators
 
@@ -410,21 +410,21 @@ The project repository also tracks the City of Palo EU-1 district, Jackson Count
 The 25,000-gallon-per-day threshold is used as an objective industrial-impact trigger because Iowa water-use permitting law generally uses a 25,000-gallon quantity in a 24-hour period as a significant regulatory threshold. City Attorney and engineering review should confirm the best local wording and interaction with Iowa DNR permitting.
 
 Iowa Administrative Code Chapter 50:  
-https://www.legis.iowa.gov/docs/iac/chapter/567.50.pdf
+<https://www.legis.iowa.gov/docs/iac/chapter/567.50.pdf>
 
 ## E. Acoustic Standards
 
 The draft's dBA/dBC structure is intended to address both ordinary audible sound and low-frequency industrial hum. The reference to ANSI/ASA S12.9 provides a recognized environmental-noise measurement framework rather than creating a project-specific testing method.
 
 ANSI/ASA standards catalog:  
-https://webstore.ansi.org/
+<https://webstore.ansi.org/>
 
 ## F. Stationary Generators
 
 The draft distinguishes routine testing from actual emergencies and requires uniform testing-hour rules across M-2 businesses. Federal stationary-engine requirements should continue to control where applicable; zoning should not attempt to replace air permitting or emissions regulation.
 
 U.S. EPA stationary-engine information:  
-https://www.epa.gov/stationary-engines
+<https://www.epa.gov/stationary-engines>
 
 ## G. Items Better Addressed Outside the Zoning Ordinance
 
@@ -473,5 +473,5 @@ The Jackson County material supports considering annual reporting, independently
 
 - [Packet page/provenance index](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/sources/committee-materials/2026-10-27/PACKET_PAGE_AND_PROVENANCE_RECORD.md)
 - [Community suggestions / source transcription](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/sources/committee-materials/2026-10-27/THINGS_TO_CONSIDER_SOURCE_RECORD.md)
-- Iowa Code §414.23: https://www.legis.iowa.gov/docs/code/2026/414.23.pdf
-- Iowa Code §354.9: https://www.legis.iowa.gov/docs/code/2026/354.9.pdf
+- Iowa Code §414.23: <https://www.legis.iowa.gov/docs/code/2026/414.23.pdf>
+- Iowa Code §354.9: <https://www.legis.iowa.gov/docs/code/2026/354.9.pdf>
