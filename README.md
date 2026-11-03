@@ -20,6 +20,10 @@ A committee-friendly website is maintained from `docs/` and published via GitHub
 
 The [section-by-section concordance](dataset/policy/41_M2_ORIGINAL_SCAN_CONCORDANCE_2026-11-03.md) compares the original M-2 scan (PDF pp. 45–49), adopted 2022/2024 amendments, and proposed November 3 language. The original G(1) remains; 18 new proposed M-2 requirements begin at G(2). [Annotated scanned ordinance and complete draft PDF](https://ttbakiatwoam.github.io/cascade-data-center/downloads/cascade-m2-original-scan-highlighted-comparison-2026-11-03.pdf). The source scan is not a current consolidated certification.
 
+## Understand the proposed operational-noise limits
+
+[Read the public plain-language guide](https://ttbakiatwoam.github.io/cascade-data-center/operational-noise/) or [view its Markdown source](docs/operational-noise-explained.md). It explains the proposed district-wide **65 dBA / 75 dBC** property-line limits, daytime/nighttime limits at existing homes and sensitive receptors, Leq hourly averaging, low-frequency sound, tonal penalties, and background-noise adjustments. The limits are **draft standards, not adopted Cascade law**.
+
 ## Start here
 
 | To find… | Start with… |

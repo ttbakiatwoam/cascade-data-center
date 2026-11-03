@@ -8,6 +8,8 @@ permalink: /draft-ordinance/
 
 **PDF downloads:** [Revised M-2 proposed ordinance]({{ '/downloads/cascade-m2-ordinance-2026-11-03.pdf' | relative_url }}) · [Companion definitions ordinance]({{ '/downloads/cascade-definitions-ordinance-2026-11-03.pdf' | relative_url }}) · [86-term reference glossary]({{ '/downloads/cascade-definitions-reference-2026-11-03.pdf' | relative_url }}) · [27 case abstracts]({{ '/downloads/cascade-case-abstracts-2026-11-03.pdf' | relative_url }}).
 
+**Operational noise guide:** [What the proposed 65 dBA / 75 dBC property-line and residential limits mean]({{ '/operational-noise/' | relative_url }}) — a separate explanation; **not proposed ordinance text**.
+
 # DRAFT - M-2 Heavy Industrial District Data Center and Performance Standards Amendment (November 3, 2026 revision)
 
 > **DRAFT - FOR DISCUSSION ONLY - NOT ADOPTED LAW**  

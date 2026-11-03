@@ -22,6 +22,10 @@ The goal of this independent research is to help the committee move from broad c
 
 **Print-ready PDFs with superscript Chicago source notes:** [M-2 ordinance]({{ '/downloads/cascade-m2-ordinance-2026-11-03.pdf' | relative_url }}) · [Definitions ordinance]({{ '/downloads/cascade-definitions-ordinance-2026-11-03.pdf' | relative_url }}) · [Definitions reference]({{ '/downloads/cascade-definitions-reference-2026-11-03.pdf' | relative_url }}) · [Court abstracts]({{ '/downloads/cascade-case-abstracts-2026-11-03.pdf' | relative_url }}) · [Complete combined packet]({{ '/downloads/cascade-complete-research-packet-2026-11-03.pdf' | relative_url }}).
 
+### Operational noise: what the proposed limits mean
+
+**[Understand the proposed M-2 noise limits]({{ '/operational-noise/' | relative_url }})** — a plain-language guide to **65 dBA / 75 dBC at industrial property boundaries**, lower limits at existing homes and other sensitive receptors, hourly averaging, low-frequency noise, background measurements, tonal penalties, and open enforcement questions. Applies to **all similarly situated M-2 uses** in the draft, not just data centers.
+
 ### Existing Cascade M-2 use categories
 
 **[Does the current M-2 ordinance define distinct classes or kinds of buildings?]({{ '/m2-existing-use-classes/' | relative_url }})** The historical code lists permitted and special-exception uses and imposes different conditions on some of them. It does not expressly organize M-2 into statutory building classes. The analysis compares the scanned code, 2022 and 2024 amendments, and Iowa Code §414.2, with original source citations.

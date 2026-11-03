@@ -34,6 +34,10 @@ The header links to the principal pages. Everything else remains available below
 - [Electricity grid and backup power research](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/dataset/impacts/09_ELECTRICITY_GRID_AND_BACKUP_POWER.md) — technical evidence and open questions.
 - [Infrastructure and emergency response research](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/dataset/impacts/13_INFRASTRUCTURE_TRAFFIC_AND_EMERGENCY_RESPONSE.md).
 
+## Plain-language ordinance guides
+
+- **[Operational noise: dBA, dBC, hourly averages and nearby homes]({{ '/operational-noise/' | relative_url }})** — how the proposed uniform M-2 limits would be measured, where both sets of limits apply, background-noise examples, and items for City Attorney/acoustician review.
+
 ## Community impacts and site questions
 
 - [Public concerns, evaluated against evidence]({{ '/public-objections/' | relative_url }}) — noise, safety, water, energy, property and other concerns.

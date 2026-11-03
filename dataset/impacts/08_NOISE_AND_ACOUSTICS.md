@@ -4,6 +4,8 @@
 >
 > Last reviewed: 2026-10-13
 
+**Related public explainer (November 3, 2026):** [Understanding the proposed M-2 operational-noise limits](../../docs/operational-noise-explained.md). This plain-language guide covers dBA/dBC, an intervening parcel, hour-average Leq, source attribution, tonal corrections, generator testing, and open enforcement questions in the current working ordinance.
+
 ## Why data-center noise requires more than one dB number
 
 Potential continuous sources can include:
