@@ -22,6 +22,10 @@ The goal of this independent research is to help the committee move from broad c
 
 **Print-ready PDFs with superscript Chicago source notes:** [M-2 ordinance]({{ '/downloads/cascade-m2-ordinance-2026-11-03.pdf' | relative_url }}) · [Definitions ordinance]({{ '/downloads/cascade-definitions-ordinance-2026-11-03.pdf' | relative_url }}) · [Definitions reference]({{ '/downloads/cascade-definitions-reference-2026-11-03.pdf' | relative_url }}) · [Court abstracts]({{ '/downloads/cascade-case-abstracts-2026-11-03.pdf' | relative_url }}) · [Complete combined packet]({{ '/downloads/cascade-complete-research-packet-2026-11-03.pdf' | relative_url }}).
 
+### Iowa zoning uniformity and comparator ordinances
+
+**[Read the §414.2 analysis and neighboring Iowa ordinance evaluations]({{ '/iowa-zoning-uniformity/' | relative_url }})** — explains why Cascade should avoid singling out data centers for stricter M-2 environmental rules when equivalent industrial impacts remain unregulated. Also explains the legally important limits: §§414.2 and 335.4 permit distinct building classes and districts, and §§414.5 and 335.7 provide narrow written-agreed project-condition exceptions. Reviews Palo, Linn, Jones, Greene, Allamakee, Jackson, Clinton County, Decorah, Norwalk and West Des Moines.
+
 ### Original M-2 ordinance cross-check
 
 The [original scanned Cascade M-2 zoning text and proposed redline]({{ '/m2-concordance/' | relative_url }}) compares the preserved 1992 scan, 2022 fitness amendment, 2024 fencing rules and November 3 draft. **The existing §165.11(G)(1) is preserved; proposed new M-2 performance sections are G(2)–G(19).** [Download the scan-inclusive highlighted PDF]({{ '/downloads/cascade-m2-original-scan-highlighted-comparison-2026-11-03.pdf' | relative_url }}). The underlying scan is not a certified current-law compilation.
