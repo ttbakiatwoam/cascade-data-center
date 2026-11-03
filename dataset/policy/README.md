@@ -2,6 +2,8 @@
 
 [All research and methodology](../00_INDEX.md) · [Repository overview](../../README.md)
 
+- [`38_IOWA_STATE_AND_M2_DEFINITIONS_2026-11-03.md`](38_IOWA_STATE_AND_M2_DEFINITIONS_2026-11-03.md) — updated 86-term source-linked and Chicago-footnoted glossary, with Oxford, Merriam-Webster and legal dictionary comparators.
+- [`40_DATA_CENTER_CASE_ABSTRACTS_2026-11-03.md`](40_DATA_CENTER_CASE_ABSTRACTS_2026-11-03.md) — 27 case abstracts with court, procedural stage, geographic district/circuit, construction status, and Chicago notes.
 - [`38_IOWA_STATE_AND_M2_DEFINITIONS_2026-10-28.md`](38_IOWA_STATE_AND_M2_DEFINITIONS_2026-10-28.md) — state-law, Oxford, Merriam-Webster, and legal dictionary comparison across 86 glossary terms, retaining official citations and statute-vs-zoning safeguards.
 - [`04_CASCADE_ZONING_AND_LOCAL_AUTHORITY.md`](04_CASCADE_ZONING_AND_LOCAL_AUTHORITY.md) — Cascade zoning/building-code structure and Iowa municipal/zoning authority.
 - [`05_PROJECT_MODEL_ACCOUNTABILITY_ORDINANCE.md`](05_PROJECT_MODEL_ACCOUNTABILITY_ORDINANCE.md) — Summary of the June 21, 2026 project-generated model accountability ordinance, clearly identified as non-adopted draft policy.

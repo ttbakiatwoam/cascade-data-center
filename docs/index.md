@@ -16,12 +16,20 @@ The [City of Cascade's official calendar](https://www.cityofcascade.org/) lists 
 
 The goal of this independent research is to help the committee move from broad concerns to proposed measurable, generally applicable M-2 zoning language for City Attorney and Planning & Zoning review. Nothing here constitutes project approval or an official City recommendation.
 
+### November 3, 2026 - source-cited ordinance and litigation packet
+
+**Current working copies, not adopted law.** [Read the updated M-2 ordinance]({{ '/draft-ordinance/' | relative_url }}), [standalone Chapter 165 definitions ordinance]({{ '/draft-definitions-ordinance/' | relative_url }}), [86-term Iowa and dictionary glossary]({{ '/definitions/' | relative_url }}), and [27 litigation case abstracts]({{ '/data-center-case-abstracts/' | relative_url }}). The October 28 committee material remains a historical meeting document, not the current wording.
+
+**Print-ready PDFs with superscript Chicago source notes:** [M-2 ordinance]({{ '/downloads/cascade-m2-ordinance-2026-11-03.pdf' | relative_url }}) · [Definitions ordinance]({{ '/downloads/cascade-definitions-ordinance-2026-11-03.pdf' | relative_url }}) · [Definitions reference]({{ '/downloads/cascade-definitions-reference-2026-11-03.pdf' | relative_url }}) · [Court abstracts]({{ '/downloads/cascade-case-abstracts-2026-11-03.pdf' | relative_url }}) · [Complete combined packet]({{ '/downloads/cascade-complete-research-packet-2026-11-03.pdf' | relative_url }}).
+
 ### Start here
 
+- [November 3 litigation abstracts and Chicago citations]({{ '/data-center-case-abstracts/' | relative_url }}) - 27 court disputes with outcome, venue, relevance, and numbered source notes.
 - [National data center litigation tracker]({{ '/data-center-litigation/' | relative_url }}) - developer wins, settlements, pending lawsuits, construction status, and federal district/circuit mappings, including cases in Iowa's Eighth Circuit.
+- [Separate Chapter 165 definitions ordinance]({{ '/draft-definitions-ordinance/' | relative_url }}) - alternative companion legislative vehicle; do not adopt both definitions sections without consolidation.
 - [October 28 committee recommendation package]({{ '/committee-recommendations/' | relative_url }}) - updated agenda-ready recommendations and current proposed M-2 ordinance attached.
 - [Iowa state-law and proposed M-2 definitions table]({{ '/definitions/' | relative_url }}) - 55 Iowa statutory and administrative definitions, five zoning-law concepts, and 26 proposed local terms, compared with Oxford, Merriam-Webster, and Black's / Cornell Wex legal references.
-- [Current draft M-2 zoning ordinance]({{ '/draft-ordinance/' | relative_url }}) - October 26 proposed enforcement revision, clearly labeled not adopted law; the October 6 original is preserved.
+- [Current draft M-2 zoning ordinance]({{ '/draft-ordinance/' | relative_url }}) - November 3 cited revision; October 26 and October 6 originals remain preserved in GitHub.
 - [Public concerns and evidence]({{ '/public-objections/' | relative_url }}) - issue-by-issue source review, including noise, wildlife, electricity rates, generators, batteries, fire response, AI, and property values.
 - [Facility-to-home distances]({{ '/site-distances/' | relative_url }}) - preliminary image-scale estimates of 600–700 feet for the building and outdoor equipment, with diagrams and source limits.
 - [LEED and neighborhood noise]({{ '/leed-noise/' | relative_url }}) - USGBC certification versus optional acoustic credits, the exterior pilot and enforceable local industrial noise limits.

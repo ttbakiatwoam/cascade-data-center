@@ -54,6 +54,10 @@ Journalism or trade reporting. Where possible, secondary reporting is traced to 
 
 Calculations, policy proposals, question banks, and model ordinance language created within this research project. These materials are not adopted law, independent engineering reports, or company commitments.
 
+## November 3, 2026: cited M-2 ordinance and court abstracts
+
+- [Revised M-2 ordinance](../proposals/DRAFT-ORDINANCE-M2-DATA-CENTER-PERFORMANCE-STANDARDS-2026-11-03.md), [companion definitions amendment](../proposals/DRAFT-ORDINANCE-CH165-DEFINITIONS-2026-11-03.md), [86-term sourced glossary](policy/38_IOWA_STATE_AND_M2_DEFINITIONS_2026-11-03.md), and [27 individually footnoted case abstracts](policy/40_DATA_CENTER_CASE_ABSTRACTS_2026-11-03.md). GitHub Pages builds five downloadable PDF exports from these canonical Markdown files.
+
 ## Research by topic
 
 - **Nationwide litigation (October 28, 2026):** [`39_NATIONAL_DATA_CENTER_LITIGATION_2026-10-28.md`](policy/39_NATIONAL_DATA_CENTER_LITIGATION_2026-10-28.md) — 27 case/dispute records with actual court venues, federal district and circuit comparison, outcome and construction status; linked public [website tracker](../docs/data-center-litigation.md).
