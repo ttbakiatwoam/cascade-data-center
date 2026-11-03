@@ -8,6 +8,10 @@ The working position of this independent community project is **pro-data-center 
 
 A committee-friendly website is maintained from `docs/` and published via GitHub Pages: **https://ttbakiatwoam.github.io/cascade-data-center/**. A successful publishing workflow was recorded October 28, 2026. The [City's official calendar](https://www.cityofcascade.org/) lists the Data Center Advisory Committee meeting on **Wednesday, October 28, 2026 at 7:00 p.m. Central**, with the next research [meeting brief](docs/meeting-2026-10-28.md) and current proposed M-2 standards linked below.
 
+## Original M-2 ordinance comparison
+
+The [section-by-section concordance](dataset/policy/41_M2_ORIGINAL_SCAN_CONCORDANCE_2026-11-03.md) compares the original M-2 scan (PDF pp. 45–49), adopted 2022/2024 amendments, and proposed November 3 language. The original G(1) remains; 18 new proposed M-2 requirements begin at G(2). [Annotated scanned ordinance and complete draft PDF](https://ttbakiatwoam.github.io/cascade-data-center/downloads/cascade-m2-original-scan-highlighted-comparison-2026-11-03.pdf). The source scan is not a current consolidated certification.
+
 ## Start here
 
 | To find… | Start with… |
