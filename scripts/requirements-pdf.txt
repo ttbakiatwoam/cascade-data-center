@@ -1,0 +1,4 @@
+markdown>=3.6,<4
+beautifulsoup4>=4.12,<5
+weasyprint>=65,<70
+pypdf>=5,<7
