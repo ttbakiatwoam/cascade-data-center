@@ -4,6 +4,8 @@
 
 > **Bottom line for Cascade:** We should **not carve out stricter M-2 noise, cooling, equipment, water, setback or generator standards merely because a business is labeled a “data center,” while allowing similarly situated M-2 industrial facilities to produce the same impacts without comparable safeguards.** That approach invites a substantial uniformity, arbitrariness, and equal-treatment challenge. Apply objectively defined performance thresholds across M-2 and enforce them for **every facility meeting the same criteria**. **This is a drafting recommendation, not a claim that Iowa law categorically forbids data-center-specific land-use classes or separate zoning districts.**[^1][^2]
 
+**Cascade-specific interpretation:** [Existing M-2 use categories, structural definitions and differentiated special exceptions](44_CASCADE_M2_EXISTING_USE_AND_STRUCTURE_CATEGORIES_2026-11-03.md) shows that §165.11 already distinguishes permitted and special-exception uses, but does not expressly establish a comprehensive taxonomy of statutory building classes. This is the pertinent baseline for the present M-2 proposal.
+
 ## 1. What §414.2 actually requires
 
 The operative 2026 Iowa City Zoning provision says:
