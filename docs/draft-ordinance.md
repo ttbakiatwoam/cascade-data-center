@@ -1,27 +1,29 @@
 ---
 layout: page
-title: Draft M-2 Data Center and Major Industrial Facility Ordinance
+title: Proposed M-2 Ordinance - November 3, 2026
 permalink: /draft-ordinance/
 ---
 
-# DRAFT - M-2 Heavy Industrial District Data Center and Performance Standards Amendment (October 26 proposed revision)
+# DRAFT - M-2 Heavy Industrial District Data Center and Performance Standards Amendment (November 3, 2026 revision)
 
 > **DRAFT - FOR DISCUSSION ONLY - NOT ADOPTED LAW**  
-> Original prepared October 6, 2026; proposed review revision dated October 26, 2026 for policy discussion and City Attorney / Planning & Zoning review.  
+> Original prepared October 6, 2026; October 26 draft preserved. This **November 3, 2026 revised proposal** adds integrated definitions, clearer measurement and administrative cross-references, and Chicago-style legal notes. It is intended for City Attorney and Planning & Zoning review.  
 > This is a project-generated draft and is not legal advice. Section numbering, amendment mechanics, grandfathering, enforcement, and consistency with Iowa law should be reviewed by the City Attorney before introduction.
->
-> **Definitions reference:** [Iowa state-law and proposed Cascade M-2 definitions table]({{ '/definitions/' | relative_url }}) includes direct links to official Iowa statutes and administrative rules. State tax, air, water, building and zoning terminology is distinguished from proposed local ordinance definitions.
 >
 > **Uniformity principle:** The ordinance is intentionally written so that zoning and performance standards apply throughout the M-2 Heavy Industrial District to all similarly situated businesses. Data centers are added as an expressly recognized use type, while noise, lighting, screening, water, emergency planning, generators, infrastructure, and other impact standards apply district-wide or through neutral, objective impact thresholds.
 
 **CITY OF CASCADE, IOWA**  
 **ORDINANCE NO. ______**
 
+**PDF downloads:** [Revised M-2 proposed ordinance]({{ '/downloads/cascade-m2-ordinance-2026-11-03.pdf' | relative_url }}) · [Companion proposed definitions ordinance]({{ '/downloads/cascade-definitions-ordinance-2026-11-03.pdf' | relative_url }}) · [86-term reference glossary]({{ '/downloads/cascade-definitions-reference-2026-11-03.pdf' | relative_url }}) · [27 case abstracts]({{ '/downloads/cascade-case-abstracts-2026-11-03.pdf' | relative_url }}) · [Complete combined packet]({{ '/downloads/cascade-complete-research-packet-2026-11-03.pdf' | relative_url }}).
+
 ## AN ORDINANCE AMENDING CHAPTER 165 OF THE CASCADE ZONING ORDINANCE TO EXPRESSLY PERMIT DATA CENTERS AND HIGH-DENSITY COMPUTING FACILITIES IN THE M-2 HEAVY INDUSTRIAL DISTRICT AND TO ESTABLISH UNIFORM PERFORMANCE STANDARDS FOR M-2 INDUSTRIAL DEVELOPMENT
 
 **NOW, BE IT ENACTED by the City Council of the City of Cascade, Iowa, as follows:**
 
 ## SECTION I. SECTION 165.11 M-2 - PERMITTED PRINCIPAL USES
+
+Iowa Code authorizes zoning of industrial land use and requires district-wise uniformity for classes or kinds of buildings; this proposal does not confer project approval.[^1][^2]
 
 Section 165.11, M-2 Heavy Industrial District, subsection B, is amended by adding the following permitted principal use:
 
@@ -35,7 +37,7 @@ Computer rooms, telecommunications equipment, and server equipment that are inci
 
 ## SECTION II. SECTION 165.11 M-2 - SPECIAL EXCEPTION USES
 
-Section 165.11, M-2 Heavy Industrial District, subsection D, is amended by adding:
+Section 165.11, M-2 Heavy Industrial District, subsection D, is amended by adding the following **proposed review classification**. The Board of Adjustment's statutory powers, including special exceptions and the separate standards governing variances, must be observed.[^4]
 
 **8. Major Industrial Facility.**
 
@@ -47,7 +49,7 @@ Any otherwise permitted principal use within the M-2 District meeting one or mor
 4. Aggregate stationary battery or other electrical-energy-storage capacity of **five megawatt-hours (5 MWh) or greater**; or
 5. A material expansion of an existing facility that causes the facility to exceed any threshold above.
 
-The requirements of this subsection shall apply **without regard to the business type, technology, product, customer, tenant, ownership structure, or industrial process involved.**
+The requirements of this subsection shall apply **without regard to the business type, technology, product, customer, tenant, ownership structure, or industrial process involved.** Similar physical impacts shall be treated consistently, and the City shall document the comprehensive-plan and public-welfare rationale for each objective threshold.[^2][^3]
 
 ## SECTION III. SECTION 165.11 M-2 - UNIFORM PERFORMANCE STANDARDS
 
@@ -96,7 +98,7 @@ All M-2 uses shall be designed, constructed, operated, and maintained so that no
 
 **c. Tonal noise:** Where an industrial sound source produces a prominent recurring tone, whine, screech, or hum, the applicable A-weighted limit shall be reduced by five (5) decibels.
 
-**d. Measurement:** Noise measurements and modeling shall use generally accepted professional acoustic practices, including applicable ANSI/ASA S12.9 procedures or successor standards where appropriate.
+**d. Measurement:** The one-hour average is the energy-equivalent continuous sound level (Leq,1h), not an arithmetic mean of decibel readings. A qualified acoustical professional shall use a calibrated Type 1 or Type 2 sound-level meter appropriate for the purpose, identify A- or C-weighting, document meteorology, receiving location, background sources, and source operating conditions, and apply a documented ANSI/ASA S12.9 or successor environmental-noise assessment method. The City shall evaluate only facility-attributable noise using the approved background-noise adjustment procedure. These measurement protocols shall not be construed to set a new statewide noise standard.[^9][^10]
 
 ### 4. Acoustic Study and Verification
 
@@ -122,7 +124,7 @@ Routine and pre-planned testing of stationary generators or other equipment prod
 3. Required by a governmental agency, applicable code, manufacturer, utility, insurer, or reliability authority; or
 4. Specifically authorized by the Zoning Administrator because the testing cannot reasonably be completed during ordinary testing hours.
 
-This restriction applies uniformly to M-2 businesses operating such equipment. Emergency-engine operation shall also comply with applicable state and federal air-quality requirements.
+This restriction applies uniformly to M-2 businesses operating such equipment. "Emergency generator" as classified for Iowa air-quality permitting follows applicable state air regulations; local zoning testing-hour rules do not alter air-permit classifications or authorize impermissible emissions.[^8]
 
 ### 6. Generator Operating Records
 
@@ -166,7 +168,7 @@ Any M-2 use reasonably expected to use **25,000 gallons or more of water in a tw
 
 1. Projected average and peak water demand;
 2. Identification of the proposed water source;
-3. Applicable Iowa Department of Natural Resources permits, approvals, or documentation;
+3. Applicable Iowa Department of Natural Resources permits, approvals, or documentation, with any determination of a **regulated** or **nonregulated** water use made under Iowa Code §455B.261 and applicable implementing rules, not inferred from the City's impact-review threshold alone;[^7]
 4. An engineering analysis demonstrating adequate water supply without unreasonable interference with existing users;
 5. Separate metering of material industrial or cooling-water use where practicable; and
 6. Annual water-use reporting to the City.
@@ -214,7 +216,7 @@ No M-2 mechanical exhaust, cooling, or heat-rejection system shall be operated i
 
 All new M-2 development shall comply with applicable City, state, and federal stormwater requirements.
 
-A Major Industrial Facility shall submit engineered stormwater calculations demonstrating that development will not cause an unlawful or unreasonable increase in off-site flooding, erosion, or drainage impacts.
+A Major Industrial Facility shall submit engineered stormwater calculations demonstrating that development will not cause an unlawful or unreasonable increase in off-site flooding, erosion, or drainage impacts, **subject to Iowa Code §364.3 limitations on municipal runoff and topsoil requirements**. An independently imposed more restrictive runoff standard may require the City to bear specified engineering, construction, or property costs, and shall not be presumed authorized by this zoning section.[^12]
 
 The property owner shall be responsible for repair of documented project-caused damage to City drainage infrastructure to the extent permitted by law.
 
@@ -272,7 +274,9 @@ Nothing in this section limits other remedies available under Chapter 165 or app
 
 ## SECTION IV. SECTION 165.41 - DEFINITIONS
 
-Section 165.41 is amended by adding the following definitions, while preserving all other definitions not expressly amended. State statutory and administrative definitions used in other regulatory programs are not automatically adopted as zoning definitions. The terms below govern this proposed amendment where a term is not already defined in Chapter 165.
+Section 165.41 is amended by adding the following definitions, preserving existing Chapter 165 definitions unless expressly changed. For **City zoning classification and enforcement**, the following local definitions govern. Iowa's tax-law definition of "data center" is an interpretive comparator, not an automatic incorporation. State building, air, water, waste, and stormwater definitions control only where their respective legal programs apply. A separately adopted state or federal permit remains required when applicable.[^5][^6][^7][^8][^11][^12]
+
+The current [86-term statutory, Oxford, Merriam-Webster, and legal-dictionary comparison]({{ '/definitions/' | relative_url }}) is an **interpretive research appendix**. Its general-language summaries do not override the enacted text of this ordinance or the controlling statute. A standalone companion draft for Section 165.41 is also maintained in `proposals/DRAFT-ORDINANCE-CH165-DEFINITIONS-2026-11-03.md`.
 
 **Data Center or High-Density Computing Facility:** A building, structure, or portion thereof principally used for networked servers, electronic data processing, digital storage, artificial-intelligence, cloud, colocation, scientific, or cryptocurrency computing. Incidental computer rooms and telecommunications equipment subordinate to another principal use are excluded.
 
@@ -282,21 +286,21 @@ Section 165.41 is amended by adding the following definitions, while preserving 
 
 **Sensitive Receptor:** An occupied dwelling, school, licensed child-care facility, hospital, nursing facility, place of worship, public library, public park facility, or comparable occupied use requiring protection from continuous industrial noise.
 
-**Ambient Noise / Baseline Sound:** Sound at a specified receiving location from existing natural and human-made sources before the proposed facility's contribution; measured over representative day/night periods and operating conditions.
+**Ambient Noise / Baseline Sound:** The sound environment at a designated receiving location without the regulated facility's incremental contribution, determined under representative day, night, and meteorological conditions. Ambient noise is not the Iowa air-quality term "ambient air."[^8][^10]
 
-**Facility-Attributable Noise:** The sound contribution from the regulated M-2 operation at the applicable receptor, including operational mechanical equipment and other covered sources, calculated or measured using documented acoustical methods.
+**Facility-Attributable Noise:** The sound contribution attributable to a regulated M-2 use at the specified receiving point, including reasonably foreseeable simultaneous operation of equipment; exclude unrelated transportation, natural, and third-party background noise through an approved, documented acoustical procedure.[^10]
 
 **dBA:** A-weighted decibels of sound pressure, measured with calibrated equipment using the applicable professional noise measurement method.
 
 **dBC:** C-weighted decibels of sound pressure, which place greater relative weight on low-frequency sound than A-weighting.
 
-**Hourly Average Sound Level (Leq,1h):** The energy-equivalent continuous sound-pressure level for the full 60-minute measurement interval, using the stated frequency weighting and measurement procedure.
+**Hourly Average Sound Level (Leq,1h):** The energy-equivalent continuous sound-pressure level over sixty (60) minutes, expressed using the specified A- or C-weighting; intermittent contributions are averaged on an acoustic energy basis, not by taking an arithmetic mean of decibel values. The qualified professional shall identify source operation, background sound, measurement location, and calibration.[^10]
 
 **Prominent Tone / Tonal Noise:** An identifiable recurring or steady audible frequency component distinguishable from neighboring sound bands when evaluated under the ordinance's specified professional acoustical method.
 
 **Acoustic Study:** A qualified professional's documented baseline survey, maximum-design-operation model, receptor analysis, assumptions, equipment schedule, and verification protocol.
 
-**Maximum Anticipated Coincident Electrical Demand:** The maximum expected simultaneous demand of the complete site, in megawatts, under reasonably foreseeable operating conditions, without treating separately rated equipment nameplate capacity as coincident demand.
+**Maximum Anticipated Coincident Electrical Demand:** The greatest reasonably anticipated simultaneous electrical load, expressed in MW, for the complete site during normal or design-maximum operation. A sum of independent equipment nameplate ratings does not establish coincident site demand without a documented load calculation.
 
 **Aggregate Stationary Generation Capacity:** The sum of rated electrical outputs of all stationary generators covered by the section, in megawatts, excluding fire pumps only where expressly provided.
 
@@ -320,11 +324,19 @@ Section 165.41 is amended by adding the following definitions, while preserving 
 
 **Abandonment:** Continuous cessation of a facility's principal approved industrial operation for the period specified in §165.11(G)(16), subject to its listed reasonable exceptions.
 
-**Financial Assurance:** A legally authorized and enforceable instrument providing funds for documented decommissioning and restoration obligations.
+**Financial Assurance:** A surety, letter of credit, escrow, performance bond, trust, or other legally authorized and enforceable arrangement in a reasonable amount covering documented decommissioning and site restoration duties. The statutory definition applicable to sanitary-disposal facilities under Iowa Code §455B.301(9) does not itself grant the City authority to impose that requirement on M-2 data centers; a separate legal basis must be confirmed by the City Attorney.[^13]
 
 **Independent Qualified Professional:** An appropriately licensed or credentialed expert with relevant technical competence and no financial or managerial interest that would compromise independent evaluation.
 
 **Material Modification (for monitoring):** A change in equipment, site layout, generation operation, or other covered operation reasonably likely to change the regulated environmental or infrastructure impact.
+
+### Relationship to other Iowa-defined terms
+
+For interpretation **within the respective state-regulated subject**, the following meanings are governed by the stated Iowa authority: water-allocation terms "aquifer," "beneficial use," "nonregulated use," and "regulated use" (Iowa Code §455B.261); state air-emissions terms "air contaminant," "emission," and "major stationary source" (§455B.131 and Iowa Administrative Code 567—22.1); hazardous-condition response terms (§455B.381); hazardous-waste terms (§455B.411); and stormwater permitting terms (Iowa Administrative Code 567—60.1 and incorporated federal definitions). Those terms **are not silently repurposed** as independent municipal zoning thresholds. State-defined "major stationary source" is distinct from the City's proposed "Major Industrial Facility."[^7][^8][^11][^14]
+
+### Interpretation and conflicts
+
+The proposal preserves existing Cascade definitions of "Building/Structure," "Accessory Use," "Lot," and "Dwelling" except where a later duly adopted amendment controls. The City Attorney shall verify all intervening amendments to the 1992 base zoning code and confirm final section numbering, cross-references, and special-exception authority before introduction.[^4][^6]
 
 ## SECTION V. CONFLICTS AND MORE RESTRICTIVE REQUIREMENTS
 
@@ -339,6 +351,25 @@ If any section, subsection, paragraph, sentence, clause, phrase, or application 
 This ordinance shall be in full force and effect after its final passage, approval, and publication as provided by law.
 
 ---
+
+## Chicago Notes and Bibliography - source notes
+
+Superscript note markers in this proposal point to these numbered sources. Notes are documentary authorities and **are not operative zoning terms**. Project-specific engineering assumptions and proposed numerical thresholds still require independent validation.
+
+[^1]: Iowa General Assembly, *Iowa Code* §414.1 (2026), municipal regulation of building location and industrial land use, https://www.legis.iowa.gov/docs/code/2026/414.1.pdf.
+[^2]: Iowa General Assembly, *Iowa Code* §414.2 (2026), uniformity for each class or kind of building throughout each zoning district, https://www.legis.iowa.gov/docs/code/2026/414.2.pdf.
+[^3]: Iowa General Assembly, *Iowa Code* §414.3 (2026), comprehensive-plan and health, safety, conservation, and public-facility considerations, https://www.legis.iowa.gov/docs/code/2026/414.3.pdf.
+[^4]: Iowa General Assembly, *Iowa Code* §414.12(2)-(4) (2026), Board of Adjustment special exceptions and variances, including 2025-added subsection (4), https://www.legis.iowa.gov/docs/code/2026/414.12.pdf.
+[^5]: Iowa General Assembly, *Iowa Code* §423.3(95)(f) (2026), definitions applicable to data-center tax treatment, https://www.legis.iowa.gov/docs/code/2026/423.3.pdf.
+[^6]: Iowa General Assembly, *Iowa Code* §103A.3 (2026), construction and building definitions, https://www.legis.iowa.gov/docs/code/2026/103A.3.pdf; City of Cascade, *Chapter 165 Zoning Ordinance*, §165.41, transcription in this repository: https://github.com/ttbakiatwoam/cascade-data-center/blob/master/dataset/cascade-zoning/CHAPTER-165-ZONING-ORDINANCE.md.
+[^7]: Iowa General Assembly, *Iowa Code* §455B.261 (2026), water allocation, beneficial use, nonregulated use, and regulated use, https://www.legis.iowa.gov/docs/code/2026/455B.261.pdf.
+[^8]: Iowa Department of Natural Resources, *Iowa Administrative Code* 567—22.1, air-quality definitions and emergency generators, https://www.legis.iowa.gov/docs/iac/rule/02-25-2026.567.22.1.pdf.
+[^9]: Iowa General Assembly, *Iowa Code* §657.1 (2026), nuisance, https://www.legis.iowa.gov/docs/code/2026/657.1.pdf.
+[^10]: Acoustical Society of America / American National Standards Institute, *ANSI/ASA S12.9*, environmental sound measurement and assessment standards, https://webstore.ansi.org/ (exact current edition and applicable part require acoustical expert verification).
+[^11]: Iowa General Assembly, *Iowa Code* §§455B.131, 455B.381, and 455B.411 (2026), air contaminants, hazardous conditions, and waste-management terms, https://www.legis.iowa.gov/docs/code/2026/455B.pdf.
+[^12]: Iowa General Assembly, *Iowa Code* §364.3 (2026), limitations on municipal topsoil and stormwater runoff requirements, https://www.legis.iowa.gov/docs/code/2026/364.3.pdf.
+[^13]: Iowa General Assembly, *Iowa Code* §455B.301(9) (2026), definition of financial assurance instrument for sanitary disposal projects, https://www.legis.iowa.gov/docs/code/2026/455B.301.pdf.
+[^14]: Iowa Department of Natural Resources, *Iowa Administrative Code* 567—60.1 (2026), wastewater and incorporated stormwater definitions, https://www.legis.iowa.gov/docs/iac/rule/567.60.1.pdf.
 
 # NON-CODIFIED DRAFTING NOTES AND SOURCE BASIS
 
