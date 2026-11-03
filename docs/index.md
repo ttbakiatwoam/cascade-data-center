@@ -29,7 +29,7 @@ The goal of this independent research is to help the committee move from broad c
 - [Separate Chapter 165 definitions ordinance]({{ '/draft-definitions-ordinance/' | relative_url }}) - alternative companion legislative vehicle; do not adopt both definitions sections without consolidation.
 - [October 28 committee recommendation package]({{ '/committee-recommendations/' | relative_url }}) - updated agenda-ready recommendations and current proposed M-2 ordinance attached.
 - [Iowa state-law and proposed M-2 definitions table]({{ '/definitions/' | relative_url }}) - 55 Iowa statutory and administrative definitions, five zoning-law concepts, and 26 proposed local terms, compared with Oxford, Merriam-Webster, and Black's / Cornell Wex legal references.
-- [Current draft M-2 zoning ordinance]({{ '/draft-ordinance/' | relative_url }}) - October 26 proposed enforcement revision, clearly labeled not adopted law; the October 6 original is preserved.
+- [Current draft M-2 zoning ordinance]({{ '/draft-ordinance/' | relative_url }}) - November 3 cited revision; October 26 and October 6 originals remain preserved in GitHub.
 - [Public concerns and evidence]({{ '/public-objections/' | relative_url }}) - issue-by-issue source review, including noise, wildlife, electricity rates, generators, batteries, fire response, AI, and property values.
 - [Facility-to-home distances]({{ '/site-distances/' | relative_url }}) - preliminary image-scale estimates of 600–700 feet for the building and outdoor equipment, with diagrams and source limits.
 - [LEED and neighborhood noise]({{ '/leed-noise/' | relative_url }}) - USGBC certification versus optional acoustic credits, the exterior pilot and enforceable local industrial noise limits.
