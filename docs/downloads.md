@@ -19,6 +19,8 @@ permalink: /downloads/
 
 **How this publication works:** GitHub Actions converts the four editable Markdown sources into searchable PDF files before building and publishing the public site. The glossary PDF uses individual readable entries rather than compressing seven columns into tiny type.
 
+**Related legal research:** [Iowa Code §414.2 and neighboring county/city uniformity analysis]({{ '/iowa-zoning-uniformity/' | relative_url }}) (with comparisons to the county statute §335.4 and §414.5's consent-condition exception).
+
 **Important legal distinctions:** Iowa's tax definition of a data center does not automatically control zoning. Black's current text is not quoted without licensed verification. A preliminary injunction or negotiated settlement is not necessarily a final judicial merits ruling. The 27-case underlying status research was last compiled October 28, 2026, even though explanatory abstracts and source notes were added November 3.
 
 [Repository source and publishing workflow](https://github.com/ttbakiatwoam/cascade-data-center) · [Original October 26 draft](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/proposals/DRAFT-ORDINANCE-M2-DATA-CENTER-PERFORMANCE-STANDARDS-2026-10-26.md).
