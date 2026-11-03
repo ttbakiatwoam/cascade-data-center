@@ -8,6 +8,10 @@ The working position of this independent community project is **pro-data-center 
 
 A committee-friendly website is maintained from `docs/` and published via GitHub Pages: **https://ttbakiatwoam.github.io/cascade-data-center/**. A successful publishing workflow was recorded October 28, 2026. The [City's official calendar](https://www.cityofcascade.org/) lists the Data Center Advisory Committee meeting on **Wednesday, October 28, 2026 at 7:00 p.m. Central**, with the next research [meeting brief](docs/meeting-2026-10-28.md) and current proposed M-2 standards linked below.
 
+## Iowa zoning uniformity: city and county ordinance comparisons
+
+**[Public §414.2 analysis](https://ttbakiatwoam.github.io/cascade-data-center/iowa-zoning-uniformity/)** | [Source-linked Markdown memorandum](dataset/policy/43_IA_414_2_UNIFORMITY_COMPARATOR_REVIEW_2026-11-03.md). Compares ten Iowa jurisdictions and the city (§414.2) versus county (§335.4) uniformity rules. **Our drafting recommendation:** apply comparable M-2 impact requirements to all facilities with like impacts, rather than one named business category. Legitimate zoning classes or separate districts can still be created where authorized.
+
 ## Original M-2 ordinance comparison
 
 The [section-by-section concordance](dataset/policy/41_M2_ORIGINAL_SCAN_CONCORDANCE_2026-11-03.md) compares the original M-2 scan (PDF pp. 45–49), adopted 2022/2024 amendments, and proposed November 3 language. The original G(1) remains; 18 new proposed M-2 requirements begin at G(2). [Annotated scanned ordinance and complete draft PDF](https://ttbakiatwoam.github.io/cascade-data-center/downloads/cascade-m2-original-scan-highlighted-comparison-2026-11-03.pdf). The source scan is not a current consolidated certification.
