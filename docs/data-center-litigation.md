@@ -1,6 +1,6 @@
 ---
 layout: page
-title: National data center litigation
+title: Court Cases
 permalink: /data-center-litigation/
 ---
 
