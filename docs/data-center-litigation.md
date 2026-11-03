@@ -6,6 +6,8 @@ permalink: /data-center-litigation/
 
 # National data-center developer / local-government litigation tracker
 
+> **November 3 editorial companion:** [27 case abstracts with superscript Chicago-style source notes]({{ '/data-center-case-abstracts/' | relative_url }}) · [Download cited case-abstract PDF]({{ '/downloads/cascade-case-abstracts-2026-11-03.pdf' | relative_url }}). The case status in this historical table is based on research through October 28, not a new November 3 docket review.
+
 **Research cutoff: October 28, 2026.** This is a sourced working inventory, not an exhaustive PACER or 50-state docket audit. Cases include developer claims against local governments, municipal-plaintiff cases with developer counterclaims, and one Iowa annexation comparator. A lawsuit being filed or an interim ruling does **not** mean the data center was constructed or a zoning regulation struck down.
 
 ## How to read the jurisdiction column
