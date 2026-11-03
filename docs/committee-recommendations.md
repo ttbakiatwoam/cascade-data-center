@@ -6,6 +6,8 @@ permalink: /committee-recommendations/
 
 # Proposed Recommendations for Cascade Data Center / Major Industrial Facility Zoning (October 28 meeting update)
 
+> **Historical committee package.** Its embedded Appendix A retains the October 26 proposed text for meeting provenance. The [current November 3 revised ordinance]({{ '/draft-ordinance/' | relative_url }}) has expanded definitions, statutory safeguards, Chicago source notes, and downloadable PDFs. Do not rely on this older appendix as the most recent language.
+
 > **Definitions reference:** [Iowa state-law definitions and proposed Cascade M-2 additions]({{ '/definitions/' | relative_url }}) includes official statutory and rule citations, and clearly distinguishes local drafting choices.
 >
 > **DRAFT FOR DISCUSSION - NOT ADOPTED CITY POLICY OR LAW**  
