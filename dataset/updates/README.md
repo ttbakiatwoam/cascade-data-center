@@ -7,4 +7,6 @@
 
 - [`37_ADVISORY_PACKET_REVIEW_2026-10-26.md`](37_ADVISORY_PACKET_REVIEW_2026-10-26.md) — October 27 packet comparison, source-page record, and proposed October 26 M-2 enforcement changes.
 
+- [`38_UTILITY_INFORMATION_REQUEST_EMAIL_DRAFT_2026-11-03.md`](38_UTILITY_INFORMATION_REQUEST_EMAIL_DRAFT_2026-11-03.md) — Draft email to Diana listing requested historical CMU and MVEC electricity data, large water users, municipal infrastructure usage, and federal EIA comparison records for the Data Center Advisory Committee. This is a draft, not confirmation that the email was sent.
+
 These records describe the evidence available at their stated dates. Consult the [project evidence tracker](../project/21_OPEN_QUESTIONS_AND_EVIDENCE_GAPS.md) for later developments.
