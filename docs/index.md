@@ -16,6 +16,12 @@ The [City of Cascade's official calendar](https://www.cityofcascade.org/) lists 
 
 The goal of this independent research is to help the committee move from broad concerns to proposed measurable, generally applicable M-2 zoning language for City Attorney and Planning & Zoning review. Nothing here constitutes project approval or an official City recommendation.
 
+### November 3, 2026 - source-cited ordinance and litigation packet
+
+**Current working copies, not adopted law.** [Read the updated M-2 ordinance]({{ '/draft-ordinance/' | relative_url }}), [standalone Chapter 165 definitions ordinance]({{ '/draft-definitions-ordinance/' | relative_url }}), [86-term Iowa and dictionary glossary]({{ '/definitions/' | relative_url }}), and [27 litigation case abstracts]({{ '/data-center-case-abstracts/' | relative_url }}). The October 28 committee material remains a historical meeting document, not the current wording.
+
+**Print-ready PDFs with superscript Chicago source notes:** [M-2 ordinance]({{ '/downloads/cascade-m2-ordinance-2026-11-03.pdf' | relative_url }}) · [Definitions ordinance]({{ '/downloads/cascade-definitions-ordinance-2026-11-03.pdf' | relative_url }}) · [Definitions reference]({{ '/downloads/cascade-definitions-reference-2026-11-03.pdf' | relative_url }}) · [Court abstracts]({{ '/downloads/cascade-case-abstracts-2026-11-03.pdf' | relative_url }}) · [Complete combined packet]({{ '/downloads/cascade-complete-research-packet-2026-11-03.pdf' | relative_url }}).
+
 ### Start here
 
 - [National data center litigation tracker]({{ '/data-center-litigation/' | relative_url }}) - developer wins, settlements, pending lawsuits, construction status, and federal district/circuit mappings, including cases in Iowa's Eighth Circuit.
