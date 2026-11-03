@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="220" viewBox="0 0 220 220" role="img" aria-label="Cascade research symbol"><rect x="16" y="16" width="188" height="188" rx="35" fill="#142C3D"/>
+ <g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="13">
+ <path d="M52 69 H116 Q128 69 128 81 V90 H164" stroke="#9BE0D1"/>
+ <path d="M52 105 H107 Q119 105 119 117 V126 H164" stroke="#FFFFFF"/>
+ <path d="M52 141 H98 Q110 141 110 153 V162 H164" stroke="#1FAE9A"/>
+ </g><g fill="#FFFFFF"><circle cx="170" cy="90" r="6.6"/><circle cx="170" cy="126" r="6.6"/></g><circle cx="170" cy="162" r="6.6" fill="#9BE0D1"/></svg>
