@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="236" viewBox="0 0 920 236" role="img" aria-label="Cascade Data Center Research logo"><g><rect x="16" y="16" width="188" height="188" rx="35" fill="#142C3D"/>
+ <g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="13">
+ <path d="M52 69 H116 Q128 69 128 81 V90 H164" stroke="#9BE0D1"/>
+ <path d="M52 105 H107 Q119 105 119 117 V126 H164" stroke="#FFFFFF"/>
+ <path d="M52 141 H98 Q110 141 110 153 V162 H164" stroke="#1FAE9A"/>
+ </g><g fill="#FFFFFF"><circle cx="170" cy="90" r="6.6"/><circle cx="170" cy="126" r="6.6"/></g><circle cx="170" cy="162" r="6.6" fill="#9BE0D1"/></g>
+ <text x="239" y="111" fill="#182D3D" font-family="Lato, Arial, sans-serif" font-weight="900" font-size="64" letter-spacing="1">CASCADE</text>
+ <text x="242" y="158" fill="#1FAE9A" font-family="Lato, Arial, sans-serif" font-weight="700" font-size="26" letter-spacing="4.4">DATA CENTER RESEARCH</text>
+ <text x="241" y="191" fill="#607785" font-family="Lato, Arial, sans-serif" font-size="20" letter-spacing=".3">Independent research · Cascade, Iowa</text>
+</svg>
