@@ -53,7 +53,7 @@ Each of the following is **new proposed text**, not a requirement already appear
 | --- | --- | --- |
 | G(2) | Uniform applicability | Neutral, impact-based coverage; existing lawful uses remain governed by nonconforming-use law. |
 | G(3) | Site development plan | Engineering and utility, mechanical, generation, fuel, and receptor documentation. |
-| G(4) | Operational noise | 65 dBA/75 dBC M-2 property line, plus lower day/night sensitive-receptor limits and a tonal adjustment. |
+| G(4) | Operational noise | 65 dBA/75 dBC outdoors at the M-2 property line; day/night sensitive-receptor limits measured in a normally occupied indoor room, windows/doors closed, within 5 ft of the nearest source-facing exterior wall; tonal adjustment. |
 | G(5) | Acoustic studies | Baseline, predictive, postconstruction and triennial verification. |
 | G(6) | Generator testing | Generally 8 a.m.–6 p.m. weekdays, with defined exceptions. |
 | G(7) | Generator logs | Three years of records for facilities with >=2 MW stationary generation. |
