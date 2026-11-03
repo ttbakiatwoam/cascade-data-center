@@ -26,6 +26,7 @@ The goal of this independent research is to help the committee move from broad c
 
 - [November 3 litigation abstracts and Chicago citations]({{ '/data-center-case-abstracts/' | relative_url }}) - 27 court disputes with outcome, venue, relevance, and numbered source notes.
 - [National data center litigation tracker]({{ '/data-center-litigation/' | relative_url }}) - developer wins, settlements, pending lawsuits, construction status, and federal district/circuit mappings, including cases in Iowa's Eighth Circuit.
+- [Separate Chapter 165 definitions ordinance]({{ '/draft-definitions-ordinance/' | relative_url }}) - alternative companion legislative vehicle; do not adopt both definitions sections without consolidation.
 - [October 28 committee recommendation package]({{ '/committee-recommendations/' | relative_url }}) - updated agenda-ready recommendations and current proposed M-2 ordinance attached.
 - [Iowa state-law and proposed M-2 definitions table]({{ '/definitions/' | relative_url }}) - 55 Iowa statutory and administrative definitions, five zoning-law concepts, and 26 proposed local terms, compared with Oxford, Merriam-Webster, and Black's / Cornell Wex legal references.
 - [Current draft M-2 zoning ordinance]({{ '/draft-ordinance/' | relative_url }}) - October 26 proposed enforcement revision, clearly labeled not adopted law; the October 6 original is preserved.
