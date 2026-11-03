@@ -1,5 +1,7 @@
 # Proposed Recommendations for Cascade Data Center / Major Industrial Facility Zoning (October 28 meeting update)
 
+> **Historical October 28 committee package.** The embedded appendix is the October 26 draft preserved for provenance. A [revised, source-cited November 3 M-2 ordinance](DRAFT-ORDINANCE-M2-DATA-CENTER-PERFORMANCE-STANDARDS-2026-11-03.md) now supersedes that wording for ongoing discussion. [Companion definitions amendment](DRAFT-ORDINANCE-CH165-DEFINITIONS-2026-11-03.md).
+
 > **DRAFT FOR DISCUSSION - NOT ADOPTED CITY POLICY OR LAW**  
 > Prepared for the Cascade Data Center Advisory Committee and Planning & Zoning review.  
 > **Current meeting:** Wednesday, October 28, 2026, 7:00-8:00 p.m. Central, listed on the [City's official calendar](https://www.cityofcascade.org/). The earlier supplied packet cover is dated October 27 at 6:00 p.m.; the City calendar provides the newer event time.  
