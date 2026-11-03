@@ -24,7 +24,7 @@ The [October 28 Data Center Advisory Committee minutes]({{ '/meeting-2026-10-28/
 
 ### Operational noise: what the proposed limits mean
 
-**[Understand the proposed M-2 noise limits]({{ '/operational-noise/' | relative_url }})** — a plain-language guide to **65 dBA / 75 dBC at industrial property boundaries**, lower limits at existing homes and other sensitive receptors, hourly averaging, low-frequency noise, background measurements, tonal penalties, and open enforcement questions. Applies to **all similarly situated M-2 uses** in the draft, not just data centers.
+**[Understand the proposed M-2 noise limits]({{ '/operational-noise/' | relative_url }})** — a plain-language guide to **65 dBA / 75 dBC at industrial property boundaries**, lower limits at existing homes and other sensitive receptors, hourly averaging, low-frequency noise, background measurements, tonal penalties, and open enforcement questions. Includes **owner-consented preconstruction indoor baselines**, a lawful source-facing property-line fallback if access is refused, and comparable indoor testing with doors/windows closed, **HVAC fan ON continuously**, and a **65–75°F** thermostat where practicable. Applies to **all similarly situated M-2 uses** in the draft, not just data centers. [Iowa residential insulation and sound reduction]({{ '/house-noise-attenuation-iowa/' | relative_url }}) explains why thermal R-values cannot be directly converted into decibel credits.
 
 ### Existing Cascade M-2 use categories
 
