@@ -64,7 +64,7 @@ Calculations, policy proposals, question banks, and model ordinance language cre
 
 ## November 4, 2026: free legal-dictionary source review
 
-- [NYLS free legal dictionary evaluation and verified Wex/FindLaw entries](policy/45_NYLS_FREE_LEGAL_DICTIONARIES_2026-11-04.md) — replaces inaccessible proprietary Black's references in the current 86-term statutory and local glossary. Sources are labeled exact, related, or unverified, with Iowa law controlling.
+- [NYLS free legal dictionary evaluation and verified Wex/FindLaw entries](policy/45_NYLS_FREE_LEGAL_DICTIONARIES_2026-11-04.md) — uses accessible free legal sources in the current 86-term statutory and local glossary. Sources are labeled exact, related, or unverified, with Iowa law controlling.
 
 ## Research by topic
 
