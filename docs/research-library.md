@@ -15,7 +15,7 @@ The header links to the principal pages. Everything else remains available below
 - **[Proposed M-2 ordinance]({{ '/draft-ordinance/' | relative_url }})** — November 3, 2026 working proposal and impact-based industrial performance standards.
 - [Original M-2 ordinance compared with proposed changes]({{ '/m2-concordance/' | relative_url }}) — scanned source provisions, later amendments, and a marked comparison.
 - [Iowa zoning uniformity and ordinance comparisons]({{ '/iowa-zoning-uniformity/' | relative_url }}) — Iowa Code §414.2 district-uniformity rules, §335.4 county comparison, and review of other Iowa ordinances.
-- [Iowa and Cascade definitions reference]({{ '/definitions/' | relative_url }}) — source-linked statutory, administrative, and proposed local definitions.
+- [Iowa and Cascade definitions reference]({{ '/definitions/' | relative_url }}) — 86 terms with controlling Iowa citations, Oxford/Merriam-Webster comparisons, and **verified or clearly qualified free Cornell Wex and FindLaw legal dictionary references**. [NYLS-backed source methodology](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/dataset/policy/45_NYLS_FREE_LEGAL_DICTIONARIES_2026-11-04.md).
 - [Optional companion Chapter 165 definitions ordinance]({{ '/draft-definitions-ordinance/' | relative_url }}) — **alternative drafting vehicle**, not a second ordinance to adopt alongside the integrated definitions without reconciliation.
 - [All downloadable PDF packets]({{ '/downloads/' | relative_url }}) — ordinance, comparison, definitions, litigation abstracts, and combined packet.
 
