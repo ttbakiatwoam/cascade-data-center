@@ -17,6 +17,10 @@ permalink: /downloads/
 | [27 national litigation case abstracts]({{ '/downloads/cascade-case-abstracts-2026-11-03.pdf' | relative_url }}) | Case-by-case abstracts, procedural stages, outcomes, U.S. federal geographic mapping and Chicago references | [Browse the cases]({{ '/data-center-case-abstracts/' | relative_url }}) |
 | [Complete combined packet]({{ '/downloads/cascade-complete-research-packet-2026-11-03.pdf' | relative_url }}) | All four PDFs combined in reading order with PDF outline bookmarks | All four Markdown sources |
 
+## Original external research PDF: U.S. Chamber 2026
+
+The original [**U.S. Chamber economic impacts report (72-page PDF)**](https://www.uschamber.com/assets/documents/The-Community-and-Economic-Impacts-of-Data-Centers.pdf) is available directly from the publisher. The [independent Iowa/Cascade evaluation]({{ '/economic-impact-chamber-2026/' | relative_url }}) and [source provenance](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/sources/economic-studies/US_CHAMBER_DATA_CENTER_IMPACTS_2026_SOURCE_RECORD.md) have been added to this project. **This is an economic study, not an ordinance appendix.** It is not incorporated into the November 3 zoning/court PDFs, which remain historically dated.
+
 **How this publication works:** GitHub Actions converts the four editable Markdown sources into searchable PDF files before building and publishing the public site. The glossary PDF uses individual readable entries rather than compressing seven columns into tiny type.
 
 **Related legal research:** [Iowa Code §414.2 and other Iowa city/county data-center ordinances]({{ '/iowa-zoning-uniformity/' | relative_url }}) (county §335.4 and city §414.5 exceptions explained).

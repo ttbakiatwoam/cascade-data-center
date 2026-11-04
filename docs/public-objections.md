@@ -102,6 +102,12 @@ No established study in the repository isolates the property-value impact of thi
 
 ---
 
+## Economic-benefit claims: statewide models are not Cascade employment or taxes
+
+The [U.S. Chamber's October 15, 2026 data-center economic impact report](https://www.uschamber.com/assets/documents/The-Community-and-Economic-Impacts-of-Data-Centers.pdf) modeled a **50 MW, $1.69 billion** facility and estimates **4,947 jobs supported statewide per construction year** and **647 statewide per operational year** in Iowa. It assumes **50 directly employed data-center workers** (pp. 32, 68). These jobs include economy-wide effects. They are not 647 local direct hires. The Chamber's four five-year county tax models are **outside Iowa and gross before incentives**. Its discussion of electricity prices and infrastructure does not confirm Cascade's local utility costs. [Complete review and model comparisons]({{ '/economic-impact-chamber-2026/' | relative_url }}).
+
+The report supports considering potential economic benefits **alongside** water, noise, infrastructure, land-use and public-cost evidence. It does not resolve the site's actual direct staffing, taxable assessment, City revenues or enforceable mitigation conditions.
+
 ## Evidence still needed
 
 Before treating preliminary public statements as final requirements, obtain the utility service documents, stamped site plan, acoustic study, verified residential distances, final generator specifications, UPS/BESS inventory and suppression plans, coolant/water budget, stormwater plans, and enforceable monitoring, remediation, and closure provisions.

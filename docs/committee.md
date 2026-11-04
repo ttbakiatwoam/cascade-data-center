@@ -59,6 +59,8 @@ The City Administrator's September 24 memo in the September 28 packet says the r
 
 The memo states that the two CEDC members were removed after discussion with the City Attorney and the NDA that had been signed. Those individuals could still participate, where applicable, in non-voting or advisory capacities if separately listed.
 
+**New source for economic-impact discussion (November 4):** The [U.S. Chamber's Iowa-specific model and Cascade applicability review]({{ '/economic-impact-chamber-2026/' | relative_url }}) offers page-cited context on jobs, wages and statewide output, but does not establish direct Cascade employment, City revenue or project commitments. This is independent research, not an adopted committee finding.
+
 ## Committee authority
 
 The proposed Resolution 92-26 describes the committee as **advisory only**. Its intended scope includes research and recommendations concerning:

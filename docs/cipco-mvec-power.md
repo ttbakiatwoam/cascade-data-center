@@ -49,6 +49,10 @@ The next evidence step is a **direct joint request to CIPCO and MVEC** for the s
 
 **Open question:** Does CIPCO itself confirm the October 1 account of the joint study, and has any new information changed the result?
 
+## National electricity-rate evidence is not a signed Cascade contract
+
+The [U.S. Chamber's October 2026 report (p. 4)](https://www.uschamber.com/assets/documents/The-Community-and-Economic-Impacts-of-Data-Centers.pdf) summarizes other studies suggesting data-center load does **not inevitably** raise average retail electricity rates. Its model also **assumes** $20m in developer-funded electric grid improvements for one hypothetical 50 MW facility (p. 68). Neither assertion establishes MVEC's specific cost allocation, any completed CIPCO interconnection, a final tariff, or an executed 40 MW agreement for Cascade. [Iowa model applicability assessment]({{ '/economic-impact-chamber-2026/' | relative_url }}).
+
 ## Original sources and complete analysis
 
 - [CIPCO: IRP Verifies New Generation Needed, February 24, 2025](https://www.cipco.net/news/irp-verifies-new-generation-needed)

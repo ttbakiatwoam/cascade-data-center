@@ -10,6 +10,10 @@ Iowa Code 2026 §364.2(4) generally permits a nonexclusive city electricity fran
 
 The City of Cascade owns its municipal utility. A city-owned utility does not owe itself franchise fees. Municipal-utility PILOT instead depends on **surplus** transfers under Iowa Code §384.89, with applicable bond/reserve restrictions. Iowa League of Cities handbook and clerk manual advise attention to parity where a city owns a utility and a cooperative also sells power inside it.
 
+## New Chamber model: do not conflate statewide impacts with City franchise receipts
+
+The [2026 U.S. Chamber report](https://www.uschamber.com/assets/documents/The-Community-and-Economic-Impacts-of-Data-Centers.pdf), pp. 32 and 68–71, models **50 MW**, **$1.69 billion** in two-year construction spending and **50 direct data-center jobs**. Its Iowa estimate of **647 statewide operating jobs supported per year** is an indirect/induced economic result and **not** 647 Cascade hires. Its four **non-Iowa** county tax illustrations are gross before abatements; they cannot validate MVEC's actual **retail sales within Cascade** or the City's share of revenues. The tariff-derived **40 MW / 1%–5% fee scenarios in this file remain independent project hypotheses**, not U.S. Chamber forecasts. [Full Iowa critical review](45_CHAMBER_IOWA_ECONOMIC_IMPACTS_2026_CRITICAL_REVIEW.md).
+
 ## Actual MVEC franchise precedents
 
 - **Maquoketa City Code §113.09** imposes **5%** on MVEC gross electricity sales within municipal limits; bills show the fee separately; MVEC remits collections quarterly. Official code publisher: https://codelibrary.amlegal.com/codes/maquoketaia/latest/maquoketa_ia/0-0-0-4009. This is a concrete MVEC-specific precedent for ordinary **within-city retail sales**.

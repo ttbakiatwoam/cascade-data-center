@@ -133,3 +133,8 @@ These are appropriately treated as open questions, not assumptions.
 - Linn County approved data-center ordinance: https://www.linncountyiowa.gov/DocumentCenter/View/27695/PA26-0001-Ordinance-PDF
 - Jones County data-center ordinance: https://www.linncountyiowa.gov/DocumentCenter/View/27656/Jones-County-Data-Center-Ordinance
 - Norwalk Project West: https://norwalkiaswdevelopment.com/datacenter
+
+
+## November 4, 2026 - economic model does not establish local cooling water requirements
+
+The [U.S. Chamber's October 2026 economic report, p. 68](https://www.uschamber.com/assets/documents/The-Community-and-Economic-Impacts-of-Data-Centers.pdf) assumes **$10m of developer-funded water-system upgrades only for facilities using water for cooling** as part of a hypothetical 50 MW construction model. It does **not** estimate metered water volume for Simple Mining's proposed cooling system, establish Cascade Municipal Utilities' spare capacity, or replace an engineered water-use budget. See [full Iowa applicability analysis](45_CHAMBER_IOWA_ECONOMIC_IMPACTS_2026_CRITICAL_REVIEW.md).

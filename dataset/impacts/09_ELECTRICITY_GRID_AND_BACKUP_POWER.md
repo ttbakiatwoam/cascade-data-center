@@ -116,3 +116,8 @@ A project record should ideally include:
 - October 1 forum summary and transcript provenance: [`../updates/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](../updates/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md)
 - Norwalk Project West: https://norwalkiaswdevelopment.com/datacenter
 - Utah Executive Order 2026-03 — Establishing a Higher Bar for Data Center Development: https://governor.utah.gov/wp-content/uploads/2026.05.29-EO-Higher-Bar-for-Data-Center-Development-1.pdf
+
+
+## November 4, 2026 - U.S. Chamber national rate comparisons and applicability
+
+The [2026 Chamber economic impact report, p. 4](https://www.uschamber.com/assets/documents/The-Community-and-Economic-Impacts-of-Data-Centers.pdf) cites E3 and LBNL/Brattle analyses suggesting that increasing data-center load **does not necessarily** raise retail rates in every region. It does not model **Cascade's MVEC/CIPCO tariff, generation additions, cost allocation or power contract**. Its p. 68 model assumes **$20 million of developer-funded grid upgrades for a hypothetical 50 MW facility**, not a binding Cascade invoice. Keep the [local utility evidence and unresolved study status](32_CIPCO_MVEC_CAPACITY_CLAIMS_AND_STUDY_STATUS.md) separate from national comparisons. [Critical Iowa review](45_CHAMBER_IOWA_ECONOMIC_IMPACTS_2026_CRITICAL_REVIEW.md).

@@ -131,3 +131,8 @@ The June 2026 model ordinance proposed an emergency response plan covering fire,
 - October 1 forum summary and transcript provenance: [`../updates/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](../updates/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md)
 - City of Cascade — Building & Zoning: https://www.cityofcascade.org/vnews/display.v/SEC/City%2520Government%257CBuilding%2520%2526%2520Zoning
 - City of Cascade — Building Permit Form: https://www.cityofcascade.org/vimages/shared/vnews/stories/5eac3f7b7dfb8/Building%20Permit%20Form_2022.pdf
+
+
+## November 4, 2026 - modeled infrastructure is not a Cascade development agreement
+
+The [U.S. Chamber 2026 economic study, p. 68](https://www.uschamber.com/assets/documents/The-Community-and-Economic-Impacts-of-Data-Centers.pdf) **assumes** $60m in local road/infrastructure improvements, $20m in developer-paid grid upgrades, and $10m in developer-paid water-system upgrades **only where cooling uses water**, within a **50 MW / $1.69 billion construction** example. These are inputs to the economic model. They are **not** a documented Cascade project budget, a legal requirement, an environmental or traffic analysis, or an allocation of costs to the City or to Simple Mining. Actual plans and signed agreements must be reviewed. [Model critique](45_CHAMBER_IOWA_ECONOMIC_IMPACTS_2026_CRITICAL_REVIEW.md).
