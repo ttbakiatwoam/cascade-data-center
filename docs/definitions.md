@@ -10,6 +10,8 @@ permalink: /definitions/
 
 This is the source-linked companion to the [November 3 M-2 proposed ordinance]({{ '/draft-ordinance/' | relative_url }}). It covers terms relevant to that ordinance, **not an exhaustive inventory of every definition in Iowa law**.
 
+**November 4 source addition:** [Read the LexisNexis Assist data-center definition review]({{ '/lexisnexis-data-center-definition/' | relative_url }}) and the full user-supplied prompts and outputs. Its §423.4 investment figures are **tax-refund eligibility**, not Iowa's definition or a Cascade zoning threshold. [Iowa §423.3(95)(f)](https://www.legis.iowa.gov/docs/code/2026/423.html) is the relevant state tax definition. This is a source annotation only; the proposed glossary and ordinance are unchanged.
+
 **How to read this table:** The 'State definition or statutory meaning' column contains an accurate short quotation where marked with quotation marks, or a **condensed restatement of the actual enacted state definition** where longer. Open the cited Iowa statute or rule for the **full, controlling verbatim wording and exclusions**. Statutory terms generally apply only **within the chapter, section, or administrative program specifying them**. This glossary does not automatically incorporate every definition into Cascade's zoning code, and Iowa's sales-tax definition does not control zoning eligibility.
 
 

@@ -4,6 +4,8 @@
 
 This is the source-linked companion to the [November 3 M-2 proposed ordinance](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/proposals/DRAFT-ORDINANCE-M2-DATA-CENTER-PERFORMANCE-STANDARDS-2026-11-03.md). It covers terms relevant to that ordinance, **not an exhaustive inventory of every definition in Iowa law**.
 
+**November 4 supplementary source review:** [LexisNexis Assist prompts/output and verification](46_LEXISNEXIS_ASSIST_DEFINITION_AND_IOWA_AUTHORITY_REVIEW_2026-11-04.md) evaluates a proposed function-based definition and confirms that **§423.3(95)(f)**, not **§423.4's investment/refund thresholds**, defines the term for Iowa's tax program. This source does **not** change any of the 86 glossary entries or authorize a new M-2 category.
+
 **How to read this table:** The 'State definition or statutory meaning' column contains an accurate short quotation where marked with quotation marks, or a **condensed restatement of the actual enacted state definition** where longer. Open the cited Iowa statute or rule for the **full, controlling verbatim wording and exclusions**. Statutory terms generally apply only **within the chapter, section, or administrative program specifying them**. This glossary does not automatically incorporate every definition into Cascade's zoning code, and Iowa's sales-tax definition does not control zoning eligibility.
 
 

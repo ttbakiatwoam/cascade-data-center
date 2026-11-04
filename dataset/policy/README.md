@@ -1,5 +1,7 @@
 # Policy, authority, and public process
 
+- **[November 4 LexisNexis Assist prompt/output verification](46_LEXISNEXIS_ASSIST_DEFINITION_AND_IOWA_AUTHORITY_REVIEW_2026-11-04.md)** — full source transcript, tax versus zoning definitions, home rule, §414.2 uniformity, property exemptions, and cautions on unverified cases. [Public site page](https://ttbakiatwoam.github.io/cascade-data-center/lexisnexis-data-center-definition/).
+
 - [Existing Cascade M-2 uses and building categories under Iowa §414.2](44_CASCADE_M2_EXISTING_USE_AND_STRUCTURE_CATEGORIES_2026-11-03.md) — source-based review of §165.11 A–G, §165.41 definitions, differentiated special-exception controls, the 2022/2024 amendments, and implications for the proposed ordinance.
 
 

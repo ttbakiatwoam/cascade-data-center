@@ -4,6 +4,11 @@ These files retain their original bytes and filenames from the repository before
 
 The [public source index](../dataset/evidence/22_SOURCE_INDEX.md) records citations and provenance. Source files, transcriptions, research notes, and project proposals are separate collections.
 
+## November 4, 2026 LexisNexis Assist zoning-definition research
+
+- [Two prompts, complete extracted outputs, and 32 reference entries](legal-research/2026-11-04_LEXISNEXIS_ASSIST_PROMPTS_AND_OUTPUT_TRANSCRIPT.md) — user-supplied AI-assisted research, not controlling law. The **original DOCX binary is not stored in the repository**; file size, filename, and SHA-256 are recorded.
+- [Independent Iowa Code source check and limitations](../dataset/policy/46_LEXISNEXIS_ASSIST_DEFINITION_AND_IOWA_AUTHORITY_REVIEW_2026-11-04.md) — distinguishes the §423.3 tax definition from §423.4 refund thresholds and checks property-tax, home-rule, franchise-fee and §414.2 zoning-uniformity statements.
+
 ## U.S. Chamber 2026 economic modeling source
 
 The project's November 4 source submission was a 72-page U.S. Chamber report published October 15, 2026. **The official PDF remains hosted by the publisher and is not duplicated as a binary in this repository.** [Read the original report](https://www.uschamber.com/assets/documents/The-Community-and-Economic-Impacts-of-Data-Centers.pdf), the [SHA-256/source record](economic-studies/US_CHAMBER_DATA_CENTER_IMPACTS_2026_SOURCE_RECORD.md), and the [Iowa applicability review](../dataset/impacts/45_CHAMBER_IOWA_ECONOMIC_IMPACTS_2026_CRITICAL_REVIEW.md).

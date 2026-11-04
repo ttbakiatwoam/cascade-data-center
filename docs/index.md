@@ -22,6 +22,10 @@ The [October 28 Data Center Advisory Committee minutes]({{ '/meeting-2026-10-28/
 
 **Print-ready PDFs with superscript Chicago source notes:** [M-2 ordinance]({{ '/downloads/cascade-m2-ordinance-2026-11-03.pdf' | relative_url }}) · [Definitions ordinance]({{ '/downloads/cascade-definitions-ordinance-2026-11-03.pdf' | relative_url }}) · [Definitions reference]({{ '/downloads/cascade-definitions-reference-2026-11-03.pdf' | relative_url }}) · [Court abstracts]({{ '/downloads/cascade-case-abstracts-2026-11-03.pdf' | relative_url }}) · [Complete combined packet]({{ '/downloads/cascade-complete-research-packet-2026-11-03.pdf' | relative_url }}).
 
+### November 4: LexisNexis Assist definitions and Iowa zoning source check
+
+**[Read the source review]({{ '/lexisnexis-data-center-definition/' | relative_url }})**. Two uploaded AI-research prompts and outputs are preserved with 32 reference entries and a claim-by-claim legal check. The key distinction is **Iowa Code §423.3(95)(f) defines data centers for tax purposes; §423.4 establishes refund tiers, not municipal zoning thresholds**. Home-rule, franchise-fee and district-uniformity issues are independently noted; the November 3 ordinance remains unchanged.
+
 ### November 4: new 2026 U.S. Chamber Iowa economic report
 
 **[Read the Iowa data-center economic-impact review]({{ '/economic-impact-chamber-2026/' | relative_url }})** covering the 50 MW model, direct versus statewide supported jobs, the $1.69 billion assumption, Iowa wages, and why no Cascade municipal revenue forecast follows from the study. [Original PDF](https://www.uschamber.com/assets/documents/The-Community-and-Economic-Impacts-of-Data-Centers.pdf).

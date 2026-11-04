@@ -6,6 +6,13 @@ permalink: /evidence/
 
 # Evidence and Source Guide
 
+## November 4 LexisNexis Assist legal-research submission
+
+- [Plain-language source review on the site]({{ '/lexisnexis-data-center-definition/' | relative_url }})
+- [Full prompts, outputs, and reference list](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/sources/legal-research/2026-11-04_LEXISNEXIS_ASSIST_PROMPTS_AND_OUTPUT_TRANSCRIPT.md) · [independent Iowa Code cross-check](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/dataset/policy/46_LEXISNEXIS_ASSIST_DEFINITION_AND_IOWA_AUTHORITY_REVIEW_2026-11-04.md)
+
+The submitted output is **AI-assisted secondary research**, not an official opinion. Specific tax/refund and nonconforming-use assertions require the corrections noted in the review. The original Word binary has not been archived in GitHub.
+
 This page points committee members to the records most directly relevant to the proposed zoning work.
 
 ## October 28 meeting references and current proposals

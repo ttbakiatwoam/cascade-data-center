@@ -55,6 +55,8 @@ The header links to the principal pages. Everything else remains available below
 
 ## Legal cases and research sources
 
+- **[LexisNexis Assist definition and Iowa zoning authority review]({{ '/lexisnexis-data-center-definition/' | relative_url }})** — November 4 submission: both original prompts and outputs, 32 citations, and a source check of §423.3 definitions, §423.4 refund thresholds, §427.1 equipment exemptions, home rule, franchise fees, and §414.2 uniformity.
+
 - [National data center litigation tracker]({{ '/data-center-litigation/' | relative_url }}) — case status, project outcome, and court mapping.
 - [Court case abstracts and citations]({{ '/data-center-case-abstracts/' | relative_url }}) — case-by-case supporting research.
 - [Evidence and source guide]({{ '/evidence/' | relative_url }}) — City records, forum materials, and external sources.

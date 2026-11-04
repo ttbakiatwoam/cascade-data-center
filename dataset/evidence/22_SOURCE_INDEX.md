@@ -13,6 +13,13 @@
 
 ---
 
+## November 4, 2026 — user-supplied LexisNexis Assist output (secondary research)
+
+- **Two-prompt data-center definition and Iowa home-rule inquiry** — User-supplied AI-assisted legal research; **secondary**, not official law or a validated court holding. [Full extracted prompts/output and original-file checksum](../../sources/legal-research/2026-11-04_LEXISNEXIS_ASSIST_PROMPTS_AND_OUTPUT_TRANSCRIPT.md); [claim-by-claim legal source check](../../dataset/policy/46_LEXISNEXIS_ASSIST_DEFINITION_AND_IOWA_AUTHORITY_REVIEW_2026-11-04.md); [public summary](../../docs/lexisnexis-data-center-definition.md). Original DOCX not archived as a binary in the repo.
+- **Primary source cross-checks** — [2026 Iowa Code §423.3(95)(f) and §423.4](https://www.legis.iowa.gov/docs/code/2026/423.html) (tax definition versus refunds); [§427.1(37)](https://www.legis.iowa.gov/docs/code/2026/427.html) (qualified equipment exemption); [§364.1 and §364.2(4)(f)](https://www.legis.iowa.gov/docs/code/2026/364.html) (home rule, utility franchises); [§414.1, §414.2, §414.21](https://www.legis.iowa.gov/docs/code/2026/414.html) (zoning and uniformity). **Do not infer a city permit or automatic preemption from the tax rules.**
+
+---
+
 # 1. City of Cascade, Iowa
 
 ## Council records and project process

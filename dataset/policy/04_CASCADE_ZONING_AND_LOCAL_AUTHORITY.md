@@ -67,6 +67,10 @@ A question submitted for the October 27 Advisory Committee packet asks about a p
 - Iowa Code §354.9: https://www.legis.iowa.gov/docs/code/2026/354.9.pdf
 - [October 26 packet review](../updates/37_ADVISORY_PACKET_REVIEW_2026-10-26.md)
 
+## November 4 LexisNexis Assist source check
+
+A user-supplied LexisNexis Assist response proposes function-based data-center zoning definitions, capacity thresholds and exclusions. The complete [submitted prompts and outputs](../../sources/legal-research/2026-11-04_LEXISNEXIS_ASSIST_PROMPTS_AND_OUTPUT_TRANSCRIPT.md) are preserved as a source transcript. The [review](46_LEXISNEXIS_ASSIST_DEFINITION_AND_IOWA_AUTHORITY_REVIEW_2026-11-04.md) identifies overstatements: Iowa's data-center tax definition is in **§423.3(95)(f)**, §423.4 is a **partial-refund** program, §427.1(37) excludes land/buildings from qualifying property, and **§414.2 district uniformity** remains essential. Iowa **§364.2(4)(f)** separately authorizes qualified city utility franchise fees. The cited tax statutes alone establish neither a right to build nor categorical preemption of a Cascade zoning amendment. This update changes the source inventory, **not** the proposed ordinance.
+
 ## Sources
 
 - Cascade Code of Ordinances — Chapter 11 Zoning Regulations: https://codelibrary.amlegal.com/codes/cascadeia/latest/cascade_ia/0-0-0-4120

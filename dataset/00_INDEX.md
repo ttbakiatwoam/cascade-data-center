@@ -54,6 +54,10 @@ Journalism or trade reporting. Where possible, secondary reporting is traced to 
 
 Calculations, policy proposals, question banks, and model ordinance language created within this research project. These materials are not adopted law, independent engineering reports, or company commitments.
 
+## November 4, 2026: LexisNexis Assist source intake
+
+- [Full submitted two-prompt transcript, both responses and 32 references](../sources/legal-research/2026-11-04_LEXISNEXIS_ASSIST_PROMPTS_AND_OUTPUT_TRANSCRIPT.md) — secondary, AI-assisted output; the **original DOCX is not included** and its SHA-256 is recorded. [Source-checked Iowa legal interpretation](policy/46_LEXISNEXIS_ASSIST_DEFINITION_AND_IOWA_AUTHORITY_REVIEW_2026-11-04.md) covers §423.3 definitions, §423.4 refund eligibility, §427.1 exemptions, home rule/franchise fees, §414.1 and §414.2. This adds evidence, **not revised adopted or draft ordinance wording**.
+
 ## November 3, 2026: cited M-2 ordinance and court abstracts
 
 - [Revised M-2 ordinance](../proposals/DRAFT-ORDINANCE-M2-DATA-CENTER-PERFORMANCE-STANDARDS-2026-11-03.md), [companion definitions amendment](../proposals/DRAFT-ORDINANCE-CH165-DEFINITIONS-2026-11-03.md), [86-term sourced glossary](policy/38_IOWA_STATE_AND_M2_DEFINITIONS_2026-11-03.md), and [27 individually footnoted case abstracts](policy/40_DATA_CENTER_CASE_ABSTRACTS_2026-11-03.md). GitHub Pages builds five downloadable PDF exports from these canonical Markdown files.
