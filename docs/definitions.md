@@ -15,6 +15,18 @@ This is the source-linked companion to the [November 3 M-2 proposed ordinance]({
 
 > **Dictionary methodology (November 4, 2026):** The [New York Law School Mendik Library's curated free legal-dictionary guide](https://libguides.nyls.edu/lowcostlegalresearch/freedict) identifies the accessible sources used here. The tables retain the original **Oxford** and **Merriam-Webster general English** comparison columns and replace the unavailable commercial reference with separate **Cornell Law School Wex** and **FindLaw Legal Dictionary** columns. [Cornell Wex](https://www.law.cornell.edu/wex) is a free legal encyclopedia/dictionary; [FindLaw](https://dictionary.findlaw.com/) offers free legal headwords, often licensed from the 1996 *Merriam-Webster's Dictionary of Law*. Every new comparison is an **original non-verbatim summary** linked to a **verified direct entry** or distinctly marked **related article**. A dash means **no directly matching entry was confirmed in this review**, not that one cannot exist. Compound technical terms and Cascade-proposed definitions should not be attributed to a dictionary unless the source actually defines them. These references are **secondary explanatory material**, never a substitute for controlling Iowa law or an adopted City ordinance.[^3]
 
+<style>
+/* Eight-column source table: scroll horizontally without compressing entries. */
+.m2-dictionary-scroll { overflow-x: auto; max-width: 100%; -webkit-overflow-scrolling: touch; margin: 0.9rem 0 1.5rem; }
+.m2-dictionary-scroll table { min-width: 1850px; width: 100%; }
+.m2-dictionary-scroll th, .m2-dictionary-scroll td { vertical-align: top; }
+.m2-dictionary-scroll th:first-child, .m2-dictionary-scroll td:first-child { min-width: 185px; }
+</style>
+
+**Viewing tip:** The tables contain eight columns; swipe or scroll horizontally to read the free legal-dictionary sources on smaller screens.
+
+**Source verification:** [NYLS free legal dictionary source review](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/dataset/policy/45_NYLS_FREE_LEGAL_DICTIONARIES_2026-11-04.md). The published PDF export reformats each term into labeled, vertical entries for readability.
+
 ## A. Definitions actually found in Iowa statutes and current administrative rules
 
 <div class="m2-dictionary-scroll" markdown="1">
