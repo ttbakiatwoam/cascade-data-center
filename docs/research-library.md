@@ -35,6 +35,11 @@ The header links to the principal pages. Everything else remains available below
 - [Electricity grid and backup power research](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/dataset/impacts/09_ELECTRICITY_GRID_AND_BACKUP_POWER.md) — technical evidence and open questions.
 - [Infrastructure and emergency response research](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/dataset/impacts/13_INFRASTRUCTURE_TRAFFIC_AND_EMERGENCY_RESPONSE.md).
 
+## Economic research and source evaluation
+
+- **[U.S. Chamber 2026 Iowa economic impact report: evaluated]({{ '/economic-impact-chamber-2026/' | relative_url }})** — 50 MW scenario, 4,947 / 647 statewide job impacts, 50 assumed direct workers, Iowa wage data, fiscal-model and Cascade-specific limitations.
+- [Official publisher's complete PDF](https://www.uschamber.com/assets/documents/The-Community-and-Economic-Impacts-of-Data-Centers.pdf) · [Source provenance](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/sources/economic-studies/US_CHAMBER_DATA_CENTER_IMPACTS_2026_SOURCE_RECORD.md) · [Detailed critical analysis](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/dataset/impacts/45_CHAMBER_IOWA_ECONOMIC_IMPACTS_2026_CRITICAL_REVIEW.md).
+
 ## Plain-language ordinance guides
 
 - **[Operational noise: dBA, dBC, hourly averages and nearby homes]({{ '/operational-noise/' | relative_url }})** — how proposed uniform M-2 limits would be measured, including optional preconstruction indoor baselines, owner refusal and outdoor fallback, closed doors/windows, continuous HVAC fan ON, and 65–75°F thermostat settings.

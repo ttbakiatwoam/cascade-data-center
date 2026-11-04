@@ -22,6 +22,10 @@ The [October 28 Data Center Advisory Committee minutes]({{ '/meeting-2026-10-28/
 
 **Print-ready PDFs with superscript Chicago source notes:** [M-2 ordinance]({{ '/downloads/cascade-m2-ordinance-2026-11-03.pdf' | relative_url }}) · [Definitions ordinance]({{ '/downloads/cascade-definitions-ordinance-2026-11-03.pdf' | relative_url }}) · [Definitions reference]({{ '/downloads/cascade-definitions-reference-2026-11-03.pdf' | relative_url }}) · [Court abstracts]({{ '/downloads/cascade-case-abstracts-2026-11-03.pdf' | relative_url }}) · [Complete combined packet]({{ '/downloads/cascade-complete-research-packet-2026-11-03.pdf' | relative_url }}).
 
+### November 4: new 2026 U.S. Chamber Iowa economic report
+
+**[Read the Iowa data-center economic-impact review]({{ '/economic-impact-chamber-2026/' | relative_url }})** covering the 50 MW model, direct versus statewide supported jobs, the $1.69 billion assumption, Iowa wages, and why no Cascade municipal revenue forecast follows from the study. [Original PDF](https://www.uschamber.com/assets/documents/The-Community-and-Economic-Impacts-of-Data-Centers.pdf).
+
 ### Operational noise: what the proposed limits mean
 
 **[Understand the proposed M-2 noise limits]({{ '/operational-noise/' | relative_url }})** — a plain-language guide to **65 dBA / 75 dBC at industrial property boundaries**, lower limits at existing homes and other sensitive receptors, hourly averaging, low-frequency noise, background measurements, tonal penalties, and open enforcement questions. Includes **owner-consented preconstruction indoor baselines**, a lawful source-facing property-line fallback if access is refused, and comparable indoor testing with doors/windows closed, **HVAC fan ON continuously**, and a **65–75°F** thermostat where practicable. Applies to **all similarly situated M-2 uses** in the draft, not just data centers. [Iowa residential insulation and sound reduction]({{ '/house-noise-attenuation-iowa/' | relative_url }}) explains why thermal R-values cannot be directly converted into decibel credits.

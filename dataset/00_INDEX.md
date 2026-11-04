@@ -91,6 +91,8 @@ The original document numbers are retained for continuity; folders group related
 
 - [`30_UPS_BATTERIES_LITHIUM_ION_FIRE_AND_SUPPRESSION.md`](impacts/30_UPS_BATTERIES_LITHIUM_ION_FIRE_AND_SUPPRESSION.md) — Evidence-based UPS chemistry costs, lithium-ion incidents, suppression, first-responder planning, and unresolved equipment choices.
 
+- [`45_CHAMBER_IOWA_ECONOMIC_IMPACTS_2026_CRITICAL_REVIEW.md`](impacts/45_CHAMBER_IOWA_ECONOMIC_IMPACTS_2026_CRITICAL_REVIEW.md) — U.S. Chamber October 2026 **50 MW** Iowa economic model; statewide versus direct jobs, $1.69b investment assumption, wages and non-Iowa tax caveats. Not a Cascade project forecast.
+
 ### Policy, authority, and public process
 
 - [`04_CASCADE_ZONING_AND_LOCAL_AUTHORITY.md`](policy/04_CASCADE_ZONING_AND_LOCAL_AUTHORITY.md) — Cascade zoning/building-code structure and Iowa municipal/zoning authority.

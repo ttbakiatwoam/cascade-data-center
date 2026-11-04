@@ -523,6 +523,14 @@
 
 ---
 
+## U.S. Chamber, October 15, 2026 - modeled economic effects, not a Cascade projection
+
+- **Original institutional economic model / sector-advocacy comparator:** [*The Community and Economic Impacts of Data Centers*, official PDF](https://www.uschamber.com/assets/documents/The-Community-and-Economic-Impacts-of-Data-Centers.pdf) and [publisher's page](https://www.uschamber.com/infrastructure/the-community-and-economic-impacts-of-data-centers).
+- **Page 32, Iowa:** 50 MW scenario; 4,947 statewide jobs supported annually during two-year build, 647 statewide jobs supported annually during 20-year operation; $592.470m and $138.947m respective annual state GDP changes.
+- **Pages 68–71:** REMI PI+ model assumptions; **50 direct facility workers** and **$1.69b** two-year build, 5-year equipment refreshes; outside-Iowa gross county fiscal approximations.
+- **Pages 9 and 11:** Iowa NAICS 518210 earnings $117,260 vs all-industry $67,340, including bonuses and without occupation adjustment.
+- [Source record and SHA-256](../../sources/economic-studies/US_CHAMBER_DATA_CENTER_IMPACTS_2026_SOURCE_RECORD.md) · [Critical review](../dataset/impacts/45_CHAMBER_IOWA_ECONOMIC_IMPACTS_2026_CRITICAL_REVIEW.md) · [Public readable page](../../docs/economic-impact-chamber-2026.md). Do not convert statewide jobs/GDP or non-Iowa tax examples into guaranteed Cascade receipts, hires or local tariff conclusions.
+
 # 11. Media-quality / source-evaluation references
 
 - **Ad Fontes Media — Newsmax Website Bias and Reliability** — Secondary / media-rating organization  

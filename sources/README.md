@@ -4,6 +4,10 @@ These files retain their original bytes and filenames from the repository before
 
 The [public source index](../dataset/evidence/22_SOURCE_INDEX.md) records citations and provenance. Source files, transcriptions, research notes, and project proposals are separate collections.
 
+## U.S. Chamber 2026 economic modeling source
+
+The project's November 4 source submission was a 72-page U.S. Chamber report published October 15, 2026. **The official PDF remains hosted by the publisher and is not duplicated as a binary in this repository.** [Read the original report](https://www.uschamber.com/assets/documents/The-Community-and-Economic-Impacts-of-Data-Centers.pdf), the [SHA-256/source record](economic-studies/US_CHAMBER_DATA_CENTER_IMPACTS_2026_SOURCE_RECORD.md), and the [Iowa applicability review](../dataset/impacts/45_CHAMBER_IOWA_ECONOMIC_IMPACTS_2026_CRITICAL_REVIEW.md).
+
 ## October 1 community forum
 
 **The transcript was created by YouTube using its automated closed-captioning system.** It is not a human-verified or certified verbatim transcript; names, numbers, and fragmented questions may contain recognition errors.

@@ -10,6 +10,12 @@ The new [Cascade MVEC 40 MW franchise fee and 2026 job-related income-tax model]
 
 At the user's requested **40 jobs × $80,000 average** (distinct from the company's forum projection of **20–25** employees), gross annual payroll would be **$3.2 million**. A simplified 2026 single-taxpayer scenario produces **$350,800 federal income tax and $97,128 Iowa income tax**, **$0 directly to Cascade**, excluding payroll taxes, credits, and indirect local economic activity. See [public website page](../../docs/franchise-fee-and-jobs.md). Both state/federal tax estimates are modeling assumptions, not city receipts.
 
+## November 4, 2026 - U.S. Chamber's Iowa economic model
+
+The [Chamber's October 15 report](https://www.uschamber.com/assets/documents/The-Community-and-Economic-Impacts-of-Data-Centers.pdf), **page 32**, models **4,947 Iowa statewide supported jobs per construction year**, **647 Iowa statewide supported jobs per operating year**, and annual Iowa GDP increases of **$592.470m** and **$138.947m** respectively for one **50 MW** project. The **50 direct facility employees and $1.69b construction budget** are **model inputs (p. 68)**, not promises for the proposed Cascade **~40 MW / ~$400m** concept. The 647 operating jobs include supply-chain and spending effects throughout Iowa, not direct jobs in Cascade. Its Iowa NAICS 518210 wage comparison (pp. 9, 11) is not Simple Mining's specific wage offer, and its four county tax models (pp. 12, 70–71) are gross and **outside Iowa**.
+
+Keep the [company's 20–25 site-worker projection](../updates/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md), the separate hypothetical **40 jobs × $80,000** payroll scenario, and the Chamber's statewide economic model distinctly labeled. [Full critical review](45_CHAMBER_IOWA_ECONOMIC_IMPACTS_2026_CRITICAL_REVIEW.md) · [Source provenance](../../sources/economic-studies/US_CHAMBER_DATA_CENTER_IMPACTS_2026_SOURCE_RECORD.md).
+
 ## Construction jobs vs. permanent jobs
 
 Data centers can support substantial temporary construction employment while using comparatively small permanent operations teams relative to their capital investment. For Cascade, both numbers matter and should be reported separately.

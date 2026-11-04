@@ -18,6 +18,10 @@ This page points committee members to the records most directly relevant to the 
 
 The 90-page packet cover lists **October 27 at 6:00 p.m.**, while the City's current calendar shows **October 28 at 7:00 p.m.** The original PDF and DOCX are not yet deposited in GitHub; the repository preserves source records with verified original-file checksums.
 
+## 2026 national economic study with Iowa-specific data
+
+The [U.S. Chamber of Commerce's October 15, 2026 report (PDF)](https://www.uschamber.com/assets/documents/The-Community-and-Economic-Impacts-of-Data-Centers.pdf) models **50 MW / $1.69 billion** and predicts **4,947 Iowa-wide supported jobs per construction year**, **647 statewide supported jobs per operations year**, but assumes **only 50 direct data-center employees** (pp. 32, 68). Its gross local tax examples concern counties **outside Iowa**. It is not a Cascade hiring, tax, electricity-rate, noise or water study. [Public critical evaluation]({{ '/economic-impact-chamber-2026/' | relative_url }}) · [Provenance and checksum](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/sources/economic-studies/US_CHAMBER_DATA_CENTER_IMPACTS_2026_SOURCE_RECORD.md).
+
 ## October 1 community forum
 
 - [Forum summary and caveats](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/dataset/updates/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md)
