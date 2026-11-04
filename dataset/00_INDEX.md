@@ -62,6 +62,10 @@ Calculations, policy proposals, question banks, and model ordinance language cre
 
 - [Revised M-2 ordinance](../proposals/DRAFT-ORDINANCE-M2-DATA-CENTER-PERFORMANCE-STANDARDS-2026-11-03.md), [companion definitions amendment](../proposals/DRAFT-ORDINANCE-CH165-DEFINITIONS-2026-11-03.md), [86-term sourced glossary](policy/38_IOWA_STATE_AND_M2_DEFINITIONS_2026-11-03.md), and [27 individually footnoted case abstracts](policy/40_DATA_CENTER_CASE_ABSTRACTS_2026-11-03.md). GitHub Pages builds five downloadable PDF exports from these canonical Markdown files.
 
+## November 4, 2026: free legal-dictionary source review
+
+- [NYLS free legal dictionary evaluation and verified Wex/FindLaw entries](policy/45_NYLS_FREE_LEGAL_DICTIONARIES_2026-11-04.md) — replaces inaccessible proprietary Black's references in the current 86-term statutory and local glossary. Sources are labeled exact, related, or unverified, with Iowa law controlling.
+
 ## Research by topic
 
 - **Nationwide litigation (October 28, 2026):** [`39_NATIONAL_DATA_CENTER_LITIGATION_2026-10-28.md`](policy/39_NATIONAL_DATA_CENTER_LITIGATION_2026-10-28.md) — 27 case/dispute records with actual court venues, federal district and circuit comparison, outcome and construction status; linked public [website tracker](../docs/data-center-litigation.md).
