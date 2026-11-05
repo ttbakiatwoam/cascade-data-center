@@ -24,6 +24,10 @@ A committee-friendly website is maintained from `docs/` and published via GitHub
 
 **[Public §414.2 analysis](https://ttbakiatwoam.github.io/cascade-data-center/iowa-zoning-uniformity/)** | [Source-linked Markdown memorandum](dataset/policy/43_IA_414_2_UNIFORMITY_COMPARATOR_REVIEW_2026-11-03.md). Compares ten Iowa jurisdictions and the city (§414.2) versus county (§335.4) uniformity rules. **Our drafting recommendation:** apply comparable M-2 impact requirements to all facilities with like impacts, rather than one named business category. Legitimate zoning classes or separate districts can still be created where authorized.
 
+## November 5: complete color-coded original M-2 reprint
+
+[Read the full integrated Markdown](proposals/COMPLETE-M2-COLOR-CODED-REDLINE-2026-11-05.md) · [View the color-coded website page](https://ttbakiatwoam.github.io/cascade-data-center/m2-full-redline/) · [Download the printable redline PDF](https://ttbakiatwoam.github.io/cascade-data-center/downloads/cascade-m2-full-color-redline-2026-11-05.pdf). **Black** preserves original code; **red** marks proposed B(19), D(8), G(2)–G(19) and local definitions; **blue** marks spelling/grammar, formatting and non-substantive cross-references. The PDF includes unchanged original M-2 scan pages.
+
 ## Original M-2 ordinance comparison
 
 The [section-by-section concordance](dataset/policy/41_M2_ORIGINAL_SCAN_CONCORDANCE_2026-11-03.md) compares the original M-2 scan (PDF pp. 45–49), adopted 2022/2024 amendments, and proposed November 3 language. The original G(1) remains; 18 new proposed M-2 requirements begin at G(2). [Annotated scanned ordinance and complete draft PDF](https://ttbakiatwoam.github.io/cascade-data-center/downloads/cascade-m2-original-scan-highlighted-comparison-2026-11-03.pdf). The source scan is not a current consolidated certification.

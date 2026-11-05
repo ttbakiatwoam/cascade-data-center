@@ -4,6 +4,8 @@ title: Proposed Ordinance
 permalink: /draft-ordinance/
 ---
 
+**Read the full integrated color redline:** [Complete existing M-2 ordinance, red additions and blue-only formatting edits]({{ '/m2-full-redline/' | relative_url }}) · [Color-redline PDF]({{ '/downloads/cascade-m2-full-color-redline-2026-11-05.pdf' | relative_url }}).
+
 **Read the scan comparison:** [Original M-2 provisions, later amendments and highlighted changes]({{ '/m2-concordance/' | relative_url }}) · [Complete scan and ordinance PDF]({{ '/downloads/cascade-m2-original-scan-highlighted-comparison-2026-11-03.pdf' | relative_url }}).
 
 **PDF downloads:** [Revised M-2 proposed ordinance]({{ '/downloads/cascade-m2-ordinance-2026-11-03.pdf' | relative_url }}) · [Companion definitions ordinance]({{ '/downloads/cascade-definitions-ordinance-2026-11-03.pdf' | relative_url }}) · [86-term reference glossary]({{ '/downloads/cascade-definitions-reference-2026-11-03.pdf' | relative_url }}) · [27 case abstracts]({{ '/downloads/cascade-case-abstracts-2026-11-03.pdf' | relative_url }}).
@@ -352,7 +354,7 @@ The current [86-term statutory, Oxford, Merriam-Webster, and legal-dictionary co
 
 **Decommissioning:** The safe disconnection, dismantling, lawful removal, cleanup, and site restoration work required at the end of a covered facility's life.
 
-**Abandonment:** Continuous cessation of a facility's principal approved industrial operation for the period specified in §165.11(G)(16), subject to its listed reasonable exceptions.
+**Abandonment:** Continuous cessation of a facility's principal approved industrial operation for the period specified in §165.11(G)(17), subject to its listed reasonable exceptions.
 
 **Financial Assurance:** A surety, letter of credit, escrow, performance bond, trust, or other legally authorized and enforceable arrangement in a reasonable amount covering documented decommissioning and site restoration duties. The statutory definition applicable to sanitary-disposal facilities under Iowa Code §455B.301(9) does not itself grant the City authority to impose that requirement on M-2 data centers; a separate legal basis must be confirmed by the City Attorney.[^13]
 

@@ -42,6 +42,10 @@ The [October 28 Data Center Advisory Committee minutes]({{ '/meeting-2026-10-28/
 
 **[Read the §414.2 analysis and neighboring Iowa ordinance evaluations]({{ '/iowa-zoning-uniformity/' | relative_url }})** — explains why Cascade should avoid singling out data centers for stricter M-2 environmental rules when equivalent industrial impacts remain unregulated. The analysis also explains that §§414.2/335.4 permit legitimate classes and separate districts, and §§414.5/335.7 provide specific written-agreement exceptions. Ten county and city comparators are reviewed.
 
+### Complete M-2 text with color-coded edits
+
+[**Read the full original-and-proposed M-2 redline**]({{ '/m2-full-redline/' | relative_url }}) — black retains existing §165.11, **red identifies proposed regulatory additions**, and **blue identifies spelling, grammar, formatting and non-substantive citation corrections**. Includes adopted 2022 fitness use and clearly flags handwritten marks in the historical scan. [Download the color PDF]({{ '/downloads/cascade-m2-full-color-redline-2026-11-05.pdf' | relative_url }}).
+
 ### Original M-2 ordinance cross-check
 
 The [original scanned Cascade M-2 zoning text and proposed redline]({{ '/m2-concordance/' | relative_url }}) compares the preserved 1992 scan, 2022 fitness amendment, 2024 fencing rules and November 3 draft. **The existing §165.11(G)(1) is preserved; proposed new M-2 performance sections are G(2)–G(19).** [Download the scan-inclusive highlighted PDF]({{ '/downloads/cascade-m2-original-scan-highlighted-comparison-2026-11-03.pdf' | relative_url }}). The underlying scan is not a certified current-law compilation.

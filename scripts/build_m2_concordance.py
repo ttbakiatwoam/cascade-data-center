@@ -18,6 +18,7 @@ import fitz
 from weasyprint import HTML
 
 from export_research_pdfs import document_html
+from build_m2_full_redline import document_html as colored_redline_html, assert_complete as check_colored_redline_source, SOURCE as COLOR_REDLINE_SOURCE
 
 
 OUTPUT_FILE = "cascade-m2-original-scan-highlighted-comparison-2026-11-03.pdf"
@@ -158,6 +159,9 @@ def build(root: Path, destination: Path) -> Path:
             raise RuntimeError(f"Source page {num+1} unexpectedly narrow")
     report = source_pdf_to_document(root / COMPARISON, root, "Original Cascade M-2 scan and amendment concordance")
     draft = source_pdf_to_document(root / DRAFT, root, "November 3 proposed M-2 zoning ordinance")
+    colored_source = (root / COLOR_REDLINE_SOURCE).read_text("utf-8")
+    check_colored_redline_source(colored_source)
+    colored = fitz.open(stream=HTML(string=colored_redline_html(colored_source), base_url=root.as_uri()+"/").write_pdf(),filetype="pdf")
 
     doc = fitz.open()
     report_first = 1
@@ -168,6 +172,9 @@ def build(root: Path, destination: Path) -> Path:
     original_first = doc.page_count + 2
     separator(doc, "UNALTERED SOURCE M-2", "The next five pages are direct copies of the actual City zoning scan's pages 45-49, exactly as preserved in the original file. They show M-2 Section 165.11, printed pages 34-38.")
     doc.insert_pdf(source, from_page=44, to_page=48)
+    colored_first = doc.page_count + 2
+    separator(doc, "COMPLETE COLOR-CODED M-2 REDLINE", "BLACK: existing language. RED: substantive proposed additions. BLUE: grammar, spelling and formatting only. Every original M-2 A through G(1) provision is reprinted with B(18) and proposed insertions at B(19), D(8), and G(2)-G(19). Refer to the original unchanged scans immediately before this section.")
+    doc.insert_pdf(colored)
     draft_first = doc.page_count + 2
     separator(doc, "FULL REVISED DRAFT ORDINANCE", "The following document contains all of the proposed new text and its source notes. Section G(1) remains unchanged; new M-2 G requirements are G(2) through G(19). This proposal is NOT enacted law.")
     doc.insert_pdf(draft)
@@ -180,11 +187,12 @@ def build(root: Path, destination: Path) -> Path:
         [1, "Section 1 - M-2 historical and proposal comparison", report_first],
         [1, "Section 2 - Annotated original M-2 scan", anno_first],
         [1, "Section 3 - Original M-2 scan, unaltered pages 45-49", original_first],
-        [1, "Section 4 - Full November 3 proposed amended ordinance", draft_first],
-        [1, "Section 5 - 2009 zero-lot-line draft (not enacted proof)", draft2009_first],
+        [1, "Section 4 - Integrated full M-2 reprint, red additions and blue copyedits", colored_first],
+        [1, "Section 5 - Full November 3 proposed amended ordinance", draft_first],
+        [1, "Section 6 - 2009 zero-lot-line draft (not enacted proof)", draft2009_first],
     ])
     doc.set_metadata({
-        "title": "Cascade M-2: Original Zoning Scan and Highlighted November 3, 2026 Changes",
+        "title": "Cascade M-2: Original Scan, Fully Integrated Red/Blue Redline, and Working Amendment",
         "author": "Cascade Data Center independent research",
         "subject": "Chicago-noted comparison; original scan pp. 45-49; 2022/2024 amendments; not adopted law",
     })
@@ -195,12 +203,13 @@ def build(root: Path, destination: Path) -> Path:
     doc.close()
     report.close()
     draft.close()
+    colored.close()
     source.close()
     test = fitz.open(str(out))
-    if test.page_count != page_count or len(test.get_toc()) != 5:
+    if test.page_count != page_count or len(test.get_toc()) != 6:
         raise RuntimeError("PDF integrity/bookmark verification failed")
     fulltext = "".join(p.get_text() for p in test)
-    for required in ("G(2)", "G(19)", "B(19)", "Ordinance 05-22", "2009"):
+    for required in ("G(2)", "G(19)", "B(19)", "Ordinance 05-22", "2009", "BLUE COPYEDIT REGISTER", "RED - PROPOSED"):
         if required not in fulltext:
             raise RuntimeError(f"Missing expected comparison content: {required}")
     print(f"CREATED {out} ({test.page_count} pages; {out.stat().st_size} bytes)")
