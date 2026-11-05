@@ -10,6 +10,7 @@ on:
       - 'scripts/export_research_pdfs.py'
       - 'scripts/requirements-pdf.txt'
       - 'scripts/build_m2_concordance.py'
+      - 'scripts/build_m2_full_redline.py'
       - 'scripts/requirements-m2.txt'
       - 'sources/cascade-zoning/Entire zoning code-1.pdf'
       - '.github/workflows/pages.yml'
@@ -41,12 +42,14 @@ jobs:
           python -m pip install -r scripts/requirements-m2.txt
       - name: Export cited research PDFs
         run: python scripts/export_research_pdfs.py --root . --out docs/downloads
+      - name: Render full black/red/blue M-2 text with unchanged scan appendix
+        run: python scripts/build_m2_full_redline.py --root . --out docs/downloads
       - name: Build original M-2 scanned ordinance and highlighted concordance
         run: python scripts/build_m2_concordance.py --root . --out docs/downloads
-      - name: Archive five generated PDFs
+      - name: Archive published PDF packets, color redline and scan comparison
         uses: actions/upload-artifact@v4
         with:
-          name: cascade-published-research-pdfs-and-original-m2-concordance
+          name: cascade-published-research-pdfs-full-redline-and-original-m2-concordance
           path: docs/downloads/*.pdf
           retention-days: 90
       - name: Configure Pages
