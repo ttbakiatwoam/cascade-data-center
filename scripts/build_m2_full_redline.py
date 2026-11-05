@@ -96,7 +96,8 @@ def assert_complete(s: str) -> None:
     g = [int(x) for x in re.findall(r"^### G\((\d+)\)\.", s, re.M)]
     if g != list(range(2, 20)):
         raise RuntimeError(f"Expected G(2)-G(19) in source, found {g}")
-    definitions = re.findall(r"^\*\*[^*\n]+:\*\*", s, re.M)
+    definitions_section = s.split("## PROPOSED CHAPTER 165.41 DEFINITION ADDITIONS", 1)[1].split("## BLUE COPYEDIT REGISTER", 1)[0]
+    definitions = re.findall(r"^\*\*[^*\n]+:\*\*", definitions_section, re.M)
     if len(definitions) != 26:
         raise RuntimeError(f"Expected 26 proposed new definitions, got {len(definitions)}")
     table = s.split("### B. Permitted Principal Uses and Structures",1)[1].split("### C. Permitted Accessory Uses and Structures",1)[0]
