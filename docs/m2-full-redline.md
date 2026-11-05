@@ -14,6 +14,8 @@ permalink: /m2-full-redline/
 .m2-addblock h2, .m2-addblock h3, .m2-addblock h4, .m2-addblock strong { color: #991b22; }
 .m2-edit { color: #1c56a0; font-weight: 650; }
 .m2-add { color: #a41f27; font-weight: 650; }
+.m2-base { color: #172536; font-weight: 550; }
+
 .m2-addblock a { color: #901e28; text-decoration: underline; }
 table { display: table; width:100%; }
 @media (max-width:800px) { .m2-table-scroll { overflow-x:auto; } .m2-table-scroll table { min-width:710px; } }
