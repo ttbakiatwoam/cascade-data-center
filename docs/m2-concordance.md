@@ -6,7 +6,7 @@ permalink: /m2-concordance/
 
 # Original Cascade M-2 ordinance and proposed changes
 
-**Download:** [Highlighted comparison, full original scanned M-2 pages, and complete revised draft ordinance]({{ '/downloads/cascade-m2-original-scan-highlighted-comparison-2026-11-03.pdf' | relative_url }}).
+**NEW: [Complete original M-2 text with RED proposed additions and BLUE copyedits]({{ '/m2-full-redline/' | relative_url }})** · [Download color-coded standalone PDF]({{ '/downloads/cascade-m2-full-color-redline-2026-11-05.pdf' | relative_url }}) · [Download expanded original-scan comparison PDF]({{ '/downloads/cascade-m2-original-scan-highlighted-comparison-2026-11-03.pdf' | relative_url }}). The comparison PDF now includes the full integrated color-coded text after the unaltered City scan.
 
 **Sources:** [Original archived zoning PDF](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/sources/cascade-zoning/Entire%20zoning%20code-1.pdf) (M-2 PDF pp. 45–49) · [2022 M-2 fitness amendment](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/dataset/cascade-zoning/ordinances/ORDINANCE-05-22.md) · [2024 fencing amendment](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/dataset/cascade-zoning/ordinances/ORDINANCE-19-24.md) · [Updated November 3 draft]({{ '/draft-ordinance/' | relative_url }}).
 
