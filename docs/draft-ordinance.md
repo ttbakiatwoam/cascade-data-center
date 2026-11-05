@@ -4,6 +4,8 @@ title: Proposed Ordinance
 permalink: /draft-ordinance/
 ---
 
+**Read the full integrated color redline:** [Complete existing M-2 ordinance, red additions and blue-only formatting edits]({{ '/m2-full-redline/' | relative_url }}) · [Color-redline PDF]({{ '/downloads/cascade-m2-full-color-redline-2026-11-05.pdf' | relative_url }}).
+
 **Read the scan comparison:** [Original M-2 provisions, later amendments and highlighted changes]({{ '/m2-concordance/' | relative_url }}) · [Complete scan and ordinance PDF]({{ '/downloads/cascade-m2-original-scan-highlighted-comparison-2026-11-03.pdf' | relative_url }}).
 
 **PDF downloads:** [Revised M-2 proposed ordinance]({{ '/downloads/cascade-m2-ordinance-2026-11-03.pdf' | relative_url }}) · [Companion definitions ordinance]({{ '/downloads/cascade-definitions-ordinance-2026-11-03.pdf' | relative_url }}) · [86-term reference glossary]({{ '/downloads/cascade-definitions-reference-2026-11-03.pdf' | relative_url }}) · [27 case abstracts]({{ '/downloads/cascade-case-abstracts-2026-11-03.pdf' | relative_url }}).
