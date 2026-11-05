@@ -10,10 +10,10 @@ This document reprints **every paragraph and requirement of existing M-2 §165.1
 
 | Display | Meaning | Legal effect |
 | --- | --- | --- |
-| <span class="m2-add">**RED - PROPOSED NEW LANGUAGE**</span> | New B(19), D(8), G(2)–G(19), and 26 proposed additions to the Chapter 165 definitions. | **Substantive proposal.** No legal effect unless adopted. |
-| <span class="m2-edit">**BLUE - COPYEDIT OR FORMATTING ONLY**</span> | Reorganizing the source's two-column layout; a clear spelling, punctuation, spacing, heading, or cross-reference correction. | **No intended change in substance**; verify against the scanned source. |
-| **BLACK - EXISTING TEXT** | Original 1990s scanned M-2 ordinance retained in its existing order. | Baseline shown as historical source text; no re-enactment is implied. |
-| **BLACK - ENACTED 2022** | B(18) added by Ordinance 05-22. | Already enacted, not a red proposed addition. |
+| <span class="m2-add"><strong>RED - PROPOSED NEW LANGUAGE</strong></span> | <span class="m2-add">New B(19), D(8), G(2)–G(19), and 26 proposed additions to the Chapter 165 definitions.</span> | <span class="m2-add"><strong>Substantive proposal.</strong> No legal effect unless adopted.</span> |
+| <span class="m2-edit"><strong>BLUE - COPYEDIT OR FORMATTING ONLY</strong></span> | <span class="m2-edit">Reorganizing the source's two-column layout; a clear spelling, punctuation, spacing, heading, or cross-reference correction.</span> | <span class="m2-edit"><strong>No intended change in substance;</strong> verify against the scanned source.</span> |
+| <span class="m2-base"><strong>BLACK - EXISTING TEXT</strong></span> | <span class="m2-base">Original 1990s scanned M-2 ordinance retained in its existing order.</span> | <span class="m2-base">Baseline shown as historical source text; no re-enactment is implied.</span> |
+| <span class="m2-base"><strong>BLACK - ENACTED 2022</strong></span> | <span class="m2-base">B(18) added by Ordinance 05-22.</span> | <span class="m2-base">Already enacted, not a red proposed addition.</span> |
 
 **Read before relying on the redline.** The unmodified source scan, including handwritten pen marks over the old bulk-storage special exception D(2), is reproduced separately in the PDF. Those pen marks alone **do not establish a lawful repeal**. The printed underlying D(2) wording below is preserved rather than treating the handwritten marks as adopted edits. The City should obtain a certified ordinance history. Existing separate rules, including the later 2024 §165.12 fence amendment, are not silently rewritten here.[^15][^16]
 
