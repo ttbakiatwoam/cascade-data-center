@@ -18,7 +18,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -49,6 +49,17 @@ jobs:
         run: python scripts/build_m2_concordance.py --root . --out docs/downloads
       - name: Assemble November 9 consolidated committee packet and corrected companion PDFs
         run: python scripts/build_nov9_committee_packet.py --out docs/downloads
+      - name: Commit reproducibly generated PDFs to the repository
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add docs/downloads/*.pdf
+          if git diff --cached --quiet; then
+            echo 'Generated PDF files are already current.'
+          else
+            git commit -m 'docs: publish verified November 9 committee PDFs [skip ci]'
+            git push origin HEAD:master
+          fi
       - name: Archive published PDF packets, color redline and scan comparison
         uses: actions/upload-artifact@v4
         with:
