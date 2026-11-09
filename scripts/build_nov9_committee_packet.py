@@ -166,7 +166,7 @@ def build(outdir):
     assert len(check.get_toc())==6
     assert "proposed" in check[2].get_text().lower()
     assert "dictionary" in check[ranges[1][0]-1].get_text().lower()
-    assert "LexisNexis" in check[-1].get_text()
+    assert "LEXISNEXIS" in check[-1].get_text().upper()
     print(f"Verified {target}: {len(check)} pages, {len(check.get_toc())} bookmarks, {target.stat().st_size} bytes")
     print("Part ranges:",ranges)
     check.close()
