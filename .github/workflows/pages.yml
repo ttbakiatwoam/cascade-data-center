@@ -10,6 +10,7 @@ on:
       - 'scripts/export_research_pdfs.py'
       - 'scripts/requirements-pdf.txt'
       - 'scripts/build_m2_concordance.py'
+      - 'scripts/build_nov9_committee_packet.py'
       - 'scripts/build_m2_full_redline.py'
       - 'scripts/requirements-m2.txt'
       - 'sources/cascade-zoning/Entire zoning code-1.pdf'
@@ -46,6 +47,8 @@ jobs:
         run: python scripts/build_m2_full_redline.py --root . --out docs/downloads
       - name: Build original M-2 scanned ordinance and highlighted concordance
         run: python scripts/build_m2_concordance.py --root . --out docs/downloads
+      - name: Assemble November 9 consolidated committee packet and corrected companion PDFs
+        run: python scripts/build_nov9_committee_packet.py --out docs/downloads
       - name: Archive published PDF packets, color redline and scan comparison
         uses: actions/upload-artifact@v4
         with:
