@@ -19,7 +19,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
   pages: write
   id-token: write
 
@@ -47,17 +47,9 @@ jobs:
       # only the active November 11 red/blue source on routine site builds.
       - name: Render November 11 draft ordinance PDF with reported voted definitions
         run: python scripts/build_m2_nov11_redblue.py --root . --out docs/downloads
-      - name: Commit reproducibly generated PDFs to the repository
-        run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add docs/downloads/*.pdf
-          if git diff --cached --quiet; then
-            echo 'Generated PDF files are already current.'
-          else
-            git commit -m 'docs: publish verified Nov 11 red blue and historical committee PDFs [skip ci]'
-            git push origin HEAD:master
-          fi
+      # The existing historical PDFs and November 11 PDF are already tracked.
+      # Never push generated files from a Pages build: concurrent content edits
+      # can otherwise cause non-fast-forward failures and block website updates.
       - name: Archive current draft and historical downloadable PDFs
         uses: actions/upload-artifact@v4
         with:
