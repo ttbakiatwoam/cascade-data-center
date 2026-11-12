@@ -136,6 +136,9 @@ COVER = """
 
 
 def validate_source(s: str) -> None:
+    # The source uses colored-square emoji in its Markdown headings.
+    # Remove only those markers for stable validation, not any ordinance text.
+    s = s.replace("🟥 ", "").replace("🟦 ", "")
     if "Draft proposals for November 18, 2026" not in s:
         raise RuntimeError("Expected the November 11 source for November 18 review")
     for term in APPROVED:
@@ -204,7 +207,7 @@ def check_output(dest: Path, red_blocks: int, blue_items: int) -> None:
     with fitz.open(str(dest)) as check:
         if len(check) < 12 or check.page_count > 150:
             raise RuntimeError("PDF page-count sanity failed: %d" % len(check))
-        alltext = "\n".join(page.get_text() for page in check)
+        alltext = " ".join("\n".join(page.get_text() for page in check).split())
         for fragment in (
             "NOVEMBER 11, 2026",
             "Data Center Business",
