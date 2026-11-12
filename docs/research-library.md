@@ -12,10 +12,11 @@ The header links to the principal pages. Everything else remains available below
 
 ## Current proposals and zoning references
 
-- **[Proposed M-2 ordinance]({{ '/draft-ordinance/' | relative_url }})** — November 3, 2026 working proposal and impact-based industrial performance standards.
-- **[Full original M-2 text with red additions and blue-only copyedits]({{ '/m2-full-redline/' | relative_url }})** — complete A–G text, proposed B(19), D(8), G(2)–G(19) and definitions in red; source-preserving formatting/spelling edits in blue; original scan appended to the downloadable PDF.
+- **[Current proposed M-2 ordinance and Hyperscale exclusion]({{ '/draft-ordinance/' | relative_url }})** — November 11 committee definitions and additional proposed November 18 provisions. **🟥 RED** identifies substantive proposals; **🟦 BLUE** identifies corrections and supporting references, visible in Markdown and website.
+- **[Historical November 5 full original M-2 redline]({{ '/m2-full-redline/' | relative_url }})** — prior version archived for provenance; **excluded from the November 18 packet**.
 - [Original M-2 ordinance compared with proposed changes]({{ '/m2-concordance/' | relative_url }}) — scanned source provisions, later amendments, and a marked comparison.
-- [Iowa zoning uniformity and ordinance comparisons]({{ '/iowa-zoning-uniformity/' | relative_url }}) — Iowa Code §414.2 district-uniformity rules, §335.4 county comparison, and review of other Iowa ordinances.
+- **[Current Iowa CITY ordinance comparison — hyperscale vs ordinary centers]({{ '/city-data-center-ordinances/' | relative_url }})** — city-first matrix and Iowa municipal-home-rule versus county-zoning differences; micro/edge facilities excluded from the comparison, counties deferred.
+- [Historical zoning uniformity and older city/county comparisons]({{ '/iowa-zoning-uniformity/' | relative_url }}) — §414.2 research and November 3 source history.
 - [Iowa and Cascade definitions reference]({{ '/definitions/' | relative_url }}) — 86 terms with controlling Iowa citations, Oxford/Merriam-Webster comparisons, and **verified or clearly qualified free Cornell Wex and FindLaw legal dictionary references**. [NYLS-backed source methodology](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/dataset/policy/45_NYLS_FREE_LEGAL_DICTIONARIES_2026-11-04.md).
 - [Optional companion Chapter 165 definitions ordinance]({{ '/draft-definitions-ordinance/' | relative_url }}) — **alternative drafting vehicle**, not a second ordinance to adopt alongside the integrated definitions without reconciliation.
 - [All downloadable PDF packets]({{ '/downloads/' | relative_url }}) — ordinance, comparison, definitions, litigation abstracts, and combined packet.
