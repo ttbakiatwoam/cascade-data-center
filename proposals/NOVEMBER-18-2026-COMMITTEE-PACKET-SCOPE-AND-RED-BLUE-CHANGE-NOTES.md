@@ -6,7 +6,7 @@ The committee's next meeting is reported for **Wednesday, November 18, 2026, at 
 
 ## Include in the November 18 packet
 
-1. **Revised M-2 text**, using the [November 11 integrated working draft](DRAFT-ORDINANCE-M2-DATA-CENTER-PERFORMANCE-STANDARDS-2026-11-11.md): §165.11(B)(19) now refers to **Data Center**, including the separately defined **Hyper-Data Center**; the §165.41 definitions retain the November 11 participant-reported committee wording.
+1. **Revised M-2 text**, using the [November 11 integrated working draft](DRAFT-ORDINANCE-M2-DATA-CENTER-PERFORMANCE-STANDARDS-2026-11-11.md): §165.11(B)(19) now refers to **Data Center**, including the separately defined **Hyperscale Data Center**; the §165.41 definitions retain the November 11 participant-reported committee wording.
 2. **Concise red/blue change notes**, immediately below, identifying substantive changes versus copyedits. Retain the current revised provisions as readable ordinance text; do **not** reproduce the original code in full.
 3. **Air pollution and generator comparison**, including Iowa air-law definitions, Iowa DNR permit rules, EPA stationary-diesel requirements, enacted versus proposed Dubuque/Jones County ordinances, and proposed M-2 operating standards. Use [the source-linked November 18 legal research brief](../dataset/policy/48_AIR_POLLUTION_GENERATORS_COMPARATIVE_BRIEF_2026-11-18.md).
 4. **Cascade baseline and scenario estimates** for municipal diesel generation, local business tractor-trailers/heavy equipment, and US 151 traffic. Label reported asset/traffic data separately from calculations, include formulas and time periods, and do not claim site-specific emissions without equipment operating records or a validated model.
@@ -25,15 +25,21 @@ The committee's next meeting is reported for **Wednesday, November 18, 2026, at 
 
 | Area | Mark | November 11 revision / issue |
 | --- | --- | --- |
-| §165.11(B)(19) permitted principal use | **RED** | Replace the earlier independent-project **“Data Center or High-Density Computing Facility”** concept with **“Data Center”** and incorporate **Hyper-Data Center** through §165.41 cross-reference. Remove the older project-only incidental-server-room carveout from B(19), which the committee did not vote into its chosen definition. |
+| §165.11(B)(19) permitted principal use | **RED** | Replace the earlier independent-project **“Data Center or High-Density Computing Facility”** concept with **“Data Center”** and incorporate **Hyperscale Data Center** through §165.41 cross-reference. Remove the older project-only incidental-server-room carveout from B(19), which the committee did not vote into its chosen definition. |
 | §165.41 **Data Center** | **RED** | Use the reported committee-approved definition (tally **5–3 or 6–2**, unresolved), based on but not identical to Iowa Code §423.3(95)(f)(1). |
 | §165.41 **Data Center Business** | **RED** | Use reported committee-approved local definition (tally **5–3 or 6–2**, unresolved), compared with §423.3(95)(f)(2). |
 | §165.41 **Sustainable Design** | **RED** | Use reported unanimous committee definition; compare with the official state building-code definition at Iowa Code §103A.3(25). |
-| §165.41 **Hyper-Data Center** | **RED** | Add reported committee definition, **approved 5–3**: a data center with **more than 100,000 square feet AND over 60 MW of power annually**. Both thresholds must be met. This is local terminology, not a preexisting Iowa Code definition. |
-| Hyper threshold measurement | **BLUE — clarification needed, not adopted change** | Record the ambiguity: how is building area measured, and does “60 MW annually” mean annual peak power, annual average power, or annual energy use (MWh)? Do not substitute a new test without a committee decision. |
+| §165.41 **Hyperscale Data Center** | **RED** | Add reported committee definition, **approved 5–3**: a data center with **more than 100,000 square feet AND over 60 MW of power annually**. Both thresholds must be met. This is local terminology, not a preexisting Iowa Code definition. |
+| Hyperscale threshold measurement | **BLUE — clarification needed, not adopted change** | The approved term is **“annually”** (5–3). Flag that it lacks a fixed period; propose **“during each calendar year (January 1–December 31)”** at the November 18 meeting and require another vote. The committee must also decide what load metric “over 60 MW” represents. Do not substitute either change silently. |
 | Chapter 165 duplicate definitions | **BLUE — cleanup** | Do not separately define **Building**, **Structure**, **Dwelling Unit**, **Lot**, or **Accessory Use** where Cascade §165.41 already does. Do not duplicate state building-code **Construction** terminology from Iowa Code §103A.3(5). |
 | State air-quality terms | **BLUE — source reference** | Cite existing §455B.131 definitions instead of creating separate local definitions of Air Contaminant, Air Pollution, Emission, or Major Stationary Source. |
 | Parking/performance provisions | **Status note** | The independent draft's existing parking and general M-2 standards should not be presented as individually approved by the November 11 committee definition votes. |
+
+## Separate agenda vote required: calendar-year clarification
+
+**Proposed November 18 amendment — requires a new committee vote:** The committee's **5–3 vote approved the word “annually.”** That is the existing committee-approved wording, but it does not identify a fixed measurement period. Propose replacing “annually” with **“during each calendar year (January 1 through December 31)”**, then expressly specify how the **60 MW** threshold will be measured. This suggested wording is **not yet approved**; preserve the November 11 text until the committee votes. MW measures power, while MWh measures energy, so the calendar-year phrase alone does not settle whether the metric is peak demand, average demand, or total energy.
+
+**Suggested motion for committee discussion (not adopted):** “Amend the committee-approved Hyperscale Data Center definition by substituting ‘during each calendar year (January 1 through December 31)’ for ‘annually,’ following agreement on the specific MW-based measurement method.” The vote should identify the final exact definition, including its 60 MW metric. Do not retroactively characterize the November 11 5–3 vote as approving this amendment.
 
 ## Official legal and source references (include this list, not the 86 definitions)
 
