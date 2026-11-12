@@ -308,16 +308,18 @@ Nothing in this section limits other remedies available under Chapter 165 or app
 
 Section 165.41 is amended **only for terms not already defined by Cascade law**, subject to reconciliation with a certified current code. **Do not add new local definitions of Building, Structure, Lot, Dwelling, Accessory Use, or Construction.** Cascade §165.41 already defines Building (Structure), Structure (Building), Lot, Dwelling Unit, and Accessory Use; Iowa Code §103A.3(5) defines Construction within the state building-code program. Existing local definitions continue to govern City zoning unless the Council expressly amends them. State air, water, waste, building, and tax definitions apply within their respective statutory programs; this draft does not silently enlarge state definitions or confer tax eligibility.[^10][^11][^27][^28][^29]
 
-**Data Center (committee-approved November 11, 2026):** A structure or building rehabilitated or constructed to house a group of networked server computers in one physical location in order to centralize the storage, management, and dissemination of data and information pertaining to a particular business, taxonomy, or body of knowledge. A data center business's facility typically includes the mechanical and electrical systems, redundant or backup power supplies, redundant data communications connections, environmental controls, and fire suppression systems.[^10]
+**Noncodified source note:** The four definitions immediately below reproduce the participant-reported committee-approved November 11 wording. Hyperscale Data Center passed 5–3; the separately proposed citywide prohibition has **not** been established as approved. [Canonical voted definitions and source citations](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/dataset/updates/50_COMMITTEE_APPROVED_DEFINITIONS_CANONICAL_2026-11-11.md).
 
-**Hyperscale Data Center (committee-approved November 11, 2026; reported vote 5–3):** A Data Center meeting both of the following conditions:
+**Data Center:** A structure or building rehabilitated or constructed to house a group of networked server computers in one physical location in order to centralize the storage, management, and dissemination of data and information pertaining to a particular business, taxonomy, or body of knowledge. A data center business’s facility typically includes the mechanical and electrical systems, redundant or backup power supplies, redundant data communications connections, environmental controls, and fire suppression systems.[^10]
+
+**Hyperscale Data Center:** A Data Center meeting both of the following conditions:
 
 1. **100,000 square feet or larger.**
-2. **Electrical demand exceeding 60 megawatts (MW).**[^30]
+2. **Electrical demand exceeding 60 megawatts.**[^30]
 
-**Data Center Business (committee-approved November 11, 2026):** An entity whose business among other businesses, is to operate or lease a data center in the city of cascade.[^10]
+**Data Center Business:** An entity whose business among other businesses, is to operate or lease a data center in the city of cascade.[^10]
 
-**Sustainable Design (committee-approved November 11, 2026):** Construction design that reduces negative environmental effects and improves occupant health and comfort through resource conservation, waste minimization, and healthier environments.[^26]
+**Sustainable Design:** Construction design that reduces negative environmental effects and improves occupant health and comfort through resource conservation, waste minimization, and healthier environments.[^26]
 
 > **Editorial reconciliation (noncodified):** The November 11 committee-reported definitions above preserve approved substance, including the 5–3 Hyperscale Data Center threshold. The Data Center and Data Center Business texts adapt Iowa's **sales-tax** definitions in §423.3(95)(f)(1)–(2); neither is verbatim. In particular, Data Center adds **“structure or”** and omits the statute's restricted-access/lease clauses; Data Center Business adds **“in the city of cascade.”** Sustainable Design paraphrases, rather than quotes, the controlling definition in §103A.3(25). A later change to match state language **verbatim** would require committee review; statutory building-code and tax-program definitions do not automatically bind City zoning. The earlier independent project term **“Data Center or High-Density Computing Facility”** is superseded in this *definitions* section only. The §165.11(B)(19) use entry has been aligned with the approved Data Center definition; the distinct proposed §165.12(17) citywide Hyperscale prohibition is not itself a November 11 committee vote.
 
