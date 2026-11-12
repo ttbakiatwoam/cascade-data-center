@@ -6,7 +6,7 @@ permalink: /operational-noise/
 
 # Operational Noise: Understanding the proposed M-2 standards
 
-> **Status: November 11 working draft, updated for November 18, 2026 committee discussion.** This is a plain-language explanation of the proposed M-2 ordinance, **not current City of Cascade law**. It does not replace an acoustical study or the City Attorney's review. The limits below are **proposed**, and the source is [§165.11(G)(4) of the current working draft]({{ '/draft-ordinance/' | relative_url }}#4-operational-noise).[^1]
+> **Status: November 11 working draft, updated for November 18, 2026 committee discussion.** This is a plain-language explanation of the proposed M-2 ordinance, **not current City of Cascade law**. It does not replace an acoustical study or the City Attorney's review. The limits below are **proposed**, and the source is [§165.11(G)(4) of the current working draft]({{ '/draft-ordinance/' | relative_url }}).[^1]
 
 The proposal creates **two separate checks** on noise from any M-2 industrial use. One is made at its property boundary. The other protects existing homes and other sensitive places. **Both the A-weighted and C-weighted limits must be met** at each applicable location.
 
