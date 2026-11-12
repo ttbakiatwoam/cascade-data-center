@@ -308,9 +308,7 @@ Nothing in this section limits other remedies available under Chapter 165 or app
 
 ## SECTION IV. SECTION 165.41 - DEFINITIONS
 
-Section 165.41 is amended **only for terms not already defined by Cascade law**, subject to reconciliation with a certified current code. **Do not add new local definitions of Building, Structure, Lot, Dwelling, Accessory Use, or Construction.** Cascade §165.41 already defines Building (Structure), Structure (Building), Lot, Dwelling Unit, and Accessory Use; Iowa Code §103A.3(5) defines Construction within the state building-code program. Existing local definitions continue to govern City zoning unless the Council expressly amends them. State air, water, waste, building, and tax definitions apply within their respective statutory programs; this draft does not silently enlarge state definitions or confer tax eligibility.[^10][^11][^27][^28]
-
-The current [86-term statutory, Oxford, Merriam-Webster, and legal-dictionary comparison](https://ttbakiatwoam.github.io/cascade-data-center/definitions/) is an **interpretive research appendix**. Its general-language summaries do not override the enacted text of this ordinance or the controlling statute. A standalone companion draft for Section 165.41 is also maintained in `proposals/DRAFT-ORDINANCE-CH165-DEFINITIONS-2026-11-03.md`.
+Section 165.41 is amended **only for terms not already defined by Cascade law**, subject to reconciliation with a certified current code. **Do not add new local definitions of Building, Structure, Lot, Dwelling, Accessory Use, or Construction.** Cascade §165.41 already defines Building (Structure), Structure (Building), Lot, Dwelling Unit, and Accessory Use; Iowa Code §103A.3(5) defines Construction within the state building-code program. Existing local definitions continue to govern City zoning unless the Council expressly amends them. State air, water, waste, building, and tax definitions apply within their respective statutory programs; this draft does not silently enlarge state definitions or confer tax eligibility.[^10][^11][^27][^28][^29]
 
 **Data Center (committee-approved November 11, 2026):** A structure or building rehabilitated or constructed to house a group of networked server computers in one physical location in order to centralize the storage, management, and dissemination of data and information pertaining to a particular business, taxonomy, or body of knowledge. A data center business's facility typically includes the mechanical and electrical systems, redundant or backup power supplies, redundant data communications connections, environmental controls, and fire suppression systems.[^10]
 
@@ -447,6 +445,8 @@ Superscript note markers in this proposal point to these numbered sources. Notes
 [^27]: City of Cascade, historical *Chapter 165 Zoning Ordinance*, §165.41(1), (8), (12), (30), and (51), [repository transcription](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/dataset/cascade-zoning/CHAPTER-165-ZONING-ORDINANCE.md); verify current codification against the City Clerk's authoritative text.
 
 [^28]: Iowa General Assembly, *Iowa Code* §455B.131(1)–(3), (6), (8), (11) (2026), state **air-quality** definitions, <https://www.legis.iowa.gov/docs/code/2026/455B.131.pdf>.
+
+[^29]: Noncodified research reference: [86-term Iowa-law/dictionary comparison](https://ttbakiatwoam.github.io/cascade-data-center/definitions/) and the [November 11, 2026 separate §165.41 companion draft](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/proposals/DRAFT-ORDINANCE-CH165-DEFINITIONS-2026-11-11.md). These references do not override adopted zoning or state law; the companion is an alternative drafting vehicle, not a second enactment.
 
 # NON-CODIFIED DRAFTING NOTES AND SOURCE BASIS
 
