@@ -4,6 +4,10 @@ Research, source material, community questions, and policy analysis related to p
 
 The working position of this independent community project is **pro-data-center development with appropriate community protections, transparency, and accountability**. Read the [research scope and project stance](docs/research-scope.md) for the full purpose, areas of focus, and policy principles.
 
+## Next advisory meeting — Wednesday, November 18, 2026 at 7:00 p.m.
+
+The committee is scheduled to discuss **air pollution, air contaminants, stationary diesel generators, Iowa DNR and U.S. EPA rules, and Dubuque County/Jones County zoning comparisons**. The meeting date, time and agenda topic are participant-reported and await the official City agenda. Read the [air-quality and generators research brief](dataset/policy/48_AIR_POLLUTION_GENERATORS_COMPARATIVE_BRIEF_2026-11-18.md) and [public website guide](https://ttbakiatwoam.github.io/cascade-data-center/air-quality-generators-2026-11-18/). The [November 11 definition votes](dataset/updates/47_ADVISORY_COMMITTEE_VOTES_2026-11-11.md) are recorded separately; two tallies remain unconfirmed.
+
 ## Committee website
 
 A committee-friendly website is maintained from `docs/` and published via GitHub Pages: **https://ttbakiatwoam.github.io/cascade-data-center/**. The [October 28 committee minutes and next actions](docs/meeting-2026-10-28.md) record Chair **Rob McNally**, Vice Chair **Dave Mehrl**, and the November 11, 2026 at 7:00 p.m. meeting with a member assignment to bring ordinance definitions and citations. See the [source transcription](sources/committee-materials/2026-10-28/OCTOBER_28_2026_MINUTES_SOURCE_TRANSCRIPTION.md) and [evidence-labeled summary](dataset/updates/39_ADVISORY_COMMITTEE_MINUTES_2026-10-28.md); the minutes do not record adoption of an M-2 ordinance. The website and draft proposals are independent, not official City publications.
