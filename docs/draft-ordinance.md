@@ -29,7 +29,7 @@ permalink: /draft-ordinance/
 **CITY OF CASCADE, IOWA**  
 **ORDINANCE NO. ______**
 
-## AN ORDINANCE AMENDING CHAPTER 165 OF THE CASCADE ZONING ORDINANCE TO EXPRESSLY PERMIT DATA CENTERS, INCLUDING HYPER-DATA CENTERS, IN THE M-2 HEAVY INDUSTRIAL DISTRICT AND TO ESTABLISH UNIFORM PERFORMANCE STANDARDS FOR M-2 INDUSTRIAL DEVELOPMENT
+## AN ORDINANCE AMENDING CHAPTER 165 OF THE CASCADE ZONING ORDINANCE TO PERMIT NON-HYPERSCALE DATA CENTERS IN THE M-2 HEAVY INDUSTRIAL DISTRICT, PROHIBIT HYPERSCALE DATA CENTERS THROUGHOUT THE CITY'S LAWFUL ZONING JURISDICTION, AND ESTABLISH UNIFORM PERFORMANCE STANDARDS FOR M-2 INDUSTRIAL DEVELOPMENT
 
 **NOW, BE IT ENACTED by the City Council of the City of Cascade, Iowa, as follows:**
 
@@ -37,17 +37,33 @@ permalink: /draft-ordinance/
 
 ## SECTION I. SECTION 165.11 M-2 - PERMITTED PRINCIPAL USES
 
+<span class="m2-edit" style="color:#1c56a0"><strong>BLUE = copyedit/reference alignment; RED = substantive new proposed ordinance text. This is a working amendment, not enacted City law.</strong></span>
+
 Iowa Code authorizes zoning of industrial land use and requires district-wise uniformity for classes or kinds of buildings; this proposal does not confer project approval.[^1][^2]
 
 Section 165.11, M-2 Heavy Industrial District, subsection B, is amended by adding the following permitted principal use:
 
 **19. Data Center.**
 
-A Data Center, including a Hyperscale Data Center, as defined in Section 165.41 of this Ordinance.
+<span class="m2-add" style="color:#a41f27">A Data Center as defined in Section 165.41 of this Ordinance, expressly excluding a Hyperscale Data Center. Hyperscale Data Centers are prohibited in all City zoning districts as provided in proposed Section 165.12(17).</span>
 
 **Minimum required off-street parking:** one space per employee on the largest regularly scheduled shift, plus one space for each company vehicle regularly stationed at the premises.
 
-> **Noncodified drafting note — November 11 committee definition reconciliation:** The permitted-use entry now refers to the committee-approved **Data Center** wording in §165.41, rather than the superseded independent project's “Data Center or High-Density Computing Facility” definition or its incidental-server-room exclusion. The separate **Hyperscale Data Center** definition was reported approved **5–3**; no distinct approval process or emissions standard arises merely from defining that subclass. The parking ratio and other M-2 provisions are still project proposals, not confirmed committee votes.
+> <span class="m2-edit" style="color:#1c56a0"><strong>Noncodified drafting note:</strong> Section 165.11(B)(19) now cross-references the committee-approved Data Center definition, and expressly excludes Hyperscale Data Centers. The committee reportedly approved the Hyperscale definition 5-3; that definition vote is not itself approval of the proposed citywide prohibition, the parking ratio, or any other operative performance provision.</span>
+
+## SECTION I-A. SECTION 165.12 - SUPPLEMENTARY DISTRICT REGULATIONS: PROHIBITED USE
+
+<span class="m2-add" style="color:#a41f27">Section 165.12 is amended by adding a new subsection 17, subject to confirmation of its current numbering:</span>
+
+<span class="m2-add" style="color:#a41f27"><strong>17. Hyperscale Data Centers - Prohibited in All Zoning Districts.</strong></span>
+
+<span class="m2-add" style="color:#a41f27">A Hyperscale Data Center, as defined in Section 165.41, is a prohibited land use in every zoning district regulated by this Ordinance within the City of Cascade's lawful zoning jurisdiction. A Hyperscale Data Center shall not be approved as a permitted principal use, accessory use, special exception, conditional use, or as a component of an otherwise permitted use. No zoning, development, building, or other City land-use approval shall be issued for the initial establishment, construction, conversion, or expansion of a facility to a Hyperscale Data Center.</span>
+
+<span class="m2-add" style="color:#a41f27">The Major Industrial Facility special-exception review in Section 165.11(D)(8) does not make a Hyperscale Data Center eligible for approval. Project phases and functionally integrated buildings or facilities under a unified development plan shall be reviewed together to determine whether the defined Hyperscale Data Center thresholds are met; separate bona fide facilities shall not be aggregated solely because they are neighbors. Any change to a lawful permitted Data Center that would meet both Hyperscale Data Center thresholds after the change is prohibited unless and until the governing zoning ordinance is lawfully amended.</span>
+
+<span class="m2-add" style="color:#a41f27">This subsection applies within the incorporated City and any territory in which Cascade has validly exercised municipal zoning jurisdiction under Iowa Code Section 414.23. It does not claim authority over unincorporated territory zoned by a county or other land beyond the City's legally established jurisdiction. It does not extinguish lawful existing nonconforming-use rights or displace appeal and variance authority independently granted by state law.</span>[^31]
+
+> <span class="m2-edit" style="color:#1c56a0"><strong>Drafting note (noncodified):</strong> This citywide prohibition is a new project proposal, not a policy separately approved by the committee's November 11 vote of 5-3 on the definition of Hyperscale Data Center. The City Attorney must review jurisdiction, Iowa zoning uniformity, permissible land-use exclusions, any variance/vested-rights issues, and the objective method of determining facility floor area and electrical demand before introduction. The addition of Section 165.12(17) assumes Section 165.12(16) is the last subsection in the current codification; verify with the City Clerk.</span>
 
 ## SECTION II. SECTION 165.11 M-2 - SPECIAL EXCEPTION USES
 
@@ -55,7 +71,7 @@ Section 165.11, M-2 Heavy Industrial District, subsection D, is amended by addin
 
 **8. Major Industrial Facility.**
 
-Any otherwise permitted principal use within the M-2 District meeting one or more of the following thresholds shall require Special Exception approval pursuant to Section 165.34(2):
+Any otherwise permitted principal use within the M-2 District meeting one or more of the following thresholds shall require Special Exception approval pursuant to Section 165.34(2). <span class="m2-edit" style="color:#1c56a0">This special-exception classification does not authorize a Hyperscale Data Center prohibited by Section 165.12(17):</span>
 
 1. Maximum anticipated coincident electrical demand of **five megawatts (5 MW) or greater**;
 2. Anticipated industrial, process, cooling, or facility water demand of **25,000 gallons or more during any twenty-four-hour period**;
@@ -103,14 +119,14 @@ For any Major Industrial Facility using stationary backup or on-site generation,
 
 All M-2 uses shall be designed, constructed, operated, and maintained so that noise attributable to the use does not exceed the following standards, measured in accordance with generally accepted professional acoustic practice:
 
-**a. M-2 property-line standard:** 65 dBA and 75 dBC hourly average at any property boundary, except where the residential/sensitive-receptor standard below is more restrictive.
+**a. M-2 property-line standard:** The facility-attributable one-hour sound level at any property boundary shall not exceed <span class="m2-add" style="color:#a41f27"><strong>65 dBA and 75 dBC from 7:00 a.m. to 10:00 p.m.; or 60 dBA and 70 dBC from 10:00 p.m. to 7:00 a.m.</strong></span> <span class="m2-edit" style="color:#1c56a0">Compliance with the sensitive-receptor measurement provisions below is assessed separately.</span>
 
 **b. Residential or sensitive-receptor standard:** At each existing dwelling, school, licensed child-care facility, hospital, nursing facility, place of worship, public library, or comparable occupied sensitive use, compliance shall be evaluated **inside the closest normally occupied room on the side of the structure nearest the M-2 noise source**. The initial assessment shall include the nearest existing qualifying occupied structure. Additional qualifying structures shall be evaluated where source orientation, terrain, or shielding could produce higher exposure.
 
 The sound-level meter microphone shall be placed **within five (5) feet of the interior face of the nearest source-facing exterior wall**, but **at least 1.5 feet (0.5 meter) from that wall and other large reflecting surfaces**, where physically practicable, at approximately four (4) to five (5) feet above the finished floor. **All doors and windows shall be closed throughout the measurement.** **In a dwelling with a controllable forced-air HVAC blower, the fan control shall be set to ON for continuous operation during the entire indoor measurement, with the thermostat set within 65°F–75°F where reasonably practicable; the detailed protocol in subsection G(5) applies.** The qualified acoustical professional shall identify the room and measurement positions and document any necessary deviation from these placement requirements. The following **indoor, facility-attributable one-hour equivalent continuous sound levels (Leq,1h)** shall not be exceeded:
 
-- 55 dBA and 65 dBC from 7:00 a.m. to 10:00 p.m.; and
-- 50 dBA and 60 dBC from 10:00 p.m. to 7:00 a.m.
+- <span class="m2-add" style="color:#a41f27"><strong>65 dBA and 75 dBC from 7:00 a.m. to 10:00 p.m.</strong></span>; and
+- <span class="m2-add" style="color:#a41f27"><strong>60 dBA and 70 dBC from 10:00 p.m. to 7:00 a.m.</strong></span>.
 
 **c. Tonal noise:** Where an industrial sound source produces a prominent recurring tone, whine, screech, or hum, the applicable A-weighted limit shall be reduced by five (5) decibels.
 
@@ -151,7 +167,7 @@ The City may require reasonable corrective measures where testing demonstrates n
 
 ### 6. Generator and Elevated-Noise Testing
 
-Routine and pre-planned testing of stationary generators or other equipment producing substantially elevated noise shall occur only between **8:00 a.m. and 6:00 p.m., Monday through Friday**, except where operation outside those hours is:
+Routine and pre-planned testing of stationary generators or other equipment producing substantially elevated noise shall occur only between <span class="m2-add" style="color:#a41f27"><strong>6:00 a.m. and 8:00 p.m., Monday through Friday</strong></span>, except where operation outside those hours is:
 
 1. Required during an actual emergency;
 2. Necessary to protect life, property, or critical equipment;
@@ -321,7 +337,7 @@ Section 165.41 is amended **only for terms not already defined by Cascade law**,
 
 **Sustainable Design (committee-approved November 11, 2026):** Construction design that reduces negative environmental effects and improves occupant health and comfort through resource conservation, waste minimization, and healthier environments.[^26]
 
-> **Editorial reconciliation (noncodified):** The November 11 committee-reported definitions above preserve approved substance, including the 5–3 Hyperscale Data Center threshold. The Data Center and Data Center Business texts adapt Iowa's **sales-tax** definitions in §423.3(95)(f)(1)–(2); neither is verbatim. In particular, Data Center adds **“structure or”** and omits the statute's restricted-access/lease clauses; Data Center Business adds **“in the city of cascade.”** Sustainable Design paraphrases, rather than quotes, the controlling definition in §103A.3(25). A later change to match state language **verbatim** would require committee review; statutory building-code and tax-program definitions do not automatically bind City zoning. The earlier independent project term **“Data Center or High-Density Computing Facility”** is superseded in this *definitions* section only. The §165.11(B)(19) use entry has been aligned by editorial cross-reference with the approved Data Center definition; the committee vote on that entry and on its parking condition has not been independently established.
+> **Editorial reconciliation (noncodified):** The November 11 committee-reported definitions above preserve approved substance, including the 5–3 Hyperscale Data Center threshold. The Data Center and Data Center Business texts adapt Iowa's **sales-tax** definitions in §423.3(95)(f)(1)–(2); neither is verbatim. In particular, Data Center adds **“structure or”** and omits the statute's restricted-access/lease clauses; Data Center Business adds **“in the city of cascade.”** Sustainable Design paraphrases, rather than quotes, the controlling definition in §103A.3(25). A later change to match state language **verbatim** would require committee review; statutory building-code and tax-program definitions do not automatically bind City zoning. The earlier independent project term **“Data Center or High-Density Computing Facility”** is superseded in this *definitions* section only. The §165.11(B)(19) use entry has been aligned with the approved Data Center definition; the distinct proposed §165.12(17) citywide Hyperscale prohibition is not itself a November 11 committee vote.
 
 **Major Industrial Facility:** An M-2 use exceeding any one threshold in proposed §165.11(D)(8): 5 MW coincident demand, 25,000 gallons in any 24 hours, 2 MW aggregate stationary generation, or 5 MWh storage. Also includes a modification that crosses a threshold.
 
@@ -449,6 +465,8 @@ Superscript note markers in this proposal point to these numbered sources. Notes
 
 [^30]: **Committee vote record, not codified.** Participant correction of November 11, 2026 vote: **Hyperscale Data Center** was approved **5–3**, with “100,000 square feet or larger” and “Electrical demand exceeding 60 megawatts.” Earlier project transcriptions saying **“more than 100,000”** or **“annually”** were incorrect. Exactly 100,000 square feet satisfies the size threshold; exactly 60 MW does not satisfy “exceeding.” The text does not specify a calendar year, a method of calculating electrical demand, or whether floor area means gross building area or footprint. Any substantive calendar-year measurement amendment needs a separate committee vote. See the [reported November 11 record](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/dataset/updates/47_ADVISORY_COMMITTEE_VOTES_2026-11-11.md); official minutes pending.
 
+[^31]: Iowa General Assembly, *Iowa Code* §§414.1–414.4 (municipal land-use zoning), §414.12 (board of adjustment and variances), and §414.23 (territory beyond city limits), <https://www.legis.iowa.gov/docs/code/2026/414.1.pdf>, <https://www.legis.iowa.gov/docs/code/2026/414.2.pdf>, <https://www.legis.iowa.gov/docs/code/2026/414.12.pdf>, <https://www.legis.iowa.gov/docs/code/2026/414.23.pdf>. Existing Cascade zoning §165.12(6) addresses uses not covered by the ordinance; the proposed express citywide prohibition is intended to prevent reclassification through that general procedure without a lawful zoning amendment. The City Attorney must review the legal basis and any existing nonconforming-use rights.
+
 # NON-CODIFIED DRAFTING NOTES AND SOURCE BASIS
 
 > The material below is explanatory and is **not intended to be codified as part of Chapter 165**. It documents why specific concepts appear in the draft and identifies issues for legal and technical review.
@@ -504,7 +522,7 @@ The draft's dBA/dBC structure is intended to address both ordinary audible sound
 
 **November 3 indoor-receptor revision:** Proposed §165.11(G)(4)(b) now evaluates the nearest normally occupied interior room, within five feet of the source-facing exterior wall, with doors and windows closed. The separate M-2 property-line standard remains outdoors. The five-foot maximum placement distance is a **proposed local rule**, not a distance mandated by ISO or ANSI. A 0.5-meter minimum clearance from reflective surfaces and documenting room conditions draw on accepted acoustic measurement principles.[^18]
 
-**Substantive policy question:** The numerical 55/65 dBA/dBC daytime and 50/60 dBA/dBC nighttime limits were carried forward unchanged, but an *indoor* limit is not equivalent to the original *outdoor* limit because walls and closed windows attenuate exterior sound. WHO's community-noise guidance identifies 30 dBA Leq for bedrooms at night as a sleep-protection guideline. The proposed 50 dBA nighttime indoor limit should therefore be explicitly reviewed by an independent acoustician and the City Attorney, not presented as a WHO-derived or state-mandated standard.[^19] Closing windows also removes the draft's prior direct protection of outdoor living areas. Occupant consent or other lawful authority is required for indoor access; modeled exposure is a screening tool, not a substitute for a direct measurement.
+**Substantive policy question (updated November 11 working draft):** The proposed 65/75 dBA/dBC daytime and 60/70 dBA/dBC nighttime limits now also apply to the *indoor* sensitive-receptor test, but an indoor limit is not equivalent to an outdoor limit because walls and closed windows attenuate exterior sound. WHO's community-noise guidance identifies 30 dBA Leq for bedrooms at night as a sleep-protection guideline. The proposed 60 dBA nighttime indoor limit should therefore be explicitly reviewed by an independent acoustician and the City Attorney, not presented as a WHO-derived or state-mandated standard.[^19] Closing windows also removes the draft's prior direct protection of outdoor living areas. Occupant consent or other lawful authority is required for indoor access; modeled exposure is a screening tool, not a substitute for a direct measurement.
 
 **Iowa home envelopes after 2015 (research, not a codified noise reduction credit):** Iowa's statewide residential energy code remained the **2012 IECC with state amendments** following its April 1, 2014 effective date. It requires thermal insulation and a blower-door air-sealing result not exceeding **4 ACH50**, and allows common wood-frame prescriptive exterior wall constructions such as **R-20 cavity insulation or R-13 cavity plus R-5 continuous insulation**. These are *energy-efficiency* provisions, **not** requirements that every residence attenuate noise by a fixed number of dBA or dBC.[^20]
 
