@@ -189,9 +189,13 @@ def build_html(raw: str) -> tuple[str,int,int]:
         if line.startswith("BLUE ") or line.startswith("BLUE —"):
             node["class"] = list(node.get("class",[])) + ["m2-blue-note"]
             blue_count += 1
-    if red_count < 45 or blue_count < 8:
-        raise RuntimeError("Red/blue source markup was lost: red blocks = %s; blue = %s" %
-                           (red_count, blue_count))
+    # The Markdown renderer merges adjacent definition quotes into a continuous
+    # blockquote. Verify the individual 28 definition markers separately rather
+    # than assuming one HTML blockquote per definition.
+    rendered_definitions = soup.get_text(" ",strip=True).count("RED — NEW §165.41 DEFINITION")
+    if red_count < 20 or blue_count < 8 or rendered_definitions != 28:
+        raise RuntimeError("Red/blue source markup incomplete: red blocks = %s; blue = %s; definition labels = %s" %
+                           (red_count, blue_count, rendered_definitions))
     if len(soup.select("table")) < 3:
         raise RuntimeError("Ordinance comparison tables were not rendered")
     html = (
