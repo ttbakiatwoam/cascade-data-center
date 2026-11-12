@@ -4,6 +4,8 @@ title: Complete M-2 Original Text and Color-Coded Proposed Changes
 permalink: /m2-full-redline/
 ---
 
+**Historical archive — November 5, 2026.** This page and PDF do **not** reflect the later proposed citywide Hyperscale prohibition, updated 65/75 daytime and 60/70 nighttime sound limits, or generator-testing window of 6 a.m.–8 p.m. Do not include this original-inclusive document in the November 18 packet. [Current red/blue working draft]({{ '/draft-ordinance/' | relative_url }}) · [November 18 change notes](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/proposals/NOVEMBER-18-2026-COMMITTEE-PACKET-SCOPE-AND-RED-BLUE-CHANGE-NOTES.md).
+
 **Print-friendly PDF:** [Download the complete integrated redline]({{ '/downloads/cascade-m2-full-color-redline-2026-11-05.pdf' | relative_url }}) · [Original scanned M-2 comparison packet]({{ '/downloads/cascade-m2-original-scan-highlighted-comparison-2026-11-03.pdf' | relative_url }}) · [Unmodified source scan](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/sources/cascade-zoning/Entire%20zoning%20code-1.pdf).
 
 **Repository source:** [Full GitHub Markdown redline](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/proposals/COMPLETE-M2-COLOR-CODED-REDLINE-2026-11-05.md). The site and PDF use the same content.
