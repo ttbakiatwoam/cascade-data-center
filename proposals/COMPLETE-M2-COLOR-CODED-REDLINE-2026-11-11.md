@@ -484,18 +484,20 @@ c) Overhanging signs, attached to a building shall not project above the height 
 
 ### 🟥 Proposed additions to §165.41
 
+**The four committee-approved definitions are reproduced as reported on November 11, 2026, without alternate local rewording.** [Single canonical source and legal citations](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/dataset/updates/50_COMMITTEE_APPROVED_DEFINITIONS_CANONICAL_2026-11-11.md). The remaining definitions in this redline are additional **independent proposals**, not reported committee-approved definitions.
+
 **The 28 proposed terms below are RED additions to existing §165.41.** The City already defines Building, Structure, Lot, Dwelling Unit, and Accessory Use; those definitions are **not added again**. The text below does not delete the other currently enacted definitions. The Nov. 11 committee vote approved the definitions of Data Center, Data Center Business, Sustainable Design, and Hyperscale Data Center; it did **not** adopt this project's other definitions or the separate citywide prohibition.[^11][^27][^30]
 
 > 🟥 **RED — NEW §165.41 DEFINITION (1 OF 28)** <span class="m2-redline-tag">●</span>
 >
-> **Data Center:** A structure or building rehabilitated or constructed to house a group of networked server computers in one physical location in order to centralize the storage, management, and dissemination of data and information pertaining to a particular business, taxonomy, or body of knowledge. A data center business's facility typically includes the mechanical and electrical systems, redundant or backup power supplies, redundant data communications connections, environmental controls, and fire suppression systems.[^10]
+> **Data Center:** A structure or building rehabilitated or constructed to house a group of networked server computers in one physical location in order to centralize the storage, management, and dissemination of data and information pertaining to a particular business, taxonomy, or body of knowledge. A data center business’s facility typically includes the mechanical and electrical systems, redundant or backup power supplies, redundant data communications connections, environmental controls, and fire suppression systems.[^10]
 
 > 🟥 **RED — NEW §165.41 DEFINITION (2 OF 28)** <span class="m2-redline-tag">●</span>
 >
 > **Hyperscale Data Center:** A Data Center meeting both of the following conditions:
 >
 > 1. **100,000 square feet or larger.**
-> 2. **Electrical demand exceeding 60 megawatts (MW).**[^30]
+> 2. **Electrical demand exceeding 60 megawatts.**[^30]
 
 > 🟥 **RED — NEW §165.41 DEFINITION (3 OF 28)** <span class="m2-redline-tag">●</span>
 >
