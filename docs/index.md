@@ -10,7 +10,13 @@ title: Cascade Data Center Research
 > **Independent community research - not an official City of Cascade website.**  
 > The working position of this project is pro-development with clear, measurable community protections, transparency, and accountability.
 
-## Committee update: October 28 minutes and November 11 assignment
+## Next meeting: November 18, 2026, at 7:00 p.m.
+
+The next Cascade Data Center Advisory Committee meeting is reported for **Wednesday, November 18, 2026, at 7:00 p.m.** Planned discussion: **air pollution and air contaminants, stationary diesel generators, Iowa DNR requirements, federal EPA engine standards, and Dubuque County, Jones County, and other zoning comparators**. The time and agenda subjects are participant-reported; verify the official City notice.
+
+[November 18 air-quality and generator briefing]({{ '/air-quality-generators-2026-11-18/' | relative_url }}) · [November 11 reported committee definition votes]({{ '/meeting-2026-11-11/' | relative_url }}). Definition votes were **committee action on a draft**, not final enactment. The exact split for “Data center” and “Data center business” remains **5–3 or 6–2**, unconfirmed; “Sustainable design” was reportedly unanimous.
+
+## Historical committee update: October 28 minutes and November 11 assignment
 
 The [October 28 Data Center Advisory Committee minutes]({{ '/meeting-2026-10-28/' | relative_url }}) record **Rob McNally as Chair**, **Dave Mehrl as Vice Chair**, and a next meeting of **Wednesday, November 11, 2026 at 7:00 p.m.** Every committee member was assigned to bring **proposed M-2 ordinance definitions with source citations**. The record does not include a vote adopting any ordinance or approving a development.
 
