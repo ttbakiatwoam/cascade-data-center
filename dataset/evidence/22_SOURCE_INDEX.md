@@ -647,6 +647,13 @@ These are part of the research dataset but are **not independent sources or adop
 
 ---
 
+**November 12, 2026 author-released outgoing drafts (project-generated records, not independent sources):**
+
+- [Deanna draft email reconstruction](../updates/51_EMAIL_TO_DEANNA_COMMITTEE_VOTES_2026-11-12.md) — participant-reported November 11 video cutoff, votes and skipped definitions. Exact earlier email and delivery unverified.
+- [Adam Haynes / Simple Mining edited email draft](../updates/52_EMAIL_TO_ADAM_HAYNES_SIMPLE_MINING_2026-11-12.md) — shares the [24-page November 11 red/blue draft ordinance](../../docs/downloads/cascade-m2-red-blue-draft-ordinance-2026-11-11.pdf). Delivery, attachment and developer response unverified.
+
+The [November 11 participant vote register](../updates/47_ADVISORY_COMMITTEE_VOTES_2026-11-11.md) is **not** certified City minutes; the correspondence does not independently corroborate it.
+
 # 16. Source-recovery notes
 
 This index is intentionally conservative about research references whose exact source URL or underlying record cannot be reconstructed confidently.

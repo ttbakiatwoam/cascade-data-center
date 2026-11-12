@@ -1,8 +1,8 @@
 # Project Overview and Public Timeline
 
-> Dataset scope: public-record and research summary for the proposed data-center project in Cascade, Iowa. Social-media conversations, private correspondence, personal disputes, and personally identifying information are intentionally excluded.
+> Dataset scope: public-record and research summary for the proposed data-center project in Cascade, Iowa. Unauthorized private correspondence, private social-media material, personal disputes and private contact information remain excluded. Two outgoing email drafts are included by explicit author authorization.
 >
-> Last reviewed: 2026-10-06
+> Last updated: **2026-11-12**. The November 11 votes and recording cutoff are participant-reported and still await official confirmation.
 
 ## Working description
 
@@ -60,6 +60,14 @@ As of the September 18 review, the City's 2026 records page did not yet list Sep
 ### October 28, 2026 — first recorded committee working meeting and definitions assignment
 
 A one-page set of minutes supplied on November 3 states that Mayor Steve Knepper convened the committee at 7:00 p.m.; seven members attended and one was excused; the committee elected Rob McNally Chair (four ayes, two nays recorded) and Dave Mehrl Vice Chair (all ayes). The committee discussed an M-2 permitted-use ordinance and directed members to bring definitions with source citations to the next meeting, scheduled **November 11, 2026 at 7:00 p.m.** No ordinance-adoption vote appears in these minutes. The six-vote Chair tally does not explain the seventh attendee's status. [Transcription and PDF provenance](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/sources/committee-materials/2026-10-28/OCTOBER_28_2026_MINUTES_SOURCE_TRANSCRIPTION.md); [meeting summary](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/dataset/updates/39_ADVISORY_COMMITTEE_MINUTES_2026-10-28.md).
+
+### November 11, 2026 — reported approval of four advisory draft definitions
+
+A participant reports **Data Center**, **Data Center Business**, **Sustainable Design** (unanimous), and **Hyperscale Data Center** (5–3) were approved for inclusion in a working draft. Hyperscale requires **at least 100,000 square feet AND electrical demand greater than 60 MW**; no calendar-year or “annually” requirement was approved. Most other definitions were skipped because Iowa statutes or Cascade zoning already covered them. The available recording reportedly stops around the 60-minute mark, before the votes. [November 11 reported votes](../updates/47_ADVISORY_COMMITTEE_VOTES_2026-11-11.md) and [canonical four definitions](../updates/50_COMMITTEE_APPROVED_DEFINITIONS_CANONICAL_2026-11-11.md). The draft does not establish City Council enactment.
+
+### November 12, 2026 — current ordinance and outgoing drafts
+
+The [November 11 integrated red/blue working ordinance PDF](../../docs/downloads/cascade-m2-red-blue-draft-ordinance-2026-11-11.pdf) was generated and published (**24 pages**). The author also released a [reconstructed draft email to Deanna on the recording and votes](../updates/51_EMAIL_TO_DEANNA_COMMITTEE_VOTES_2026-11-12.md) and an [author-edited draft email to Adam Haynes of Simple Mining](../updates/52_EMAIL_TO_ADAM_HAYNES_SIMPLE_MINING_2026-11-12.md) providing access to the ordinance and research. **Neither email is independently verified sent or received.** The next advisory meeting is participant-reported for **November 18, 2026 at 7:00 p.m.**, with air-quality and generator topics.
 
 ## What is established vs. still open
 

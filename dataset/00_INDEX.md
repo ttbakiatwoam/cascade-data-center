@@ -2,7 +2,7 @@
 
 > Public-source research dataset concerning the proposed data-center / Simple Mining project in Cascade, Iowa.
 >
-> Dataset assembled through: 2026-10-28 (the October 22 comprehensive evidence tracker remains separately dated)
+> Dataset originated October 2026; selected committee, ordinance and author-released correspondence records updated through **November 12, 2026**. Earlier topic-specific trackers retain their own review dates.
 
 ## Purpose
 
@@ -28,7 +28,7 @@ This dataset intentionally does **not** contain:
 - identities of private commenters;
 - private disputes or threats;
 - law-enforcement correspondence;
-- private email correspondence;
+- private email correspondence except outgoing correspondence drafts **expressly released for publication by their author** and clearly labeled as unverified for sending/delivery;
 - home addresses, phone numbers, personal email addresses, or other personal contact information;
 - biographical information about the individual who assembled the research.
 
@@ -53,6 +53,15 @@ Journalism or trade reporting. Where possible, secondary reporting is traced to 
 ### Project-generated analysis
 
 Calculations, policy proposals, question banks, and model ordinance language created within this research project. These materials are not adopted law, independent engineering reports, or company commitments.
+
+## November 11–12, 2026 — committee vote and correspondence status
+
+- [November 11 participant-reported votes](updates/47_ADVISORY_COMMITTEE_VOTES_2026-11-11.md) and [four canonical draft definitions](updates/50_COMMITTEE_APPROVED_DEFINITIONS_CANONICAL_2026-11-11.md) — not adopted City zoning.
+- [Deanna reconstructed outgoing draft, November 12](updates/51_EMAIL_TO_DEANNA_COMMITTEE_VOTES_2026-11-12.md) — reported recording cutoff and voting pattern; not verified sent.
+- [Adam Haynes / Simple Mining author-edited outgoing draft, November 12](updates/52_EMAIL_TO_ADAM_HAYNES_SIMPLE_MINING_2026-11-12.md) — shares public research and ordinance; not verified sent.
+- [Current 24-page November 11 red/blue ordinance PDF](../docs/downloads/cascade-m2-red-blue-draft-ordinance-2026-11-11.pdf) — independent source-based black existing / red proposed / blue source copyedit comparison, not enacted law.
+
+Draft correspondence is project-generated material, not independent City or company evidence.
 
 ## November 4, 2026: LexisNexis Assist source intake
 
