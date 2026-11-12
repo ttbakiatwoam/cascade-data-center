@@ -6,6 +6,28 @@
 >
 > **Uniformity principle:** The ordinance is intentionally written so that zoning and performance standards apply throughout the M-2 Heavy Industrial District to all similarly situated businesses. Non-hyperscale Data Centers are added as an expressly recognized M-2 use. Separately, a newly proposed citywide Hyperscale prohibition would apply throughout Cascade's lawful zoning jurisdiction, while noise, lighting, screening, water, emergency planning, generators, infrastructure, and other M-2 impacts are addressed through district-wide or neutral, objective thresholds.
 
+## 🟥 <span class="cascade-legislative-red">RED — Substantive new or revised ordinance provisions</span>
+
+> 🟥 <span class="cascade-change-red"><strong>PROPOSED §165.11(B)(19), permitted principal uses:</strong> Permit Data Centers in M-2 only when they do not meet the adopted Hyperscale Data Center definition. The proposed B(19) exclusion and parking language have not separately been approved by the committee.</span>
+
+> 🟥 <span class="cascade-change-red"><strong>NEW PROPOSED §165.12(17), citywide prohibition:</strong> Prohibit Hyperscale Data Centers in all zoning districts within Cascade's legally established zoning jurisdiction. The committee's 5–3 November 11 vote approved the <em>definition</em>, not this separate prohibition; further legislative action is necessary.</span>
+
+> 🟥 <span class="cascade-change-red"><strong>PROPOSED §165.11(G)(4), noise:</strong> 65 dBA / 75 dBC from 7 a.m. to 10 p.m.; 60 dBA / 70 dBC from 10 p.m. to 7 a.m., with separate property-line and indoor sensitive-receptor tests. These proposed indoor limits are more permissive than the prior working draft.</span>
+
+> 🟥 <span class="cascade-change-red"><strong>PROPOSED §165.11(G)(6), generator testing:</strong> 6 a.m.–8 p.m., Monday–Friday, subject to the draft's stated exceptions; the nighttime 60 dBA / 70 dBC limits still apply from 6 a.m. to 7 a.m.</span>
+
+## 🟦 <span class="cascade-legislative-blue">BLUE — Corrections to existing draft wording and references</span>
+
+> 🟦 <span class="cascade-change-blue"><strong>Terminology and cross-references:</strong> Align B(19) and Chapter 165 with the committee-reported Data Center definition; identify Hyperscale Data Center by the approved <strong>AND</strong> criteria (at least 100,000 square feet and electrical demand exceeding 60 MW); do not treat the 5–3 definition vote as approval of a citywide ban.</span>
+
+> 🟦 <span class="cascade-change-blue"><strong>Existing-law definitions:</strong> Avoid separately redefining Building, Structure, Lot, Dwelling Unit, Accessory Use, and Construction. Cite existing Cascade zoning, applicable Iowa Code sections, and their jurisdictional limits.</span>
+
+> 🟦 <span class="cascade-change-blue"><strong>Source hierarchy:</strong> Compare <a href="https://ttbakiatwoam.github.io/cascade-data-center/city-data-center-ordinances/">municipal ordinances first</a>, distinguished by hyperscale versus ordinary standalone data centers. Defer county ordinances to a separate Chapter 335 study. Micro/edge/ancillary systems are outside this comparison, without creating a new exemption.</span>
+
+**Visual convention:** 🟥 **RED = substantive proposed ordinance language**; 🟦 **BLUE = copyedits, source corrections and noncodified explanations**. The colored square labels are deliberately visible in GitHub's Markdown preview (which does not reliably preserve custom font colors). On the published website the sections also have red/blue text and borders. **All of these are working-draft annotations, not enacted municipal code.**
+
+---
+
 **CITY OF CASCADE, IOWA**  
 **ORDINANCE NO. ______**
 
