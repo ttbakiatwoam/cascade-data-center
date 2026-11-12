@@ -28,7 +28,7 @@ permalink: /m2-full-redline/
 | 🟦 **BLUE — CORRECTIONS TO EXISTING SOURCE** | Only source transcription spelling/punctuation or layout corrections, with the original spelling separately disclosed. Blue is **not a proposed new substantive duty**. |
 | **BLACK/BLUE — EDITORIAL NOTE** | Explanations outside enactable ordinance text. The November 11 vote approved **definitions**, not the separately proposed citywide Hyperscale ban or new noise/generator hours. |
 
-**Redlining rule:** Entire newly added subsections are red, **including all their numerical standards**, because existing M-2 does not contain them. The fact that an early project draft had different noise limits or generator hours is **not** a blue correction to current City law. The 86-term research appendix is not part of this ordinance or the next packet. The current [clean proposed amendment](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/proposals/AMENDMENT-ONLY-M2-ORDINANCE-2026-11-11.md) remains available separately.
+**Redlining rule:** Entire newly added subsections are red, **including all their numerical standards**, because existing M-2 does not contain them. The fact that an early project draft had different noise limits or generator hours is **not** a blue correction to current City law. The separate 86-term research appendix is not part of this ordinance or the next packet. The current [clean proposed amendment](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/proposals/AMENDMENT-ONLY-M2-ORDINANCE-2026-11-11.md) remains available separately.
 
 ## EXISTING §165.11 M-2 CODE (BLACK) WITH PROPOSED ADDITIONS (RED)
 
