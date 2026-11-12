@@ -8,7 +8,9 @@ permalink: /draft-ordinance/
 
 **Related files:** [Clean proposed November 11/18 amendatory ordinance](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/proposals/AMENDMENT-ONLY-M2-ORDINANCE-2026-11-11.md) · [Markdown source for this complete redline](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/proposals/COMPLETE-M2-COLOR-CODED-REDLINE-2026-11-11.md) · [City original code and historical sources]({{ '/m2-concordance/' | relative_url }}) · [November 18 packet scope](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/proposals/NOVEMBER-18-2026-COMMITTEE-PACKET-SCOPE-AND-RED-BLUE-CHANGE-NOTES.md).
 
-**Publication caution:** The old November 5 PDF is archived and does not reflect these later amendments. A current combined PDF has not been generated from this revised redline.
+**[Download the updated November 11, 2026 RED/BLUE draft ordinance PDF]({{ '/downloads/cascade-m2-red-blue-draft-ordinance-2026-11-11.pdf' | relative_url }}).** The print-ready integrated redline has the four participant-reported committee-approved definitions, while identifying other independently proposed provisions as *not* approved by those votes. **Black = existing text; red = proposed ordinance text; blue = source copyedits.** This is not enacted City law.
+
+The November 5 PDF remains in the historical archive; this new PDF replaces it for the *November 11 definition-vote wording*. A separate November 18 combined packet is not claimed.
 
 ---
 

@@ -10,6 +10,8 @@ title: Cascade Data Center Research
 > **Independent community research - not an official City of Cascade website.**  
 > The working position of this project is pro-development with clear, measurable community protections, transparency, and accountability.
 
+**[Download the updated November 11, 2026 RED/BLUE draft ordinance PDF]({{ '/downloads/cascade-m2-red-blue-draft-ordinance-2026-11-11.pdf' | relative_url }}).** The print-ready integrated redline has the four participant-reported committee-approved definitions, while identifying other independently proposed provisions as *not* approved by those votes. **Black = existing text; red = proposed ordinance text; blue = source copyedits.** This is not enacted City law.
+
 ## Next meeting: November 18, 2026, at 7:00 p.m.
 
 The next Cascade Data Center Advisory Committee meeting is reported for **Wednesday, November 18, 2026, at 7:00 p.m.** Planned discussion: **air pollution and contaminants, diesel generators, Iowa DNR requirements and EPA rules**. The zoning comparison now examines **Iowa city ordinances first**, separating hyperscale from ordinary standalone data centers. **County zoning comparisons are deferred** to a later Chapter 335 phase. The time and agenda subjects are participant-reported; verify the official City notice.
