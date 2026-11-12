@@ -6,6 +6,12 @@ permalink: /research-library/
 
 # Research Library
 
+**Last updated: November 12, 2026**
+
+[Current 24-page November 11 red/blue ordinance PDF]({{ '/downloads/cascade-m2-red-blue-draft-ordinance-2026-11-11.pdf' | relative_url }}) · [November 12 author-released correspondence and recording follow-up]({{ '/correspondence-2026-11-12/' | relative_url }}) · [November 11 draft-definition votes]({{ '/meeting-2026-11-11/' | relative_url }})
+
+*Independent research and author-prepared correspondence, not enacted City law, certified minutes or confirmed delivered emails.*
+
 A topic-based guide to the Cascade data center research. **Independent work, not an official City of Cascade publication.** Draft ordinances and recommendations on this site are **not adopted law**.
 
 The header links to the principal pages. Everything else remains available below, including supporting evidence, earlier committee material, and ordinance revision history.

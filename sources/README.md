@@ -4,6 +4,10 @@ These files retain their original bytes and filenames from the repository before
 
 The [public source index](../dataset/evidence/22_SOURCE_INDEX.md) records citations and provenance. Source files, transcriptions, research notes, and project proposals are separate collections.
 
+## November 12, 2026 — author-released correspondence
+
+Two outgoing drafts are indexed with [dated research updates](../dataset/updates/README.md), not intermingled with official City or received developer source documents: [Deanna follow-up draft reconstruction](../dataset/updates/51_EMAIL_TO_DEANNA_COMMITTEE_VOTES_2026-11-12.md) and [Adam Haynes / Simple Mining author-edited draft](../dataset/updates/52_EMAIL_TO_ADAM_HAYNES_SIMPLE_MINING_2026-11-12.md). Their public release is at the author's direction. Neither the sending nor receiving of an email or physical attachment was independently confirmed; private contact addresses have not been included.
+
 ## November 4, 2026 LexisNexis Assist zoning-definition research
 
 - [Two prompts, complete extracted outputs, and 32 reference entries](legal-research/2026-11-04_LEXISNEXIS_ASSIST_PROMPTS_AND_OUTPUT_TRANSCRIPT.md) — user-supplied AI-assisted research, not controlling law. The **original DOCX binary is not stored in the repository**; file size, filename, and SHA-256 are recorded.

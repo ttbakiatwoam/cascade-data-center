@@ -14,6 +14,10 @@ The supplied [October 28 committee minutes]({{ '/meeting-2026-10-28/' | relative
 
 These are reported proceedings, not proof that the earlier proposed Resolution 92-26 was adopted. The minutes list seven attendees but only six counted votes for the Chair; the reason is not stated. See the [source transcription](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/sources/committee-materials/2026-10-28/OCTOBER_28_2026_MINUTES_SOURCE_TRANSCRIPTION.md) for the original wording and provenance. No ordinance adoption is recorded.
 
+## November 11 votes and November 12 follow-up
+
+Four definitions were reported approved for the advisory **draft**, not as enacted City law: **Data Center**, **Data Center Business**, **Sustainable Design** (unanimous), and **Hyperscale Data Center** (5–3, requiring **100,000 square feet or larger AND electrical demand exceeding 60 MW**). Other definitions were largely skipped because existing Iowa law or City zoning already defines them. The recording reportedly ended before the votes. [November 11 report]({{ '/meeting-2026-11-11/' | relative_url }}) · [Author-released draft correspondence]({{ '/correspondence-2026-11-12/' | relative_url }}) · [Current red/blue working PDF]({{ '/downloads/cascade-m2-red-blue-draft-ordinance-2026-11-11.pdf' | relative_url }}).
+
 ## Proposed voting members
 
 The revised September 28 packet identifies **eight voting members**:
@@ -103,4 +107,4 @@ Related records:
 - [September 14, 2026 City Council Minutes](https://www.cityofcascade.org/vimages/shared/vnews/stories/6959ce08641c7/September%2014th.pdf) - records that Resolution 92-26 was tabled.
 - [Advisory committee/open-meetings research](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/dataset/policy/14_ADVISORY_COMMITTEE_AND_OPEN_MEETINGS.md)
 
-**Next meeting according to the October 28 minutes:** Wednesday, **November 11, 2026 at 7:00 p.m. Central**. Each member was assigned to bring proposed ordinance definitions and citations for sources. Confirm location, final agenda, and notice with [the City of Cascade](https://www.cityofcascade.org/). Read the [October 28 meeting minutes summary]({{ '/meeting-2026-10-28/' | relative_url }}) and the [independent current ordinance proposal]({{ '/draft-ordinance/' | relative_url }}).
+**Next meeting (participant-reported):** Wednesday, **November 18, 2026 at 7:00 p.m. Central**, expected to address air quality, diesel generators and regulatory comparisons. Confirm the official agenda, location and notice with [the City of Cascade](https://www.cityofcascade.org/). See the [November 11 vote record]({{ '/meeting-2026-11-11/' | relative_url }}) and [working ordinance redline]({{ '/draft-ordinance/' | relative_url }}).
