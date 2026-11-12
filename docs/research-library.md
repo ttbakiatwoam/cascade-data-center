@@ -13,7 +13,7 @@ The header links to the principal pages. Everything else remains available below
 ## Current proposals and zoning references
 
 - **[Current proposed M-2 ordinance and Hyperscale exclusion]({{ '/draft-ordinance/' | relative_url }})** — November 11 committee definitions and additional proposed November 18 provisions. **🟥 RED** identifies substantive proposals; **🟦 BLUE** identifies corrections and supporting references, visible in Markdown and website.
-- **[Historical November 5 full original M-2 redline]({{ '/m2-full-redline/' | relative_url }})** — prior version archived for provenance; **excluded from the November 18 packet**.
+- **[Complete current M-2 source-grounded redline]({{ '/m2-full-redline/' | relative_url }})** — existing M-2 in black, proposed B(19), D(8), G(2)–(19), citywide §165.12(17), and definitions in red, original scan copyedits in blue. The older November 5 PDF stays archived and excluded from the November 18 packet.
 - [Original M-2 ordinance compared with proposed changes]({{ '/m2-concordance/' | relative_url }}) — scanned source provisions, later amendments, and a marked comparison.
 - **[Current Iowa CITY ordinance comparison — hyperscale vs ordinary centers]({{ '/city-data-center-ordinances/' | relative_url }})** — city-first matrix and Iowa municipal-home-rule versus county-zoning differences; micro/edge facilities excluded from the comparison, counties deferred.
 - [Historical zoning uniformity and older city/county comparisons]({{ '/iowa-zoning-uniformity/' | relative_url }}) — §414.2 research and November 3 source history.
