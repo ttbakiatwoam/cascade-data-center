@@ -2,8 +2,15 @@
 
 These are project-generated discussion drafts. **They are not adopted law, official City proposals, or binding company commitments.** Preserve the status labels and drafting notes when quoting them.
 
-- [Complete M-2 original-text color redline, November 5](COMPLETE-M2-COLOR-CODED-REDLINE-2026-11-05.md) — existing §165.11 A–G(1) in black, proposed changes red, non-substantive copyedits blue, with a source key and scan caveats. [Website](https://ttbakiatwoam.github.io/cascade-data-center/m2-full-redline/).
-- [Current November 3 M-2 ordinance with Chicago source notes](DRAFT-ORDINANCE-M2-DATA-CENTER-PERFORMANCE-STANDARDS-2026-11-03.md) — current review text, **not adopted law**.
+## Current proposals (updated November 12, 2026)
+
+- **[Current November 11 complete black/red/blue redline](COMPLETE-M2-COLOR-CODED-REDLINE-2026-11-11.md)** — [24-page current printable PDF](../docs/downloads/cascade-m2-red-blue-draft-ordinance-2026-11-11.pdf), [amendment-only text](AMENDMENT-ONLY-M2-ORDINANCE-2026-11-11.md), and [separate Chapter 165 definitions](DRAFT-ORDINANCE-CH165-DEFINITIONS-2026-11-11.md). Only **four definitions** were reported approved for the advisory draft; the other independent proposals remain unapproved. **Not enacted City law.**
+- [November 12 correspondence and source-status record](../docs/correspondence-2026-11-12.md) — outgoing email drafts to Deanna and Adam Haynes, sending not verified.
+
+## Historical proposals
+
+- [Historical M-2 original-text color redline, November 5](COMPLETE-M2-COLOR-CODED-REDLINE-2026-11-05.md) — existing §165.11 A–G(1) in black, proposed changes red, non-substantive copyedits blue, with a source key and scan caveats. [Website](https://ttbakiatwoam.github.io/cascade-data-center/m2-full-redline/).
+- [Historical November 3 M-2 ordinance with Chicago source notes](DRAFT-ORDINANCE-M2-DATA-CENTER-PERFORMANCE-STANDARDS-2026-11-03.md) — superseded working text, **not adopted law**.
 - [Companion standalone Chapter 165 definitions ordinance](DRAFT-ORDINANCE-CH165-DEFINITIONS-2026-11-03.md) — alternative legislative vehicle to the integrated definitions section, **not adopted**.
 - [Current October 28 Advisory Committee recommendations](CASCADE-ADVISORY-COMMITTEE-RECOMMENDATIONS-2026-10-28.md) — meeting-ready proposal with revised ordinance as Appendix A. **Not adopted City policy.**
 - [Historical October 19 working package](CASCADE-ADVISORY-COMMITTEE-RECOMMENDATIONS-2026-10-19.md) — preserved original recommendations and Appendix A based on October 6 draft, not the current version.

@@ -12,3 +12,12 @@
 - [`39_ADVISORY_COMMITTEE_MINUTES_2026-10-28.md`](39_ADVISORY_COMMITTEE_MINUTES_2026-10-28.md) — October 28 minutes, Chair and Vice Chair elections, November 11 definitions-with-citations assignment, and the six-votes-versus-seven-attendees record question. The source PDF was supplied on November 3; its full text is preserved as a derivative transcription.
 
 These records describe the evidence available at their stated dates. Consult the [project evidence tracker](../project/21_OPEN_QUESTIONS_AND_EVIDENCE_GAPS.md) for later developments.
+
+## November 11–12, 2026 — current committee and correspondence updates
+
+- [November 11 participant-reported definition votes](47_ADVISORY_COMMITTEE_VOTES_2026-11-11.md) — approved for draft, not adopted law; official minutes pending.
+- [Canonical wording of four draft definitions](50_COMMITTEE_APPROVED_DEFINITIONS_CANONICAL_2026-11-11.md) — Data Center, Data Center Business, Sustainable Design and Hyperscale Data Center.
+- [Deanna email draft reconstruction, November 12](51_EMAIL_TO_DEANNA_COMMITTEE_VOTES_2026-11-12.md) — recording cutoff and votes; exact original message and delivery unverified.
+- [Author-edited Adam Haynes / Simple Mining email draft, November 12](52_EMAIL_TO_ADAM_HAYNES_SIMPLE_MINING_2026-11-12.md) — sharing the ordinance and public research; delivery unverified.
+
+**Index last updated: November 12, 2026.** These two correspondence records are author-released, not independently confirmed sent messages or official City records.

@@ -34,3 +34,9 @@ Both conditions apply to a Data Center; **100,000 square feet exactly meets** th
 **Next meeting announced:** Wednesday, **November 18, 2026 at 7:00 p.m.** Topic: air pollution, air contaminants, diesel generators under Iowa DNR and EPA regulations, Dubuque and Jones County regulations, and other zoning comparisons. Meeting time/topic provided by participant, pending official agenda verification. See [next-meeting legal source/comparator brief](../policy/48_AIR_POLLUTION_GENERATORS_COMPARATIVE_BRIEF_2026-11-18.md).
 
 **Drafting status:** These reported votes concern committee definitions only. They do not constitute final adoption by the City Council or ratification of this project's separate M-2 performance standards. Verify official minutes and the final consolidated draft before attributing wording to the City.
+
+## November 12 — recording cutoff and author-released follow-up
+
+A participant reports the available November 11 recording ends near the **60-minute mark**, **before all definition votes**. The five recurring affirmative voters on contested motions were reported as **Mike Delaney, Mark Weber, Andrew Saunders, Gayle Walter, and Doug Frey**; Michael Rogers and Dave Mehrl sometimes voted yes, while Rob McNally reportedly opposed contested motions. This is **not** a certified motion-by-motion roll call and does not contradict the reported **unanimous Sustainable Design** vote. Most remaining definitions were **skipped**, not affirmatively defeated, due to existing Iowa state law or Cascade zoning.
+
+The author's [Deanna follow-up draft reconstruction](51_EMAIL_TO_DEANNA_COMMITTEE_VOTES_2026-11-12.md) and [edited Adam Haynes / Simple Mining outreach draft](52_EMAIL_TO_ADAM_HAYNES_SIMPLE_MINING_2026-11-12.md) are now published as author-generated correspondence. They do not verify that an email was sent or received. [Current red/blue draft ordinance PDF](../../docs/downloads/cascade-m2-red-blue-draft-ordinance-2026-11-11.pdf).

@@ -38,3 +38,5 @@
 **Participant-reported record:** [November 11 advisory committee vote register](47_ADVISORY_COMMITTEE_VOTES_2026-11-11.md).
 
 **Current ordinance files to synchronize:** [amendment-only draft](../../proposals/AMENDMENT-ONLY-M2-ORDINANCE-2026-11-11.md), [full ordinance redline](../../proposals/COMPLETE-M2-COLOR-CODED-REDLINE-2026-11-11.md), [main redline draft](../../proposals/DRAFT-ORDINANCE-M2-DATA-CENTER-PERFORMANCE-STANDARDS-2026-11-11.md), [companion §165.41 proposal](../../proposals/DRAFT-ORDINANCE-CH165-DEFINITIONS-2026-11-11.md), and their corresponding website pages.
+
+**November 12 correspondence:** [Author's Deanna email draft reconstruction](51_EMAIL_TO_DEANNA_COMMITTEE_VOTES_2026-11-12.md) and [Adam Haynes / Simple Mining edited email draft](52_EMAIL_TO_ADAM_HAYNES_SIMPLE_MINING_2026-11-12.md). Both are public, author-prepared working texts; they do not alter the canonical November 11 definition language or establish that either message was sent.
