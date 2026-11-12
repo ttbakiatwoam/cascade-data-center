@@ -48,9 +48,11 @@ The [October 28 Data Center Advisory Committee minutes]({{ '/meeting-2026-10-28/
 
 **[Read the §414.2 analysis and neighboring Iowa ordinance evaluations]({{ '/iowa-zoning-uniformity/' | relative_url }})** — explains why Cascade should avoid singling out data centers for stricter M-2 environmental rules when equivalent industrial impacts remain unregulated. The analysis also explains that §§414.2/335.4 permit legitimate classes and separate districts, and §§414.5/335.7 provide specific written-agreement exceptions. Ten county and city comparators are reviewed.
 
-### Complete M-2 text with color-coded edits
+### Current M-2 working draft and red/blue changes
 
-[**Read the full original-and-proposed M-2 redline**]({{ '/m2-full-redline/' | relative_url }}) — black retains existing §165.11, **red identifies proposed regulatory additions**, and **blue identifies spelling, grammar, formatting and non-substantive citation corrections**. Includes adopted 2022 fitness use and clearly flags handwritten marks in the historical scan. [Download the color PDF]({{ '/downloads/cascade-m2-full-color-redline-2026-11-05.pdf' | relative_url }}).
+**[Read the updated ordinance draft]({{ '/draft-ordinance/' | relative_url }})** — the independent November 11 working text now proposes to **prohibit Hyperscale Data Centers in all Cascade zoning districts**, use **65/75 dBA/dBC by day and 60/70 dBA/dBC by night**, and permit routine generator testing from **6 a.m. to 8 p.m., Monday–Friday**. **Red** marks substantive proposed changes; **blue** marks editorial/cross-reference corrections. These changes are proposals, not adopted City policy. [November 18 packet change notes](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/proposals/NOVEMBER-18-2026-COMMITTEE-PACKET-SCOPE-AND-RED-BLUE-CHANGE-NOTES.md).
+
+The [original-inclusive November 5 redline]({{ '/m2-full-redline/' | relative_url }}) and [PDF]({{ '/downloads/cascade-m2-full-color-redline-2026-11-05.pdf' | relative_url }}) remain **historical only** and are excluded from the November 18 packet.
 
 ### Original M-2 ordinance cross-check
 
