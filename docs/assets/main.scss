@@ -323,6 +323,32 @@ summary {
   font-weight: 720;
 }
 
+/* Visible change sections shared by GitHub Markdown and the published site. */
+.post-content .cascade-legislative-red,
+.post-content .cascade-legislative-red strong { color: #a41f27; }
+.post-content .cascade-legislative-blue,
+.post-content .cascade-legislative-blue strong { color: #1c56a0; }
+.post-content blockquote:has(.cascade-change-red) {
+  border-left: 5px solid #b3262f;
+  background: #fff4f4;
+  color: #79242b;
+  box-shadow: inset 0 0 0 1px #f7d6d8;
+}
+.post-content blockquote:has(.cascade-change-red) strong,
+.post-content blockquote .cascade-change-red { color: #9e1e29; }
+.post-content blockquote:has(.cascade-change-blue) {
+  border-left: 5px solid #245fa4;
+  background: #f1f6ff;
+  color: #214d80;
+  box-shadow: inset 0 0 0 1px #d9e6f7;
+}
+.post-content blockquote:has(.cascade-change-blue) strong,
+.post-content blockquote .cascade-change-blue { color: #245aa0; }
+@media print {
+  .post-content blockquote:has(.cascade-change-red) { border-left-color: #b3262f; background:#fff4f4; }
+  .post-content blockquote:has(.cascade-change-blue) { border-left-color: #245fa4; background:#f1f6ff; }
+}
+
 /* Legislative comparison convention used in the Markdown working draft.
    Red = substantive proposed addition; blue = editorial/current-language correction. */
 .post-content .m2-add, .post-content .m2-add strong, .post-content .m2-add b { color: #a41f27; }
