@@ -147,6 +147,8 @@ This ordinance takes effect after passage, approval, and publication as Iowa law
 
 [^15]: **Committee vote record, not codified.** Participant correction of November 11, 2026 vote: **Hyperscale Data Center** was approved **5–3**, with “100,000 square feet or larger” and “Electrical demand exceeding 60 megawatts.” Earlier project transcriptions saying **“more than 100,000”** or **“annually”** were incorrect. Exactly 100,000 square feet satisfies the size threshold; exactly 60 MW does not satisfy “exceeding.” The text does not specify a calendar year, a method of calculating electrical demand, or whether floor area means gross building area or footprint. Any substantive calendar-year measurement amendment needs a separate committee vote. See the [reported November 11 record](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/dataset/updates/47_ADVISORY_COMMITTEE_VOTES_2026-11-11.md); official minutes pending.
 
+> <span class="m2-edit" style="color:#1c56a0"><strong>Blue - legal cross-reference (not codified):</strong> The committee's 5-3 vote established the Hyperscale Data Center definition but did not separately enact a prohibition. The integrated draft now proposes a new citywide prohibited-use clause in Section 165.12(17), excluding Hyperscale Data Centers from M-2 and all other districts within Cascade's lawful zoning jurisdiction. This definitions-only companion does not, by itself, establish a prohibited use. The City Attorney and Council must reconcile and lawfully enact the operative provisions.</span>
+
 ## Publication and reconciliation
 
 - Current [integrated M-2 working revision]({{ '/draft-ordinance/' | relative_url }}) includes the same November 11 definitions in Section IV.
