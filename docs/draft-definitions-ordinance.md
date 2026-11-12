@@ -29,11 +29,10 @@ Section 165.41 would be amended **only with needed local terms not otherwise def
 
 **Data Center (committee-approved November 11, 2026):** A structure or building rehabilitated or constructed to house a group of networked server computers in one physical location in order to centralize the storage, management, and dissemination of data and information pertaining to a particular business, taxonomy, or body of knowledge. A data center business's facility typically includes the mechanical and electrical systems, redundant or backup power supplies, redundant data communications connections, environmental controls, and fire suppression systems.[^6]
 
-**Hyperscale Data Center (committee-approved November 11, 2026; reported vote 5–3):** A data center with more than 100,000 square feet and using over 60 MW of power annually.
+**Hyperscale Data Center (committee-approved November 11, 2026; reported vote 5–3):** A Data Center meeting both of the following conditions:
 
-> **Proposed November 18 amendment — requires a new committee vote:** The committee's **5–3 vote approved the word “annually.”** That is the existing committee-approved wording, but it does not identify a fixed measurement period. Propose replacing “annually” with **“during each calendar year (January 1 through December 31)”**, then expressly specify how the **60 MW** threshold will be measured. This suggested wording is **not yet approved**; preserve the November 11 text until the committee votes. MW measures power, while MWh measures energy, so the calendar-year phrase alone does not settle whether the metric is peak demand, average demand, or total energy.
-
-> **Noncodified measurement clarification required before enactment:** Both “more than” conditions must be satisfied. Verify whether square feet refers to gross floor area, footprint, or another measure. MW measures power; **“over 60 MW annually”** needs an adopted measurement rule (annual peak, annual average, or annual consumption expressed instead in MWh). The reported definition is preserved without silently choosing a rule. This is a proposed **local** classification, not an existing Iowa Code definition. Vote **5–3** is participant-reported, pending official minutes.
+1. **100,000 square feet or larger.**
+2. **Electrical demand exceeding 60 megawatts (MW).**[^15]
 
 **Data Center Business (committee-approved November 11, 2026):** An entity whose business among other businesses, is to operate or lease a data center in the city of cascade.[^6]
 
@@ -145,6 +144,8 @@ This ordinance takes effect after passage, approval, and publication as Iowa law
 [^13]: City of Cascade, historical *Chapter 165 Zoning Ordinance*, §165.41(1), (8), (12), (30), and (51), <https://github.com/ttbakiatwoam/cascade-data-center/blob/master/dataset/cascade-zoning/CHAPTER-165-ZONING-ORDINANCE.md>; Iowa Code §103A.3(5), <https://www.legis.iowa.gov/docs/code/2026/103A.3.pdf>. Verify current City codification before introduction.
 
 [^14]: Iowa General Assembly, *Iowa Code* §455B.131(1)–(3), (6), (8), (11) (2026), state air-quality definitions, <https://www.legis.iowa.gov/docs/code/2026/455B.131.pdf>.
+
+[^15]: **Committee vote record, not codified.** Participant correction of November 11, 2026 vote: **Hyperscale Data Center** was approved **5–3**, with “100,000 square feet or larger” and “Electrical demand exceeding 60 megawatts.” Earlier project transcriptions saying **“more than 100,000”** or **“annually”** were incorrect. Exactly 100,000 square feet satisfies the size threshold; exactly 60 MW does not satisfy “exceeding.” The text does not specify a calendar year, a method of calculating electrical demand, or whether floor area means gross building area or footprint. Any substantive calendar-year measurement amendment needs a separate committee vote. See the [reported November 11 record](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/dataset/updates/47_ADVISORY_COMMITTEE_VOTES_2026-11-11.md); official minutes pending.
 
 ## Publication and reconciliation
 
