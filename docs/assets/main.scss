@@ -323,6 +323,15 @@ summary {
   font-weight: 720;
 }
 
+/* Legislative comparison convention used in the Markdown working draft.
+   Red = substantive proposed addition; blue = editorial/current-language correction. */
+.post-content .m2-add, .post-content .m2-add strong, .post-content .m2-add b { color: #a41f27; }
+.post-content .m2-edit, .post-content .m2-edit strong, .post-content .m2-edit b { color: #1c56a0; }
+@media print {
+  .post-content .m2-add, .post-content .m2-add strong { color: #a41f27; }
+  .post-content .m2-edit, .post-content .m2-edit strong { color: #1c56a0; }
+}
+
 /* Make the draft/status language visually obvious without being alarmist. */
 .post-content > blockquote:first-of-type,
 .home > blockquote:first-of-type {
