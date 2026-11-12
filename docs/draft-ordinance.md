@@ -6,7 +6,7 @@ permalink: /draft-ordinance/
 
 **This page is the source-based legislative redline, not merely a color-coded summary.** BLACK is the text already in the preserved Cascade zoning ordinance (with the known 2022 amendment), RED is each proposed new ordinance clause, and BLUE is restricted to corrections of spelling/formatting in existing text. The source scan and other historical documents are **not appended** to this page or the November 18 packet.
 
-**Related files:** [Clean proposed November 11/18 amendatory ordinance](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/proposals/DRAFT-ORDINANCE-M2-DATA-CENTER-PERFORMANCE-STANDARDS-2026-11-11.md) · [Markdown source for this complete redline](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/proposals/COMPLETE-M2-COLOR-CODED-REDLINE-2026-11-11.md) · [City original code and historical sources]({{ '/m2-concordance/' | relative_url }}) · [November 18 packet scope](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/proposals/NOVEMBER-18-2026-COMMITTEE-PACKET-SCOPE-AND-RED-BLUE-CHANGE-NOTES.md).
+**Related files:** [Clean proposed November 11/18 amendatory ordinance](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/proposals/AMENDMENT-ONLY-M2-ORDINANCE-2026-11-11.md) · [Markdown source for this complete redline](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/proposals/COMPLETE-M2-COLOR-CODED-REDLINE-2026-11-11.md) · [City original code and historical sources]({{ '/m2-concordance/' | relative_url }}) · [November 18 packet scope](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/proposals/NOVEMBER-18-2026-COMMITTEE-PACKET-SCOPE-AND-RED-BLUE-CHANGE-NOTES.md).
 
 **Publication caution:** The old November 5 PDF is archived and does not reflect these later amendments. A current combined PDF has not been generated from this revised redline.
 
@@ -28,7 +28,7 @@ permalink: /draft-ordinance/
 | 🟦 **BLUE — CORRECTIONS TO EXISTING SOURCE** | Only source transcription spelling/punctuation or layout corrections, with the original spelling separately disclosed. Blue is **not a proposed new substantive duty**. |
 | **BLACK/BLUE — EDITORIAL NOTE** | Explanations outside enactable ordinance text. The November 11 vote approved **definitions**, not the separately proposed citywide Hyperscale ban or new noise/generator hours. |
 
-**Redlining rule:** Entire newly added subsections are red, **including all their numerical standards**, because existing M-2 does not contain them. The fact that an early project draft had different noise limits or generator hours is **not** a blue correction to current City law. A December or earlier research appendix is not part of this ordinance. The current [clean proposed amendment](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/proposals/DRAFT-ORDINANCE-M2-DATA-CENTER-PERFORMANCE-STANDARDS-2026-11-11.md) remains available separately.
+**Redlining rule:** Entire newly added subsections are red, **including all their numerical standards**, because existing M-2 does not contain them. The fact that an early project draft had different noise limits or generator hours is **not** a blue correction to current City law. The 86-term research appendix is not part of this ordinance or the next packet. The current [clean proposed amendment](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/proposals/AMENDMENT-ONLY-M2-ORDINANCE-2026-11-11.md) remains available separately.
 
 ## EXISTING §165.11 M-2 CODE (BLACK) WITH PROPOSED ADDITIONS (RED)
 
