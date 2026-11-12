@@ -176,6 +176,8 @@ Routine and pre-planned testing of stationary generators or other equipment prod
 
 This restriction applies uniformly to M-2 businesses operating such equipment. "Emergency generator" as classified for Iowa air-quality permitting follows applicable state air regulations; local zoning testing-hour rules do not alter air-permit classifications or authorize impermissible emissions.[^7]
 
+> <span class="m2-edit" style="color:#1c56a0"><strong>Blue - cross-reference clarification (noncodified):</strong> The testing window begins at 6:00 a.m., but the proposed nighttime noise limits of 60 dBA / 70 dBC remain in effect until 7:00 a.m. Permission to conduct testing during an hour does not, by itself, exempt that activity from applicable noise limits.</span>
+
 ### <span class="m2-add" style="color:#a41f27">7. Generator Operating Records</span>
 
 Any M-2 facility having aggregate stationary generation capacity of two (2) MW or more shall maintain records identifying:
