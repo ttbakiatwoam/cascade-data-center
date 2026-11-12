@@ -1,14 +1,16 @@
 ---
 layout: page
-title: Proposed Chapter 165 Definitions Ordinance - November 3, 2026
+title: Proposed Chapter 165 Definitions Ordinance - November 11, 2026
 permalink: /draft-definitions-ordinance/
 ---
 
-[Download companion definitions ordinance PDF]({{ '/downloads/cascade-definitions-ordinance-2026-11-03.pdf' | relative_url }}) · [Browse the 86-term glossary]({{ '/definitions/' | relative_url }}) · [Read the integrated M-2 proposal]({{ '/draft-ordinance/' | relative_url }})
+**Current November 11 working draft:** [Version-controlled source](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/proposals/DRAFT-ORDINANCE-CH165-DEFINITIONS-2026-11-11.md) · [Committee vote record]({{ '/meeting-2026-11-11/' | relative_url }}). **The November 3 PDF below is a historical version and does not reflect the November 11 text.**
 
-# DRAFT ORDINANCE - Chapter 165 Definitions and Interpretation Amendment (November 3, 2026)
+[Prior November 3 definitions PDF]({{ '/downloads/cascade-definitions-ordinance-2026-11-03.pdf' | relative_url }}) · [Source and research glossary]({{ '/definitions/' | relative_url }}) · [Current M-2 working draft]({{ '/draft-ordinance/' | relative_url }})
 
-> **FOR REVIEW ONLY - NOT ADOPTED LAW.** Companion to the [November 3, 2026 M-2 performance standards amendment]({{ '/draft-ordinance/' | relative_url }}). The City Attorney must reconcile this proposed section with the City's complete current ordinance, later amendments, and any adopted state code. This separate text is an **alternative ordinance vehicle** for definitions, not an additional enactment to be adopted without reconciling the integrated Section IV.
+# DRAFT ORDINANCE - Chapter 165 Definitions and Interpretation Amendment (November 11, 2026 definitions revision)
+
+> **FOR REVIEW ONLY - NOT ADOPTED LAW.** Companion to the [November 11, 2026 integrated M-2 working revision]({{ '/draft-ordinance/' | relative_url }}); the original November 3 proposal remains preserved for comparison. The City Attorney must reconcile this proposed section with the City's complete current ordinance, later amendments, and any adopted state code. This separate text is an **alternative ordinance vehicle** for definitions, not an additional enactment to be adopted without reconciling the integrated Section IV.
 
 **CITY OF CASCADE, IOWA**  
 **ORDINANCE NO. ______**
@@ -19,13 +21,19 @@ permalink: /draft-definitions-ordinance/
 
 ## SECTION I. LEGISLATIVE PURPOSE AND AUTHORITY
 
-The purpose of this amendment is to make terminology in the proposed M-2 Heavy Industrial District measurable, enforceable, and consistent with Iowa municipal zoning authority. Iowa Code §§414.1 through 414.3 allow municipal zoning for health, safety, and welfare while requiring uniform treatment of each class or kind of buildings within a district.[^1][^2] The definitions concern **physical land use and its measurable external effects**, not the identity of the applicant, industrial products, digital workloads, customers, or tenants.
+The purpose of this amendment is to make terminology in the proposed M-2 Heavy Industrial District measurable, enforceable, and consistent with Iowa municipal zoning authority. Iowa Code §§414.1 through 414.3 allow municipal zoning for health, safety, and welfare while requiring uniform treatment of each class or kind of buildings within a district.[^1][^2] The definitions distinguish municipal land use and measurable external impacts. “Data Center Business” is included solely to document the November 11 committee-approved term, **not** to establish different performance rules based on the owner's or tenant's identity.
 
 ## SECTION II. ADDITIONS TO SECTION 165.41
 
-Section 165.41 of Cascade's zoning ordinance would be amended to add these definitions. Existing definitions remain in effect unless expressly superseded by final adopted language. Headwords below are **proposed municipal definitions**, not representations that Iowa law already defines the complete phrase.
+Section 165.41 would be amended **only with needed local terms not otherwise defined** in Cascade's controlling zoning ordinance. Existing §165.41(1), (8), (12), (30), and (51) already cover Accessory Use, Building (Structure), Dwelling Unit, Lot, and Structure (Building). Do not redefine those terms. **Construction** is defined for state building-code purposes in Iowa Code §103A.3(5) and need not be duplicated locally. The separate noncodified glossary of 86 terms is research, not a list of proposed municipal enactments.[^13]
 
-**Data Center or High-Density Computing Facility:** A building, structure, or portion thereof principally used for networked servers, electronic data processing, digital storage, artificial-intelligence, cloud, colocation, scientific, or cryptocurrency computing. Incidental computer rooms and telecommunications equipment subordinate to another principal use are excluded.
+**Data Center (committee-approved November 11, 2026):** A structure or building rehabilitated or constructed to house a group of networked server computers in one physical location in order to centralize the storage, management, and dissemination of data and information pertaining to a particular business, taxonomy, or body of knowledge. A data center business's facility typically includes the mechanical and electrical systems, redundant or backup power supplies, redundant data communications connections, environmental controls, and fire suppression systems.[^6]
+
+**Data Center Business (committee-approved November 11, 2026):** An entity whose business among other businesses, is to operate or lease a data center in the city of cascade.[^6]
+
+**Sustainable Design (committee-approved November 11, 2026):** Construction design that reduces negative environmental effects and improves occupant health and comfort through resource conservation, waste minimization, and healthier environments.[^12]
+
+> **Editorial reconciliation (noncodified):** The three paragraphs above preserve the reported November 11 committee-approved substance. The Data Center and Data Center Business texts adapt Iowa's **sales-tax** definitions in §423.3(95)(f)(1)–(2); neither is verbatim. In particular, Data Center adds **“structure or”** and omits the statute's restricted-access/lease clauses; Data Center Business adds **“in the city of cascade.”** Sustainable Design paraphrases, rather than quotes, the controlling definition in §103A.3(25). A later change to match state language **verbatim** would require committee review; statutory building-code and tax-program definitions do not automatically bind City zoning. The earlier independent project term **“Data Center or High-Density Computing Facility”** is superseded in this *definitions* section only. The separately proposed M-2 permitted-use description in §165.11(B)(19) is **not recorded as committee-approved** and requires reconciliation before Council introduction.
 
 **Major Industrial Facility:** An M-2 use exceeding any one threshold in proposed §165.11(D)(8): 5 MW coincident demand, 25,000 gallons in any 24 hours, 2 MW aggregate stationary generation, or 5 MWh storage. Also includes a modification that crosses a threshold.
 
@@ -55,8 +63,6 @@ Section 165.41 of Cascade's zoning ordinance would be amended to add these defin
 
 **Exterior Mechanical Equipment:** Permanently located outdoor fans, compressors, cooling equipment, generators, transformers, heat-rejection systems, and comparable mechanical installations serving an M-2 principal use.
 
-**Property Boundary / Lot Line:** The legally established boundary of the parcel under review as supported by a recorded plat, survey, deed, or other legally controlling boundary record.
-
 **Residential Zoning District Boundary:** The official delineation between an M-2 parcel or district and land designated residential by the City's controlling zoning map.
 
 **Sensitive-Receptor Measurement Location:** The specified exterior wall, occupied outdoor-use area, or other objectively identified receiving point at a sensitive receptor, documented on an approved site/acoustic plan.
@@ -77,9 +83,15 @@ Section 165.41 of Cascade's zoning ordinance would be amended to add these defin
 
 **Material Modification (for monitoring):** A change in equipment, site layout, generation operation, or other covered operation reasonably likely to change the regulated environmental or infrastructure impact.
 
+### Terms already defined in applicable law — no new Chapter 165 entry
+
+**Building, Structure, Lot, Dwelling Unit, and Accessory Use** retain Cascade §165.41 meanings; **Construction**, as used by Iowa's building-code program, is defined in Iowa Code §103A.3(5); **Sustainable Design** has an existing statutory definition in §103A.3(25), but the committee's reported November 11 wording above is a **paraphrase**, not a verbatim copy. A switch to the statute's exact text requires a properly documented revision of the committee draft.[^12][^13]
+
+For Iowa air-quality administration, **Air Contaminant**, **Air Contaminant Source**, **Air Pollution**, **Emission**, **Major Stationary Source**, and **Potential to Emit** retain the specialized meanings in Iowa Code §455B.131(1)–(3), (6), (8), (11). None is newly defined in this ordinance.[^14]
+
 ## SECTION III. INTERPRETATION AND STATE-LAW DEFINITIONS
 
-1. **City zoning definition governs locally.** The local definition of a data center does not import sales-tax eligibility or incentives under Iowa Code §423.3(95)(f). State tax definitions may inform terminology only within their legal scope.[^6]
+1. **City zoning definition governs locally.** The committee-reported local Data Center and Data Center Business terms adapt—not reproduce verbatim—the state sales-tax definitions in Iowa Code §423.3(95)(f)(1)–(2). Adoption for zoning purposes does not confer sales-tax eligibility, and the City must not silently incorporate separate tax-program conditions.[^6]
 2. **Separate regulatory programs remain separate.** Terms relating to water allocation, air contaminants, hazardous substances, wastewater, and stormwater retain their state statutory or administrative meanings when those programs apply. State permit requirements remain applicable and are not replaced by this amendment.[^7][^8][^9]
 3. **Major industrial vs. major air source.** The City's proposed Major Industrial Facility classification is not the same as an air-permitting Major Stationary Source under Iowa Code §455B.131.[^8]
 4. **Special exceptions and variances.** Local definitions do not limit the Board of Adjustment's statutory authority under Iowa Code §414.12(2)-(4), including the 2025-added separate practical-difficulties test for qualifying numerical and dimensional variances.[^10]
@@ -122,8 +134,14 @@ This ordinance takes effect after passage, approval, and publication as Iowa law
 
 [^11]: American National Standards Institute / Acoustical Society of America, *ANSI/ASA S12.9 Environmental Sound*, <https://webstore.ansi.org/>; choose precise part/edition upon acoustical review.
 
+[^12]: Iowa General Assembly, *Iowa Code* §103A.3(25) (2026), sustainable-design definition (the reported November 11 committee wording is a paraphrase), <https://www.legis.iowa.gov/docs/code/2026/103A.3.pdf>; related sustainable-design program §103A.8B, <https://www.legis.iowa.gov/docs/code/2026/103A.8B.pdf>.
+
+[^13]: City of Cascade, historical *Chapter 165 Zoning Ordinance*, §165.41(1), (8), (12), (30), and (51), <https://github.com/ttbakiatwoam/cascade-data-center/blob/master/dataset/cascade-zoning/CHAPTER-165-ZONING-ORDINANCE.md>; Iowa Code §103A.3(5), <https://www.legis.iowa.gov/docs/code/2026/103A.3.pdf>. Verify current City codification before introduction.
+
+[^14]: Iowa General Assembly, *Iowa Code* §455B.131(1)–(3), (6), (8), (11) (2026), state air-quality definitions, <https://www.legis.iowa.gov/docs/code/2026/455B.131.pdf>.
+
 ## Publication and reconciliation
 
-- Current [integrated M-2 amendment]({{ '/draft-ordinance/' | relative_url }}) already includes these definitions in Section IV.
+- Current [integrated M-2 working revision]({{ '/draft-ordinance/' | relative_url }}) includes the same November 11 definitions in Section IV.
 - This companion is provided for readers who want a separate §165.41 definitions ordinance. **Do not adopt both definitions sections independently without checking for duplication and conflicting effective dates.**
 - The [full definitions reference]({{ '/definitions/' | relative_url }}) preserves 55 statewide terms, five legal concepts, and 26 proposed local definitions, with source links and original editorial dictionary comparisons.
