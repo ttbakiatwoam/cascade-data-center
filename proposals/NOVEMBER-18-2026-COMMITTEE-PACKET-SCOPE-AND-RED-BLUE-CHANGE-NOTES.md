@@ -4,6 +4,8 @@
 
 The committee's next meeting is reported for **Wednesday, November 18, 2026, at 7:00 p.m.** This is an independent proposed packet plan. Verify the official City agenda, any new committee votes, and certified minutes before distributing a final packet.
 
+**Definition-control rule:** All current proposed ordinance texts use the same **four November 11 committee-approved definitions** of Data Center, Data Center Business, Sustainable Design, and Hyperscale Data Center. [Canonical vote-wording register](../dataset/updates/50_COMMITTEE_APPROVED_DEFINITIONS_CANONICAL_2026-11-11.md). No competing project-defined Data Center/High-Density Computing Facility term is enacted by this draft; the 86-definition research glossary remains excluded. Do not present archived November 3–9 PDFs as updated to these votes.
+
 ## Include in the November 18 packet
 
 1. **Revised M-2 text**, using the [amendment-only working language](AMENDMENT-ONLY-M2-ORDINANCE-2026-11-11.md) and the [actual code-baseline redline](COMPLETE-M2-COLOR-CODED-REDLINE-2026-11-11.md): §165.11(B)(19) now **permits only non-hyperscale Data Centers**. New proposed §165.12(17) would **prohibit Hyperscale Data Centers across all districts within Cascade's lawful zoning jurisdiction**; §165.41 retains the previously approved Hyperscale definition, with no claim that the committee approved the new prohibition.
