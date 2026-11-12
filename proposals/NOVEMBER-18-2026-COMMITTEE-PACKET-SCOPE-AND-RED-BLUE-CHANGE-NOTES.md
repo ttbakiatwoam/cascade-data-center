@@ -6,7 +6,7 @@ The committee's next meeting is reported for **Wednesday, November 18, 2026, at 
 
 ## Include in the November 18 packet
 
-1. **Revised M-2 text**, using the [November 11 integrated working draft](DRAFT-ORDINANCE-M2-DATA-CENTER-PERFORMANCE-STANDARDS-2026-11-11.md): §165.11(B)(19) now refers to **Data Center**, including the separately defined **Hyperscale Data Center**; the §165.41 definitions retain the November 11 participant-reported committee wording.
+1. **Revised M-2 text**, using the [November 11 integrated working draft](DRAFT-ORDINANCE-M2-DATA-CENTER-PERFORMANCE-STANDARDS-2026-11-11.md): §165.11(B)(19) now **permits only non-hyperscale Data Centers**. New proposed §165.12(17) would **prohibit Hyperscale Data Centers across all districts within Cascade's lawful zoning jurisdiction**; §165.41 retains the previously approved Hyperscale definition, with no claim that the committee approved the new prohibition.
 2. **Concise red/blue change notes**, immediately below, identifying substantive changes versus copyedits. Retain the current revised provisions as readable ordinance text; do **not** reproduce the original code in full.
 3. **Air pollution and generator comparison**, including Iowa air-law definitions, Iowa DNR permit rules, EPA stationary-diesel requirements, enacted versus proposed Dubuque/Jones County ordinances, and proposed M-2 operating standards. Use [the source-linked November 18 legal research brief](../dataset/policy/48_AIR_POLLUTION_GENERATORS_COMPARATIVE_BRIEF_2026-11-18.md).
 4. **Cascade baseline and scenario estimates** for municipal diesel generation, local business tractor-trailers/heavy equipment, and US 151 traffic. Label reported asset/traffic data separately from calculations, include formulas and time periods, and do not claim site-specific emissions without equipment operating records or a validated model.
@@ -25,7 +25,11 @@ The committee's next meeting is reported for **Wednesday, November 18, 2026, at 
 
 | Area | Mark | November 11 revision / issue |
 | --- | --- | --- |
-| §165.11(B)(19) permitted principal use | **RED** | Replace the earlier independent-project **“Data Center or High-Density Computing Facility”** concept with **“Data Center”** and incorporate **Hyperscale Data Center** through §165.41 cross-reference. Remove the older project-only incidental-server-room carveout from B(19), which the committee did not vote into its chosen definition. |
+| §165.11(B)(19) permitted principal use | <span style="color:#a41f27"><strong>RED - substantive proposal</strong></span> | Replace the superseded project definition with committee-approved **Data Center**, but **expressly exclude Hyperscale Data Centers** rather than permitting them; remove the superseded project-only incidental-server-room carveout. This permitted-use restriction has not itself been voted on. |
+| **New proposed §165.12(17)** | <span style="color:#a41f27"><strong>RED - substantive proposal</strong></span> | **Prohibit Hyperscale Data Centers in every zoning district within Cascade's lawful zoning jurisdiction**, including M-2; no special exception or accessory classification makes the proposed prohibited use eligible. An enactment must respect Iowa Code §414.23, and the City Attorney should review nonconforming rights, variances, and zoning-uniformity considerations. The November 11 **5-3 definition vote is not a vote on the prohibition**. |
+| §165.11(G)(4) noise limits | <span style="color:#a41f27"><strong>RED - substantive proposal</strong></span> | **7 a.m.–10 p.m.: 65 dBA / 75 dBC; 10 p.m.–7 a.m.: 60 dBA / 70 dBC**. Apply at M-2 boundaries and indoor sensitive-receptor measurements as separately specified. The indoor threshold is less protective than the prior working values; independent acoustic and legal review recommended. |
+| §165.11(G)(6) generator test hours | <span style="color:#a41f27"><strong>RED - substantive proposal</strong></span> | Change routine testing from **8 a.m.–6 p.m.** to **6 a.m.–8 p.m.**, retaining **Monday–Friday** and the existing emergency/required-testing exceptions. |
+| Internal references and formatting | <span style="color:#1c56a0"><strong>BLUE - copyedit</strong></span> | Reconcile references to proposed §165.12(17) and the committee-defined Data Center, without treating the definition vote as a vote on the new prohibition. |
 | §165.41 **Data Center** | **RED** | Use the reported committee-approved definition (tally **5–3 or 6–2**, unresolved), based on but not identical to Iowa Code §423.3(95)(f)(1). |
 | §165.41 **Data Center Business** | **RED** | Use reported committee-approved local definition (tally **5–3 or 6–2**, unresolved), compared with §423.3(95)(f)(2). |
 | §165.41 **Sustainable Design** | **RED** | Use reported unanimous committee definition; compare with the official state building-code definition at Iowa Code §103A.3(25). |
@@ -34,6 +38,10 @@ The committee's next meeting is reported for **Wednesday, November 18, 2026, at 
 | Chapter 165 duplicate definitions | **BLUE — cleanup** | Do not separately define **Building**, **Structure**, **Dwelling Unit**, **Lot**, or **Accessory Use** where Cascade §165.41 already does. Do not duplicate state building-code **Construction** terminology from Iowa Code §103A.3(5). |
 | State air-quality terms | **BLUE — source reference** | Cite existing §455B.131 definitions instead of creating separate local definitions of Air Contaminant, Air Pollution, Emission, or Major Stationary Source. |
 | Parking/performance provisions | **Status note** | The independent draft's existing parking and general M-2 standards should not be presented as individually approved by the November 11 committee definition votes. |
+
+## Proposed citywide prohibition - separate policy vote and jurisdiction review
+
+**Proposed, not yet approved:** The November 11 committee voted **5–3 on the definition** of Hyperscale Data Center, with *at least 100,000 square feet* **and** *electrical demand exceeding 60 MW*. This November 18 packet proposes a **different operative policy**: no Hyperscale Data Center may be permitted in any district subject to Cascade's lawful zoning authority. The proposal uses §165.12(17) to avoid unintentionally granting a special exception through §165.11(D)(8). It must be considered and voted on separately from the definition. The City Clerk and attorney should verify current §165.12 numbering, proper amendment procedure, zoning uniformity, treatment of existing lawful uses, and where Iowa Code §414.23 applies outside municipal limits.
 
 ## Hyperscale measurement question for November 18 — optional new vote
 
@@ -47,6 +55,7 @@ The committee's next meeting is reported for **Wednesday, November 18, 2026, at 
 | --- | --- |
 | [Cascade Chapter 165 §165.41, preserved zoning scan/transcription](../dataset/cascade-zoning/CHAPTER-165-ZONING-ORDINANCE.md) | Existing local Building/Structure, Accessory Use, Lot and Dwelling terminology; verify authoritative current City code |
 | [Iowa Code §414.1](https://www.legis.iowa.gov/docs/code/2026/414.1.pdf), [§414.2](https://www.legis.iowa.gov/docs/code/2026/414.2.pdf), [§414.3](https://www.legis.iowa.gov/docs/code/2026/414.3.pdf) | Municipal zoning authority, district uniformity, planning/public welfare |
+| [Iowa Code §414.12](https://www.legis.iowa.gov/docs/code/2026/414.12.pdf) and [§414.23](https://www.legis.iowa.gov/docs/code/2026/414.23.pdf) | Board of adjustment and limitations on extraterritorial municipal zoning; required legal review for proposed citywide ban |
 | [Iowa Code §423.3(95)(f)(1)–(2)](https://www.legis.iowa.gov/docs/code/2026/423.3.pdf) | Data Center/Data Center Business **sales-tax** wording; comparator, not zoning incorporation |
 | [Iowa Code §103A.3(5), (25)](https://www.legis.iowa.gov/docs/code/2026/103A.3.pdf) | Existing construction and sustainable-design terminology in state building-code context |
 | [Iowa Code §455B.131](https://www.legis.iowa.gov/docs/code/2026/455B.131.pdf) | Air Contaminant, Air Pollution, Emission, related specialized state-law definitions |
