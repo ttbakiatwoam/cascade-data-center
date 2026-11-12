@@ -29,7 +29,7 @@ permalink: /draft-ordinance/
 **CITY OF CASCADE, IOWA**  
 **ORDINANCE NO. ______**
 
-## AN ORDINANCE AMENDING CHAPTER 165 OF THE CASCADE ZONING ORDINANCE TO EXPRESSLY PERMIT DATA CENTERS AND HIGH-DENSITY COMPUTING FACILITIES IN THE M-2 HEAVY INDUSTRIAL DISTRICT AND TO ESTABLISH UNIFORM PERFORMANCE STANDARDS FOR M-2 INDUSTRIAL DEVELOPMENT
+## AN ORDINANCE AMENDING CHAPTER 165 OF THE CASCADE ZONING ORDINANCE TO EXPRESSLY PERMIT DATA CENTERS, INCLUDING HYPER-DATA CENTERS, IN THE M-2 HEAVY INDUSTRIAL DISTRICT AND TO ESTABLISH UNIFORM PERFORMANCE STANDARDS FOR M-2 INDUSTRIAL DEVELOPMENT
 
 **NOW, BE IT ENACTED by the City Council of the City of Cascade, Iowa, as follows:**
 
@@ -41,13 +41,13 @@ Iowa Code authorizes zoning of industrial land use and requires district-wise un
 
 Section 165.11, M-2 Heavy Industrial District, subsection B, is amended by adding the following permitted principal use:
 
-**19. Data Center or High-Density Computing Facility.**
+**19. Data Center.**
 
-A building or group of buildings principally used to house computer servers, data-processing equipment, networking equipment, electronic storage equipment, or other high-density computing systems, including cloud computing, colocation, artificial-intelligence computing, scientific computing, cryptocurrency computing or mining, and substantially similar uses.
+A Data Center, including a Hyper-Data Center, as defined in Section 165.41 of this Ordinance.
 
 **Minimum required off-street parking:** one space per employee on the largest regularly scheduled shift, plus one space for each company vehicle regularly stationed at the premises.
 
-Computer rooms, telecommunications equipment, and server equipment that are incidental and subordinate to another permitted principal use shall not constitute a separate Data Center or High-Density Computing Facility.
+> **Noncodified drafting note — November 11 committee definition reconciliation:** The permitted-use entry now refers to the committee-approved **Data Center** wording in §165.41, rather than the superseded independent project's “Data Center or High-Density Computing Facility” definition or its incidental-server-room exclusion. The separate **Hyper-Data Center** definition was reported approved **5–3**; no distinct approval process or emissions standard arises merely from defining that subclass. The parking ratio and other M-2 provisions are still project proposals, not confirmed committee votes.
 
 ## SECTION II. SECTION 165.11 M-2 - SPECIAL EXCEPTION USES
 
@@ -314,11 +314,15 @@ The current [86-term statutory, Oxford, Merriam-Webster, and legal-dictionary co
 
 **Data Center (committee-approved November 11, 2026):** A structure or building rehabilitated or constructed to house a group of networked server computers in one physical location in order to centralize the storage, management, and dissemination of data and information pertaining to a particular business, taxonomy, or body of knowledge. A data center business's facility typically includes the mechanical and electrical systems, redundant or backup power supplies, redundant data communications connections, environmental controls, and fire suppression systems.[^10]
 
+**Hyper-Data Center (committee-approved November 11, 2026; reported vote 5–3):** A data center with more than 100,000 square feet of facility space and using over 60 megawatts (MW) of power annually.
+
+> **Noncodified measurement clarification required before enactment:** “More than” is a strict threshold and both conditions are joined by **and**. The meeting report does not identify whether “100,000 square feet” means gross floor area, building footprint, or another measure. **MW is power, not annual electrical energy**; a threshold expressed as “over 60 MW annually” needs an adopted objective method (for example annual maximum coincident MW, annual average MW, or annual MWh consumption). No method is substituted for the committee's reported wording here. **Source:** participant-reported November 11 vote, 5–3; official minutes pending. This is a proposed **local** definition, not an existing Iowa Code data-center classification.
+
 **Data Center Business (committee-approved November 11, 2026):** An entity whose business among other businesses, is to operate or lease a data center in the city of cascade.[^10]
 
 **Sustainable Design (committee-approved November 11, 2026):** Construction design that reduces negative environmental effects and improves occupant health and comfort through resource conservation, waste minimization, and healthier environments.[^26]
 
-> **Editorial reconciliation (noncodified):** The three paragraphs above preserve the reported November 11 committee-approved substance. The Data Center and Data Center Business texts adapt Iowa's **sales-tax** definitions in §423.3(95)(f)(1)–(2); neither is verbatim. In particular, Data Center adds **“structure or”** and omits the statute's restricted-access/lease clauses; Data Center Business adds **“in the city of cascade.”** Sustainable Design paraphrases, rather than quotes, the controlling definition in §103A.3(25). A later change to match state language **verbatim** would require committee review; statutory building-code and tax-program definitions do not automatically bind City zoning. The earlier independent project term **“Data Center or High-Density Computing Facility”** is superseded in this *definitions* section only. The separately proposed M-2 permitted-use description in §165.11(B)(19) is **not recorded as committee-approved** and requires reconciliation before Council introduction.
+> **Editorial reconciliation (noncodified):** The November 11 committee-reported definitions above preserve approved substance, including the 5–3 Hyper-Data Center threshold. The Data Center and Data Center Business texts adapt Iowa's **sales-tax** definitions in §423.3(95)(f)(1)–(2); neither is verbatim. In particular, Data Center adds **“structure or”** and omits the statute's restricted-access/lease clauses; Data Center Business adds **“in the city of cascade.”** Sustainable Design paraphrases, rather than quotes, the controlling definition in §103A.3(25). A later change to match state language **verbatim** would require committee review; statutory building-code and tax-program definitions do not automatically bind City zoning. The earlier independent project term **“Data Center or High-Density Computing Facility”** is superseded in this *definitions* section only. The §165.11(B)(19) use entry has been aligned by editorial cross-reference with the approved Data Center definition; the committee vote on that entry and on its parking condition has not been independently established.
 
 **Major Industrial Facility:** An M-2 use exceeding any one threshold in proposed §165.11(D)(8): 5 MW coincident demand, 25,000 gallons in any 24 hours, 2 MW aggregate stationary generation, or 5 MWh storage. Also includes a modification that crosses a threshold.
 
