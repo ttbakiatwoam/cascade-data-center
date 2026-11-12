@@ -1,53 +1,36 @@
 ---
 layout: page
-title: Complete M-2 Original Text and Color-Coded Proposed Changes
+title: "Current Complete M-2 Ordinance Redline"
 permalink: /m2-full-redline/
 ---
 
-**Historical archive — November 5, 2026.** This page and PDF do **not** reflect the later proposed citywide Hyperscale prohibition, updated 65/75 daytime and 60/70 nighttime sound limits, or generator-testing window of 6 a.m.–8 p.m. Do not include this original-inclusive document in the November 18 packet. [Current red/blue working draft]({{ '/draft-ordinance/' | relative_url }}) · [November 18 change notes](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/proposals/NOVEMBER-18-2026-COMMITTEE-PACKET-SCOPE-AND-RED-BLUE-CHANGE-NOTES.md).
+**This page is the source-based legislative redline, not merely a color-coded summary.** BLACK is the text already in the preserved Cascade zoning ordinance (with the known 2022 amendment), RED is each proposed new ordinance clause, and BLUE is restricted to corrections of spelling/formatting in existing text. The source scan and other historical documents are **not appended** to this page or the November 18 packet.
 
-**Print-friendly PDF:** [Download the complete integrated redline]({{ '/downloads/cascade-m2-full-color-redline-2026-11-05.pdf' | relative_url }}) · [Original scanned M-2 comparison packet]({{ '/downloads/cascade-m2-original-scan-highlighted-comparison-2026-11-03.pdf' | relative_url }}) · [Unmodified source scan](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/sources/cascade-zoning/Entire%20zoning%20code-1.pdf).
+**Related files:** [Clean proposed November 11/18 amendatory ordinance](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/proposals/DRAFT-ORDINANCE-M2-DATA-CENTER-PERFORMANCE-STANDARDS-2026-11-11.md) · [Markdown source for this complete redline](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/proposals/COMPLETE-M2-COLOR-CODED-REDLINE-2026-11-11.md) · [City original code and historical sources]({{ '/m2-concordance/' | relative_url }}) · [November 18 packet scope](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/proposals/NOVEMBER-18-2026-COMMITTEE-PACKET-SCOPE-AND-RED-BLUE-CHANGE-NOTES.md).
 
-**Repository source:** [Full GitHub Markdown redline](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/proposals/COMPLETE-M2-COLOR-CODED-REDLINE-2026-11-05.md). The site and PDF use the same content.
-
-<style>
-/* Color-coded legislative comparison; labels remain readable without color. */
-.m2-addblock { color: #a41f27; border-left: 4px solid #b3262f; padding-left: 1rem; margin: 1.1rem 0 1.35rem; }
-.m2-addblock h2, .m2-addblock h3, .m2-addblock h4, .m2-addblock strong { color: #991b22; }
-.m2-edit { color: #1c56a0; font-weight: 650; }
-.m2-add { color: #a41f27; font-weight: 650; }
-.m2-base { color: #172536; font-weight: 550; }
-
-.m2-addblock a { color: #901e28; text-decoration: underline; }
-table { display: table; width:100%; }
-@media (max-width:800px) { .m2-table-scroll { overflow-x:auto; } .m2-table-scroll table { min-width:710px; } }
-@media print { .m2-addblock { break-inside:auto; } }
-</style>
-
-
-# COMPLETE REPRINT AND COLOR-CODED PROPOSED AMENDMENT
-## Cascade, Iowa - Section 165.11, M-2 Heavy Industrial District
-
-**Working legislative comparison | November 5, 2026 | NOT ADOPTED CITY LAW**
-
-This document reprints **every paragraph and requirement of existing M-2 §165.11(A) through (G)(1)** appearing on pages 45–49 of the City zoning scan, then inserts the proposed November 3 amendment **where it would appear if enacted**. It incorporates enacted **Ordinance 05-22 (2022)** as permitted use B(18), which was not printed in the older scan. The original City scan remains the controlling historical source for deciding what it actually says; this retyped copy is **not a certified consolidated code**. Other later enacted amendments must be checked by the City Clerk before introduction.[^15][^16]
-
-## HOW TO READ THIS DOCUMENT - COLOR KEY
-
-| Display | Meaning | Legal effect |
-| --- | --- | --- |
-| <span class="m2-add"><strong>RED - PROPOSED NEW LANGUAGE</strong></span> | <span class="m2-add">New B(19), D(8), G(2)–G(19), and 26 proposed additions to the Chapter 165 definitions.</span> | <span class="m2-add"><strong>Substantive proposal.</strong> No legal effect unless adopted.</span> |
-| <span class="m2-edit"><strong>BLUE - COPYEDIT OR FORMATTING ONLY</strong></span> | <span class="m2-edit">Reorganizing the source's two-column layout; a clear spelling, punctuation, spacing, heading, or cross-reference correction.</span> | <span class="m2-edit"><strong>No intended change in substance;</strong> verify against the scanned source.</span> |
-| <span class="m2-base"><strong>BLACK - EXISTING TEXT</strong></span> | <span class="m2-base">Original 1990s scanned M-2 ordinance retained in its existing order.</span> | <span class="m2-base">Baseline shown as historical source text; no re-enactment is implied.</span> |
-| <span class="m2-base"><strong>BLACK - ENACTED 2022</strong></span> | <span class="m2-base">B(18) added by Ordinance 05-22.</span> | <span class="m2-base">Already enacted, not a red proposed addition.</span> |
-
-**Read before relying on the redline.** The unmodified source scan, including handwritten pen marks over the old bulk-storage special exception D(2), is reproduced separately in the PDF. Those pen marks alone **do not establish a lawful repeal**. The printed underlying D(2) wording below is preserved rather than treating the handwritten marks as adopted edits. The City should obtain a certified ordinance history. Existing separate rules, including the later 2024 §165.12 fence amendment, are not silently rewritten here.[^15][^16]
-
-**Editorial scope.** The blue marks are intentionally limited. The source spells "faction" for floor-area divisions and uses "assemble" in the manufacturing list. Those are reprinted here with **blue suggestions** of "fraction" and "assembly," respectively. Other awkward original phrases are kept in black where correcting them might change legal meaning. All numeric thresholds, district uses, setbacks, parking ratios, and operative procedures originally printed remain the same unless shown in red.
+**Publication caution:** The old November 5 PDF is archived and does not reflect these later amendments. A current combined PDF has not been generated from this revised redline.
 
 ---
 
-## ORIGINAL M-2 TEXT IN FULL, WITH INSERTED PROPOSALS
+# M-2 AND CITYWIDE ZONING — ACTUAL REDLINE AGAINST CASCADE'S EXISTING ORDINANCE
+## City of Cascade, Iowa | Draft proposals for November 18, 2026
+
+**Independent legislative comparison — NOT ADOPTED CITY LAW**
+
+**Baseline:** The existing §165.11(A)–(G)(1) text preserved in Cascade's zoning scan, with enacted 2022 B(18), is reproduced below in **black**. Selected existing §165.12 and §165.41 provisions appear in black at their affected locations. The City Code publisher [expressly states that the separate 1992 zoning ordinance and amendments remain saved from repeal](https://codelibrary.amlegal.com/codes/cascadeia/latest/cascade_ia/0-0-0-4120); the online code does **not** consolidate the full zoning ordinance. Therefore this baseline is **source-grounded but not a certified current-law consolidation**. The City Clerk/Attorney must verify subsequent amendments and the current numbering.[^15][^16]
+
+**Notation (based on the ordinance in force, not changes between project drafts):**
+
+| Marking | Actual meaning |
+| --- | --- |
+| **BLACK — EXISTING** | City ordinance text and enacted B(18). Existing words are not silently amended or repealed. |
+| 🟥 **RED — NEW/AMENDED LAW PROPOSED** | Text the City would add through an ordinance amendment: B(19), D(8), G(2)–G(19), §165.12(17) and selected §165.41 definitions. New provisions are **not in current zoning law**. |
+| 🟦 **BLUE — CORRECTIONS TO EXISTING SOURCE** | Only source transcription spelling/punctuation or layout corrections, with the original spelling separately disclosed. Blue is **not a proposed new substantive duty**. |
+| **BLACK/BLUE — EDITORIAL NOTE** | Explanations outside enactable ordinance text. The November 11 vote approved **definitions**, not the separately proposed citywide Hyperscale ban or new noise/generator hours. |
+
+**Redlining rule:** Entire newly added subsections are red, **including all their numerical standards**, because existing M-2 does not contain them. The fact that an early project draft had different noise limits or generator hours is **not** a blue correction to current City law. A December or earlier research appendix is not part of this ordinance. The current [clean proposed amendment](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/proposals/DRAFT-ORDINANCE-M2-DATA-CENTER-PERFORMANCE-STANDARDS-2026-11-11.md) remains available separately.
+
+## EXISTING §165.11 M-2 CODE (BLACK) WITH PROPOSED ADDITIONS (RED)
 
 ### A. Statement of Intent
 
@@ -79,19 +62,14 @@ The "M-2" Heavy Industrial District is intended to accommodate general manufactu
 
 **18. Fitness Center or Exercise Type Business (already enacted October 10, 2022).** Parking Requirement - <span class="m2-edit" title="Printed in Ordinance 05-22 as: 1space/200 sq ft.">1 space/200 sq. ft.</span> of floor area devoted to such purpose. **This entry was enacted under Ordinance 05-22 and is not a newly proposed red addition.**[^16]
 
-<div class="m2-addblock" markdown="1">
+> 🟥 **RED — NEW §165.11(B)(19) — AFTER ENACTED B(18)** <span class="m2-redline-tag">●</span>
+>
+> **19. Data Center.**
+>
+> A Data Center as defined in Section 165.41 of this Ordinance, expressly excluding a Hyperscale Data Center. Hyperscale Data Centers are prohibited in all City zoning districts as provided in proposed Section 165.12(17).
+>
+> **Minimum required off-street parking:** one space per employee on the largest regularly scheduled shift, plus one space for each company vehicle regularly stationed at the premises.
 
-**RED - PROPOSED NEW §165.11(B)(19), after existing B(18):**
-
-**19. Data Center or High-Density Computing Facility.**
-
-A building or group of buildings principally used to house computer servers, data-processing equipment, networking equipment, electronic storage equipment, or other high-density computing systems, including cloud computing, colocation, artificial-intelligence computing, scientific computing, cryptocurrency computing or mining, and substantially similar uses.
-
-**Minimum required off-street parking:** one space per employee on the largest regularly scheduled shift, plus one space for each company vehicle regularly stationed at the premises.
-
-Computer rooms, telecommunications equipment, and server equipment that are incidental and subordinate to another permitted principal use shall not constitute a separate Data Center or High-Density Computing Facility.
-
-</div>
 
 ### C. Permitted Accessory Uses and Structures
 
@@ -133,23 +111,20 @@ e. Refining of petroleum and natural gas and their products.
 
 **7.** An adult-oriented establishment provided the establishment is not in or within sixteen hundred (1,600) feet of the borders of a residential district; any church, synagogue, mosque, temple, or other place of religious worship; any public or private school offering general education for students between the years of Kindergarten and Twelfth grade; of any daycare home or daycare business; any public park or playground. For purposes of this section, bike paths, trails, waterways, and boat launches shall not be deemed a public park; any other adult entertainment business; or any existing establishment selling alcoholic beverages for consumption on premises. The above cited distances shall be measured by following a straight line, without regard to intervening buildings, from the nearest point of the property parcel upon which the proposed adult entertainment business is to be located, to the nearest point of the parcel of property or zoning district boundary line from which the proposed adult entertainment business is to be separated. The definitions of adult-oriented establishments in Chapter 124.02 of the Cascade Code of Ordinances are hereby incorporated by reference.
 
-<div class="m2-addblock" markdown="1">
+> 🟥 **RED — NEW §165.11(D)(8) — AFTER EXISTING D(7)** <span class="m2-redline-tag">●</span>
+>
+> **8. Major Industrial Facility.**
+>
+> Any otherwise permitted principal use within the M-2 District meeting one or more of the following thresholds shall require Special Exception approval pursuant to Section 165.34(2). This special-exception classification does not authorize a Hyperscale Data Center prohibited by Section 165.12(17):
+>
+> 1. Maximum anticipated coincident electrical demand of **five megawatts (5 MW) or greater**;
+> 2. Anticipated industrial, process, cooling, or facility water demand of **25,000 gallons or more during any twenty-four-hour period**;
+> 3. Aggregate stationary electrical generation capacity, excluding fire pumps, of **two megawatts (2 MW) or greater**;
+> 4. Aggregate stationary battery or other electrical-energy-storage capacity of **five megawatt-hours (5 MWh) or greater**; or
+> 5. A material expansion of an existing facility that causes the facility to exceed any threshold above.
+>
+> The requirements of this subsection shall apply **without regard to the business type, technology, product, customer, tenant, ownership structure, or industrial process involved.** Similar physical impacts shall be treated consistently, and the City shall document the comprehensive-plan and public-welfare rationale for each objective threshold.[^2][^4]
 
-**RED - PROPOSED NEW §165.11(D)(8), after existing D(7):**
-
-**8. Major Industrial Facility.**
-
-Any otherwise permitted principal use within the M-2 District meeting one or more of the following thresholds shall require Special Exception approval pursuant to Section 165.34(2):
-
-1. Maximum anticipated coincident electrical demand of **five megawatts (5 MW) or greater**;
-2. Anticipated industrial, process, cooling, or facility water demand of **25,000 gallons or more during any twenty-four-hour period**;
-3. Aggregate stationary electrical generation capacity, excluding fire pumps, of **two megawatts (2 MW) or greater**;
-4. Aggregate stationary battery or other electrical-energy-storage capacity of **five megawatt-hours (5 MWh) or greater**; or
-5. A material expansion of an existing facility that causes the facility to exceed any threshold above.
-
-The requirements of this subsection shall apply **without regard to the business type, technology, product, customer, tenant, ownership structure, or industrial process involved.** Similar physical impacts shall be treated consistently, and the City shall document the comprehensive-plan and public-welfare rationale for each objective threshold.[^2][^4]
-
-</div>
 
 ### E. Minimum Lot Area, Yard Requirements, and Maximum Height
 
@@ -191,314 +166,459 @@ c) Overhanging signs, attached to a building shall not project above the height 
 **G(1) is original, current baseline language and is not deleted or replaced in this proposal.**[^15]
 
 
-<div class="m2-addblock" markdown="1">
+### 🟥 G(2). Uniform Applicability — proposed addition
+
+> 🟥 **RED — NEW §165.11(G)(2)** <span class="m2-redline-tag">●</span>
+>
+> The requirements of this subsection apply uniformly to M-2 uses, structures, and operations unless a provision expressly establishes an objective physical or operational threshold. No requirement shall be imposed, waived, or varied solely because of the identity of the owner, operator, tenant, customer, industry, computing workload, product, or business model.
+>
+> A lawful preexisting use, structure, or condition shall be treated in accordance with Sections 165.14 through 165.20 and other applicable law. To the maximum extent legally permissible, new construction, material expansion, replacement equipment, and materially modified operations after the effective date shall comply with the standards applicable to that work or modification.
+
+
+### 🟥 G(3). Site Development Plan — proposed addition
+
+> 🟥 **RED — NEW §165.11(G)(3)** <span class="m2-redline-tag">●</span>
+>
+> Before issuance of a building permit for a new principal M-2 use or Major Industrial Facility, the applicant shall submit an engineered site development plan identifying, as applicable:
+>
+> - buildings and structures;
+> - parking and loading areas;
+> - access roads;
+> - exterior mechanical and cooling equipment;
+> - generators;
+> - electrical substations and transformers;
+> - energy-storage systems;
+> - fuel and chemical storage;
+> - water and sewer connections;
+> - stormwater facilities;
+> - exterior lighting;
+> - landscaping and screening;
+> - fences;
+> - property boundaries; and
+> - existing sensitive receptors located within 1,000 feet of the property.
+>
+> For a Major Industrial Facility, the plan shall additionally identify maximum anticipated electrical load, water demand, stationary generation capacity, fuel storage, cooling technology, principal noise-generating equipment, and proposed phasing.
+>
+> For any Major Industrial Facility using stationary backup or on-site generation, the applicant shall provide a generator schedule identifying each engine's proposed manufacturer/model, rated electrical and thermal capacity, fuel type, exhaust configuration, fuel tank and containment, anticipated emergency and non-emergency operating modes, reasonably foreseeable simultaneous-operation scenarios, planned testing frequency and duration, and applicable state or federal emissions permits or permit-exemption determinations. Information requiring legitimate security protection may be submitted in an appropriately redacted public version and a protected version, only as authorized by Iowa law. The City shall not purport to issue or replace air-quality permits.
+
+
+### 🟥 G(4). Operational Noise — proposed addition
+
+> 🟥 **RED — NEW §165.11(G)(4)** <span class="m2-redline-tag">●</span>
+>
+> All M-2 uses shall be designed, constructed, operated, and maintained so that noise attributable to the use does not exceed the following standards, measured in accordance with generally accepted professional acoustic practice:
+>
+> **a. M-2 property-line standard:** The facility-attributable one-hour sound level at any property boundary shall not exceed **65 dBA and 75 dBC from 7:00 a.m. to 10:00 p.m.; or 60 dBA and 70 dBC from 10:00 p.m. to 7:00 a.m.** Compliance with the sensitive-receptor measurement provisions below is assessed separately.
+>
+> **b. Residential or sensitive-receptor standard:** At each existing dwelling, school, licensed child-care facility, hospital, nursing facility, place of worship, public library, or comparable occupied sensitive use, compliance shall be evaluated **inside the closest normally occupied room on the side of the structure nearest the M-2 noise source**. The initial assessment shall include the nearest existing qualifying occupied structure. Additional qualifying structures shall be evaluated where source orientation, terrain, or shielding could produce higher exposure.
+>
+> The sound-level meter microphone shall be placed **within five (5) feet of the interior face of the nearest source-facing exterior wall**, but **at least 1.5 feet (0.5 meter) from that wall and other large reflecting surfaces**, where physically practicable, at approximately four (4) to five (5) feet above the finished floor. **All doors and windows shall be closed throughout the measurement.** **In a dwelling with a controllable forced-air HVAC blower, the fan control shall be set to ON for continuous operation during the entire indoor measurement, with the thermostat set within 65°F–75°F where reasonably practicable; the detailed protocol in subsection G(5) applies.** The qualified acoustical professional shall identify the room and measurement positions and document any necessary deviation from these placement requirements. The following **indoor, facility-attributable one-hour equivalent continuous sound levels (Leq,1h)** shall not be exceeded:
+>
+> - **65 dBA and 75 dBC from 7:00 a.m. to 10:00 p.m.**; and
+> - **60 dBA and 70 dBC from 10:00 p.m. to 7:00 a.m.**.
+>
+> **c. Tonal noise:** Where an industrial sound source produces a prominent recurring tone, whine, screech, or hum, the applicable A-weighted limit shall be reduced by five (5) decibels.
+>
+> **d. Measurement:** The one-hour average is the energy-equivalent continuous sound level (Leq,1h), not an arithmetic mean of decibel readings. A qualified acoustical professional shall use a calibrated Type 1 or Type 2 sound-level meter appropriate for the purpose, identify A- or C-weighting, document meteorology for exterior measurements, receiving location, background sources, room conditions for interior measurements, and source operating conditions. Outdoor source assessment shall use a documented ANSI/ASA S12.9 or successor environmental-noise assessment method. Indoor sensitive-receptor assessment shall use a documented method appropriate for room sound and low-frequency industrial noise, including ANSI/ASA S12.72 and S12.9 Part 7 where applicable.[^17][^18] The City shall evaluate only facility-attributable noise using a documented background-noise adjustment procedure, accounting for unrelated indoor sound sources. Entry into an occupied structure for testing requires occupant consent or other lawful authority. If access is unavailable, the professional may report modeled indoor exposure with explicit assumptions, but shall not represent an outdoor measurement as a direct indoor compliance test. These measurement protocols shall not be construed to set a new statewide noise standard.[^5][^6]
+>
+> **e. Voluntary indoor access and outdoor alternative:** The owner or lawful occupant of a sensitive-receptor structure may decline voluntary indoor noise testing. Declining consent does not invalidate a complaint or waive other remedies authorized by law. Interior or exterior entry onto private property requires consent or an independent lawful basis.
+>
+> If indoor testing is declined, the qualified acoustical professional shall measure the facility-attributable Leq,1h outdoors at the point on the sensitive-receptor parcel boundary closest to the industrial property, provided the location is lawfully accessible and acoustically representative. Otherwise, a nearby lawfully accessible representative location shall be selected and the departure documented. The report shall document background conditions, microphone position, source operating conditions and any distance, shielding or reflection adjustments needed to estimate sound incident on the protected structure.
+>
+> To assess the proposed indoor thresholds, the professional shall use documented, source-spectrum-appropriate outdoor-to-indoor noise reduction (OINR) or equivalent acoustical transmission-loss data for the building assembly, including walls, windows, doors and openings. Separate A- and C-weighted estimates and low-frequency assessment shall be provided where applicable. A calculated indoor result shall be labeled an **estimate**, not a direct indoor measurement. The applicable M-2 property-line limit remains unchanged.
+>
+> **Exterior-wall insulation R-values in Iowa energy requirements measure thermal resistance, not acoustical isolation.** R-values may inform assembly identification but shall not be converted directly into dBA/dBC corrections. If reliable facade sound-reduction evidence is unavailable, a zero-decibel reduction may be used for cautious preliminary screening only, not by itself as conclusive proof of an indoor violation. The source of any acoustic correction and its uncertainty shall be disclosed.[^21][^23]
+
+
+### 🟥 G(5). Acoustic Study and Verification — proposed addition
+
+> 🟥 **RED — NEW §165.11(G)(5)** <span class="m2-redline-tag">●</span>
+>
+> Every Major Industrial Facility shall provide, at the applicant's expense:
+>
+> 1. A **preconstruction baseline acoustic evaluation**, completed before site construction or grading materially changes ambient sound, documenting representative exterior A- and C-weighted hourly equivalent levels (Leq,1h) at nearby sensitive-receptor parcels and M-2 property boundaries. The evaluation shall include **voluntary indoor baseline measurements** inside nearby existing sensitive-receptor structures wherever the property owner or lawful occupant consents, as specified below;
+> 2. A predictive acoustic model demonstrating compliance at property boundaries and nearby sensitive receptors under maximum reasonably anticipated operating conditions, including hot-weather conditions where relevant;
+> 3. A post-construction compliance evaluation within sixty (60) days after commencing normal operations at reasonably representative load and weather conditions, or within a documented alternative period approved for commissioning constraints; and
+> 4. A recurring compliance evaluation at least once every three (3) years, or following a material modification reasonably expected to affect noise levels.
+>
+> **Preconstruction indoor-receptor baseline and consent.** The applicant shall identify the closest existing dwelling or other sensitive-receptor structures and any additional receptors reasonably expected to receive greater facility-related noise because of equipment orientation, terrain, or shielding. Before construction, the applicant shall offer the owner or lawful occupant of each selected structure an opportunity, **at no cost to that owner or occupant**, to consent to baseline testing within the nearest normally occupied room facing the proposed industrial source. When consent is granted, a qualified acoustical professional shall record representative **daytime and nighttime indoor dBA and dBC Leq,1h levels** under the placement, closed-door, and closed-window conditions described in subsection G(4)(b), together with operating indoor HVAC or ventilation conditions, existing sound sources, weather where relevant, and measurement times. The study should obtain paired exterior measurements at the same structure when lawful access and conditions permit. This provides a documented **preconstruction ambient baseline**, not a presumption that existing sound is attributable to the proposed facility.
+>
+> **Declined or unavailable access.** Neither a property owner nor a lawful occupant shall be required by this subsection to permit voluntary entry. The applicant shall document reasonable efforts to offer indoor baseline testing and record whether consent was granted or declined without disclosing unnecessary private household information. Where indoor consent is declined or lawful access is unavailable, the preconstruction study shall perform the exterior alternative in subsection G(4)(e), including a source-facing receptor-parcel boundary measurement **only where lawful access is available**, or the nearest suitable lawful exterior location. Any estimated interior baseline shall use independently substantiated acoustical transmission-loss assumptions; **Iowa exterior-wall thermal R-values shall not be converted into decibel adjustments**. Estimated indoor levels shall be identified as *modeled*, not as measured values. A refusal of voluntary interior testing shall not be treated as a waiver of the applicable noise protections.
+>
+> **Thermostat and HVAC fan setting during indoor testing.** During every indoor preconstruction baseline, postconstruction verification, and complaint-response acoustic measurement, **the forced-air HVAC circulation fan shall be set to ON for continuous operation throughout the entire measurement interval**, wherever the building has an occupant-controllable fan ON setting. **AUTO is not the default for this test.** For dwellings, the heating/cooling thermostat setpoint shall be within **65°F to 75°F (inclusive)** where reasonably practicable and consistent with occupant health and safety. Heating and cooling demand may still cycle normally in response to the thermostat; the blower must remain on between those calls. Do not deliberately force heating or cooling cycles. The qualified acoustic professional shall verify and record the actual continuous blower operation, fan speed or mode, system type, thermostat setpoint and mode, measured interior temperature, heating/cooling cycles, other ventilation, and any deviation. These identical test settings shall be used for the comparable preconstruction and postconstruction measurements, or differences must be explained and accounted for in the technical assessment. Continuous fan sound is part of the measured indoor background and may mask industrial noise; the report shall distinguish facility-attributable sound from HVAC sound using a technically appropriate method. Supplemental measurements under other fan settings may inform the assessment but do not replace the required fan-ON measurement. If no blower or continuous-ON control is present, or use would be unsafe or medically inappropriate, document the reason and measure under representative existing conditions; lack of such equipment does not invalidate a complaint. The **65–75°F setpoint and mandatory fan-ON protocol are proposed local measurement conditions**, not Iowa residential code requirements.[^25]
+>
+> **Evidence for a claimed increase after construction.** A finding that a Major Industrial Facility **increased noise inside a neighboring sensitive-receptor structure** shall be supported by reliable evidence of the **preconstruction indoor baseline** and a comparable **postconstruction indoor level**, measured in the same room when practicable, **with exterior doors and windows closed**, using the same A- and C-weighted Leq,1h metrics and comparable daytime/nighttime periods, ventilation settings, and sound-source conditions. The analysis must establish that the later level is higher than the earlier level beyond the stated measurement uncertainty and must separately substantiate the amount **attributable to the facility**, rather than assuming all ambient sound comes from that facility. A preconstruction home need not have been silent; the relevant question is whether its indoor noise demonstrably increased because of the facility.[^24]
+>
+> Where an owner declined the preconstruction indoor evaluation, the City may consider credible earlier sound surveys, contemporaneous records, and the documented exterior-to-interior acoustic model described in subsection G(4)(e). An unsupported assertion of an increase alone shall not establish a violation **based solely on a change from preconstruction conditions**. This evidentiary requirement **does not prevent anyone from submitting a complaint**, does not require a historical baseline to investigate or enforce an **absolute indoor or M-2 property-line limit**, and does not displace rights or remedies under Iowa nuisance law.[^5][^24]
+>
+> The required acoustic model and post-startup testing shall examine ordinary peak operations, reasonably foreseeable simultaneous generator testing or emergency backup operation, identifiable low-frequency or tonal equipment sources, and nearby residential and other sensitive receptors. Where safety or operational requirements prevent actual simultaneous generator testing, a qualified professional may combine measured source data with documented predictive modeling, with assumptions stated in the report.
+>
+> Any separate structure-borne or ground-vibration concern must be evaluated with measurements appropriate to vibration (such as peak particle velocity), not inferred from dBA/dBC sound measurements. A numeric vibration ceiling is **not adopted in this draft** pending independent engineering and legal review.
+>
+> The City may require reasonable corrective measures where testing demonstrates noncompliance.
+
+
+### 🟥 G(6). Generator and Elevated-Noise Testing — proposed addition
+
+> 🟥 **RED — NEW §165.11(G)(6)** <span class="m2-redline-tag">●</span>
+>
+> Routine and pre-planned testing of stationary generators or other equipment producing substantially elevated noise shall occur only between **6:00 a.m. and 8:00 p.m., Monday through Friday**, except where operation outside those hours is:
+>
+> 1. Required during an actual emergency;
+> 2. Necessary to protect life, property, or critical equipment;
+> 3. Required by a governmental agency, applicable code, manufacturer, utility, insurer, or reliability authority; or
+> 4. Specifically authorized by the Zoning Administrator because the testing cannot reasonably be completed during ordinary testing hours.
+>
+> This restriction applies uniformly to M-2 businesses operating such equipment. "Emergency generator" as classified for Iowa air-quality permitting follows applicable state air regulations; local zoning testing-hour rules do not alter air-permit classifications or authorize impermissible emissions.[^7]
+
+
+### 🟥 G(7). Generator Operating Records — proposed addition
+
+> 🟥 **RED — NEW §165.11(G)(7)** <span class="m2-redline-tag">●</span>
+>
+> Any M-2 facility having aggregate stationary generation capacity of two (2) MW or more shall maintain records identifying:
+>
+> - date and duration of each operation;
+> - whether the operation was emergency or non-emergency;
+> - reason for operation; and
+> - equipment operated.
+>
+> Records shall be retained for at least three (3) years and made available to the City upon reasonable request for zoning-compliance purposes, subject to applicable public-record and confidentiality law.
+
+
+### 🟥 G(8). Major Industrial Facility Setbacks — proposed addition
+
+> 🟥 **RED — NEW §165.11(G)(8)** <span class="m2-redline-tag">●</span>
+>
+> Existing M-2 dimensional requirements shall remain applicable generally. In addition, for a new Major Industrial Facility:
+>
+> 1. A principal building shall be located at least **100 feet from a property boundary adjoining a residential zoning district**.
+> 2. Stationary generators, exterior cooling equipment, large transformers, substations, compressors, industrial fans, and comparable exterior mechanical equipment shall be located at least **200 feet from a residential zoning district boundary**.
+> 3. The Board of Adjustment may approve a reduced equipment setback, but never less than 100 feet, where an applicant-funded independent acoustic analysis demonstrates that all applicable noise standards will be met under maximum reasonably anticipated operating conditions.
+>
+> Nothing in this subsection authorizes a setback reduction that conflicts with any other applicable code, easement, fire requirement, or utility clearance.
+
+
+### 🟥 G(9). Exterior Lighting — proposed addition
+
+> 🟥 **RED — NEW §165.11(G)(9)** <span class="m2-redline-tag">●</span>
+>
+> All new or replacement exterior lighting within the M-2 District shall:
+>
+> 1. Be fully shielded and directed downward;
+> 2. Be designed to prevent direct glare onto residential property and public streets;
+> 3. Not exceed **0.5 foot-candle at a residential zoning boundary**, excluding existing public street lighting; and
+> 4. Use automatic controls or reduced lighting levels during periods when full illumination is unnecessary, except for safety, security, and emergency lighting.
+
+
+### 🟥 G(10). Screening — proposed addition
+
+> 🟥 **RED — NEW §165.11(G)(10)** <span class="m2-redline-tag">●</span>
+>
+> Exterior mechanical equipment, generators, fuel tanks, refuse areas, substations, and comparable industrial equipment visible from an adjoining residential district or public right-of-way shall be screened through landscaping, berms, walls, fencing, equipment enclosures, or a combination thereof.
+>
+> Screening shall not interfere with required ventilation, fire access, utility clearance, security, or equipment safety.
+
+
+### 🟥 G(11). Water Use and Cooling — proposed addition
+
+> 🟥 **RED — NEW §165.11(G)(11)** <span class="m2-redline-tag">●</span>
+>
+> Any M-2 use reasonably expected to use **25,000 gallons or more of water in a twenty-four-hour period** shall provide:
+>
+> 1. Projected average and peak water demand;
+> 2. Identification of the proposed water source;
+> 3. Applicable Iowa Department of Natural Resources permits, approvals, or documentation, with any determination of a **regulated** or **nonregulated** water use made under Iowa Code §455B.261 and applicable implementing rules, not inferred from the City's impact-review threshold alone;[^8]
+> 4. An engineering analysis demonstrating adequate water supply without unreasonable interference with existing users;
+> 5. Separate metering of material industrial or cooling-water use where practicable; and
+> 6. Annual water-use reporting to the City.
+>
+> **Once-through cooling using potable municipal water is prohibited for new Major Industrial Facilities.**
+>
+> Closed-loop or non-evaporative cooling shall be preferred. An evaporative system may be approved where professional engineering demonstrates that the alternative will not create an unreasonable demand upon municipal water resources and adequately controls drift, plume, condensation, and icing.
+
+
+### 🟥 G(12). Electrical Utility Verification — proposed addition
+
+> 🟥 **RED — NEW §165.11(G)(12)** <span class="m2-redline-tag">●</span>
+>
+> Before issuance of a building permit for any M-2 use having maximum anticipated electrical demand of five (5) MW or more, the applicant shall provide written documentation from the serving electric utility confirming that:
+>
+> 1. The proposed maximum electrical demand has been disclosed;
+> 2. Required utility infrastructure and service upgrades have been identified sufficiently for the utility to provide service;
+> 3. Responsibility for project-specific utility improvements has been addressed between the utility and customer; and
+> 4. The facility's electrical service may be constructed and operated in accordance with applicable utility, electrical, and safety requirements.
+>
+> Nothing in this ordinance regulates electric rates, utility service territories, generation procurement, or matters preempted or otherwise committed by law to a public utility, electric cooperative, state agency, or federal authority.
+
+
+### 🟥 G(13). Fuel, Batteries, Hazardous Materials, and Emergency Response — proposed addition
+
+> 🟥 **RED — NEW §165.11(G)(13)** <span class="m2-redline-tag">●</span>
+>
+> A Major Industrial Facility shall provide an Emergency Response Plan to the City and appropriate emergency-response agencies before occupancy.
+>
+> The plan shall identify, where applicable:
+>
+> - emergency contacts;
+> - facility access;
+> - electrical disconnects;
+> - generator locations;
+> - fuel quantities and shutoffs;
+> - coolant and chemical inventories;
+> - battery-energy-storage systems;
+> - fire-suppression systems;
+> - evacuation procedures;
+> - spill response; and
+> - procedures for providing emergency responders access to the site.
+>
+> The plan shall be reviewed following material facility modifications and at reasonable intervals requested by the City or responding agencies.
+
+
+### 🟥 G(14). Heat Rejection, Drift, Condensation, and Icing — proposed addition
+
+> 🟥 **RED — NEW §165.11(G)(14)** <span class="m2-redline-tag">●</span>
+>
+> No M-2 mechanical exhaust, cooling, or heat-rejection system shall be operated in a manner that causes ice, condensate, cooling-tower drift, mist, or similar discharge to accumulate upon an adjoining property or public right-of-way or create an unreasonable safety hazard.
+
+
+### 🟥 G(15). Stormwater and Drainage — proposed addition
+
+> 🟥 **RED — NEW §165.11(G)(15)** <span class="m2-redline-tag">●</span>
+>
+> All new M-2 development shall comply with applicable City, state, and federal stormwater requirements.
+>
+> A Major Industrial Facility shall submit engineered stormwater calculations demonstrating that development will not cause an unlawful or unreasonable increase in off-site flooding, erosion, or drainage impacts, **subject to Iowa Code §364.3 limitations on municipal runoff and topsoil requirements**. An independently imposed more restrictive runoff standard may require the City to bear specified engineering, construction, or property costs, and shall not be presumed authorized by this zoning section.[^9]
+>
+> The property owner shall be responsible for repair of documented project-caused damage to City drainage infrastructure to the extent permitted by law.
+
+
+### 🟥 G(16). Public Infrastructure — proposed addition
+
+> 🟥 **RED — NEW §165.11(G)(16)** <span class="m2-redline-tag">●</span>
+>
+> Where an M-2 development creates a documented need for road, water, sewer, drainage, emergency-service, or other public improvements beyond existing system capacity, the City may require a development or infrastructure agreement allocating proportionate project-related costs to the applicant to the extent permitted by Iowa law.
+>
+> This provision shall apply equally to every M-2 development creating the same type and degree of infrastructure burden.
+>
+> Where substantial construction hauling is reasonably expected to affect City roads, the City may, pursuant to an independently authorized permit or written road-use agreement, require a preconstruction photographic/engineering condition survey, defined haul routes and axle/load limits, reasonable maintenance and restoration terms, postconstruction verification, and proportionate financial security supported by an engineering estimate. No fixed multiplier or new fee is prescribed here without legal review.
+
+
+### 🟥 G(17). Decommissioning of Major Industrial Facilities — proposed addition
+
+> 🟥 **RED — NEW §165.11(G)(17)** <span class="m2-redline-tag">●</span>
+>
+> An application for a Major Industrial Facility shall include a decommissioning plan describing:
+>
+> 1. Anticipated facility life;
+> 2. Equipment and structures to be removed;
+> 3. Environmental remediation and site restoration;
+> 4. Estimated decommissioning cost;
+> 5. Salvage assumptions; and
+> 6. Proposed method of financial assurance.
+>
+> A facility shall be considered abandoned when its principal industrial operation has ceased continuously for twelve (12) months, excluding temporary shutdowns caused by reconstruction, documented market conditions accompanied by evidence of a bona fide intent to resume operations, casualty, litigation, government order, utility interruption, or similar circumstances approved by the Zoning Administrator.
+>
+> Following abandonment, decommissioning shall be completed within twelve (12) months unless extended for good cause.
+>
+> The form and amount of financial assurance shall be established in a manner approved by the City Attorney and shall be reasonably related to the documented cost of decommissioning and site restoration.
+>
+> A qualified professional's decommissioning cost estimate shall be reviewed at least once every three (3) years and following a material expansion or ownership/operator change that materially alters restoration obligations. The City may require adjustment of assurance to the reasonable documented cost of performance, including contingencies, only through a legally authorized and objectively administered instrument.
+>
+> To the extent enforceable under Iowa law, approval conditions and any separate recorded agreement shall identify responsible owners and operators, notice requirements upon transfer, acceptable successor security, and procedures for default and lawful recovery. Private contracts shall not transfer away obligations imposed by law or approval conditions.
+
+
+### 🟥 G(18). Material Expansion — proposed addition
+
+> 🟥 **RED — NEW §165.11(G)(18)** <span class="m2-redline-tag">●</span>
+>
+> An approved Major Industrial Facility shall require an updated Special Exception review where a proposed modification would increase any of the following by **twenty percent (20%) or more** above the previously approved maximum:
+>
+> - electrical demand;
+> - water demand;
+> - stationary generation capacity;
+> - energy-storage capacity;
+> - exterior mechanical-equipment capacity; or
+> - developed building area.
+>
+> Crossing a Major Industrial Facility threshold for the first time shall require Special Exception approval regardless of percentage increase.
+
+
+### 🟥 G(19). Compliance, Inspection, and Corrective Action — proposed addition
+
+> 🟥 **RED — NEW §165.11(G)(19)** <span class="m2-redline-tag">●</span>
+>
+> The Zoning Administrator may require documentation reasonably necessary to verify compliance with conditions of approval and the objective standards of this section. Where specialized testing or engineering is reasonably required because of a credible compliance question involving a Major Industrial Facility, the City may require the owner or operator to provide qualified professional testing, subject to applicable law and any fee or cost-recovery provisions adopted by the City.
+>
+> Each Major Industrial Facility shall submit a brief annual compliance certification to the Zoning Administrator by March 1 for the prior calendar year, identifying the facility owner and operator; material changes in electricity demand, generation equipment, cooling and water use; whether prescribed acoustic tests and generator logs have been maintained; reported material incidents or violations; and the status of financial assurance. The certification is a compliance statement, not automatic approval of unverified representations.
+>
+> Where reasonably necessary and authorized by an adopted fee schedule or agreement, the City may retain or approve an independent qualified professional to review applicant studies and required remedial testing at reasonable, documented applicant cost. For complex matters, the City may require a deposit or escrow established through lawful procedures with an accounting and refund of unused amounts. The applicant must not control or direct the independent expert's findings.
+>
+> Nothing in this section limits other remedies available under Chapter 165 or applicable law.
 
-**RED - PROPOSED NEW §165.11(G)(2) THROUGH (19):**
 
-### G(2). Uniform Applicability
-
-The requirements of this subsection apply uniformly to M-2 uses, structures, and operations unless a provision expressly establishes an objective physical or operational threshold. No requirement shall be imposed, waived, or varied solely because of the identity of the owner, operator, tenant, customer, industry, computing workload, product, or business model.
-
-A lawful preexisting use, structure, or condition shall be treated in accordance with Sections 165.14 through 165.20 and other applicable law. To the maximum extent legally permissible, new construction, material expansion, replacement equipment, and materially modified operations after the effective date shall comply with the standards applicable to that work or modification.
-
-### G(3). Site Development Plan
-
-Before issuance of a building permit for a new principal M-2 use or Major Industrial Facility, the applicant shall submit an engineered site development plan identifying, as applicable:
-
-- buildings and structures;
-- parking and loading areas;
-- access roads;
-- exterior mechanical and cooling equipment;
-- generators;
-- electrical substations and transformers;
-- energy-storage systems;
-- fuel and chemical storage;
-- water and sewer connections;
-- stormwater facilities;
-- exterior lighting;
-- landscaping and screening;
-- fences;
-- property boundaries; and
-- existing sensitive receptors located within 1,000 feet of the property.
-
-For a Major Industrial Facility, the plan shall additionally identify maximum anticipated electrical load, water demand, stationary generation capacity, fuel storage, cooling technology, principal noise-generating equipment, and proposed phasing.
-
-For any Major Industrial Facility using stationary backup or on-site generation, the applicant shall provide a generator schedule identifying each engine's proposed manufacturer/model, rated electrical and thermal capacity, fuel type, exhaust configuration, fuel tank and containment, anticipated emergency and non-emergency operating modes, reasonably foreseeable simultaneous-operation scenarios, planned testing frequency and duration, and applicable state or federal emissions permits or permit-exemption determinations. Information requiring legitimate security protection may be submitted in an appropriately redacted public version and a protected version, only as authorized by Iowa law. The City shall not purport to issue or replace air-quality permits.
-
-### G(4). Operational Noise
-
-All M-2 uses shall be designed, constructed, operated, and maintained so that noise attributable to the use does not exceed the following standards, measured in accordance with generally accepted professional acoustic practice:
-
-**a. M-2 property-line standard:** 65 dBA and 75 dBC hourly average at any property boundary, except where the residential/sensitive-receptor standard below is more restrictive.
-
-**b. Residential or sensitive-receptor standard:** At each existing dwelling, school, licensed child-care facility, hospital, nursing facility, place of worship, public library, or comparable occupied sensitive use, compliance shall be evaluated **inside the closest normally occupied room on the side of the structure nearest the M-2 noise source**. The initial assessment shall include the nearest existing qualifying occupied structure. Additional qualifying structures shall be evaluated where source orientation, terrain, or shielding could produce higher exposure.
-
-The sound-level meter microphone shall be placed **within five (5) feet of the interior face of the nearest source-facing exterior wall**, but **at least 1.5 feet (0.5 meter) from that wall and other large reflecting surfaces**, where physically practicable, at approximately four (4) to five (5) feet above the finished floor. **All doors and windows shall be closed throughout the measurement.** **In a dwelling with a controllable forced-air HVAC blower, the fan control shall be set to ON for continuous operation during the entire indoor measurement, with the thermostat set within 65°F–75°F where reasonably practicable; the detailed protocol in subsection G(5) applies.** The qualified acoustical professional shall identify the room and measurement positions and document any necessary deviation from these placement requirements. The following **indoor, facility-attributable one-hour equivalent continuous sound levels (Leq,1h)** shall not be exceeded:
-
-- 55 dBA and 65 dBC from 7:00 a.m. to 10:00 p.m.; and
-- 50 dBA and 60 dBC from 10:00 p.m. to 7:00 a.m.
-
-**c. Tonal noise:** Where an industrial sound source produces a prominent recurring tone, whine, screech, or hum, the applicable A-weighted limit shall be reduced by five (5) decibels.
-
-**d. Measurement:** The one-hour average is the energy-equivalent continuous sound level (Leq,1h), not an arithmetic mean of decibel readings. A qualified acoustical professional shall use a calibrated Type 1 or Type 2 sound-level meter appropriate for the purpose, identify A- or C-weighting, document meteorology for exterior measurements, receiving location, background sources, room conditions for interior measurements, and source operating conditions. Outdoor source assessment shall use a documented ANSI/ASA S12.9 or successor environmental-noise assessment method. Indoor sensitive-receptor assessment shall use a documented method appropriate for room sound and low-frequency industrial noise, including ANSI/ASA S12.72 and S12.9 Part 7 where applicable.[^17][^18] The City shall evaluate only facility-attributable noise using a documented background-noise adjustment procedure, accounting for unrelated indoor sound sources. Entry into an occupied structure for testing requires occupant consent or other lawful authority. If access is unavailable, the professional may report modeled indoor exposure with explicit assumptions, but shall not represent an outdoor measurement as a direct indoor compliance test. These measurement protocols shall not be construed to set a new statewide noise standard.[^5][^6]
-
-**e. Voluntary indoor access and outdoor alternative:** The owner or lawful occupant of a sensitive-receptor structure may decline voluntary indoor noise testing. Declining consent does not invalidate a complaint or waive other remedies authorized by law. Interior or exterior entry onto private property requires consent or an independent lawful basis.
-
-If indoor testing is declined, the qualified acoustical professional shall measure the facility-attributable Leq,1h outdoors at the point on the sensitive-receptor parcel boundary closest to the industrial property, provided the location is lawfully accessible and acoustically representative. Otherwise, a nearby lawfully accessible representative location shall be selected and the departure documented. The report shall document background conditions, microphone position, source operating conditions and any distance, shielding or reflection adjustments needed to estimate sound incident on the protected structure.
-
-To assess the proposed indoor thresholds, the professional shall use documented, source-spectrum-appropriate outdoor-to-indoor noise reduction (OINR) or equivalent acoustical transmission-loss data for the building assembly, including walls, windows, doors and openings. Separate A- and C-weighted estimates and low-frequency assessment shall be provided where applicable. A calculated indoor result shall be labeled an **estimate**, not a direct indoor measurement. The applicable M-2 property-line limit remains unchanged.
-
-**Exterior-wall insulation R-values in Iowa energy requirements measure thermal resistance, not acoustical isolation.** R-values may inform assembly identification but shall not be converted directly into dBA/dBC corrections. If reliable facade sound-reduction evidence is unavailable, a zero-decibel reduction may be used for cautious preliminary screening only, not by itself as conclusive proof of an indoor violation. The source of any acoustic correction and its uncertainty shall be disclosed.[^21][^23]
-
-### G(5). Acoustic Study and Verification
-
-Every Major Industrial Facility shall provide, at the applicant's expense:
-
-1. A **preconstruction baseline acoustic evaluation**, completed before site construction or grading materially changes ambient sound, documenting representative exterior A- and C-weighted hourly equivalent levels (Leq,1h) at nearby sensitive-receptor parcels and M-2 property boundaries. The evaluation shall include **voluntary indoor baseline measurements** inside nearby existing sensitive-receptor structures wherever the property owner or lawful occupant consents, as specified below;
-2. A predictive acoustic model demonstrating compliance at property boundaries and nearby sensitive receptors under maximum reasonably anticipated operating conditions, including hot-weather conditions where relevant;
-3. A post-construction compliance evaluation within sixty (60) days after commencing normal operations at reasonably representative load and weather conditions, or within a documented alternative period approved for commissioning constraints; and
-4. A recurring compliance evaluation at least once every three (3) years, or following a material modification reasonably expected to affect noise levels.
-
-**Preconstruction indoor-receptor baseline and consent.** The applicant shall identify the closest existing dwelling or other sensitive-receptor structures and any additional receptors reasonably expected to receive greater facility-related noise because of equipment orientation, terrain, or shielding. Before construction, the applicant shall offer the owner or lawful occupant of each selected structure an opportunity, **at no cost to that owner or occupant**, to consent to baseline testing within the nearest normally occupied room facing the proposed industrial source. When consent is granted, a qualified acoustical professional shall record representative **daytime and nighttime indoor dBA and dBC Leq,1h levels** under the placement, closed-door, and closed-window conditions described in subsection G(4)(b), together with operating indoor HVAC or ventilation conditions, existing sound sources, weather where relevant, and measurement times. The study should obtain paired exterior measurements at the same structure when lawful access and conditions permit. This provides a documented **preconstruction ambient baseline**, not a presumption that existing sound is attributable to the proposed facility.
-
-**Declined or unavailable access.** Neither a property owner nor a lawful occupant shall be required by this subsection to permit voluntary entry. The applicant shall document reasonable efforts to offer indoor baseline testing and record whether consent was granted or declined without disclosing unnecessary private household information. Where indoor consent is declined or lawful access is unavailable, the preconstruction study shall perform the exterior alternative in subsection G(4)(e), including a source-facing receptor-parcel boundary measurement **only where lawful access is available**, or the nearest suitable lawful exterior location. Any estimated interior baseline shall use independently substantiated acoustical transmission-loss assumptions; **Iowa exterior-wall thermal R-values shall not be converted into decibel adjustments**. Estimated indoor levels shall be identified as *modeled*, not as measured values. A refusal of voluntary interior testing shall not be treated as a waiver of the applicable noise protections.
-
-**Thermostat and HVAC fan setting during indoor testing.** During every indoor preconstruction baseline, postconstruction verification, and complaint-response acoustic measurement, **the forced-air HVAC circulation fan shall be set to ON for continuous operation throughout the entire measurement interval**, wherever the building has an occupant-controllable fan ON setting. **AUTO is not the default for this test.** For dwellings, the heating/cooling thermostat setpoint shall be within **65°F to 75°F (inclusive)** where reasonably practicable and consistent with occupant health and safety. Heating and cooling demand may still cycle normally in response to the thermostat; the blower must remain on between those calls. Do not deliberately force heating or cooling cycles. The qualified acoustic professional shall verify and record the actual continuous blower operation, fan speed or mode, system type, thermostat setpoint and mode, measured interior temperature, heating/cooling cycles, other ventilation, and any deviation. These identical test settings shall be used for the comparable preconstruction and postconstruction measurements, or differences must be explained and accounted for in the technical assessment. Continuous fan sound is part of the measured indoor background and may mask industrial noise; the report shall distinguish facility-attributable sound from HVAC sound using a technically appropriate method. Supplemental measurements under other fan settings may inform the assessment but do not replace the required fan-ON measurement. If no blower or continuous-ON control is present, or use would be unsafe or medically inappropriate, document the reason and measure under representative existing conditions; lack of such equipment does not invalidate a complaint. The **65–75°F setpoint and mandatory fan-ON protocol are proposed local measurement conditions**, not Iowa residential code requirements.[^25]
-
-**Evidence for a claimed increase after construction.** A finding that a Major Industrial Facility **increased noise inside a neighboring sensitive-receptor structure** shall be supported by reliable evidence of the **preconstruction indoor baseline** and a comparable **postconstruction indoor level**, measured in the same room when practicable, **with exterior doors and windows closed**, using the same A- and C-weighted Leq,1h metrics and comparable daytime/nighttime periods, ventilation settings, and sound-source conditions. The analysis must establish that the later level is higher than the earlier level beyond the stated measurement uncertainty and must separately substantiate the amount **attributable to the facility**, rather than assuming all ambient sound comes from that facility. A preconstruction home need not have been silent; the relevant question is whether its indoor noise demonstrably increased because of the facility.[^24]
-
-Where an owner declined the preconstruction indoor evaluation, the City may consider credible earlier sound surveys, contemporaneous records, and the documented exterior-to-interior acoustic model described in subsection G(4)(e). An unsupported assertion of an increase alone shall not establish a violation **based solely on a change from preconstruction conditions**. This evidentiary requirement **does not prevent anyone from submitting a complaint**, does not require a historical baseline to investigate or enforce an **absolute indoor or M-2 property-line limit**, and does not displace rights or remedies under Iowa nuisance law.[^5][^24]
-
-The required acoustic model and post-startup testing shall examine ordinary peak operations, reasonably foreseeable simultaneous generator testing or emergency backup operation, identifiable low-frequency or tonal equipment sources, and nearby residential and other sensitive receptors. Where safety or operational requirements prevent actual simultaneous generator testing, a qualified professional may combine measured source data with documented predictive modeling, with assumptions stated in the report.
-
-Any separate structure-borne or ground-vibration concern must be evaluated with measurements appropriate to vibration (such as peak particle velocity), not inferred from dBA/dBC sound measurements. A numeric vibration ceiling is **not adopted in this draft** pending independent engineering and legal review.
-
-The City may require reasonable corrective measures where testing demonstrates noncompliance.
-
-### G(6). Generator and Elevated-Noise Testing
-
-Routine and pre-planned testing of stationary generators or other equipment producing substantially elevated noise shall occur only between **8:00 a.m. and 6:00 p.m., Monday through Friday**, except where operation outside those hours is:
-
-1. Required during an actual emergency;
-2. Necessary to protect life, property, or critical equipment;
-3. Required by a governmental agency, applicable code, manufacturer, utility, insurer, or reliability authority; or
-4. Specifically authorized by the Zoning Administrator because the testing cannot reasonably be completed during ordinary testing hours.
-
-This restriction applies uniformly to M-2 businesses operating such equipment. "Emergency generator" as classified for Iowa air-quality permitting follows applicable state air regulations; local zoning testing-hour rules do not alter air-permit classifications or authorize impermissible emissions.[^7]
-
-### G(7). Generator Operating Records
-
-Any M-2 facility having aggregate stationary generation capacity of two (2) MW or more shall maintain records identifying:
-
-- date and duration of each operation;
-- whether the operation was emergency or non-emergency;
-- reason for operation; and
-- equipment operated.
-
-Records shall be retained for at least three (3) years and made available to the City upon reasonable request for zoning-compliance purposes, subject to applicable public-record and confidentiality law.
-
-### G(8). Major Industrial Facility Setbacks
-
-Existing M-2 dimensional requirements shall remain applicable generally. In addition, for a new Major Industrial Facility:
-
-1. A principal building shall be located at least **100 feet from a property boundary adjoining a residential zoning district**.
-2. Stationary generators, exterior cooling equipment, large transformers, substations, compressors, industrial fans, and comparable exterior mechanical equipment shall be located at least **200 feet from a residential zoning district boundary**.
-3. The Board of Adjustment may approve a reduced equipment setback, but never less than 100 feet, where an applicant-funded independent acoustic analysis demonstrates that all applicable noise standards will be met under maximum reasonably anticipated operating conditions.
-
-Nothing in this subsection authorizes a setback reduction that conflicts with any other applicable code, easement, fire requirement, or utility clearance.
-
-### G(9). Exterior Lighting
-
-All new or replacement exterior lighting within the M-2 District shall:
-
-1. Be fully shielded and directed downward;
-2. Be designed to prevent direct glare onto residential property and public streets;
-3. Not exceed **0.5 foot-candle at a residential zoning boundary**, excluding existing public street lighting; and
-4. Use automatic controls or reduced lighting levels during periods when full illumination is unnecessary, except for safety, security, and emergency lighting.
-
-### G(10). Screening
-
-Exterior mechanical equipment, generators, fuel tanks, refuse areas, substations, and comparable industrial equipment visible from an adjoining residential district or public right-of-way shall be screened through landscaping, berms, walls, fencing, equipment enclosures, or a combination thereof.
-
-Screening shall not interfere with required ventilation, fire access, utility clearance, security, or equipment safety.
-
-### G(11). Water Use and Cooling
-
-Any M-2 use reasonably expected to use **25,000 gallons or more of water in a twenty-four-hour period** shall provide:
-
-1. Projected average and peak water demand;
-2. Identification of the proposed water source;
-3. Applicable Iowa Department of Natural Resources permits, approvals, or documentation, with any determination of a **regulated** or **nonregulated** water use made under Iowa Code §455B.261 and applicable implementing rules, not inferred from the City's impact-review threshold alone;[^8]
-4. An engineering analysis demonstrating adequate water supply without unreasonable interference with existing users;
-5. Separate metering of material industrial or cooling-water use where practicable; and
-6. Annual water-use reporting to the City.
-
-**Once-through cooling using potable municipal water is prohibited for new Major Industrial Facilities.**
-
-Closed-loop or non-evaporative cooling shall be preferred. An evaporative system may be approved where professional engineering demonstrates that the alternative will not create an unreasonable demand upon municipal water resources and adequately controls drift, plume, condensation, and icing.
-
-### G(12). Electrical Utility Verification
-
-Before issuance of a building permit for any M-2 use having maximum anticipated electrical demand of five (5) MW or more, the applicant shall provide written documentation from the serving electric utility confirming that:
-
-1. The proposed maximum electrical demand has been disclosed;
-2. Required utility infrastructure and service upgrades have been identified sufficiently for the utility to provide service;
-3. Responsibility for project-specific utility improvements has been addressed between the utility and customer; and
-4. The facility's electrical service may be constructed and operated in accordance with applicable utility, electrical, and safety requirements.
-
-Nothing in this ordinance regulates electric rates, utility service territories, generation procurement, or matters preempted or otherwise committed by law to a public utility, electric cooperative, state agency, or federal authority.
-
-### G(13). Fuel, Batteries, Hazardous Materials, and Emergency Response
-
-A Major Industrial Facility shall provide an Emergency Response Plan to the City and appropriate emergency-response agencies before occupancy.
-
-The plan shall identify, where applicable:
-
-- emergency contacts;
-- facility access;
-- electrical disconnects;
-- generator locations;
-- fuel quantities and shutoffs;
-- coolant and chemical inventories;
-- battery-energy-storage systems;
-- fire-suppression systems;
-- evacuation procedures;
-- spill response; and
-- procedures for providing emergency responders access to the site.
-
-The plan shall be reviewed following material facility modifications and at reasonable intervals requested by the City or responding agencies.
-
-### G(14). Heat Rejection, Drift, Condensation, and Icing
-
-No M-2 mechanical exhaust, cooling, or heat-rejection system shall be operated in a manner that causes ice, condensate, cooling-tower drift, mist, or similar discharge to accumulate upon an adjoining property or public right-of-way or create an unreasonable safety hazard.
-
-### G(15). Stormwater and Drainage
-
-All new M-2 development shall comply with applicable City, state, and federal stormwater requirements.
-
-A Major Industrial Facility shall submit engineered stormwater calculations demonstrating that development will not cause an unlawful or unreasonable increase in off-site flooding, erosion, or drainage impacts, **subject to Iowa Code §364.3 limitations on municipal runoff and topsoil requirements**. An independently imposed more restrictive runoff standard may require the City to bear specified engineering, construction, or property costs, and shall not be presumed authorized by this zoning section.[^9]
-
-The property owner shall be responsible for repair of documented project-caused damage to City drainage infrastructure to the extent permitted by law.
-
-### G(16). Public Infrastructure
-
-Where an M-2 development creates a documented need for road, water, sewer, drainage, emergency-service, or other public improvements beyond existing system capacity, the City may require a development or infrastructure agreement allocating proportionate project-related costs to the applicant to the extent permitted by Iowa law.
-
-This provision shall apply equally to every M-2 development creating the same type and degree of infrastructure burden.
-
-Where substantial construction hauling is reasonably expected to affect City roads, the City may, pursuant to an independently authorized permit or written road-use agreement, require a preconstruction photographic/engineering condition survey, defined haul routes and axle/load limits, reasonable maintenance and restoration terms, postconstruction verification, and proportionate financial security supported by an engineering estimate. No fixed multiplier or new fee is prescribed here without legal review.
-
-### G(17). Decommissioning of Major Industrial Facilities
-
-An application for a Major Industrial Facility shall include a decommissioning plan describing:
-
-1. Anticipated facility life;
-2. Equipment and structures to be removed;
-3. Environmental remediation and site restoration;
-4. Estimated decommissioning cost;
-5. Salvage assumptions; and
-6. Proposed method of financial assurance.
-
-A facility shall be considered abandoned when its principal industrial operation has ceased continuously for twelve (12) months, excluding temporary shutdowns caused by reconstruction, documented market conditions accompanied by evidence of a bona fide intent to resume operations, casualty, litigation, government order, utility interruption, or similar circumstances approved by the Zoning Administrator.
-
-Following abandonment, decommissioning shall be completed within twelve (12) months unless extended for good cause.
-
-The form and amount of financial assurance shall be established in a manner approved by the City Attorney and shall be reasonably related to the documented cost of decommissioning and site restoration.
-
-A qualified professional's decommissioning cost estimate shall be reviewed at least once every three (3) years and following a material expansion or ownership/operator change that materially alters restoration obligations. The City may require adjustment of assurance to the reasonable documented cost of performance, including contingencies, only through a legally authorized and objectively administered instrument.
-
-To the extent enforceable under Iowa law, approval conditions and any separate recorded agreement shall identify responsible owners and operators, notice requirements upon transfer, acceptable successor security, and procedures for default and lawful recovery. Private contracts shall not transfer away obligations imposed by law or approval conditions.
-
-### G(18). Material Expansion
-
-An approved Major Industrial Facility shall require an updated Special Exception review where a proposed modification would increase any of the following by **twenty percent (20%) or more** above the previously approved maximum:
-
-- electrical demand;
-- water demand;
-- stationary generation capacity;
-- energy-storage capacity;
-- exterior mechanical-equipment capacity; or
-- developed building area.
-
-Crossing a Major Industrial Facility threshold for the first time shall require Special Exception approval regardless of percentage increase.
-
-### G(19). Compliance, Inspection, and Corrective Action
-
-The Zoning Administrator may require documentation reasonably necessary to verify compliance with conditions of approval and the objective standards of this section. Where specialized testing or engineering is reasonably required because of a credible compliance question involving a Major Industrial Facility, the City may require the owner or operator to provide qualified professional testing, subject to applicable law and any fee or cost-recovery provisions adopted by the City.
-
-Each Major Industrial Facility shall submit a brief annual compliance certification to the Zoning Administrator by March 1 for the prior calendar year, identifying the facility owner and operator; material changes in electricity demand, generation equipment, cooling and water use; whether prescribed acoustic tests and generator logs have been maintained; reported material incidents or violations; and the status of financial assurance. The certification is a compliance statement, not automatic approval of unverified representations.
-
-Where reasonably necessary and authorized by an adopted fee schedule or agreement, the City may retain or approve an independent qualified professional to review applicant studies and required remedial testing at reasonable, documented applicant cost. For complex matters, the City may require a deposit or escrow established through lawful procedures with an accounting and refund of unused amounts. The applicant must not control or direct the independent expert's findings.
-
-Nothing in this section limits other remedies available under Chapter 165 or applicable law.
-
-</div>
 
 
 ---
 
-## PROPOSED CHAPTER 165.41 DEFINITION ADDITIONS
+## EXISTING §165.12 SUPPLEMENTARY DISTRICT REGULATIONS (BLACK) AND PROPOSED PROHIBITION (RED)
 
-**The 26 terms below are RED additions to the existing Chapter 165.41 glossary, not a replacement of its previously adopted definitions.** The original §165.41 appears elsewhere in the larger historic Chapter 165 scan; this reprint includes **all of M-2 §165.11**, not all of Chapter 165. Neither existing definitions nor any other sections are repealed merely because they are not reproduced here.[^11][^15]
+**BLACK — existing §165.12(6), as printed in the preserved zoning scan; not changed by the proposal:** 
 
-<div class="m2-addblock" markdown="1">
+> **6. Proposed Use Not Covered In Ordinance.** Any proposed use not covered in this Ordinance as a Permitted Use or Special Exception shall be referred to the Planning and Zoning Commission for a recommendation as to the proper district in which such use should be permitted and the Ordinance amended as provided in Section 165.39 before a permit is issued for such proposed use.[^15]
 
-**Data Center or High-Density Computing Facility:** A building, structure, or portion thereof principally used for networked servers, electronic data processing, digital storage, artificial-intelligence, cloud, colocation, scientific, or cryptocurrency computing. Incidental computer rooms and telecommunications equipment subordinate to another principal use are excluded.
+**BLACK — existing §165.12(16), as printed in the preserved zoning scan; not changed by the proposal:**
 
-**Major Industrial Facility:** An M-2 use exceeding any one threshold in proposed §165.11(D)(8): 5 MW coincident demand, 25,000 gallons in any 24 hours, 2 MW aggregate stationary generation, or 5 MWh storage. Also includes a modification that crosses a threshold.
+> **16. Subdivision Required.** Every owner of any lot or tract of land who shall subdivide the same into three (3) or more parts on or after the effective date of adoption of the original Subdivision Control Ordinance (June 9, 1975), shall have the plat of such subdivision approved by the City Council as provided in the Subdivision Control Ordinance (Title VI, Chapter 166, City Code of the City of Cascade, Iowa). All re-plats of existing lots in subdivisions shall comply with the procedures and standards of the Subdivision Control Ordinance.[^15]
 
-**Material Expansion:** A modification increasing an approved maximum by 20 percent or more for electrical demand, water demand, stationary generation, energy storage, exterior mechanical capacity, or developed building area, or crossing a Major Industrial Facility threshold for the first time.
+**Source caution:** The reproduced §165.12(6) and (16) paragraphs are the relevant bookends, **not a reprint of all existing §165.12(1)–(16)**. The separately enacted 2024 fencing amendment to §165.12(12) remains untouched. The City Clerk must verify §165.12's current numbering before adding (17).[^16]
 
-**Sensitive Receptor:** An occupied dwelling, school, licensed child-care facility, hospital, nursing facility, place of worship, public library, public park facility, or comparable occupied use requiring protection from continuous industrial noise.
+> 🟥 **RED — NEW PROPOSED §165.12(17) — CITYWIDE HYPERSCALE PROHIBITION** <span class="m2-redline-tag">●</span>
+>
+> **17. Hyperscale Data Centers - Prohibited in All Zoning Districts.**
+>
+> A Hyperscale Data Center, as defined in Section 165.41, is a prohibited land use in every zoning district regulated by this Ordinance within the City of Cascade's lawful zoning jurisdiction. A Hyperscale Data Center shall not be approved as a permitted principal use, accessory use, special exception, conditional use, or as a component of an otherwise permitted use. No zoning, development, building, or other City land-use approval shall be issued for the initial establishment, construction, conversion, or expansion of a facility to a Hyperscale Data Center.
+>
+> The Major Industrial Facility special-exception review in Section 165.11(D)(8) does not make a Hyperscale Data Center eligible for approval. Project phases and functionally integrated buildings or facilities under a unified development plan shall be reviewed together to determine whether the defined Hyperscale Data Center thresholds are met; separate bona fide facilities shall not be aggregated solely because they are neighbors. Any change to a lawful permitted Data Center that would meet both Hyperscale Data Center thresholds after the change is prohibited unless and until the governing zoning ordinance is lawfully amended.
+>
+> This subsection applies within the incorporated City and any territory in which Cascade has validly exercised municipal zoning jurisdiction under Iowa Code Section 414.23. It does not claim authority over unincorporated territory zoned by a county or other land beyond the City's legally established jurisdiction. It does not extinguish lawful existing nonconforming-use rights or displace appeal and variance authority independently granted by state law.[^31]
 
-**Ambient Noise / Baseline Sound:** The sound environment at a designated receiving location without the regulated facility's incremental contribution, determined under representative day, night, and meteorological conditions. Ambient noise is not the Iowa air-quality term "ambient air."[^7][^6]
 
-**Facility-Attributable Noise:** The sound contribution attributable to a regulated M-2 use at the specified receiving point, including reasonably foreseeable simultaneous operation of equipment; exclude unrelated transportation, natural, and third-party background noise through an approved, documented acoustical procedure.[^6]
-
-**dBA:** A-weighted decibels of sound pressure, measured with calibrated equipment using the applicable professional noise measurement method.
-
-**dBC:** C-weighted decibels of sound pressure, which place greater relative weight on low-frequency sound than A-weighting.
-
-**Hourly Average Sound Level (Leq,1h):** The energy-equivalent continuous sound-pressure level over sixty (60) minutes, expressed using the specified A- or C-weighting; intermittent contributions are averaged on an acoustic energy basis, not by taking an arithmetic mean of decibel values. The qualified professional shall identify source operation, background sound, measurement location, and calibration.[^6]
-
-**Prominent Tone / Tonal Noise:** An identifiable recurring or steady audible frequency component distinguishable from neighboring sound bands when evaluated under the ordinance's specified professional acoustical method.
-
-**Acoustic Study:** A qualified professional's documented baseline survey, maximum-design-operation model, receptor analysis, assumptions, equipment schedule, and verification protocol.
-
-**Maximum Anticipated Coincident Electrical Demand:** The greatest reasonably anticipated simultaneous electrical load, expressed in MW, for the complete site during normal or design-maximum operation. A sum of independent equipment nameplate ratings does not establish coincident site demand without a documented load calculation.
-
-**Aggregate Stationary Generation Capacity:** The sum of rated electrical outputs of all stationary generators covered by the section, in megawatts, excluding fire pumps only where expressly provided.
-
-**Aggregate Electrical-Energy-Storage Capacity:** The summed rated stored electrical energy of covered stationary storage systems, in megawatt-hours, using documented nameplate energy ratings.
-
-**Exterior Mechanical Equipment:** Permanently located outdoor fans, compressors, cooling equipment, generators, transformers, heat-rejection systems, and comparable mechanical installations serving an M-2 principal use.
-
-**Property Boundary / Lot Line:** The legally established boundary of the parcel under review as supported by a recorded plat, survey, deed, or other legally controlling boundary record.
-
-**Residential Zoning District Boundary:** The official delineation between an M-2 parcel or district and land designated residential by the City's controlling zoning map.
-
-**Sensitive-Receptor Measurement Location:** The specified exterior wall, occupied outdoor-use area, or other objectively identified receiving point at a sensitive receptor, documented on an approved site/acoustic plan.
-
-**Once-Through Cooling:** A process in which municipal potable water passes through a cooling system once and is discharged rather than being recirculated for heat rejection.
-
-**Closed-Loop Cooling:** A recirculating coolant system intended to keep working fluid contained, subject to any limited makeup or process losses specifically disclosed.
-
-**Emergency Response Plan:** A written, site-specific plan documenting access, contacts, utility isolation, fuel, chemicals, battery systems, suppression, evacuation, spills, and coordination with first responders.
-
-**Decommissioning:** The safe disconnection, dismantling, lawful removal, cleanup, and site restoration work required at the end of a covered facility's life.
-
-**Abandonment:** Continuous cessation of a facility's principal approved industrial operation for the period specified in <span class="m2-edit" title="Original draft cross-reference: G(16)">§165.11(G)(17)</span>, subject to its listed reasonable exceptions.
-
-**Financial Assurance:** A surety, letter of credit, escrow, performance bond, trust, or other legally authorized and enforceable arrangement in a reasonable amount covering documented decommissioning and site restoration duties. The statutory definition applicable to sanitary-disposal facilities under Iowa Code §455B.301(9) does not itself grant the City authority to impose that requirement on M-2 data centers; a separate legal basis must be confirmed by the City Attorney.[^13]
-
-**Independent Qualified Professional:** An appropriately licensed or credentialed expert with relevant technical competence and no financial or managerial interest that would compromise independent evaluation.
-
-**Material Modification (for monitoring):** A change in equipment, site layout, generation operation, or other covered operation reasonably likely to change the regulated environmental or infrastructure impact.
-</div>
+**🟦 BLUE — legislative-status note (not ordinance text):** The Nov. 11 committee **approved the Hyperscale Data Center definition 5–3**, but did **not** separately approve the proposed citywide prohibited-use clause. The City Council must use lawful Chapter 414 procedures, and §414.23 does not confer jurisdiction over all surrounding county land automatically.[^31]
 
 ---
 
-## BLUE COPYEDIT REGISTER - NO INTENDED SUBSTANTIVE CHANGE
+## EXISTING §165.41 DEFINITIONS (BLACK) AND ADDITIONS (RED)
+
+**BLACK — existing introductory language (§165.41), preserved from the source:**
+
+> 165.41 Definitions. For the purpose of this Ordinance, certain terms and words are hereby defined. Words used in the present tense shall include the future; the singular number shall include the plural and the plural the singular; and the word “shall” is mandatory and not directory.[^15]
+
+🟦 **BLUE — Source-layout note only:** The entire existing glossary remains in force except as lawfully amended. No new local Building, Structure, Lot, Dwelling Unit, Accessory Use or Construction definition is proposed.
+
+### 🟥 Proposed additions to §165.41
+
+**The 28 proposed terms below are RED additions to existing §165.41.** The City already defines Building, Structure, Lot, Dwelling Unit, and Accessory Use; those definitions are **not added again**. The text below does not delete the other currently enacted definitions. The Nov. 11 committee vote approved the definitions of Data Center, Data Center Business, Sustainable Design, and Hyperscale Data Center; it did **not** adopt this project's other definitions or the separate citywide prohibition.[^11][^27][^30]
+
+> 🟥 **RED — NEW §165.41 DEFINITION (1 OF 28)** <span class="m2-redline-tag">●</span>
+>
+> **Data Center:** A structure or building rehabilitated or constructed to house a group of networked server computers in one physical location in order to centralize the storage, management, and dissemination of data and information pertaining to a particular business, taxonomy, or body of knowledge. A data center business's facility typically includes the mechanical and electrical systems, redundant or backup power supplies, redundant data communications connections, environmental controls, and fire suppression systems.[^10]
+
+> 🟥 **RED — NEW §165.41 DEFINITION (2 OF 28)** <span class="m2-redline-tag">●</span>
+>
+> **Hyperscale Data Center:** A Data Center meeting both of the following conditions:
+>
+> 1. **100,000 square feet or larger.**
+> 2. **Electrical demand exceeding 60 megawatts (MW).**[^30]
+
+> 🟥 **RED — NEW §165.41 DEFINITION (3 OF 28)** <span class="m2-redline-tag">●</span>
+>
+> **Data Center Business:** An entity whose business among other businesses, is to operate or lease a data center in the city of cascade.[^10]
+
+> 🟥 **RED — NEW §165.41 DEFINITION (4 OF 28)** <span class="m2-redline-tag">●</span>
+>
+> **Sustainable Design:** Construction design that reduces negative environmental effects and improves occupant health and comfort through resource conservation, waste minimization, and healthier environments.[^26]
+
+> 🟥 **RED — NEW §165.41 DEFINITION (5 OF 28)** <span class="m2-redline-tag">●</span>
+>
+> **Major Industrial Facility:** An M-2 use exceeding any one threshold in proposed §165.11(D)(8): 5 MW coincident demand, 25,000 gallons in any 24 hours, 2 MW aggregate stationary generation, or 5 MWh storage. Also includes a modification that crosses a threshold.
+
+> 🟥 **RED — NEW §165.41 DEFINITION (6 OF 28)** <span class="m2-redline-tag">●</span>
+>
+> **Material Expansion:** A modification increasing an approved maximum by 20 percent or more for electrical demand, water demand, stationary generation, energy storage, exterior mechanical capacity, or developed building area, or crossing a Major Industrial Facility threshold for the first time.
+
+> 🟥 **RED — NEW §165.41 DEFINITION (7 OF 28)** <span class="m2-redline-tag">●</span>
+>
+> **Sensitive Receptor:** An occupied dwelling, school, licensed child-care facility, hospital, nursing facility, place of worship, public library, public park facility, or comparable occupied use requiring protection from continuous industrial noise.
+
+> 🟥 **RED — NEW §165.41 DEFINITION (8 OF 28)** <span class="m2-redline-tag">●</span>
+>
+> **Ambient Noise / Baseline Sound:** The sound environment at a designated receiving location without the regulated facility's incremental contribution, determined under representative day, night, and meteorological conditions. Ambient noise is not the Iowa air-quality term "ambient air."[^7][^6]
+
+> 🟥 **RED — NEW §165.41 DEFINITION (9 OF 28)** <span class="m2-redline-tag">●</span>
+>
+> **Facility-Attributable Noise:** The sound contribution attributable to a regulated M-2 use at the specified receiving point, including reasonably foreseeable simultaneous operation of equipment; exclude unrelated transportation, natural, and third-party background noise through an approved, documented acoustical procedure.[^6]
+
+> 🟥 **RED — NEW §165.41 DEFINITION (10 OF 28)** <span class="m2-redline-tag">●</span>
+>
+> **dBA:** A-weighted decibels of sound pressure, measured with calibrated equipment using the applicable professional noise measurement method.
+
+> 🟥 **RED — NEW §165.41 DEFINITION (11 OF 28)** <span class="m2-redline-tag">●</span>
+>
+> **dBC:** C-weighted decibels of sound pressure, which place greater relative weight on low-frequency sound than A-weighting.
+
+> 🟥 **RED — NEW §165.41 DEFINITION (12 OF 28)** <span class="m2-redline-tag">●</span>
+>
+> **Hourly Average Sound Level (Leq,1h):** The energy-equivalent continuous sound-pressure level over sixty (60) minutes, expressed using the specified A- or C-weighting; intermittent contributions are averaged on an acoustic energy basis, not by taking an arithmetic mean of decibel values. The qualified professional shall identify source operation, background sound, measurement location, and calibration.[^6]
+
+> 🟥 **RED — NEW §165.41 DEFINITION (13 OF 28)** <span class="m2-redline-tag">●</span>
+>
+> **Prominent Tone / Tonal Noise:** An identifiable recurring or steady audible frequency component distinguishable from neighboring sound bands when evaluated under the ordinance's specified professional acoustical method.
+
+> 🟥 **RED — NEW §165.41 DEFINITION (14 OF 28)** <span class="m2-redline-tag">●</span>
+>
+> **Acoustic Study:** A qualified professional's documented baseline survey, maximum-design-operation model, receptor analysis, assumptions, equipment schedule, and verification protocol.
+
+> 🟥 **RED — NEW §165.41 DEFINITION (15 OF 28)** <span class="m2-redline-tag">●</span>
+>
+> **Maximum Anticipated Coincident Electrical Demand:** The greatest reasonably anticipated simultaneous electrical load, expressed in MW, for the complete site during normal or design-maximum operation. A sum of independent equipment nameplate ratings does not establish coincident site demand without a documented load calculation.
+
+> 🟥 **RED — NEW §165.41 DEFINITION (16 OF 28)** <span class="m2-redline-tag">●</span>
+>
+> **Aggregate Stationary Generation Capacity:** The sum of rated electrical outputs of all stationary generators covered by the section, in megawatts, excluding fire pumps only where expressly provided.
+
+> 🟥 **RED — NEW §165.41 DEFINITION (17 OF 28)** <span class="m2-redline-tag">●</span>
+>
+> **Aggregate Electrical-Energy-Storage Capacity:** The summed rated stored electrical energy of covered stationary storage systems, in megawatt-hours, using documented nameplate energy ratings.
+
+> 🟥 **RED — NEW §165.41 DEFINITION (18 OF 28)** <span class="m2-redline-tag">●</span>
+>
+> **Exterior Mechanical Equipment:** Permanently located outdoor fans, compressors, cooling equipment, generators, transformers, heat-rejection systems, and comparable mechanical installations serving an M-2 principal use.
+
+> 🟥 **RED — NEW §165.41 DEFINITION (19 OF 28)** <span class="m2-redline-tag">●</span>
+>
+> **Residential Zoning District Boundary:** The official delineation between an M-2 parcel or district and land designated residential by the City's controlling zoning map.
+
+> 🟥 **RED — NEW §165.41 DEFINITION (20 OF 28)** <span class="m2-redline-tag">●</span>
+>
+> **Sensitive-Receptor Measurement Location:** The specified exterior wall, occupied outdoor-use area, or other objectively identified receiving point at a sensitive receptor, documented on an approved site/acoustic plan.
+
+> 🟥 **RED — NEW §165.41 DEFINITION (21 OF 28)** <span class="m2-redline-tag">●</span>
+>
+> **Once-Through Cooling:** A process in which municipal potable water passes through a cooling system once and is discharged rather than being recirculated for heat rejection.
+
+> 🟥 **RED — NEW §165.41 DEFINITION (22 OF 28)** <span class="m2-redline-tag">●</span>
+>
+> **Closed-Loop Cooling:** A recirculating coolant system intended to keep working fluid contained, subject to any limited makeup or process losses specifically disclosed.
+
+> 🟥 **RED — NEW §165.41 DEFINITION (23 OF 28)** <span class="m2-redline-tag">●</span>
+>
+> **Emergency Response Plan:** A written, site-specific plan documenting access, contacts, utility isolation, fuel, chemicals, battery systems, suppression, evacuation, spills, and coordination with first responders.
+
+> 🟥 **RED — NEW §165.41 DEFINITION (24 OF 28)** <span class="m2-redline-tag">●</span>
+>
+> **Decommissioning:** The safe disconnection, dismantling, lawful removal, cleanup, and site restoration work required at the end of a covered facility's life.
+
+> 🟥 **RED — NEW §165.41 DEFINITION (25 OF 28)** <span class="m2-redline-tag">●</span>
+>
+> **Abandonment:** Continuous cessation of a facility's principal approved industrial operation for the period specified in §165.11(G)(17), subject to its listed reasonable exceptions.
+
+> 🟥 **RED — NEW §165.41 DEFINITION (26 OF 28)** <span class="m2-redline-tag">●</span>
+>
+> **Financial Assurance:** A surety, letter of credit, escrow, performance bond, trust, or other legally authorized and enforceable arrangement in a reasonable amount covering documented decommissioning and site restoration duties. The statutory definition applicable to sanitary-disposal facilities under Iowa Code §455B.301(9) does not itself grant the City authority to impose that requirement on M-2 data centers; a separate legal basis must be confirmed by the City Attorney.[^13]
+
+> 🟥 **RED — NEW §165.41 DEFINITION (27 OF 28)** <span class="m2-redline-tag">●</span>
+>
+> **Independent Qualified Professional:** An appropriately licensed or credentialed expert with relevant technical competence and no financial or managerial interest that would compromise independent evaluation.
+
+> 🟥 **RED — NEW §165.41 DEFINITION (28 OF 28)** <span class="m2-redline-tag">●</span>
+>
+> **Material Modification (for monitoring):** A change in equipment, site layout, generation operation, or other covered operation reasonably likely to change the regulated environmental or infrastructure impact.
+
+
+---
+
+## 🟦 BLUE COPYEDIT REGISTER — CHANGES TO SOURCE TRANSCRIPTION ONLY
 
 | Original scan or enacted text | Blue correction / presentation in this document | Classification |
 | --- | --- | --- |
@@ -508,7 +628,6 @@ Nothing in this section limits other remedies available under Chapter 165 or app
 | D(4): "6 foot high fence" | "**6-foot-high** fence" (blue) | **PUNCTUATION ONLY**, preserves six-foot height |
 | B(18) adopted 2022: "1space/200 sq ft." | "**1 space/200 sq. ft.**" (blue) | **SPACING / ABBREVIATION ONLY**, preserves 1-per-200 parking ratio |
 | E: lot area, yards and height originally in a small three-column table. | Labeled list preserving None, 25 ft / 25 ft / 20 ft / 20 ft / 60 ft. | **FORMAT ONLY** |
-| Proposed definitions: "Abandonment" refers to G(16), although the abandonment provision is G(17). | Corrected **G(16) to G(17)** in blue within the draft definition below. | **CROSS-REFERENCE CORRECTION ONLY** |
 | Heading capitalization and line breaks from typewritten source. | Standardized bold section headings and readable paragraphs. | **FORMAT ONLY** |
 
 **Not silently corrected:** The scanned D(7) uses the phrase "of any daycare home or daycare business"; D(5) uses "that will not interfere" and B(1)–(4) use "sales service or office floor area." Those phrases may warrant cleanup, but they remain as printed because editing them could change the legal meaning. They require City Attorney review. Likewise, the handwritten strike marks in the scanned D(2) remain **unverified** and are not treated as enacted deletions.
@@ -521,11 +640,11 @@ Nothing in this section limits other remedies available under Chapter 165 or app
 4. Check D(2) against the enacted ordinance history; handwritten strike marks are not legislation.
 5. Review the proposed Chapter 165.41 additions alongside the existing definitions and the state uniformity rule, Iowa Code §414.2.
 6. Verify that blue copyedits do not change legal meaning; if the City proposes to rewrite an operative requirement, mark it **red** and adopt it through the required legislative process.
-7. This integrated comparison is **NOT a final ordinance**. Adoptable language should be extracted into the City's formal amendment instrument after review.
+7. This integrated comparison is **NOT a final ordinance**. The clean proposed amendatory language is available separately; counsel should verify enactment mechanics and legal standards.
 
 ## CHICAGO-STYLE NUMBERED NOTES - DOCUMENTARY SOURCES
 
-The numbered notes below cite the original scan, known later municipal amendments, and the existing source notes attached to the proposed November 3 amendment. These citations and editing annotations are noncodified background.
+The numbered notes below cite the preserved zoning scan, known later municipal amendments, and sources for the November 11 definitions and additional November 18 working proposals. These citations and editing annotations are noncodified background.
 
 Superscript note markers in this proposal point to these numbered sources. Notes are documentary authorities and **are not operative zoning terms**. Project-specific engineering assumptions and proposed numerical thresholds still require independent validation.
 
@@ -560,3 +679,15 @@ Superscript note markers in this proposal point to these numbered sources. Notes
 [^24]: Federal Highway Administration, *Construction Noise Handbook*, §5.3–5.4 (baseline measurement and comparable before/after locations and conditions), <https://www.fhwa.dot.gov/Environment/noise/construction_noise/handbook/handbook05.cfm>; *Noise Measurement Handbook*, discussion of measurement comparability and uncertainty, <https://www.fhwa.dot.gov/Environment/noise/measurement/handbook.cfm>; Iowa General Assembly, *Iowa Code* §657.1 (2026), nuisance and civil remedies, <https://www.legis.iowa.gov/docs/code/2026/657.1.pdf>. This draft evidence standard is a proposed local ordinance provision, not an established precondition to an Iowa-law nuisance claim.
 
 [^25]: ASHRAE, *ANSI/ASHRAE Standard 55-2023, Thermal Environmental Conditions for Human Occupancy*, <https://www.ashrae.org/technical-resources/bookstore/standard-55-thermal-environmental-conditions-for-human-occupancy>; ASHRAE, *Technical FAQs*, “recommended indoor temperature and humidity levels for homes,” <https://www.ashrae.org/technical-resources/technical-faqs> (comfort varies by humidity, clothing, activity, and season, so no universal 65–75°F required range); ASHRAE, *2023 Handbook—HVAC Applications*, ch. 49, “Noise and Vibration Control,” <https://handbook.ashrae.org/Handbooks/A23/SI/A23_Ch49/a23_ch49_si.aspx> (document actual HVAC operating conditions and distinguish equipment from background sound).
+
+[^26]: Iowa General Assembly, *Iowa Code* §103A.3(25) (2026), **official sustainable-design definition** (the November 11 committee wording is a paraphrase), <https://www.legis.iowa.gov/docs/code/2026/103A.3.pdf>; §103A.8B addresses the state sustainable-design standards program, <https://www.legis.iowa.gov/docs/code/2026/103A.8B.pdf>.
+
+[^27]: City of Cascade, historical *Chapter 165 Zoning Ordinance*, §165.41(1), (8), (12), (30), and (51), [repository transcription](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/dataset/cascade-zoning/CHAPTER-165-ZONING-ORDINANCE.md); verify current codification against the City Clerk's authoritative text.
+
+[^28]: Iowa General Assembly, *Iowa Code* §455B.131(1)–(3), (6), (8), (11) (2026), state **air-quality** definitions, <https://www.legis.iowa.gov/docs/code/2026/455B.131.pdf>.
+
+[^29]: Noncodified research reference: [86-term Iowa-law/dictionary comparison](https://ttbakiatwoam.github.io/cascade-data-center/definitions/) and the [November 11, 2026 separate §165.41 companion draft](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/proposals/DRAFT-ORDINANCE-CH165-DEFINITIONS-2026-11-11.md). These references do not override adopted zoning or state law; the companion is an alternative drafting vehicle, not a second enactment.
+
+[^30]: **Committee vote record, not codified.** Participant correction of November 11, 2026 vote: **Hyperscale Data Center** was approved **5–3**, with “100,000 square feet or larger” and “Electrical demand exceeding 60 megawatts.” Earlier project transcriptions saying **“more than 100,000”** or **“annually”** were incorrect. Exactly 100,000 square feet satisfies the size threshold; exactly 60 MW does not satisfy “exceeding.” The text does not specify a calendar year, a method of calculating electrical demand, or whether floor area means gross building area or footprint. Any substantive calendar-year measurement amendment needs a separate committee vote. See the [reported November 11 record](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/dataset/updates/47_ADVISORY_COMMITTEE_VOTES_2026-11-11.md); official minutes pending.
+
+[^31]: Iowa General Assembly, *Iowa Code* §§414.1–414.4 (municipal land-use zoning), §414.12 (board of adjustment and variances), and §414.23 (territory beyond city limits), <https://www.legis.iowa.gov/docs/code/2026/414.1.pdf>, <https://www.legis.iowa.gov/docs/code/2026/414.2.pdf>, <https://www.legis.iowa.gov/docs/code/2026/414.12.pdf>, <https://www.legis.iowa.gov/docs/code/2026/414.23.pdf>. Existing Cascade zoning §165.12(6) addresses uses not covered by the ordinance; the proposed express citywide prohibition is intended to prevent reclassification through that general procedure without a lawful zoning amendment. The City Attorney must review the legal basis and any existing nonconforming-use rights.
