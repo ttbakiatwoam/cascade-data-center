@@ -7,10 +7,19 @@ title: Cascade Data Center Research
 
 # Cascade Data Center Research & Zoning Work
 
+**Last updated: November 12, 2026**  
+*Current independent research update — not an official City of Cascade publication.*
+
 > **Independent community research - not an official City of Cascade website.**  
 > The working position of this project is pro-development with clear, measurable community protections, transparency, and accountability.
 
 **[Download the updated November 11, 2026 RED/BLUE draft ordinance PDF]({{ '/downloads/cascade-m2-red-blue-draft-ordinance-2026-11-11.pdf' | relative_url }}).** The print-ready integrated redline has the four participant-reported committee-approved definitions, while identifying other independently proposed provisions as *not* approved by those votes. **Black = existing text; red = proposed ordinance text; blue = source copyedits.** This is not enacted City law.
+
+## November 12 — current status and public correspondence
+
+The [November 11 red/blue working ordinance PDF]({{ '/downloads/cascade-m2-red-blue-draft-ordinance-2026-11-11.pdf' | relative_url }}) (24 pages) incorporates **four participant-reported approved committee definitions**; the proposed hyperscale prohibition and other performance standards **have not been approved by those definition votes**. City Council adoption is not established.
+
+The November 11 recording reportedly cuts off near the **60-minute mark**, before the definition votes. The author released a [reconstructed draft follow-up to Deanna](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/dataset/updates/51_EMAIL_TO_DEANNA_COMMITTEE_VOTES_2026-11-12.md) and the [edited draft to Adam Haynes of Simple Mining](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/dataset/updates/52_EMAIL_TO_ADAM_HAYNES_SIMPLE_MINING_2026-11-12.md). Neither is independently confirmed sent. [Read the public correspondence record]({{ '/correspondence-2026-11-12/' | relative_url }}).
 
 ## Next meeting: November 18, 2026, at 7:00 p.m.
 
@@ -24,11 +33,11 @@ The [October 28 Data Center Advisory Committee minutes]({{ '/meeting-2026-10-28/
 
 **[Read the meeting outcomes, minutes transcription, and next steps]({{ '/meeting-2026-10-28/' | relative_url }})**. The chair vote is recorded as **4–2** despite seven members being listed as attending; the minutes do not explain the missing vote. The meeting minutes were supplied to this project, and their City-approval status has not been independently verified. The site remains an **independent research resource**, not an official City meeting notice.
 
-### November 3, 2026 - source-cited ordinance and litigation packet
+### Historical November 3, 2026 - source-cited ordinance and litigation packet
 
-**Current working copies, not adopted law.** [Read the updated M-2 ordinance]({{ '/draft-ordinance/' | relative_url }}), [standalone Chapter 165 definitions ordinance]({{ '/draft-definitions-ordinance/' | relative_url }}), [86-term Iowa and dictionary glossary]({{ '/definitions/' | relative_url }}), and [27 litigation case abstracts]({{ '/data-center-case-abstracts/' | relative_url }}). The October 28 committee material remains a historical meeting document, not the current wording.
+**Historical research copies, not adopted law.** [Read the updated M-2 ordinance]({{ '/draft-ordinance/' | relative_url }}), [standalone Chapter 165 definitions ordinance]({{ '/draft-definitions-ordinance/' | relative_url }}), [86-term Iowa and dictionary glossary]({{ '/definitions/' | relative_url }}), and [27 litigation case abstracts]({{ '/data-center-case-abstracts/' | relative_url }}). The October 28 committee material remains a historical meeting document, not the current wording.
 
-**Print-ready PDFs with superscript Chicago source notes:** [M-2 ordinance]({{ '/downloads/cascade-m2-ordinance-2026-11-03.pdf' | relative_url }}) · [Definitions ordinance]({{ '/downloads/cascade-definitions-ordinance-2026-11-03.pdf' | relative_url }}) · [Definitions reference]({{ '/downloads/cascade-definitions-reference-2026-11-03.pdf' | relative_url }}) · [Court abstracts]({{ '/downloads/cascade-case-abstracts-2026-11-03.pdf' | relative_url }}) · [Complete combined packet]({{ '/downloads/cascade-complete-research-packet-2026-11-03.pdf' | relative_url }}).
+**Historical November 3 PDFs with superscript Chicago source notes:** [M-2 ordinance]({{ '/downloads/cascade-m2-ordinance-2026-11-03.pdf' | relative_url }}) · [Definitions ordinance]({{ '/downloads/cascade-definitions-ordinance-2026-11-03.pdf' | relative_url }}) · [Definitions reference]({{ '/downloads/cascade-definitions-reference-2026-11-03.pdf' | relative_url }}) · [Court abstracts]({{ '/downloads/cascade-case-abstracts-2026-11-03.pdf' | relative_url }}) · [Complete combined packet]({{ '/downloads/cascade-complete-research-packet-2026-11-03.pdf' | relative_url }}).
 
 ### November 4: LexisNexis Assist definitions and Iowa zoning source check
 
@@ -54,7 +63,7 @@ The [October 28 Data Center Advisory Committee minutes]({{ '/meeting-2026-10-28/
 
 **[Read the source-based ordinance redline]({{ '/draft-ordinance/' | relative_url }})** — black reproduces existing §165.11 with enacted B(18), red shows proposed new sections and blue is reserved for source corrections. The November 11 working text proposes to **prohibit Hyperscale Data Centers in all Cascade zoning districts**, use **65/75 dBA/dBC by day and 60/70 dBA/dBC by night**, and permit routine generator testing from **6 a.m. to 8 p.m., Monday–Friday**. **Red** marks actual newly proposed ordinance provisions; **blue** only existing-source copyedits. These changes are proposals, not adopted City policy. [November 18 packet change notes](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/proposals/NOVEMBER-18-2026-COMMITTEE-PACKET-SCOPE-AND-RED-BLUE-CHANGE-NOTES.md).
 
-The [complete current redline]({{ '/m2-full-redline/' | relative_url }}) is now updated; the [November 5 PDF]({{ '/downloads/cascade-m2-full-color-redline-2026-11-05.pdf' | relative_url }}) remains historical only and is excluded from the November 18 packet. [Amendment-only working language](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/proposals/AMENDMENT-ONLY-M2-ORDINANCE-2026-11-11.md) is preserved separately.
+The [complete current redline]({{ '/m2-full-redline/' | relative_url }}) is now available as a [November 11 red/blue PDF]({{ '/downloads/cascade-m2-red-blue-draft-ordinance-2026-11-11.pdf' | relative_url }}); the [November 5 PDF]({{ '/downloads/cascade-m2-full-color-redline-2026-11-05.pdf' | relative_url }}) remains historical only and is excluded from the November 18 packet. [Amendment-only working language](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/proposals/AMENDMENT-ONLY-M2-ORDINANCE-2026-11-11.md) is preserved separately.
 
 ### Original M-2 ordinance cross-check
 

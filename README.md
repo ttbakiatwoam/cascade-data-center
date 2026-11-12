@@ -1,8 +1,23 @@
 # Cascade Data Center
 
+**Last updated: November 12, 2026**  
+*Independent research — current draft and public committee update, not an official City publication.*
+
 Research, source material, community questions, and policy analysis related to proposed data-center development in Cascade, Iowa.
 
 The working position of this independent community project is **pro-data-center development with appropriate community protections, transparency, and accountability**. Read the [research scope and project stance](docs/research-scope.md) for the full purpose, areas of focus, and policy principles.
+
+## Current status — November 12, 2026
+
+**Current ordinance:** [November 11 black/red/blue working ordinance PDF](docs/downloads/cascade-m2-red-blue-draft-ordinance-2026-11-11.pdf) (**24 pages**) · [editable source redline](proposals/COMPLETE-M2-COLOR-CODED-REDLINE-2026-11-11.md) · [public website](https://ttbakiatwoam.github.io/cascade-data-center/draft-ordinance/). **Black** reproduces the source-based existing zoning baseline; **red** identifies proposed new ordinance provisions; **blue** identifies spelling and layout corrections. November 3–9 PDFs are historical and are not substitutes for the current version.
+
+**November 11 committee report:** Four definitions were approved for inclusion in the *advisory committee's working draft*: **Data Center**, **Data Center Business**, **Sustainable Design** (reported unanimous), and **Hyperscale Data Center** (reported **5–3**). Hyperscale requires **100,000 square feet or larger AND electrical demand exceeding 60 MW**, with no “annually” requirement. Counts for the first two definitions remain uncertain (5–3 or 6–2); official minutes and individual roll calls have not been verified. Most other definitions were skipped because they are already covered by Iowa law or existing Cascade zoning. [Vote register](dataset/updates/47_ADVISORY_COMMITTEE_VOTES_2026-11-11.md) · [canonical definitions](dataset/updates/50_COMMITTEE_APPROVED_DEFINITIONS_CANONICAL_2026-11-11.md).
+
+**Not approved:** The independent draft's citywide Hyperscale prohibition, other proposed definitions and additional M-2 performance standards were **not approved by those definition votes**. There is no City Council enactment or Simple Mining project approval established by this repository.
+
+**Recording and correspondence:** The November 11 meeting recording was **reported to stop around the 60-minute mark**, before the definition votes. The author prepared a [Deanna follow-up email](dataset/updates/51_EMAIL_TO_DEANNA_COMMITTEE_VOTES_2026-11-12.md) (**reconstructed from prior drafting instructions; exact final message not available**) and [Adam Haynes / Simple Mining email](dataset/updates/52_EMAIL_TO_ADAM_HAYNES_SIMPLE_MINING_2026-11-12.md) (**complete author-edited draft text**) to share the ordinance and research. **Neither email is confirmed sent, delivered, or acknowledged.** [Website correspondence record](https://ttbakiatwoam.github.io/cascade-data-center/correspondence-2026-11-12/).
+
+**Next meeting:** Reported for **Wednesday, November 18, 2026 at 7:00 p.m.**, with air-pollution and generator discussions, subject to official agenda verification. [November 18 source brief](dataset/policy/48_AIR_POLLUTION_GENERATORS_COMPARATIVE_BRIEF_2026-11-18.md).
 
 ## Next advisory meeting — Wednesday, November 18, 2026 at 7:00 p.m.
 
@@ -34,9 +49,9 @@ A committee-friendly website is maintained from `docs/` and published via GitHub
 
 [Current true-code redline Markdown](proposals/DRAFT-ORDINANCE-M2-DATA-CENTER-PERFORMANCE-STANDARDS-2026-11-11.md) · [Amendment-only working text](proposals/AMENDMENT-ONLY-M2-ORDINANCE-2026-11-11.md) · [Website redline](https://ttbakiatwoam.github.io/cascade-data-center/draft-ordinance/) · [November 18 red/blue change notes](proposals/NOVEMBER-18-2026-COMMITTEE-PACKET-SCOPE-AND-RED-BLUE-CHANGE-NOTES.md). The draft proposes **citywide exclusion of Hyperscale Data Centers**, **65 dBA / 75 dBC daytime and 60 dBA / 70 dBC nighttime** M-2 noise limits, and **6 a.m.–8 p.m., Monday–Friday** routine generator testing. In the Markdown, **🟥 red denotes proposed substantive changes** and **🟦 blue denotes corrections**. Explicit red/blue sections show in GitHub Markdown; the website additionally provides red/blue text and borders. The Hyperscale **definition** passed 5–3; the **prohibition** and noise/testing changes are not recorded as approved committee votes. Historical November 3/5 PDFs should not be represented as current.
 
-## Current complete M-2 redline; November 5 PDF archived
+## Current complete M-2 redline; November 11 PDF published
 
-[Read the current real redline Markdown](proposals/COMPLETE-M2-COLOR-CODED-REDLINE-2026-11-11.md) · [Website redline](https://ttbakiatwoam.github.io/cascade-data-center/m2-full-redline/) · [Historical November 5 printable PDF](https://ttbakiatwoam.github.io/cascade-data-center/downloads/cascade-m2-full-color-redline-2026-11-05.pdf). **Black** preserves the existing §165.11(A)–(G)(1) baseline and enacted B(18); **red** marks every new B(19), D(8), G(2)–G(19), §165.12(17), and definition; **blue** marks only genuine source spelling/formatting corrections. The archived 2026-11-05 PDF is **not** a PDF rendering of the current text.
+[Read the current real redline Markdown](proposals/COMPLETE-M2-COLOR-CODED-REDLINE-2026-11-11.md) · [Current November 11 PDF](docs/downloads/cascade-m2-red-blue-draft-ordinance-2026-11-11.pdf) · [Website redline](https://ttbakiatwoam.github.io/cascade-data-center/m2-full-redline/) · [Historical November 5 printable PDF](https://ttbakiatwoam.github.io/cascade-data-center/downloads/cascade-m2-full-color-redline-2026-11-05.pdf). **Black** preserves the existing §165.11(A)–(G)(1) baseline and enacted B(18); **red** marks every new B(19), D(8), G(2)–G(19), §165.12(17), and definition; **blue** marks only genuine source spelling/formatting corrections. The archived 2026-11-05 PDF is **not** a PDF rendering of the current text.
 
 ## Original M-2 ordinance comparison
 
@@ -58,10 +73,10 @@ The [section-by-section concordance](dataset/policy/41_M2_ORIGINAL_SCAN_CONCORDA
 | Electric franchise fee option, MVEC Rate 7 40 MW revenue estimates, 40-job income tax analysis | [Public website guide](https://ttbakiatwoam.github.io/cascade-data-center/franchise-fee-and-jobs/) and [detailed fiscal research](dataset/impacts/36_CASCADE_ELECTRIC_FRANCHISE_FEE_AND_40MW_FISCAL_SCENARIOS.md) |
 | CIPCO vs. MVEC electricity capacity and the missing joint study | [Website comparison](https://ttbakiatwoam.github.io/cascade-data-center/cipco-mvec-power/) and [source-based technical note](dataset/impacts/32_CIPCO_MVEC_CAPACITY_CLAIMS_AND_STUDY_STATUS.md) |
 | Advisory Committee recommendation package | [October 28 updated package](proposals/CASCADE-ADVISORY-COMMITTEE-RECOMMENDATIONS-2026-10-28.md) — **draft for discussion**; [historical October 19 package](proposals/CASCADE-ADVISORY-COMMITTEE-RECOMMENDATIONS-2026-10-19.md) |
-| Tonight's committee meeting brief | [October 28 meeting brief](docs/meeting-2026-10-28.md) — City calendar confirms 7:00–8:00 p.m. Central; source and legal-review links |
+| November 11 votes and recording gap | [Committee meeting record](docs/meeting-2026-11-11.md) and [November 12 follow-up draft](dataset/updates/51_EMAIL_TO_DEANNA_COMMITTEE_VOTES_2026-11-12.md) — participant-reported; official minutes pending |
 | Iowa statutory definitions and proposed M-2 glossary | [Public definitions table](https://ttbakiatwoam.github.io/cascade-data-center/definitions/) and [current source-linked glossary](dataset/policy/38_IOWA_STATE_AND_M2_DEFINITIONS_2026-11-03.md) — 55 Iowa statutory/administrative terms, five legal-authority concepts, and 26 proposed local terms, with Oxford and Merriam-Webster ordinary-language comparisons, plus verified and qualified free Cornell Wex and FindLaw legal sources. Dictionary glosses are editorial summaries, **not adopted law**. [Free-dictionary selection record](dataset/policy/45_NYLS_FREE_LEGAL_DICTIONARIES_2026-11-04.md). |
 | National developer-versus-municipality data center cases | [Public litigation tracker](https://ttbakiatwoam.github.io/cascade-data-center/data-center-litigation/) and [27-case research reference](dataset/policy/39_NATIONAL_DATA_CENTER_LITIGATION_2026-10-28.md) — includes wins, settlements, injunctions, pending cases, adverse decisions, actual courts, federal geographic districts and circuit relevance to Iowa. |
-| **Current November 3 M-2 ordinance and Chicago-footnoted PDF exports** | [Updated current proposal](proposals/DRAFT-ORDINANCE-M2-DATA-CENTER-PERFORMANCE-STANDARDS-2026-11-03.md); [companion definitions ordinance](proposals/DRAFT-ORDINANCE-CH165-DEFINITIONS-2026-11-03.md); [cited source glossary](dataset/policy/38_IOWA_STATE_AND_M2_DEFINITIONS_2026-11-03.md); [27 court case abstracts](dataset/policy/40_DATA_CENTER_CASE_ABSTRACTS_2026-11-03.md); [complete combined PDF](https://ttbakiatwoam.github.io/cascade-data-center/downloads/cascade-complete-research-packet-2026-11-03.pdf) |
+| **Historical November 3 M-2 ordinance and Chicago-footnoted PDF exports** | [Historical November 3 proposal](proposals/DRAFT-ORDINANCE-M2-DATA-CENTER-PERFORMANCE-STANDARDS-2026-11-03.md); [companion definitions ordinance](proposals/DRAFT-ORDINANCE-CH165-DEFINITIONS-2026-11-03.md); [cited source glossary](dataset/policy/38_IOWA_STATE_AND_M2_DEFINITIONS_2026-11-03.md); [27 court case abstracts](dataset/policy/40_DATA_CENTER_CASE_ABSTRACTS_2026-11-03.md); [complete combined PDF](https://ttbakiatwoam.github.io/cascade-data-center/downloads/cascade-complete-research-packet-2026-11-03.pdf) |
 | The proposed M-2 performance standards | [October 26 proposed revision](proposals/DRAFT-ORDINANCE-M2-DATA-CENTER-PERFORMANCE-STANDARDS-2026-10-26.md) and [historical October 6 draft](proposals/DRAFT-ORDINANCE-M2-DATA-CENTER-PERFORMANCE-STANDARDS-2026-10-06.md) — **not adopted law** |
 | October 27 advisory packet and suggested changes | [Packet comparison](dataset/updates/37_ADVISORY_PACKET_REVIEW_2026-10-26.md), [packet source/page index](sources/committee-materials/2026-10-27/PACKET_PAGE_AND_PROVENANCE_RECORD.md), and [separate Word note transcription](sources/committee-materials/2026-10-27/THINGS_TO_CONSIDER_SOURCE_RECORD.md) |
 | The cover email to the Mayor and City Council | [Prepared email text](#email-to-the-mayor-and-city-council) — October 6, 2026 |
@@ -95,7 +110,7 @@ Public records, company/utility representations, secondary reporting, and projec
 
 **The October 1 transcript was created by YouTube using its automated closed-captioning system.** The [raw WebVTT file](sources/community-forums/2026-10-01_simple-mining-community-forum_youtube-auto-captions.en.vtt) is preserved unchanged and is not a human-verified or certified verbatim transcript.
 
-Technology-context research does not establish which workloads the Cascade facility will run or which broader benefits it will deliver. The public repository excludes private correspondence, private social-media discussions, personal disputes, and personal contact information.
+Technology-context research does not establish which workloads the Cascade facility will run or which broader benefits it will deliver. The public repository excludes private correspondence **except outgoing drafts released for publication by their author**, private social-media discussions, personal disputes, and personal contact information. The November 12 outreach drafts are project-generated communications and do not establish delivery or consent by the recipients.
 
 ## Email to the Mayor and City Council
 
@@ -166,6 +181,12 @@ Thank you,
 Cascade, Iowa
 
 </details>
+
+## November 12 correspondence archive
+
+- [Deanna: incomplete recording, definitions and votes](dataset/updates/51_EMAIL_TO_DEANNA_COMMITTEE_VOTES_2026-11-12.md) — reconstructed author-prepared email; exact earlier final wording and sending unverified.
+- [Adam Haynes, Simple Mining: ordinance and public GitHub research](dataset/updates/52_EMAIL_TO_ADAM_HAYNES_SIMPLE_MINING_2026-11-12.md) — complete author-edited email draft; sending/receipt unverified.
+- [Website correspondence index](docs/correspondence-2026-11-12.md) — publication and source-status qualifications.
 
 ## Maintaining and navigating the collection
 
