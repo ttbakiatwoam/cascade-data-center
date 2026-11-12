@@ -12,9 +12,9 @@ title: Cascade Data Center Research
 
 ## Next meeting: November 18, 2026, at 7:00 p.m.
 
-The next Cascade Data Center Advisory Committee meeting is reported for **Wednesday, November 18, 2026, at 7:00 p.m.** Planned discussion: **air pollution and air contaminants, stationary diesel generators, Iowa DNR requirements, federal EPA engine standards, and Dubuque County, Jones County, and other zoning comparators**. The time and agenda subjects are participant-reported; verify the official City notice.
+The next Cascade Data Center Advisory Committee meeting is reported for **Wednesday, November 18, 2026, at 7:00 p.m.** Planned discussion: **air pollution and contaminants, diesel generators, Iowa DNR requirements and EPA rules**. The zoning comparison now examines **Iowa city ordinances first**, separating hyperscale from ordinary standalone data centers. **County zoning comparisons are deferred** to a later Chapter 335 phase. The time and agenda subjects are participant-reported; verify the official City notice.
 
-[November 18 air-quality and generator briefing]({{ '/air-quality-generators-2026-11-18/' | relative_url }}) · [November 11 reported committee definition votes]({{ '/meeting-2026-11-11/' | relative_url }}). Definition votes were **committee action on a draft**, not final enactment. The exact split for “Data center” and “Data center business” remains **5–3 or 6–2**, unconfirmed; “Sustainable design” was reportedly unanimous.
+[Iowa CITY ordinances — hyperscale versus ordinary]({{ '/city-data-center-ordinances/' | relative_url }}) · [November 18 air-quality briefing]({{ '/air-quality-generators-2026-11-18/' | relative_url }}) · [November 11 reported committee definition votes]({{ '/meeting-2026-11-11/' | relative_url }}). Definition votes were **committee action on a draft**, not final enactment. The exact split for “Data center” and “Data center business” remains **5–3 or 6–2**, unconfirmed; “Sustainable design” was reportedly unanimous.
 
 ## Historical committee update: October 28 minutes and November 11 assignment
 
@@ -38,7 +38,7 @@ The [October 28 Data Center Advisory Committee minutes]({{ '/meeting-2026-10-28/
 
 ### Operational noise: what the proposed limits mean
 
-**[Understand the proposed M-2 noise limits]({{ '/operational-noise/' | relative_url }})** — a plain-language guide to **65 dBA / 75 dBC at industrial property boundaries**, lower limits at existing homes and other sensitive receptors, hourly averaging, low-frequency noise, background measurements, tonal penalties, and open enforcement questions. Includes **owner-consented preconstruction indoor baselines**, a lawful source-facing property-line fallback if access is refused, and comparable indoor testing with doors/windows closed, **HVAC fan ON continuously**, and a **65–75°F** thermostat where practicable. Applies to **all similarly situated M-2 uses** in the draft, not just data centers. [Iowa residential insulation and sound reduction]({{ '/house-noise-attenuation-iowa/' | relative_url }}) explains why thermal R-values cannot be directly converted into decibel credits.
+**[Understand the proposed M-2 noise limits]({{ '/operational-noise/' | relative_url }})** — a plain-language guide to **65 dBA / 75 dBC during the day and 60 dBA / 70 dBC at night**, with separate M-2 boundary and indoor sensitive-receptor checks, hourly averaging, low-frequency noise, background measurements, tonal penalties, and open enforcement questions. Includes **owner-consented preconstruction indoor baselines**, a lawful source-facing property-line fallback if access is refused, and comparable indoor testing with doors/windows closed, **HVAC fan ON continuously**, and a **65–75°F** thermostat where practicable. Applies to **all similarly situated M-2 uses** in the draft, not just data centers. [Iowa residential insulation and sound reduction]({{ '/house-noise-attenuation-iowa/' | relative_url }}) explains why thermal R-values cannot be directly converted into decibel credits.
 
 ### Existing Cascade M-2 use categories
 
@@ -46,7 +46,7 @@ The [October 28 Data Center Advisory Committee minutes]({{ '/meeting-2026-10-28/
 
 ### Iowa zoning uniformity and comparator ordinances
 
-**[Read the §414.2 analysis and neighboring Iowa ordinance evaluations]({{ '/iowa-zoning-uniformity/' | relative_url }})** — explains why Cascade should avoid singling out data centers for stricter M-2 environmental rules when equivalent industrial impacts remain unregulated. The analysis also explains that §§414.2/335.4 permit legitimate classes and separate districts, and §§414.5/335.7 provide specific written-agreement exceptions. Ten county and city comparators are reviewed.
+**[Read the current Iowa CITY ordinance comparison]({{ '/city-data-center-ordinances/' | relative_url }})** — municipal authorities first, distinguishing hyperscale-only moratoria, general-use regulations and ordinary commercial centers. Micro/edge facilities are outside this comparison. The [earlier §414.2 uniformity analysis]({{ '/iowa-zoning-uniformity/' | relative_url }}) remains available as historical mixed-jurisdiction research; county ordinance comparison is a later phase.
 
 ### Current M-2 working draft and red/blue changes
 
