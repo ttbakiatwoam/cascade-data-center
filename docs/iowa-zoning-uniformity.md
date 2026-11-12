@@ -4,6 +4,8 @@ title: Iowa Zoning Uniformity - Section 414.2 and Data Center Ordinance Comparis
 permalink: /iowa-zoning-uniformity/
 ---
 
+**Current municipality-only comparison:** [Iowa CITY ordinances — hyperscale versus ordinary standalone data centers; Chapter 414 versus Chapter 335]({{ '/city-data-center-ordinances/' | relative_url }}). **This November 3 page is historical cross-jurisdiction research**; county ordinance comparison is deferred to a later, separately identified phase. The newer city-first report should be used for the November 18 packet.
+
 **Source law:** [Read the full 2026 Iowa Code Chapter 414](https://www.legis.iowa.gov/docs/code/2026/414.pdf) · [§414.2](https://www.legis.iowa.gov/docs/code/2026/414.2.pdf) · [County counterpart §335.4](https://www.legis.iowa.gov/docs/code/2026/335.4.pdf) · [Current proposed Cascade M-2 ordinance]({{ '/draft-ordinance/' | relative_url }}).
 
 **Editable repository copy:** [Read the full Markdown research memorandum](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/dataset/policy/43_IA_414_2_UNIFORMITY_COMPARATOR_REVIEW_2026-11-03.md).
