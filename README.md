@@ -28,7 +28,11 @@ A committee-friendly website is maintained from `docs/` and published via GitHub
 
 **[Public §414.2 analysis](https://ttbakiatwoam.github.io/cascade-data-center/iowa-zoning-uniformity/)** | [Source-linked Markdown memorandum](dataset/policy/43_IA_414_2_UNIFORMITY_COMPARATOR_REVIEW_2026-11-03.md). Compares ten Iowa jurisdictions and the city (§414.2) versus county (§335.4) uniformity rules. **Our drafting recommendation:** apply comparable M-2 impact requirements to all facilities with like impacts, rather than one named business category. Legitimate zoning classes or separate districts can still be created where authorized.
 
-## November 5: complete color-coded original M-2 reprint
+## November 11: current independent M-2 working draft
+
+[Current source Markdown](proposals/DRAFT-ORDINANCE-M2-DATA-CENTER-PERFORMANCE-STANDARDS-2026-11-11.md) · [Website draft](https://ttbakiatwoam.github.io/cascade-data-center/draft-ordinance/) · [November 18 red/blue change notes](proposals/NOVEMBER-18-2026-COMMITTEE-PACKET-SCOPE-AND-RED-BLUE-CHANGE-NOTES.md). The draft proposes **citywide exclusion of Hyperscale Data Centers**, **65 dBA / 75 dBC daytime and 60 dBA / 70 dBC nighttime** M-2 noise limits, and **6 a.m.–8 p.m., Monday–Friday** routine generator testing. In the Markdown, **red denotes substantive additions** and **blue denotes non-substantive corrections**. The Hyperscale **definition** passed 5–3; the **prohibition** and noise/testing changes are not recorded as approved committee votes. Historical November 3/5 PDFs should not be represented as current.
+
+## November 5: complete color-coded original M-2 reprint (historical)
 
 [Read the full integrated Markdown](proposals/COMPLETE-M2-COLOR-CODED-REDLINE-2026-11-05.md) · [View the color-coded website page](https://ttbakiatwoam.github.io/cascade-data-center/m2-full-redline/) · [Download the printable redline PDF](https://ttbakiatwoam.github.io/cascade-data-center/downloads/cascade-m2-full-color-redline-2026-11-05.pdf). **Black** preserves original code; **red** marks proposed B(19), D(8), G(2)–G(19) and local definitions; **blue** marks spelling/grammar, formatting and non-substantive cross-references. The PDF includes unchanged original M-2 scan pages.
 
