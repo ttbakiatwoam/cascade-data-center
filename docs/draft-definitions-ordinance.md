@@ -27,66 +27,66 @@ The purpose of this amendment is to make terminology in the proposed M-2 Heavy I
 
 Section 165.41 would be amended **only with needed local terms not otherwise defined** in Cascade's controlling zoning ordinance. Existing §165.41(1), (8), (12), (30), and (51) already cover Accessory Use, Building (Structure), Dwelling Unit, Lot, and Structure (Building). Do not redefine those terms. **Construction** is defined for state building-code purposes in Iowa Code §103A.3(5) and need not be duplicated locally. The separate noncodified glossary of 86 terms is research, not a list of proposed municipal enactments.[^13]
 
-**Data Center (committee-approved November 11, 2026):** A structure or building rehabilitated or constructed to house a group of networked server computers in one physical location in order to centralize the storage, management, and dissemination of data and information pertaining to a particular business, taxonomy, or body of knowledge. A data center business's facility typically includes the mechanical and electrical systems, redundant or backup power supplies, redundant data communications connections, environmental controls, and fire suppression systems.[^6]
+<span class="m2-add" style="color:#a41f27"><strong>Data Center (committee-approved November 11, 2026):</strong></span> A structure or building rehabilitated or constructed to house a group of networked server computers in one physical location in order to centralize the storage, management, and dissemination of data and information pertaining to a particular business, taxonomy, or body of knowledge. A data center business's facility typically includes the mechanical and electrical systems, redundant or backup power supplies, redundant data communications connections, environmental controls, and fire suppression systems.[^6]
 
-**Hyperscale Data Center (committee-approved November 11, 2026; reported vote 5–3):** A Data Center meeting both of the following conditions:
+<span class="m2-add" style="color:#a41f27"><strong>Hyperscale Data Center (committee-approved November 11, 2026; reported vote 5–3):</strong></span> A Data Center meeting both of the following conditions:
 
 1. **100,000 square feet or larger.**
 2. **Electrical demand exceeding 60 megawatts (MW).**[^15]
 
-**Data Center Business (committee-approved November 11, 2026):** An entity whose business among other businesses, is to operate or lease a data center in the city of cascade.[^6]
+<span class="m2-add" style="color:#a41f27"><strong>Data Center Business (committee-approved November 11, 2026):</strong></span> An entity whose business among other businesses, is to operate or lease a data center in the city of cascade.[^6]
 
-**Sustainable Design (committee-approved November 11, 2026):** Construction design that reduces negative environmental effects and improves occupant health and comfort through resource conservation, waste minimization, and healthier environments.[^12]
+<span class="m2-add" style="color:#a41f27"><strong>Sustainable Design (committee-approved November 11, 2026):</strong></span> Construction design that reduces negative environmental effects and improves occupant health and comfort through resource conservation, waste minimization, and healthier environments.[^12]
 
 > **Editorial reconciliation (noncodified):** The committee-reported definitions above preserve their November 11 substance, including Hyperscale Data Center (5–3). The Data Center and Data Center Business texts adapt Iowa's **sales-tax** definitions in §423.3(95)(f)(1)–(2); neither is verbatim. In particular, Data Center adds **“structure or”** and omits the statute's restricted-access/lease clauses; Data Center Business adds **“in the city of cascade.”** Sustainable Design paraphrases, rather than quotes, the controlling definition in §103A.3(25). A later change to match state language **verbatim** would require committee review; statutory building-code and tax-program definitions do not automatically bind City zoning. The earlier independent project term **“Data Center or High-Density Computing Facility”** is superseded in this *definitions* section only. The independent §165.11(B)(19) project entry now cross-references the committee-approved Data Center and Hyperscale Data Center definitions; this editorial reconciliation does not establish a separate committee vote approving B(19), parking, or other standards.
 
-**Major Industrial Facility:** An M-2 use exceeding any one threshold in proposed §165.11(D)(8): 5 MW coincident demand, 25,000 gallons in any 24 hours, 2 MW aggregate stationary generation, or 5 MWh storage. Also includes a modification that crosses a threshold.
+<span class="m2-add" style="color:#a41f27"><strong>Major Industrial Facility:</strong></span> An M-2 use exceeding any one threshold in proposed §165.11(D)(8): 5 MW coincident demand, 25,000 gallons in any 24 hours, 2 MW aggregate stationary generation, or 5 MWh storage. Also includes a modification that crosses a threshold.
 
-**Material Expansion:** A modification increasing an approved maximum by 20 percent or more for electrical demand, water demand, stationary generation, energy storage, exterior mechanical capacity, or developed building area, or crossing a Major Industrial Facility threshold for the first time.
+<span class="m2-add" style="color:#a41f27"><strong>Material Expansion:</strong></span> A modification increasing an approved maximum by 20 percent or more for electrical demand, water demand, stationary generation, energy storage, exterior mechanical capacity, or developed building area, or crossing a Major Industrial Facility threshold for the first time.
 
-**Sensitive Receptor:** An occupied dwelling, school, licensed child-care facility, hospital, nursing facility, place of worship, public library, public park facility, or comparable occupied use requiring protection from continuous industrial noise.
+<span class="m2-add" style="color:#a41f27"><strong>Sensitive Receptor:</strong></span> An occupied dwelling, school, licensed child-care facility, hospital, nursing facility, place of worship, public library, public park facility, or comparable occupied use requiring protection from continuous industrial noise.
 
-**Ambient Noise / Baseline Sound:** The sound environment at a designated receiving location without the regulated facility's incremental contribution, determined under representative day, night, and meteorological conditions. Ambient noise is not the Iowa air-quality term "ambient air."[^3][^4]
+<span class="m2-add" style="color:#a41f27"><strong>Ambient Noise / Baseline Sound:</strong></span> The sound environment at a designated receiving location without the regulated facility's incremental contribution, determined under representative day, night, and meteorological conditions. Ambient noise is not the Iowa air-quality term "ambient air."[^3][^4]
 
-**Facility-Attributable Noise:** The sound contribution attributable to a regulated M-2 use at the specified receiving point, including reasonably foreseeable simultaneous operation of equipment; exclude unrelated transportation, natural, and third-party background noise through an approved, documented acoustical procedure.[^4]
+<span class="m2-add" style="color:#a41f27"><strong>Facility-Attributable Noise:</strong></span> The sound contribution attributable to a regulated M-2 use at the specified receiving point, including reasonably foreseeable simultaneous operation of equipment; exclude unrelated transportation, natural, and third-party background noise through an approved, documented acoustical procedure.[^4]
 
-**dBA:** A-weighted decibels of sound pressure, measured with calibrated equipment using the applicable professional noise measurement method.
+<span class="m2-add" style="color:#a41f27"><strong>dBA:</strong></span> A-weighted decibels of sound pressure, measured with calibrated equipment using the applicable professional noise measurement method.
 
-**dBC:** C-weighted decibels of sound pressure, which place greater relative weight on low-frequency sound than A-weighting.
+<span class="m2-add" style="color:#a41f27"><strong>dBC:</strong></span> C-weighted decibels of sound pressure, which place greater relative weight on low-frequency sound than A-weighting.
 
-**Hourly Average Sound Level (Leq,1h):** The energy-equivalent continuous sound-pressure level over sixty (60) minutes, expressed using the specified A- or C-weighting; intermittent contributions are averaged on an acoustic energy basis, not by taking an arithmetic mean of decibel values. The qualified professional shall identify source operation, background sound, measurement location, and calibration.[^4]
+<span class="m2-add" style="color:#a41f27"><strong>Hourly Average Sound Level (Leq,1h):</strong></span> The energy-equivalent continuous sound-pressure level over sixty (60) minutes, expressed using the specified A- or C-weighting; intermittent contributions are averaged on an acoustic energy basis, not by taking an arithmetic mean of decibel values. The qualified professional shall identify source operation, background sound, measurement location, and calibration.[^4]
 
-**Prominent Tone / Tonal Noise:** An identifiable recurring or steady audible frequency component distinguishable from neighboring sound bands when evaluated under the ordinance's specified professional acoustical method.
+<span class="m2-add" style="color:#a41f27"><strong>Prominent Tone / Tonal Noise:</strong></span> An identifiable recurring or steady audible frequency component distinguishable from neighboring sound bands when evaluated under the ordinance's specified professional acoustical method.
 
-**Acoustic Study:** A qualified professional's documented baseline survey, maximum-design-operation model, receptor analysis, assumptions, equipment schedule, and verification protocol.
+<span class="m2-add" style="color:#a41f27"><strong>Acoustic Study:</strong></span> A qualified professional's documented baseline survey, maximum-design-operation model, receptor analysis, assumptions, equipment schedule, and verification protocol.
 
-**Maximum Anticipated Coincident Electrical Demand:** The greatest reasonably anticipated simultaneous electrical load, expressed in MW, for the complete site during normal or design-maximum operation. A sum of independent equipment nameplate ratings does not establish coincident site demand without a documented load calculation.
+<span class="m2-add" style="color:#a41f27"><strong>Maximum Anticipated Coincident Electrical Demand:</strong></span> The greatest reasonably anticipated simultaneous electrical load, expressed in MW, for the complete site during normal or design-maximum operation. A sum of independent equipment nameplate ratings does not establish coincident site demand without a documented load calculation.
 
-**Aggregate Stationary Generation Capacity:** The sum of rated electrical outputs of all stationary generators covered by the section, in megawatts, excluding fire pumps only where expressly provided.
+<span class="m2-add" style="color:#a41f27"><strong>Aggregate Stationary Generation Capacity:</strong></span> The sum of rated electrical outputs of all stationary generators covered by the section, in megawatts, excluding fire pumps only where expressly provided.
 
-**Aggregate Electrical-Energy-Storage Capacity:** The summed rated stored electrical energy of covered stationary storage systems, in megawatt-hours, using documented nameplate energy ratings.
+<span class="m2-add" style="color:#a41f27"><strong>Aggregate Electrical-Energy-Storage Capacity:</strong></span> The summed rated stored electrical energy of covered stationary storage systems, in megawatt-hours, using documented nameplate energy ratings.
 
-**Exterior Mechanical Equipment:** Permanently located outdoor fans, compressors, cooling equipment, generators, transformers, heat-rejection systems, and comparable mechanical installations serving an M-2 principal use.
+<span class="m2-add" style="color:#a41f27"><strong>Exterior Mechanical Equipment:</strong></span> Permanently located outdoor fans, compressors, cooling equipment, generators, transformers, heat-rejection systems, and comparable mechanical installations serving an M-2 principal use.
 
-**Residential Zoning District Boundary:** The official delineation between an M-2 parcel or district and land designated residential by the City's controlling zoning map.
+<span class="m2-add" style="color:#a41f27"><strong>Residential Zoning District Boundary:</strong></span> The official delineation between an M-2 parcel or district and land designated residential by the City's controlling zoning map.
 
-**Sensitive-Receptor Measurement Location:** The specified exterior wall, occupied outdoor-use area, or other objectively identified receiving point at a sensitive receptor, documented on an approved site/acoustic plan.
+<span class="m2-add" style="color:#a41f27"><strong>Sensitive-Receptor Measurement Location:</strong></span> The specified exterior wall, occupied outdoor-use area, or other objectively identified receiving point at a sensitive receptor, documented on an approved site/acoustic plan.
 
-**Once-Through Cooling:** A process in which municipal potable water passes through a cooling system once and is discharged rather than being recirculated for heat rejection.
+<span class="m2-add" style="color:#a41f27"><strong>Once-Through Cooling:</strong></span> A process in which municipal potable water passes through a cooling system once and is discharged rather than being recirculated for heat rejection.
 
-**Closed-Loop Cooling:** A recirculating coolant system intended to keep working fluid contained, subject to any limited makeup or process losses specifically disclosed.
+<span class="m2-add" style="color:#a41f27"><strong>Closed-Loop Cooling:</strong></span> A recirculating coolant system intended to keep working fluid contained, subject to any limited makeup or process losses specifically disclosed.
 
-**Emergency Response Plan:** A written, site-specific plan documenting access, contacts, utility isolation, fuel, chemicals, battery systems, suppression, evacuation, spills, and coordination with first responders.
+<span class="m2-add" style="color:#a41f27"><strong>Emergency Response Plan:</strong></span> A written, site-specific plan documenting access, contacts, utility isolation, fuel, chemicals, battery systems, suppression, evacuation, spills, and coordination with first responders.
 
-**Decommissioning:** The safe disconnection, dismantling, lawful removal, cleanup, and site restoration work required at the end of a covered facility's life.
+<span class="m2-add" style="color:#a41f27"><strong>Decommissioning:</strong></span> The safe disconnection, dismantling, lawful removal, cleanup, and site restoration work required at the end of a covered facility's life.
 
-**Abandonment:** Continuous cessation of a facility's principal approved industrial operation for the period specified in §165.11(G)(17), subject to its listed reasonable exceptions.
+<span class="m2-add" style="color:#a41f27"><strong>Abandonment:</strong></span> Continuous cessation of a facility's principal approved industrial operation for the period specified in §165.11(G)(17), subject to its listed reasonable exceptions.
 
-**Financial Assurance:** A surety, letter of credit, escrow, performance bond, trust, or other legally authorized and enforceable arrangement in a reasonable amount covering documented decommissioning and site restoration duties. The statutory definition applicable to sanitary-disposal facilities under Iowa Code §455B.301(9) does not itself grant the City authority to impose that requirement on M-2 data centers; a separate legal basis must be confirmed by the City Attorney.[^5]
+<span class="m2-add" style="color:#a41f27"><strong>Financial Assurance:</strong></span> A surety, letter of credit, escrow, performance bond, trust, or other legally authorized and enforceable arrangement in a reasonable amount covering documented decommissioning and site restoration duties. The statutory definition applicable to sanitary-disposal facilities under Iowa Code §455B.301(9) does not itself grant the City authority to impose that requirement on M-2 data centers; a separate legal basis must be confirmed by the City Attorney.[^5]
 
-**Independent Qualified Professional:** An appropriately licensed or credentialed expert with relevant technical competence and no financial or managerial interest that would compromise independent evaluation.
+<span class="m2-add" style="color:#a41f27"><strong>Independent Qualified Professional:</strong></span> An appropriately licensed or credentialed expert with relevant technical competence and no financial or managerial interest that would compromise independent evaluation.
 
-**Material Modification (for monitoring):** A change in equipment, site layout, generation operation, or other covered operation reasonably likely to change the regulated environmental or infrastructure impact.
+<span class="m2-add" style="color:#a41f27"><strong>Material Modification (for monitoring):</strong></span> A change in equipment, site layout, generation operation, or other covered operation reasonably likely to change the regulated environmental or infrastructure impact.
 
 ### Terms already defined in applicable law — no new Chapter 165 entry
 
