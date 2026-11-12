@@ -42,16 +42,11 @@ jobs:
           sudo apt-get update -qq
           sudo apt-get install -y fonts-dejavu-core libpango-1.0-0 libpangocairo-1.0-0 libharfbuzz0b
           python -m pip install -r scripts/requirements-m2.txt
-      - name: Export cited research PDFs
-        run: python scripts/export_research_pdfs.py --root . --out docs/downloads
-      - name: Render full black/red/blue M-2 text with unchanged scan appendix
-        run: python scripts/build_m2_full_redline.py --root . --out docs/downloads
+      # The historical November 3-9 PDFs remain versioned and untouched. Their
+      # older export validator rejects other PDFs already in downloads. Publish
+      # only the active November 11 red/blue source on routine site builds.
       - name: Render November 11 draft ordinance PDF with reported voted definitions
         run: python scripts/build_m2_nov11_redblue.py --root . --out docs/downloads
-      - name: Build original M-2 scanned ordinance and highlighted concordance
-        run: python scripts/build_m2_concordance.py --root . --out docs/downloads
-      - name: Assemble November 9 consolidated committee packet and corrected companion PDFs
-        run: python scripts/build_nov9_committee_packet.py --out docs/downloads
       - name: Commit reproducibly generated PDFs to the repository
         run: |
           git config user.name 'github-actions[bot]'
@@ -63,7 +58,7 @@ jobs:
             git commit -m 'docs: publish verified Nov 11 red blue and historical committee PDFs [skip ci]'
             git push origin HEAD:master
           fi
-      - name: Archive published PDF packets, color redline and scan comparison
+      - name: Archive current draft and historical downloadable PDFs
         uses: actions/upload-artifact@v4
         with:
           name: cascade-published-research-pdfs-full-redline-and-original-m2-concordance
