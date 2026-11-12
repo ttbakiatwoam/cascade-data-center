@@ -349,6 +349,41 @@ summary {
   .post-content blockquote:has(.cascade-change-blue) { border-left-color: #245fa4; background:#f1f6ff; }
 }
 
+/* Current source-grounded Cascade M-2 redline: entire new provisions RED,
+   only editorial corrections to existing text BLUE. No reliance on colored summary cards. */
+.post-content blockquote:has(.m2-redline-tag) {
+  border-left: 5px solid #ad1f2c;
+  background: #fff1f2;
+  color: #8e1a28;
+  padding: 0.85rem 1.15rem;
+  margin-top: 0.7rem;
+  margin-bottom: 1.5rem;
+}
+.post-content blockquote:has(.m2-redline-tag) p,
+.post-content blockquote:has(.m2-redline-tag) li,
+.post-content blockquote:has(.m2-redline-tag) strong,
+.post-content blockquote:has(.m2-redline-tag) em,
+.post-content blockquote:has(.m2-redline-tag) a {
+  color: #8e1a28 !important;
+}
+.post-content blockquote:has(.m2-redline-tag) a { text-decoration: underline; }
+.post-content h3:has(+ blockquote .m2-redline-tag) { color: #a31c29; }
+.post-content .m2-redline-tag { font-weight: 750; color: #a31c29 !important; }
+.post-content .m2-edit, .post-content .m2-edit strong { color: #175bb1 !important; }
+.post-content blockquote:not(:has(.m2-redline-tag)) {
+  /* Black baseline quotations are NOT newly proposed law. */
+}
+@media print {
+  .post-content blockquote:has(.m2-redline-tag) {
+    border-left-color: #ad1f2c;
+    background: #fff1f2;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+    break-inside: auto;
+  }
+  .post-content .m2-edit { color: #175bb1 !important; }
+}
+
 /* Legislative comparison convention used in the Markdown working draft.
    Red = substantive proposed addition; blue = editorial/current-language correction. */
 .post-content .m2-add, .post-content .m2-add strong, .post-content .m2-add b { color: #a41f27; }
