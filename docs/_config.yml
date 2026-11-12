@@ -4,6 +4,7 @@ theme: minima
 markdown: kramdown
 header_pages:
   - draft-ordinance.md
+  - city-data-center-ordinances.md
   - committee.md
   - research-library.md
   - data-center-litigation.md
