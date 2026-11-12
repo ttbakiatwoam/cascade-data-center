@@ -50,9 +50,9 @@ The [October 28 Data Center Advisory Committee minutes]({{ '/meeting-2026-10-28/
 
 ### Current M-2 working draft and red/blue changes
 
-**[Read the updated ordinance draft]({{ '/draft-ordinance/' | relative_url }})** — the independent November 11 working text now proposes to **prohibit Hyperscale Data Centers in all Cascade zoning districts**, use **65/75 dBA/dBC by day and 60/70 dBA/dBC by night**, and permit routine generator testing from **6 a.m. to 8 p.m., Monday–Friday**. **Red** marks substantive proposed changes; **blue** marks editorial/cross-reference corrections. These changes are proposals, not adopted City policy. [November 18 packet change notes](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/proposals/NOVEMBER-18-2026-COMMITTEE-PACKET-SCOPE-AND-RED-BLUE-CHANGE-NOTES.md).
+**[Read the source-based ordinance redline]({{ '/draft-ordinance/' | relative_url }})** — black reproduces existing §165.11 with enacted B(18), red shows proposed new sections and blue is reserved for source corrections. The November 11 working text proposes to **prohibit Hyperscale Data Centers in all Cascade zoning districts**, use **65/75 dBA/dBC by day and 60/70 dBA/dBC by night**, and permit routine generator testing from **6 a.m. to 8 p.m., Monday–Friday**. **Red** marks actual newly proposed ordinance provisions; **blue** only existing-source copyedits. These changes are proposals, not adopted City policy. [November 18 packet change notes](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/proposals/NOVEMBER-18-2026-COMMITTEE-PACKET-SCOPE-AND-RED-BLUE-CHANGE-NOTES.md).
 
-The [original-inclusive November 5 redline]({{ '/m2-full-redline/' | relative_url }}) and [PDF]({{ '/downloads/cascade-m2-full-color-redline-2026-11-05.pdf' | relative_url }}) remain **historical only** and are excluded from the November 18 packet.
+The [complete current redline]({{ '/m2-full-redline/' | relative_url }}) is now updated; the [November 5 PDF]({{ '/downloads/cascade-m2-full-color-redline-2026-11-05.pdf' | relative_url }}) remains historical only and is excluded from the November 18 packet. [Amendment-only working language](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/proposals/AMENDMENT-ONLY-M2-ORDINANCE-2026-11-11.md) is preserved separately.
 
 ### Original M-2 ordinance cross-check
 
@@ -68,7 +68,7 @@ The [original scanned Cascade M-2 zoning text and proposed redline]({{ '/m2-conc
 - [Separate Chapter 165 definitions ordinance]({{ '/draft-definitions-ordinance/' | relative_url }}) - alternative companion legislative vehicle; do not adopt both definitions sections without consolidation.
 - [October 28 committee recommendation package]({{ '/committee-recommendations/' | relative_url }}) - updated agenda-ready recommendations and current proposed M-2 ordinance attached.
 - [Iowa state-law and proposed M-2 definitions table]({{ '/definitions/' | relative_url }}) - 55 Iowa statutory and administrative definitions, five zoning-law concepts, and 26 proposed local terms, compared with Oxford and Merriam-Webster ordinary-language comparisons, plus Cornell Wex and FindLaw's freely accessible legal references.
-- [Current draft M-2 zoning ordinance]({{ '/draft-ordinance/' | relative_url }}) - November 3 cited revision; October 26 and October 6 originals remain preserved in GitHub.
+- [Current draft against existing Cascade M-2 code]({{ '/draft-ordinance/' | relative_url }}) - November 11/18 true redline, with historical revisions separately preserved.
 - [Public concerns and evidence]({{ '/public-objections/' | relative_url }}) - issue-by-issue source review, including noise, wildlife, electricity rates, generators, batteries, fire response, AI, and property values.
 - [Facility-to-home distances]({{ '/site-distances/' | relative_url }}) - preliminary image-scale estimates of 600–700 feet for the building and outdoor equipment, with diagrams and source limits.
 - [LEED and neighborhood noise]({{ '/leed-noise/' | relative_url }}) - USGBC certification versus optional acoustic credits, the exterior pilot and enforceable local industrial noise limits.
