@@ -6,7 +6,7 @@ permalink: /operational-noise/
 
 # Operational Noise: Understanding the proposed M-2 standards
 
-> **Status: November 3, 2026.** This is a plain-language explanation of the proposed M-2 ordinance, **not current City of Cascade law**. It does not replace an acoustical study or the City Attorney's review. The limits below are **proposed**, and the source is [§165.11(G)(4) of the November 3 working draft]({{ '/draft-ordinance/' | relative_url }}#4-operational-noise).[^1]
+> **Status: November 11 working draft, updated for November 18, 2026 committee discussion.** This is a plain-language explanation of the proposed M-2 ordinance, **not current City of Cascade law**. It does not replace an acoustical study or the City Attorney's review. The limits below are **proposed**, and the source is [§165.11(G)(4) of the current working draft]({{ '/draft-ordinance/' | relative_url }}#4-operational-noise).[^1]
 
 The proposal creates **two separate checks** on noise from any M-2 industrial use. One is made at its property boundary. The other protects existing homes and other sensitive places. **Both the A-weighted and C-weighted limits must be met** at each applicable location.
 
@@ -14,14 +14,14 @@ The proposal creates **two separate checks** on noise from any M-2 industrial us
 
 | Where sound is evaluated | 7:00 a.m.–10:00 p.m. | 10:00 p.m.–7:00 a.m. |
 | --- | --- | --- |
-| **Any M-2 property boundary** | **65 dBA and 75 dBC** | **65 dBA and 75 dBC** |
-| **Inside a dwelling or other sensitive-receptor structure, doors and windows closed** | **55 dBA and 65 dBC** | **50 dBA and 60 dBC** |
+| **Any M-2 property boundary** | **65 dBA and 75 dBC** | **60 dBA and 70 dBC** |
+| **Inside a dwelling or other sensitive-receptor structure, doors and windows closed** | **65 dBA and 75 dBC** | **60 dBA and 70 dBC** |
 
-The property-boundary limit does not change at night. The different nighttime limits apply **inside occupied sensitive structures**, not automatically at every industrial boundary.
+**The proposed limits are lower at night at both measurement locations.** The property-line and sensitive-receptor measurements are performed at different locations, and both conditions must be evaluated where applicable.
 
 The sensitive-receptor list includes an **existing dwelling, school, licensed child-care facility, hospital, nursing facility, place of worship, public library, or comparable occupied sensitive use**. The measurement would be made in the **nearest normally occupied room on the source-facing side**, initially at the closest qualifying occupied structure. The microphone would be **within five feet of the interior surface of the nearest exterior wall**, normally **at least 1.5 feet away from reflective surfaces**, about four to five feet above the floor. **All doors and windows must be closed**. An acoustician would also check other qualifying structures where sound might be greater because of terrain or equipment direction. Indoor entry requires consent or other lawful authority.[^6][^7]
 
-**Important change in protection:** This replaces the original exterior-wall/outdoor-use-area measurement. A closed building generally reduces outside sound, so **the same 50 dBA nighttime limit is considerably less protective when measured indoors**. WHO guidance uses **30 dBA Leq indoors at night for bedrooms** as a sleep-related benchmark. That is guidance, not Iowa law. The draft deliberately preserves its earlier numbers for committee discussion, and they **need independent acoustical review before adoption**.[^8] Outdoor patios and yards are no longer checked under this separate sensitive-receptor limit, though the M-2 property-line limit remains.
+**Important change in protection:** This draft retains an indoor, closed-window sensitive-receptor test rather than the original exterior-wall/outdoor-use-area measurement. The revised limits of **65 dBA / 75 dBC daytime and 60 dBA / 70 dBC nighttime indoors** are substantially more permissive than the earlier **55/65 daytime and 50/60 nighttime** working thresholds. Indoor limits are not equivalent to outdoor limits because a building generally attenuates sound. WHO guidance discusses **30 dBA Leq indoors at night for bedrooms**, which is nonbinding guidance, not Iowa law. Independent acoustic and legal review is important before adopting the new thresholds.[^8] The M-2 outdoor property-line test remains separately applicable.
 
 ## 1. What do dBA and dBC mean?
 
@@ -38,9 +38,10 @@ Proposed **§4(c)** lowers the **A-weighted** limit by **5 dB** when there is a 
 
 | Location / time | Regular proposed dBA limit | With qualifying tonal sound |
 | --- | ---: | ---: |
-| M-2 property line | 65 dBA | **60 dBA** |
-| Sensitive receptor, daytime | 55 dBA | **50 dBA** |
-| Sensitive receptor, nighttime | 50 dBA | **45 dBA** |
+| M-2 property line, daytime | 65 dBA | **60 dBA** |
+| M-2 property line, nighttime | 60 dBA | **55 dBA** |
+| Sensitive receptor, daytime | 65 dBA | **60 dBA** |
+| Sensitive receptor, nighttime | 60 dBA | **55 dBA** |
 
 Whether a tone qualifies should be established through a documented professional method, not simply personal impression.
 
@@ -118,7 +119,7 @@ A properly documented baseline gives the City comparable **before-and-after evid
 ## 7. What happens with generators, existing businesses, and major facilities?
 
 - **All M-2 uses:** The proposed operational limits are drafted as district-wide performance requirements, not special restrictions on data centers alone. Proposed §165.11(G)(2) separately addresses lawful preexisting uses and nonconforming situations; it does **not** establish that every older business must retrofit immediately.
-- **Generators:** Under proposed §165.11(G)(6), routine elevated-noise generator testing is generally limited to **8 a.m.–6 p.m., Monday–Friday**, with listed emergency, safety, regulatory, and authorized exceptions. These hours are **additional to**, not a replacement for, the noise provisions.
+- **Generators:** Under proposed §165.11(G)(6), routine elevated-noise generator testing is generally limited to **6 a.m.–8 p.m., Monday–Friday**, with listed emergency, safety, regulatory, and authorized exceptions. These hours are **additional to**, not a replacement for, the noise provisions.
 - **Major Industrial Facilities:** Proposed §165.11(G)(5) calls for preconstruction baseline work, a full-operating-condition model, post-startup verification, and testing at least every three years or after certain material changes. This is an extra study requirement triggered by the draft's neutral impact thresholds.
 
 The facility's loudest reasonably anticipated conditions matter, including hot-weather cooling, multiple operating units, and appropriate generator scenarios. A single quiet-day reading is not a full compliance demonstration.
@@ -127,7 +128,7 @@ The facility's loudest reasonably anticipated conditions matter, including hot-w
 
 The existing draft already calls for a qualified acoustical professional, a calibrated **Type 1 or Type 2** meter, A/C frequency weighting, weather and background documentation, and an ANSI/ASA S12.9-based method. That is useful groundwork. The remaining decisions should be made explicit:
 
-1. **Reassess the indoor limits.** The 55/50 dBA residential numbers were written for outdoor measurement. Decide whether to lower them for occupied indoor rooms and whether an outdoor living-area standard should remain.
+1. **Reassess the indoor limits.** The present 65/60 dBA residential limits apply indoors, and the earlier 55/50 dBA numbers have been replaced. Decide whether the new, less-protective indoor thresholds are defensible and whether an outdoor living-area standard should remain.
 2. **Confirm microphone placement.** Evaluate the draft's 1.5-to-5-foot wall distance, room selection, window clearance, and special low-frequency test positions with an acoustician.
 3. **Background correction?** Identify the applicable standard, acceptable measurement conditions, and treatment of uncertainty when source and background levels are close.
 4. **Intermittent peaks and tones?** Decide whether a separate event maximum, tonal test, or correction is needed.
@@ -142,7 +143,7 @@ The objective is a rule that protects residents **and** gives every M-2 business
 
 ## Sources and related research
 
-[^1]: Cascade Data Center research project, [*Draft M-2 Heavy Industrial District Performance Standards*, November 3, 2026](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/proposals/DRAFT-ORDINANCE-M2-DATA-CENTER-PERFORMANCE-STANDARDS-2026-11-03.md), proposed §165.11(G)(2), (4)–(6). This is draft local policy, not adopted City law.
+[^1]: Cascade Data Center research project, [*Draft M-2 Heavy Industrial District Performance Standards*, November 11 working revision](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/proposals/DRAFT-ORDINANCE-M2-DATA-CENTER-PERFORMANCE-STANDARDS-2026-11-11.md), proposed §165.11(G)(2), (4)–(6). This is draft local policy, not adopted City law.
 [^2]: U.S. Occupational Safety and Health Administration, [*Technical Manual*, Section III, Chapter 5, “Loudness and Weighting Networks”](https://www.osha.gov/otm/section-3-health-hazards/chapter-5). OSHA's workplace rules are **not** the proposed community limits.
 [^3]: Federal Highway Administration, [*Noise Measurement Handbook*](https://www.fhwa.dot.gov/Environment/noise/measurement/handbook.cfm), definitions of equivalent continuous sound level and formulas for combined noise.
 [^4]: Acoustical Society of America / ANSI, [*ASA/ANSI S12.9-2013/Part 3 (R2023): Short-term Measurements with an Observer Present*](https://webstore.ansi.org/standards/asa/asaansis122013partr2023-2504997), scope and background-correction procedures. The exact method to use should be adopted clearly and reviewed by an acoustician.
