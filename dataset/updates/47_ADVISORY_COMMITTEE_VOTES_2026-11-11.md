@@ -20,11 +20,15 @@ State source comparator: [Iowa Code §423.3(95)(f)(2)](https://www.legis.iowa.go
 
 State source comparator: [Iowa Code §103A.3(25)](https://www.legis.iowa.gov/docs/code/2026/103A.3.pdf). The local wording is a *paraphrase*, **not** a verbatim copy of statutory text. Related statute: [§103A.8B](https://www.legis.iowa.gov/docs/code/2026/103A.8B.pdf). A definition does not itself impose a performance duty.
 
-**Hyper-Data Center** — **approved for inclusion in the draft, reported vote 5–3**:
+**Hyperscale Data Center** — **approved for inclusion in the draft, reported vote 5–3**:
 
-> “Hyper-Data Center” means a data center with more than 100,000 square feet and using over 60 MW of power annually.
+> “Hyperscale Data Center” means a data center with more than 100,000 square feet and using over 60 MW of power annually.
 
-**Source:** Committee participant's November 11 report; official adopted minutes and exact verbatim punctuation remain unverified. This is a proposed **municipal** category, not a definition from Iowa Code §423.3. Both the square-footage and power thresholds must be exceeded (**and**, not **or**). “MW annually” must be made objectively measurable before enactment because MW denotes power whereas MWh denotes energy. The updated project draft uses “facility space” as an editorial clarification, not a quotation from the vote.
+**Source:** Committee participant's November 11 report; official adopted minutes and exact verbatim punctuation remain unverified. This is a proposed **municipal** category, not a definition from Iowa Code §423.3. Both the square-footage and power thresholds must be exceeded (**and**, not **or**). “MW annually” must be made objectively measurable before enactment because MW denotes power whereas MWh denotes energy. The earlier project draft added “facility space,” which was not in the reported vote wording; the corrected draft removes that qualifier. The correct committee-approved term is **Hyperscale Data Center**, not the previously transcribed “Hyper-Data Center.”
+
+**Proposed November 18 amendment — requires a new committee vote:** The committee's **5–3 vote approved the word “annually.”** That is the existing committee-approved wording, but it does not identify a fixed measurement period. Propose replacing “annually” with **“during each calendar year (January 1 through December 31)”**, then expressly specify how the **60 MW** threshold will be measured. This suggested wording is **not yet approved**; preserve the November 11 text until the committee votes. MW measures power, while MWh measures energy, so the calendar-year phrase alone does not settle whether the metric is peak demand, average demand, or total energy.
+
+**Terminology correction:** The November 11 vote was on **Hyperscale Data Center**, not “Hyper-Data Center”; the corrected name does not change the reported **5–3** tally.
 
 **Next meeting announced:** Wednesday, **November 18, 2026 at 7:00 p.m.** Topic: air pollution, air contaminants, diesel generators under Iowa DNR and EPA regulations, Dubuque and Jones County regulations, and other zoning comparisons. Meeting time/topic provided by participant, pending official agenda verification. See [next-meeting legal source/comparator brief](../policy/48_AIR_POLLUTION_GENERATORS_COMPARATIVE_BRIEF_2026-11-18.md).
 
