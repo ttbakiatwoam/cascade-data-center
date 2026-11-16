@@ -6,7 +6,7 @@ permalink: /research-library/
 
 # Research Library
 
-**Last updated: November 12, 2026**
+**Last updated: November 16, 2026**
 
 [Current 24-page November 11 red/blue ordinance PDF]({{ '/downloads/cascade-m2-red-blue-draft-ordinance-2026-11-11.pdf' | relative_url }}) · [November 12 author-released correspondence and recording follow-up]({{ '/correspondence-2026-11-12/' | relative_url }}) · [November 11 draft-definition votes]({{ '/meeting-2026-11-11/' | relative_url }})
 
@@ -15,6 +15,12 @@ permalink: /research-library/
 A topic-based guide to the Cascade data center research. **Independent work, not an official City of Cascade publication.** Draft ordinances and recommendations on this site are **not adopted law**.
 
 The header links to the principal pages. Everything else remains available below, including supporting evidence, earlier committee material, and ordinance revision history.
+
+## November 18 committee packet
+
+- **[November 18 complete PDF packet]({{ '/downloads/cascade-advisory-committee-meeting-packet-2026-11-18.pdf' | relative_url }})** — November 11 red/blue ordinance, 28 proposed definitions, omitted statutory/local term register, official regulatory facsimiles with highlighted ppm, Central City original proposed 10-page zoning document, and other Iowa city comparisons.
+- [November 18 briefing and policy questions]({{ '/meeting-2026-11-18/' | relative_url }}) — Tier 4 is not established by project MW or generator count; 15-ppm ULSD sulfur is **fuel**, not a generic generator exhaust NOx limit.
+- [Research note: EPA, Iowa diesel generators, and city zoning comparators](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/proposals/NOVEMBER-18-2026-GENERATORS-AIR-AND-IOWA-CITY-COMPARATORS.md) — linked sources and permit questions; **not adopted law**.
 
 ## Current proposals and zoning references
 

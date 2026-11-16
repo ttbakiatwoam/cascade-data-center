@@ -4,7 +4,13 @@ title: Downloads
 permalink: /downloads/
 ---
 
-# Current November 11, 2026 red/blue ordinance PDF and historical downloads
+# November 18, 2026 meeting packet, current ordinance and historical downloads
+
+**Last updated: November 16, 2026.**
+
+**[Download the complete NOVEMBER 18 ADVISORY COMMITTEE PACKET (PDF)]({{ '/downloads/cascade-advisory-committee-meeting-packet-2026-11-18.pdf' | relative_url }})** — includes the entire unchanged November 11 black/red/blue draft ordinance, the 28 definitions, sources and omitted-term explanation, official EPA/Iowa legal facsimiles with highlighted sulfur ppm and operating restrictions, and highlighted Iowa city zoning excerpts including Central City's proposed ordinance. [Meeting briefing]({{ '/meeting-2026-11-18/' | relative_url }}) · [Editable generator/municipal research memo](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/proposals/NOVEMBER-18-2026-GENERATORS-AIR-AND-IOWA-CITY-COMPARATORS.md).
+
+**Important:** The federal legal facsimiles are dated annual CFR pages and the Iowa facsimile is a dated 2026 Chapter 22 archive. The printed excerpts preserve verbatim official text and editorial highlights; they do not substitute for checking the live rule and any specific Iowa DNR permit. Central City is a **proposed** ordinance, not current law; the four November 11 definition votes did not approve the other 24 independent proposed terms.
 
 **Independent research — not adopted City law.** **[Download the updated November 11, 2026 RED/BLUE draft ordinance PDF]({{ '/downloads/cascade-m2-red-blue-draft-ordinance-2026-11-11.pdf' | relative_url }}).** The print-ready integrated redline has the four participant-reported committee-approved definitions, while identifying other independently proposed provisions as *not* approved by those votes. **Black = existing text; red = proposed ordinance text; blue = source copyedits.** This is not enacted City law.
 
@@ -14,6 +20,7 @@ permalink: /downloads/
 
 | PDF | Contents | Canonical editable Markdown |
 | --- | --- | --- |
+| **[CURRENT NOVEMBER 18 committee meeting packet]({{ '/downloads/cascade-advisory-committee-meeting-packet-2026-11-18.pdf' | relative_url }})** | Complete integrated print packet: November 11 ordinance + 28 definitions + 52 state reference terms / 5 Cascade definitions omitted from amendment + official EPA and Iowa excerpts + Central City and Palo zoning comparisons. **Not City-adopted law.** | [Research/source memo](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/proposals/NOVEMBER-18-2026-GENERATORS-AIR-AND-IOWA-CITY-COMPARATORS.md) |
 | **[CURRENT November 11 RED/BLUE draft ordinance]({{ '/downloads/cascade-m2-red-blue-draft-ordinance-2026-11-11.pdf' | relative_url }})** | Full black existing / red proposed / blue copyedit comparison of existing M-2 provisions, proposed performance provisions, definitions, legal source notes, and reported committee votes. **Working draft, not law.** | [Editable November 11 source](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/proposals/COMPLETE-M2-COLOR-CODED-REDLINE-2026-11-11.md) |
 | **[HISTORICAL November 9 submission - 118-page packet]({{ '/downloads/Cascade_M2_Complete_Committee_Submission_2026-11-09.pdf' | relative_url }})** | Original scanned M-2, highlighted redline and proposed amendment, November 4-updated 86-term dictionary reference, 27 case abstracts, optional definitions ordinance and November 4 source-check note. Includes contents and PDF bookmarks. | [Reproducible assembly script](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/scripts/build_nov9_committee_packet.py) |
 | [November 5 corrected 63-page annotated comparison]({{ '/downloads/Cascade_M2_Original_Proposed_Annotated_Corrected_2026-11-05.pdf' | relative_url }}) | Detailed 63-page highlighted and original-scan comparison, with full draft. | [Original-versus-proposed analysis]({{ '/m2-concordance/' | relative_url }}) |

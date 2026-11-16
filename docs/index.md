@@ -7,13 +7,21 @@ title: Cascade Data Center Research
 
 # Cascade Data Center Research & Zoning Work
 
-**Last updated: November 12, 2026**  
+**Last updated: November 16, 2026**  
 *Current independent research update — not an official City of Cascade publication.*
 
 > **Independent community research - not an official City of Cascade website.**  
 > The working position of this project is pro-development with clear, measurable community protections, transparency, and accountability.
 
 **[Download the updated November 11, 2026 RED/BLUE draft ordinance PDF]({{ '/downloads/cascade-m2-red-blue-draft-ordinance-2026-11-11.pdf' | relative_url }}).** The print-ready integrated redline has the four participant-reported committee-approved definitions, while identifying other independently proposed provisions as *not* approved by those votes. **Black = existing text; red = proposed ordinance text; blue = source copyedits.** This is not enacted City law.
+
+## November 18 advisory committee — printable packet now available
+
+**[Download the full November 18 meeting packet (PDF)]({{ '/downloads/cascade-advisory-committee-meeting-packet-2026-11-18.pdf' | relative_url }})** · **[Open the meeting briefing]({{ '/meeting-2026-11-18/' | relative_url }})**.
+
+Includes the complete **November 11 red/blue ordinance**, **28 definitions and their sources**, a dated register of **Iowa and Cascade terms not separately redefined**, official verbatim **EPA diesel-engine and Iowa Chapter 22 regulatory excerpts** with highlighted fuel sulfur **ppm** provisions, and the **highlighted original Central City draft** plus other Iowa city comparisons.
+
+The report of **approximately 15 diesel generators** for a 40 MW facility does **not establish Tier 4 certification**. Engine emissions (typically g/kW-hr), fuel sulfur (ppm) and outdoor ambient air (ppm/ppb) are different legal measurements. The new packet identifies those distinctions and the engineering/permit documentation needed before any ordinance vote. **Independent research, not enacted City law.**
 
 ## November 12 — current status and public correspondence
 

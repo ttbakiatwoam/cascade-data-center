@@ -7,6 +7,8 @@ These are project-generated discussion drafts. **They are not adopted law, offic
 - **[Current November 11 complete black/red/blue redline](COMPLETE-M2-COLOR-CODED-REDLINE-2026-11-11.md)** — [24-page current printable PDF](../docs/downloads/cascade-m2-red-blue-draft-ordinance-2026-11-11.pdf), [amendment-only text](AMENDMENT-ONLY-M2-ORDINANCE-2026-11-11.md), and [separate Chapter 165 definitions](DRAFT-ORDINANCE-CH165-DEFINITIONS-2026-11-11.md). Only **four definitions** were reported approved for the advisory draft; the other independent proposals remain unapproved. **Not enacted City law.**
 - [November 12 correspondence and source-status record](../docs/correspondence-2026-11-12.md) — outgoing email drafts to Deanna and Adam Haynes, sending not verified.
 
+- [November 18 EPA/Iowa diesel-generator and municipal zoning memo](NOVEMBER-18-2026-GENERATORS-AIR-AND-IOWA-CITY-COMPARATORS.md), paired with the [November 18 complete meeting packet](../docs/downloads/cascade-advisory-committee-meeting-packet-2026-11-18.pdf). Includes official legal facsimiles, 15/1,000 ppm fuel sulfur distinction, ambient standards, and Central City proposed standards.
+
 ## Historical proposals
 
 - [Historical M-2 original-text color redline, November 5](COMPLETE-M2-COLOR-CODED-REDLINE-2026-11-05.md) — existing §165.11 A–G(1) in black, proposed changes red, non-substantive copyedits blue, with a source key and scan caveats. [Website](https://ttbakiatwoam.github.io/cascade-data-center/m2-full-redline/).

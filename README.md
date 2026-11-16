@@ -1,11 +1,21 @@
 # Cascade Data Center
 
-**Last updated: November 12, 2026**  
+**Last updated: November 16, 2026**  
 *Independent research — current draft and public committee update, not an official City publication.*
 
 Research, source material, community questions, and policy analysis related to proposed data-center development in Cascade, Iowa.
 
 The working position of this independent community project is **pro-data-center development with appropriate community protections, transparency, and accountability**. Read the [research scope and project stance](docs/research-scope.md) for the full purpose, areas of focus, and policy principles.
+
+## November 18, 2026 advisory committee meeting packet
+
+**[Download the complete November 18 committee packet (PDF)](docs/downloads/cascade-advisory-committee-meeting-packet-2026-11-18.pdf)** · [Website meeting briefing](https://ttbakiatwoam.github.io/cascade-data-center/meeting-2026-11-18/) · [Source-linked generator / city comparison research](proposals/NOVEMBER-18-2026-GENERATORS-AIR-AND-IOWA-CITY-COMPARATORS.md).
+
+The printable packet combines the **unchanged 24-page November 11 red/blue M-2 ordinance**, all **28 proposed local definitions with source notes**, an **omitted-term register** explaining why **52 Iowa-law reference definitions** and **five existing Cascade zoning definitions** are not separately reproposed, official verbatim federal EPA diesel-engine regulations and Iowa Chapter 22 source excerpts with highlighted sulfur-ppm/air-permit language, and highlighted Iowa municipal zoning comparisons including the **original 10-page Central City draft**. Additional city models include **Palo EU-1 (adopted)** and Dubuque's temporary hyperscale moratorium, with separate county examples clearly labeled as such.
+
+**Key unresolved issue:** The developer's anticipated **approximately 15 generators** and the **40 MW project** are planning representations, not an independently verified engine schedule or proof that the generators are **EPA Tier 4**. **15 ppm** generally refers to ULSD **fuel sulfur** for certain engine categories; emission standards for engine NOx/PM are normally in **g/kW-hr**, while NO₂/SO₂/CO ppm/ppb values can be **ambient-air** standards. Confirm each engine's category, permits and actual operating use before discussing enforceable limits.
+
+**Document status:** This is independent research for the participant-reported **Wednesday, November 18, 2026, 7 p.m.** advisory meeting, not an official City packet, approved zoning ordinance, or adoption of the remaining 24 local proposals.
 
 ## Current status — November 12, 2026
 
