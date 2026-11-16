@@ -76,7 +76,7 @@ INTRO = """<section class="cover">
 <h2>Included in order</h2>
 <ol>
 <li><b>Cover and action questions</b> — assumptions, source caveats, legislative status</li>
-<li><b>November 11 red/blue full ordinance</b> — original 24-page PDF, inserted unchanged</li>
+<li><b>November 11 red/blue full ordinance</b> — rebuilt from current source with November 16 independent draft corrections; existing zoning baseline preserved, not adopted law</li>
 <li><b>28 proposed Section 165.41 definitions</b> — complete wording and source footnotes; approved versus proposed clearly separated</li>
 <li><b>Definitions omitted from the 86-term research glossary</b> — terms already treated in Iowa law or Cascade code, with source references</li>
 <li><b>EPA / Iowa diesel-generator research</b> — federal operating rules, Tier classifications, 15/1,000 ppm fuel sulfur, ambient concentrations, permit questions</li>
