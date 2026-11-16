@@ -55,7 +55,7 @@ The packet's regulatory appendix must preserve the federal government's own publ
 
 ## Iowa law and the actual permitting question
 
-The packet's verbatim Iowa-law appendix draws **only pages relevant to Chapter 22 and Chapter 23** from the official [Iowa Administrative Code Agency 567, October 28, 2026 edition](https://www.legis.iowa.gov/docs/iac/agency/10-28-2026.567.pdf); paper reproduction will identify the actual edition and page ranges.
+The packet's verbatim Iowa-law appendix draws **relevant Chapter 22 pages** from the official [Iowa Administrative Code Chapter 22, June 10, 2026 archive (IAC text dated January 7, 2026)](https://www.legis.iowa.gov/docs/iac/chapter/06-10-2026.567.22.pdf); paper reproduction will identify the actual edition and page ranges.
 
 - **567 IAC 22.1 - definition of "emergency generator":** limited to providing emergency power in an unforeseen utility interruption; it excludes ordinary utility peaking and generators operated while utility power is available. **Iowa's definition can be materially narrower than an operator's casual label "backup".**
 - **567 IAC 22.1(1)-(3):** stationary-source **air construction permits** generally apply before construction or modification unless a specified exemption applies. A 15-engine installation should not be presumed exempt or permit-free.
@@ -85,7 +85,7 @@ The packet's verbatim Iowa-law appendix draws **only pages relevant to Chapter 2
 
 ### City of Palo - Ordinance 93-2026, adopted EU-1 data center district
 
-**Official source:** [City of Palo Ordinance 93-2026](https://cityofpalo.com/vertical/sites/%7B434D4528-2EBA-41FD-BB30-AF0F1451A315%7D/uploads/93-2026_Rezone_include_EU-1.pdf), §165.16A, particularly **Permitted Principal Use; Permitted Accessory Uses and Structures; Major Site Plan Required; Additional Information**. The ordinance establishes an **EU-1 exclusive-use district** for both large and small Data Centers. **On-site standby or backup power generation** is an accessory use; a facility generally requires EU-1 rezoning and a major site plan. This is a **dedicated zoning district**, not a 100,000-ft2-and-60-MW citywide ban. Do not assume EU-1 alone imposes a Tier 4 federal emissions classification.
+**Official source:** [City of Palo Ordinance 93-2026](https://cityofpalo.com/vertical/sites/%7B434D4528-2EBA-41FD-BB30-AF0F1451A315%7D/uploads/93-2026_Zoning_Regulations-_EU-1_Data_Center_Exclusive_Use_District.pdf), §165.16A, particularly **Permitted Principal Use; Permitted Accessory Uses and Structures; Major Site Plan Required; Additional Information**. The ordinance establishes an **EU-1 exclusive-use district** for both large and small Data Centers. **On-site standby or backup power generation** is an accessory use; a facility generally requires EU-1 rezoning and a major site plan. This is a **dedicated zoning district**, not a 100,000-ft2-and-60-MW citywide ban. Do not assume EU-1 alone imposes a Tier 4 federal emissions classification.
 
 ### City of Dubuque - 2026 enacted hyperscale MORATORIUM only
 
@@ -118,4 +118,4 @@ The packet's verbatim Iowa-law appendix draws **only pages relevant to Chapter 2
 
 ## Documentary source and as-of notes
 
-This brief is prepared for the **November 18, 2026** committee agenda using the federal regulations available as of **November 16, 2026**, the official **2025 annual federal CFR printed edition** for the **verbatim facsimile appendix**, the Iowa Administrative Code Agency 567 official **October 28, 2026** PDF for verbatim state pages, the supplied **10-page Central City working draft**, and the official/comparator sources linked above. The federal **2026 eCFR** and Iowa legislative website should be consulted for any subsequent amendments. City attorney, Iowa DNR permitting staff, and qualified air-modeling experts should review the applicable requirements before an ordinance is presented for enactment.
+This brief is prepared for the **November 18, 2026** committee agenda using the federal regulations available as of **November 16, 2026**, the official **2025 federal CFR printed edition** for the verbatim Subpart IIII facsimiles, a dated federal Part 1090 facsimile, and the Iowa Administrative Code **June 10, 2026 Chapter 22 archive** for verbatim state pages, the supplied **10-page Central City working draft**, and the official/comparator sources linked above. The federal **2026 eCFR** and Iowa legislative website should be consulted for any subsequent amendments. City attorney, Iowa DNR permitting staff, and qualified air-modeling experts should review the applicable requirements before an ordinance is presented for enactment.

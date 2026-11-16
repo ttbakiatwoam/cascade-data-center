@@ -33,7 +33,7 @@ IAC23_URLS = [
     "https://www.legis.iowa.gov/docs/iac/chapter/10-15-2025.567.23.pdf",
 ]
 CENTRAL_URL = "https://www.centralcityia.gov/vertical/sites/%7BE92EF555-E1B5-4E87-8D0F-7EE113321960%7D/uploads/Zoning_Code_Amendment.pdf"
-PALO_URL = "https://cityofpalo.com/vertical/sites/%7B434D4528-2EBA-41FD-BB30-AF0F1451A315%7D/uploads/93-2026_Rezone_include_EU-1.pdf"
+PALO_URL = "https://cityofpalo.com/vertical/sites/%7B434D4528-2EBA-41FD-BB30-AF0F1451A315%7D/uploads/93-2026_Zoning_Regulations-_EU-1_Data_Center_Exclusive_Use_District.pdf"
 FUEL_PART_URL = "https://www.govinfo.gov/content/pkg/CFR-2024-title40-vol37/pdf/CFR-2024-title40-vol37-part1090.pdf"
 
 STYLE = """
