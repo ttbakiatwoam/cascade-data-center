@@ -34,7 +34,7 @@ jobs:
         run: |
           sudo apt-get update -qq
           sudo apt-get install -y fonts-dejavu-core libpango-1.0-0 libpangocairo-1.0-0 libharfbuzz0b
-          python -m pip install -r scripts/requirements-m2.txt
+          python -m pip install -r scripts/requirements-m2.txt requests
       - name: Build 18 November full packet
         run: |
           python scripts/build_nov18_meeting_packet.py --root . --out docs/downloads/cascade-advisory-committee-meeting-packet-2026-11-18.pdf
