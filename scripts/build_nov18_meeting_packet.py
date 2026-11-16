@@ -24,6 +24,7 @@ SOURCE_REDLINE = "docs/downloads/cascade-m2-red-blue-draft-ordinance-2026-11-11.
 SOURCE_MD = "proposals/COMPLETE-M2-COLOR-CODED-REDLINE-2026-11-11.md"
 STATE_GLOSSARY = "dataset/policy/38_IOWA_STATE_AND_M2_DEFINITIONS_2026-11-03.md"
 MEMO = "proposals/NOVEMBER-18-2026-GENERATORS-AIR-AND-IOWA-CITY-COMPARATORS.md"
+AUDIT_RECONCILIATION = "dataset/evidence/53_INDEPENDENT_FACTUAL_LEGAL_TECHNICAL_AUDIT_2026-11-16.md"
 
 CFR_ROOT = "https://www.govinfo.gov/content/pkg/CFR-2025-title40-vol8/pdf/"
 CFR_SECTIONS = ["60-4201","60-4202","60-4204","60-4205","60-4207","60-4209","60-4211","60-4214"]
@@ -82,6 +83,7 @@ INTRO = """<section class="cover">
 <li><b>EPA / Iowa diesel-generator research</b> — federal operating rules, Tier classifications, 15/1,000 ppm fuel sulfur, ambient concentrations, permit questions</li>
 <li><b>Verbatim official federal/Iowa sources</b> — reproduced government PDF pages with transparent highlights; source edition noted</li>
 <li><b>Iowa municipal comparisons</b> — Central City working draft and relevant city-law links; Central City original pages where obtainable</li>
+<li><b>November 16 external audit findings</b> — 25-item evidence/disposition register and explicit caveats about auditor access, combined NMHC+NOx, conditional 500-hour PTE and diesel sulfur categories; supporting research, not the original 11-page PDF</li>
 </ol>
 <h2>Non-negotiable distinctions</h2>
 <p><b>Generator count is not engine tier.</b> The reported 15 units and 40 MW electrical project load do not independently establish a diesel-generator equipment schedule, Tier 4 certification, use category, permit thresholds or the installed generating capacity.</p>
@@ -255,16 +257,18 @@ def make(root,out):
     definitions,titles=create_definitions(root)
     memo=read(root,MEMO)
     research=render_html("<div class='section-break'><h1>Generator and Iowa zoning research</h1></div>"+md(memo),root)
+    external_audit=render_html("<div class='section-break'><h1>November 16 external research audit — qualified finding dispositions</h1><p class='source'>Source: "+BASE+AUDIT_RECONCILIATION+"</p></div>"+md(read(root,AUDIT_RECONCILIATION)),root)
     with fitz.open(origin) as ordinance:
-        if len(ordinance)!=24:raise RuntimeError("Unexpected Nov 11 ordinance pages "+str(len(ordinance)))
+        if not (18<=len(ordinance)<=36):raise RuntimeError("Unexpected redline extent "+str(len(ordinance))+" pages; inspect PDF build")
         doc=fitz.open()
         toc=[]
         sections=[]
         introduction=render_html(INTRO,root)
         insert_source(doc,introduction,"November 18 cover and committee questions",toc,sections)
-        insert_source(doc,ordinance,"November 11 original black/red/blue M-2 draft (unchanged)",toc,sections)
+        insert_source(doc,ordinance,"November 11 black/red/blue M-2 draft (independently revised Nov 16)",toc,sections)
         insert_source(doc,definitions,"28 definitions, 52 omitted Iowa statutory terms, existing Cascade terms",toc,sections)
         insert_source(doc,research,"EPA / Iowa diesel and municipal zoning research",toc,sections)
+        insert_source(doc,external_audit,"November 16 external audit: 25 qualified finding dispositions",toc,sections)
 
         session=requests.Session()
         for label in CFR_SECTIONS:
@@ -313,14 +317,14 @@ def make(root,out):
         alltext="\n".join(page.get_text() for page in doc)
         must=["November 18, 2026","Data Center Business","Hyperscale Data Center",
               "100,000 square feet or larger","Electrical demand exceeding 60 megawatts",
-              "15 ppm","Central City","Air"]
+              "15 ppm","Central City","Air","AUD-025","meeting or exceeding","8:00 a.m. and 6:00 p.m."]
         for t in must:
             if t not in alltext: raise RuntimeError("Missing packet text: "+t)
         if len(titles)!=28 or len(doc)<55:raise RuntimeError("Incomplete packet: definitions="+str(len(titles))+", pages="+str(len(doc)))
         doc.set_toc(toc)
         doc.set_metadata({
           "title":"Cascade November 18 2026 Advisory Committee Research Packet",
-          "subject":"M-2 red/blue draft; 28 definitions; federal and Iowa diesel emissions; city zoning comparators",
+          "subject":"M-2 red/blue draft; 28 definitions; federal and Iowa diesel emissions; city zoning comparators; independent external audit dispositions",
           "author":"Cascade Data Center Independent Research",
           "keywords":"Cascade Iowa M-2 2026-11-18 EPA diesel air zoning Central City"
         })
