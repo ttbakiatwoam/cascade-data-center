@@ -43,6 +43,6 @@ Five recurring yes voters on contested motions were reported as **Mike Delaney, 
 2. Clarify item 6's intended action and identify any new/reconsideration vote distinctly.
 3. Ask for recorded action/tally reconstruction after 8 p.m., including the basis for recording 9:30 p.m. adjournment.
 4. Clarify item 7 definitions versus substantive standards.
-5. Retain the [November 16 proposed email](55_EMAIL_TO_DEANNA_NOV11_MINUTES_AGENDA_CORRECTION_2026-11-16.md) as an **unsent** draft unless sending is confirmed.
+5. [November 16 email to Deanna](55_EMAIL_TO_DEANNA_NOV11_MINUTES_AGENDA_CORRECTION_2026-11-16.md) was **confirmed sent as written by its author** on November 16, 2026. Exact send time, delivery and recipient acknowledgment are not independently verified. The email requests accurate vote records and agenda clarification.
 
 **Source provenance and original PDF byte checksums:** [November 16 upload manifest](../../sources/committee-materials/2026-11-18/UPLOADS_SHA256_MANIFEST_2026-11-16.md). The checksums establish versions of files supplied in this conversation, **not** City authenticity.

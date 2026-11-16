@@ -34,7 +34,7 @@ All are **scanned/image-only** PDFs (no PDF text layer). Page citations below re
 - [Original M-2 versus proposed text concordance](../../../dataset/policy/41_M2_ORIGINAL_SCAN_CONCORDANCE_2026-11-03.md)
 - [Independently authored November 18 meeting packet](../../../docs/meeting-2026-11-18.md)
 - [Detailed discrepancy review](../../../dataset/updates/54_NOV18_AGENDA_AND_NOV11_DRAFT_MINUTES_DISCREPANCY_2026-11-16.md)
-- [Draft correspondence to Deanna](../../../dataset/updates/55_EMAIL_TO_DEANNA_NOV11_MINUTES_AGENDA_CORRECTION_2026-11-16.md)
+- [November 16 email to Deanna (author-confirmed sent as written)](../../../dataset/updates/55_EMAIL_TO_DEANNA_NOV11_MINUTES_AGENDA_CORRECTION_2026-11-16.md)
 
 ## Authentication notes
 
