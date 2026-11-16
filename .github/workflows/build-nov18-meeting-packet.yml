@@ -9,6 +9,7 @@ on:
       - 'proposals/NOVEMBER-18-2026-GENERATORS-AIR-AND-IOWA-CITY-COMPARATORS.md'
       - 'proposals/COMPLETE-M2-COLOR-CODED-REDLINE-2026-11-11.md'
       - 'dataset/policy/38_IOWA_STATE_AND_M2_DEFINITIONS_2026-11-03.md'
+      - 'dataset/evidence/53_INDEPENDENT_FACTUAL_LEGAL_TECHNICAL_AUDIT_2026-11-16.md'
       - '.github/workflows/build-nov18-meeting-packet.yml'
 
 permissions:
@@ -51,7 +52,7 @@ jobs:
           with fitz.open(p) as d:
               assert len(d) >= 55, len(d)
               full='\n'.join(page.get_text() for page in d)
-              for phrase in ['November 18, 2026','28 proposed','Central City','15 ppm','100,000 square feet or larger','Electrical demand exceeding 60 megawatts','meeting or exceeding','8:00 a.m. and 6:00 p.m.']:
+              for phrase in ['November 18, 2026','28 proposed','Central City','15 ppm','100,000 square feet or larger','Electrical demand exceeding 60 megawatts','meeting or exceeding','8:00 a.m. and 6:00 p.m.','AUD-025']:
                   assert phrase in full, phrase
               print('Validated packet',len(d),'pages')
           PY
