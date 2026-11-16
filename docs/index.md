@@ -15,6 +15,10 @@ title: Cascade Data Center Research
 
 **[Download the updated November 11, 2026 RED/BLUE draft ordinance PDF]({{ '/downloads/cascade-m2-red-blue-draft-ordinance-2026-11-11.pdf' | relative_url }}).** The print-ready integrated redline has the four participant-reported committee-approved definitions, while identifying other independently proposed provisions as *not* approved by those votes. **Black = existing text; red = proposed ordinance text; blue = source copyedits.** This is not enacted City law.
 
+## November 16 — Independent audit of the research and M-2 draft
+
+**[Read the submitted factual/legal/technical audit disposition and source qualifications]({{ '/audit-2026-11-16/' | relative_url }})** · [Working-document index](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/CURRENT.md). The audit raised 25 issues but could not open many current repository files. Our independent draft now aligns the **inclusive Major Industrial Facility threshold**, proposes **8 a.m.–6 p.m.** routine generator testing, and requests detailed engine permitting information. These are **new proposed changes, not committee votes or City law**; the reported four November 11 approved-for-draft definitions remain textually unchanged. The updated downloadable PDFs are built from these source documents.
+
 ## November 18 advisory committee — printable packet now available
 
 **[Download the full November 18 meeting packet (PDF)]({{ '/downloads/cascade-advisory-committee-meeting-packet-2026-11-18.pdf' | relative_url }})** · **[Open the meeting briefing]({{ '/meeting-2026-11-18/' | relative_url }})**.
