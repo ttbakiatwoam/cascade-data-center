@@ -35,18 +35,23 @@ jobs:
           sudo apt-get update -qq
           sudo apt-get install -y fonts-dejavu-core libpango-1.0-0 libpangocairo-1.0-0 libharfbuzz0b
           python -m pip install -r scripts/requirements-m2.txt requests
-      - name: Build 18 November full packet
+      - name: Rebuild current redline and November 18 packet
         run: |
+          python scripts/build_m2_nov11_redblue.py --root . --out docs/downloads
           python scripts/build_nov18_meeting_packet.py --root . --out docs/downloads/cascade-advisory-committee-meeting-packet-2026-11-18.pdf
       - name: Check PDF
         run: |
           python - <<'PY'
           import fitz
           p='docs/downloads/cascade-advisory-committee-meeting-packet-2026-11-18.pdf'
+          with fitz.open('docs/downloads/cascade-m2-red-blue-draft-ordinance-2026-11-11.pdf') as redline:
+              redline_text='\n'.join(page.get_text() for page in redline)
+              assert 'meeting or exceeding' in redline_text
+              assert '8:00 a.m. and 6:00 p.m.' in redline_text
           with fitz.open(p) as d:
               assert len(d) >= 55, len(d)
               full='\n'.join(page.get_text() for page in d)
-              for phrase in ['November 18, 2026','28 proposed','Central City','15 ppm','100,000 square feet or larger','Electrical demand exceeding 60 megawatts']:
+              for phrase in ['November 18, 2026','28 proposed','Central City','15 ppm','100,000 square feet or larger','Electrical demand exceeding 60 megawatts','meeting or exceeding','8:00 a.m. and 6:00 p.m.']:
                   assert phrase in full, phrase
               print('Validated packet',len(d),'pages')
           PY
@@ -54,7 +59,7 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add docs/downloads/cascade-advisory-committee-meeting-packet-2026-11-18.pdf
+          git add docs/downloads/cascade-m2-red-blue-draft-ordinance-2026-11-11.pdf docs/downloads/cascade-advisory-committee-meeting-packet-2026-11-18.pdf
           if git diff --cached --quiet; then
             echo 'Committee packet unchanged.'
             exit 0
