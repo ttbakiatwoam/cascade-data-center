@@ -3,6 +3,8 @@
 
 **Status:** Independent research and source comparison for the scheduled November 18 discussion, **not an enacted Cascade ordinance, official Dubuque/Jones County interpretation, or legal opinion**. Source/ordinance status is identified as **enacted**, **proposed**, **working draft**, or **research**. Confirm all codes, permits, and late amendments with the responsible agencies. Meeting date and topic are participant-reported; the official agenda has not been independently verified.
 
+**Research provenance:** This brief is dated for the **November 18 meeting** and contains research available by **November 16**, not a future regulatory source. The [external November 16 factual/legal audit disposition](../evidence/53_INDEPENDENT_FACTUAL_LEGAL_TECHNICAL_AUDIT_2026-11-16.md) identifies 25 concerns. Material clarifications: the audit's fleet illustration is **combined NMHC+NOx** and not proof of NOx-only emissions or Title V major-source classification; conditional Iowa 500-hour PTE treatment does **not** authorize 500 operating hours; 40 CFR 60.4207 distinguishes **15 ppm under-30 L/cylinder** and **1,000 ppm at-least-30 L/cylinder** fuel-sulfur provisions. Confirm actual generator inventory and permit determinations rather than assuming Tier 4 or a Title V outcome. This report does not purport to be an official Iowa DNR decision.
+
 ### 1. Iowa state laws — official complete verbatim text
 
 The following links point to the **full verbatim public legal texts**, not summaries. To avoid detaching individual rules from exceptions and applicability language, the exact official sections should be distributed with the committee packet.
