@@ -2,9 +2,11 @@
 
 These are project-generated discussion drafts. **They are not adopted law, official City proposals, or binding company commitments.** Preserve the status labels and drafting notes when quoting them.
 
-## Current proposals (updated November 12, 2026)
+## Current proposals (updated November 16, 2026)
 
-- **[Current November 11 complete black/red/blue redline](COMPLETE-M2-COLOR-CODED-REDLINE-2026-11-11.md)** — [24-page current printable PDF](../docs/downloads/cascade-m2-red-blue-draft-ordinance-2026-11-11.pdf), [amendment-only text](AMENDMENT-ONLY-M2-ORDINANCE-2026-11-11.md), and [separate Chapter 165 definitions](DRAFT-ORDINANCE-CH165-DEFINITIONS-2026-11-11.md). Only **four definitions** were reported approved for the advisory draft; the other independent proposals remain unapproved. **Not enacted City law.**
+**External audit reconciliation:** [Current-document index](../CURRENT.md) · [November 16 audit and disposition of all 25 findings](../dataset/evidence/53_INDEPENDENT_FACTUAL_LEGAL_TECHNICAL_AUDIT_2026-11-16.md). The current draft proposal now says **meeting or exceeding** the Major Industrial Facility D(8) thresholds and proposes a daytime **8 a.m.–6 p.m.** testing window and more detailed engine/DNR information. These are **independent proposal changes**, not City-adopted provisions or voted November 11 amendments. The four participant-reported approved-for-draft definition texts remain unchanged. **Print PDFs must be regenerated from current sources**.
+
+- **[Current November 11 complete black/red/blue redline](COMPLETE-M2-COLOR-CODED-REDLINE-2026-11-11.md)** — [current printable PDF](../docs/downloads/cascade-m2-red-blue-draft-ordinance-2026-11-11.pdf), [amendment-only text](AMENDMENT-ONLY-M2-ORDINANCE-2026-11-11.md), and [separate Chapter 165 definitions](DRAFT-ORDINANCE-CH165-DEFINITIONS-2026-11-11.md). Only **four definitions** were reported approved for the advisory draft; the other independent proposals remain unapproved. **Not enacted City law.**
 - [November 12 correspondence and source-status record](../docs/correspondence-2026-11-12.md) — outgoing email drafts to Deanna and Adam Haynes, sending not verified.
 
 - [November 18 EPA/Iowa diesel-generator and municipal zoning memo](NOVEMBER-18-2026-GENERATORS-AIR-AND-IOWA-CITY-COMPARATORS.md), paired with the [November 18 complete meeting packet](../docs/downloads/cascade-advisory-committee-meeting-packet-2026-11-18.pdf). Includes official legal facsimiles, 15/1,000 ppm fuel sulfur distinction, ambient standards, and Central City proposed standards.

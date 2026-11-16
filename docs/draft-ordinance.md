@@ -202,6 +202,8 @@ c) Overhanging signs, attached to a building shall not project above the height 
 > For a Major Industrial Facility, the plan shall additionally identify maximum anticipated electrical load, water demand, stationary generation capacity, fuel storage, cooling technology, principal noise-generating equipment, and proposed phasing.
 >
 > For any Major Industrial Facility using stationary backup or on-site generation, the applicant shall provide a generator schedule identifying each engine's proposed manufacturer/model, rated electrical and thermal capacity, fuel type, exhaust configuration, fuel tank and containment, anticipated emergency and non-emergency operating modes, reasonably foreseeable simultaneous-operation scenarios, planned testing frequency and duration, and applicable state or federal emissions permits or permit-exemption determinations. Information requiring legitimate security protection may be submitted in an appropriately redacted public version and a protected version, only as authorized by Iowa law. The City shall not purport to issue or replace air-quality permits.
+>
+> For each engine, the generator schedule shall also disclose the rated brake horsepower, displacement per cylinder, engine model year and EPA certification/engine-family documentation for each stationary engine. Before equipment installation or other applicable permitting milestone, the applicant shall submit copies of required Iowa DNR air construction permits or documented exemptions; where available or requested by the responsible agency, the facility-wide potential-to-emit and Title V/PSD applicability determinations, operating restrictions, enforceable hourly or annual limits, and simultaneous-operation assumptions. The Zoning Administrator checks completeness of the filing for zoning purposes; emissions permitting remains with the relevant state or federal agency. Applicability must be determined for the actual engine inventory, not assumed from a preliminary 40 MW / approximately 15-engine scenario.
 
 
 ### 🟥 G(4). Operational Noise — proposed addition
@@ -264,7 +266,7 @@ c) Overhanging signs, attached to a building shall not project above the height 
 
 > 🟥 **RED — NEW §165.11(G)(6)** <span class="m2-redline-tag">●</span>
 >
-> Routine and pre-planned testing of stationary generators or other equipment producing substantially elevated noise shall occur only between **6:00 a.m. and 8:00 p.m., Monday through Friday**, except where operation outside those hours is:
+> Routine and pre-planned testing of stationary generators or other equipment producing substantially elevated noise shall occur only between **8:00 a.m. and 6:00 p.m., Monday through Friday**, except where operation outside those hours is:
 >
 > 1. Required during an actual emergency;
 > 2. Necessary to protect life, property, or critical equipment;
@@ -272,6 +274,8 @@ c) Overhanging signs, attached to a building shall not project above the height 
 > 4. Specifically authorized by the Zoning Administrator because the testing cannot reasonably be completed during ordinary testing hours.
 >
 > This restriction applies uniformly to M-2 businesses operating such equipment. "Emergency generator" as classified for Iowa air-quality permitting follows applicable state air regulations; local zoning testing-hour rules do not alter air-permit classifications or authorize impermissible emissions.[^7]
+>
+> This local testing window does not expand the permissions or limits applicable under 40 CFR 60.4211(f), 60.4209, 60.4214, 567 IAC chapter 22, or a project-specific air permit. An annual potential-to-emit assumption (including a conditional 500-hour method) is not permission to operate that many hours. Emergency, required testing, and otherwise permitted non-emergency operation must be classified under the controlling regulation.
 
 
 ### 🟥 G(7). Generator Operating Records — proposed addition
@@ -285,7 +289,7 @@ c) Overhanging signs, attached to a building shall not project above the height 
 > - reason for operation; and
 > - equipment operated.
 >
-> Records shall be retained for at least three (3) years and made available to the City upon reasonable request for zoning-compliance purposes, subject to applicable public-record and confidentiality law.
+> Records shall be retained for at least three (3) years, or longer if required by controlling federal or state regulation or an air permit, and made available to the City upon reasonable request for zoning-compliance purposes, subject to applicable public-record and confidentiality law.
 
 
 ### 🟥 G(8). Major Industrial Facility Setbacks — proposed addition
@@ -525,7 +529,7 @@ c) Overhanging signs, attached to a building shall not project above the height 
 
 > 🟥 **RED — NEW §165.41 DEFINITION (5 OF 28)** <span class="m2-redline-tag">●</span>
 >
-> **Major Industrial Facility:** An M-2 use exceeding any one threshold in proposed §165.11(D)(8): 5 MW coincident demand, 25,000 gallons in any 24 hours, 2 MW aggregate stationary generation, or 5 MWh storage. Also includes a modification that crosses a threshold.
+> **Major Industrial Facility:** An M-2 use meeting or exceeding any one threshold in proposed §165.11(D)(8): 5 MW coincident demand, 25,000 gallons in any 24 hours, 2 MW aggregate stationary generation, or 5 MWh storage. Also includes a modification that crosses a threshold.
 
 > 🟥 **RED — NEW §165.41 DEFINITION (6 OF 28)** <span class="m2-redline-tag">●</span>
 >

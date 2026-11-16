@@ -97,7 +97,7 @@ code { font-size:7.7pt; }
 
 COVER = """
 <section class="cover">
-  <p class="date">NOVEMBER 11, 2026 | COMMITTEE MEETING UPDATE</p>
+  <p class="date">NOVEMBER 11, 2026 MEETING RECORD | WORKING DRAFT REVISED NOVEMBER 16</p>
   <h1>City of Cascade, Iowa<br>M-2 &amp; Citywide Zoning<br>Draft Ordinance Redline</h1>
   <p class="subtitle">Existing text in black / proposed ordinance text in red /
      transcription and formatting corrections in blue</p>

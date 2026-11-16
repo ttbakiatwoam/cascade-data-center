@@ -10,6 +10,10 @@ permalink: /air-quality-generators-2026-11-18/
 
 This is **independent legal and technical research**, not an adopted Cascade requirement. [Read the complete detailed briefing, side-by-side comparison, and source record on GitHub](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/dataset/policy/48_AIR_POLLUTION_GENERATORS_COMPARATIVE_BRIEF_2026-11-18.md).
 
+## November 16 factual and legal accuracy audit
+
+The [independent external audit and 25-finding disposition]({{ '/audit-2026-11-16/' | relative_url }}) records areas already addressed, proposed corrections and outstanding documentary gaps. The **132-short-ton NMHC+NOx hypothetical** reported in the audit does **not** independently prove 132 tons of NOx or Title V status. Iowa's conditional **500-hour PTE** assumption is **not** operating-hour authorization. Diesel-fuel sulfur under 40 CFR 60.4207 is **engine-category-specific**: generally **15 ppm** for under-30 L/cylinder engines and a separate **1,000 ppm** provision for at least 30 L/cylinder, subject to controlling permits and rules. Request actual engine model, displacement, certification and DNR records before attributing limits to the proposed development.
+
 ## Official verbatim Iowa law and EPA regulations
 
 - **Iowa Code §455B.131:** [air contaminant, air pollution, emission, major stationary source — complete statutory text](https://www.legis.iowa.gov/docs/code/2026/455B.131.pdf).

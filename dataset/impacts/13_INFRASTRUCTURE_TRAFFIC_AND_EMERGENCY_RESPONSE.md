@@ -136,3 +136,17 @@ The June 2026 model ordinance proposed an emergency response plan covering fire,
 ## November 4, 2026 - modeled infrastructure is not a Cascade development agreement
 
 The [U.S. Chamber 2026 economic study, p. 68](https://www.uschamber.com/assets/documents/The-Community-and-Economic-Impacts-of-Data-Centers.pdf) **assumes** $60m in local road/infrastructure improvements, $20m in developer-paid grid upgrades, and $10m in developer-paid water-system upgrades **only where cooling uses water**, within a **50 MW / $1.69 billion construction** example. These are inputs to the economic model. They are **not** a documented Cascade project budget, a legal requirement, an environmental or traffic analysis, or an allocation of costs to the City or to Simple Mining. Actual plans and signed agreements must be reviewed. [Model critique](45_CHAMBER_IOWA_ECONOMIC_IMPACTS_2026_CRITICAL_REVIEW.md).
+
+
+## November 16 external audit: conditional environmental and emergency-response review
+
+The [11-page external accuracy audit and 25-item disposition](../evidence/53_INDEPENDENT_FACTUAL_LEGAL_TECHNICAL_AUDIT_2026-11-16.md) identify the following **application completeness and agency-referral topics**. They are **not findings that the project violates these rules**, because the actual facility design, storage inventory and adopted local code editions have not been verified.
+
+- **Fuel/oil storage and spill control:** inventory every diesel day tank, belly tank, bulk tank, lube-oil container and hazardous-liquid system, then determine federal [40 CFR Part 112 SPCC](https://www.ecfr.gov/current/title-40/part-112) applicability (oil capacity thresholds and other applicability criteria; do not presume coverage solely from a hypothetical engine count).
+- **Hazardous chemicals / emergency planning:** determine chemical identities, quantities and reporting applicability under [40 CFR Part 370 (EPCRA Tier II)](https://www.ecfr.gov/current/title-40/part-370) and relevant state or local emergency planning obligations; provide material-specific response contacts and leak/fire procedures.
+- **Emergency energy storage and fire review:** identify battery type, kWh/MWh capacity, mechanical ventilation, fire detection, thermal runaway or other applicable hazard analysis, local fire-code edition, and applicable referenced NFPA provisions. Seek review from the fire authority having jurisdiction; standards apply conditionally by adopted code and design.
+- **Construction stormwater:** quantify disturbed land, including related/common-plan areas, and determine Iowa NPDES General Permit No. 2 applicability and any approved stormwater pollution prevention requirements.
+- **Cooling and water/wastewater:** collect actual cooling system drawings, peak and average water needs, return/discharge treatment, sanitary or industrial wastewater permit status and utility capacity documentation.
+- **Traffic/roads and response infrastructure:** document generator fuel-delivery frequency, access routes, bridges and permitted routes, fire apparatus access, fuel truck turning radius and independently allocated public costs.
+
+For every category, label the conclusion **applies**, **does not apply**, or **needs further facts**, with agency citation and a responsible reviewer. Do not convert this checklist into unsupported claims about actual Simple Mining facilities.

@@ -2,7 +2,11 @@
 
 > Public-source research dataset concerning the proposed data-center / Simple Mining project in Cascade, Iowa.
 >
-> Dataset originated October 2026; selected committee, ordinance and author-released correspondence records updated through **November 12, 2026**. Earlier topic-specific trackers retain their own review dates.
+> Dataset originated October 2026; selected committee, ordinance, research-audit and author-released correspondence records updated through **November 16, 2026**. Earlier topic-specific trackers retain their own review dates.
+
+## November 16 — External factual/legal/technical audit
+
+The [submitted 11-page external audit and all 25 item dispositions](evidence/53_INDEPENDENT_FACTUAL_LEGAL_TECHNICAL_AUDIT_2026-11-16.md) are indexed as **external secondary research**, with the original PDF identified by SHA-256, source access limitations noted and unsupported assumptions separated from verified drafting corrections. See also the [current-materials map](../CURRENT.md) and [updated open questions](project/21_OPEN_QUESTIONS_AND_EVIDENCE_GAPS.md).
 
 ## Purpose
 

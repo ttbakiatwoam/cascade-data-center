@@ -2,7 +2,7 @@
 
 > This file is a living evidence tracker. “Unknown” means the reviewed public record does not yet establish the answer; it does not imply that the information does not exist or that the applicant has refused to provide it.
 >
-> Last reviewed: 2026-10-22
+> Last reviewed: 2026-11-16 for the external-audit supplemental questions below (prior sections retain their historical source-cutoff dates).
 
 ## Status vocabulary
 
@@ -211,3 +211,23 @@ A named comparable site would allow Cascade to replace speculative analogies wit
 ## October 1 forum source
 
 See [`../updates/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md`](../updates/28_SIMPLE_MINING_COMMUNITY_FORUM_2026-10-01.md) for the transcript-derived forum record. The underlying [raw WebVTT captions](../../sources/community-forums/2026-10-01_simple-mining-community-forum_youtube-auto-captions.en.vtt) were generated automatically by YouTube and have not been human-certified as a verbatim transcript.
+
+## November 16 external-audit follow-up (not established facts)
+
+**Source:** [11-page external audit and all 25 finding dispositions](../evidence/53_INDEPENDENT_FACTUAL_LEGAL_TECHNICAL_AUDIT_2026-11-16.md). The auditor explicitly could not read key current repository files, so the items below are **document requests and verification tasks** rather than proven deficiencies or violations.
+
+| Outstanding question | Status as of Nov. 16 | Evidence / decision requested |
+| --- | --- | --- |
+| What is the actual design electrical load and generator count? | **Preliminary / unverified** (~40 MW; about 15 generators reported) | Applicant engineer's load plan, one-line diagrams, unit-by-unit generator schedule and serial/nameplate data. |
+| Which emission tier and federal operating classification governs each engine? | **Unknown** | Engine mechanical horsepower, manufacture date, EPA engine-family certificate, **liters per cylinder**, controls, testing/dispatch intention, and applicable 40 CFR 60 IIII and 63 ZZZZ provisions. |
+| What is the fleet-wide potential to emit and major-source status? | **Unknown / requires Iowa DNR determination** | Pollutant-specific calculations in tons/year, including **NOx separately from NMHC/VOC**, simultaneous-operation assumptions and federally enforceable hours/fuel limits; PTE method for **new engines**, not automatic use of a 500-hour retrospective rule. |
+| Are Iowa DNR construction/operating permits or written exemptions in place? | **Unknown** | Agency-issued permits, application/permit numbers, PSD/Title V applicability letters and any site-specific emissions/operation restrictions. |
+| What liquid fuel/oil capacity and spill prevention plans apply? | **Unknown / conditional** | Tanks and aggregate oil storage, secondary containment, review of conditional [SPCC 40 CFR Part 112](https://www.ecfr.gov/current/title-40/part-112) applicability. |
+| Do chemical reporting, fire and energy storage codes apply? | **Unknown / conditional** | Diesel/chemical inventory and relevant federal/state EPCRA Tier II thresholds, adopted local fire code edition and energy-storage safety plans; confirm fire authority. |
+| Is construction stormwater permit coverage required? | **Unknown / conditional** | Acreage disturbed, construction phasing and Iowa NPDES General Permit No. 2 applicability. |
+| Are independent acoustic measurements enforceable? | **Needs field/legal review** | Engineer's instrument standard, `Leq,1h` method, separate indoor/outdoor and daytime/nighttime limits, trained third-party measurement, permissions, attributable source and background treatment. |
+| Are the actual City vote records and developer project conditions available? | **Unknown** | Signed and approved Oct 28 and Nov 11 minutes, any full meeting recording, exact source project agreement, effective City zoning consolidation and committee agenda. |
+| Is there an MVEC franchise and how would any City revenue be calculated? | **Unknown** | Effective franchise ordinance, exact service territory, tariff and cost-adjustment terms, load factor and allowed fee base. Existing numerical examples are scenarios only. |
+| Which comparator ordinances or lawsuit dispositions changed by Nov 18? | **Needs verification** | Adopted and effective documents vs drafts (including Central City) and docket-by-docket case status/holding as of the review date. |
+
+**Interpretation safeguards:** The external audit's illustration yielding ~132 short tons/year used the **combined NMHC+NOx** rate and does not by itself establish >=100 tons/year **NOx**; the Iowa 500-hour method is conditional and not an operating license; the 15-ppm diesel sulfur rule is not the only federal sulfur category (see §60.4207(d) for engines >=30 L/cylinder). The current [November 18 primary-source brief](../../proposals/NOVEMBER-18-2026-GENERATORS-AIR-AND-IOWA-CITY-COMPARATORS.md) discusses these distinctions.

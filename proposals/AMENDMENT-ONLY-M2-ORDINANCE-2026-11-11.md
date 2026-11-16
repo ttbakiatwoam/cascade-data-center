@@ -95,6 +95,8 @@ For a Major Industrial Facility, the plan shall additionally identify maximum an
 
 For any Major Industrial Facility using stationary backup or on-site generation, the applicant shall provide a generator schedule identifying each engine's proposed manufacturer/model, rated electrical and thermal capacity, fuel type, exhaust configuration, fuel tank and containment, anticipated emergency and non-emergency operating modes, reasonably foreseeable simultaneous-operation scenarios, planned testing frequency and duration, and applicable state or federal emissions permits or permit-exemption determinations. Information requiring legitimate security protection may be submitted in an appropriately redacted public version and a protected version, only as authorized by Iowa law. The City shall not purport to issue or replace air-quality permits.
 
+For each engine, the generator schedule shall also disclose the rated brake horsepower, displacement per cylinder, engine model year and EPA certification/engine-family documentation for each stationary engine. Before equipment installation or other applicable permitting milestone, the applicant shall submit copies of required Iowa DNR air construction permits or documented exemptions; where available or requested by the responsible agency, the facility-wide potential-to-emit and Title V/PSD applicability determinations, operating restrictions, enforceable hourly or annual limits, and simultaneous-operation assumptions. The Zoning Administrator checks completeness of the filing for zoning purposes; emissions permitting remains with the relevant state or federal agency. Applicability must be determined for the actual engine inventory, not assumed from a preliminary 40 MW / approximately 15-engine scenario.
+
 ### 4. Operational Noise
 
 All M-2 uses shall be designed, constructed, operated, and maintained so that noise attributable to the use does not exceed the following standards, measured in accordance with generally accepted professional acoustic practice:
@@ -147,7 +149,7 @@ The City may require reasonable corrective measures where testing demonstrates n
 
 ### 6. Generator and Elevated-Noise Testing
 
-Routine and pre-planned testing of stationary generators or other equipment producing substantially elevated noise shall occur only between **6:00 a.m. and 8:00 p.m., Monday through Friday**, except where operation outside those hours is:
+Routine and pre-planned testing of stationary generators or other equipment producing substantially elevated noise shall occur only between **8:00 a.m. and 6:00 p.m., Monday through Friday**, except where operation outside those hours is:
 
 1. Required during an actual emergency;
 2. Necessary to protect life, property, or critical equipment;
@@ -156,7 +158,9 @@ Routine and pre-planned testing of stationary generators or other equipment prod
 
 This restriction applies uniformly to M-2 businesses operating such equipment. "Emergency generator" as classified for Iowa air-quality permitting follows applicable state air regulations; local zoning testing-hour rules do not alter air-permit classifications or authorize impermissible emissions.[^7]
 
-> **Blue - cross-reference clarification (noncodified):** The testing window begins at 6:00 a.m., but the proposed nighttime noise limits of 60 dBA / 70 dBC remain in effect until 7:00 a.m. Permission to conduct testing during an hour does not, by itself, exempt that activity from applicable noise limits.
+This local testing window does not expand the permissions or limits applicable under 40 CFR 60.4211(f), 60.4209, 60.4214, 567 IAC chapter 22, or a project-specific air permit. An annual potential-to-emit assumption (including a conditional 500-hour method) is not permission to operate that many hours. Emergency, required testing, and otherwise permitted non-emergency operation must be classified under the controlling regulation.
+
+> **Blue - cross-reference clarification (noncodified):** The proposed testing window begins at 8:00 a.m., after the proposed nighttime noise period ends at 7:00 a.m. Permission to conduct testing during an hour does not, by itself, exempt that activity from applicable noise limits.
 
 ### 7. Generator Operating Records
 
@@ -167,7 +171,7 @@ Any M-2 facility having aggregate stationary generation capacity of two (2) MW o
 - reason for operation; and
 - equipment operated.
 
-Records shall be retained for at least three (3) years and made available to the City upon reasonable request for zoning-compliance purposes, subject to applicable public-record and confidentiality law.
+Records shall be retained for at least three (3) years, or longer if required by controlling federal or state regulation or an air permit, and made available to the City upon reasonable request for zoning-compliance purposes, subject to applicable public-record and confidentiality law.
 
 ### 8. Major Industrial Facility Setbacks
 
@@ -323,7 +327,7 @@ Section 165.41 is amended **only for terms not already defined by Cascade law**,
 
 > **Editorial reconciliation (noncodified):** The November 11 committee-reported definitions above preserve approved substance, including the 5–3 Hyperscale Data Center threshold. The Data Center and Data Center Business texts adapt Iowa's **sales-tax** definitions in §423.3(95)(f)(1)–(2); neither is verbatim. In particular, Data Center adds **“structure or”** and omits the statute's restricted-access/lease clauses; Data Center Business adds **“in the city of cascade.”** Sustainable Design paraphrases, rather than quotes, the controlling definition in §103A.3(25). A later change to match state language **verbatim** would require committee review; statutory building-code and tax-program definitions do not automatically bind City zoning. The earlier independent project term **“Data Center or High-Density Computing Facility”** is superseded in this *definitions* section only. The §165.11(B)(19) use entry has been aligned with the approved Data Center definition; the distinct proposed §165.12(17) citywide Hyperscale prohibition is not itself a November 11 committee vote.
 
-**Major Industrial Facility:** An M-2 use exceeding any one threshold in proposed §165.11(D)(8): 5 MW coincident demand, 25,000 gallons in any 24 hours, 2 MW aggregate stationary generation, or 5 MWh storage. Also includes a modification that crosses a threshold.
+**Major Industrial Facility:** An M-2 use meeting or exceeding any one threshold in proposed §165.11(D)(8): 5 MW coincident demand, 25,000 gallons in any 24 hours, 2 MW aggregate stationary generation, or 5 MWh storage. Also includes a modification that crosses a threshold.
 
 **Material Expansion:** A modification increasing an approved maximum by 20 percent or more for electrical demand, water demand, stationary generation, energy storage, exterior mechanical capacity, or developed building area, or crossing a Major Industrial Facility threshold for the first time.
 
