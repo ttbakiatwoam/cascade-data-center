@@ -29,7 +29,7 @@ The report of **approximately 15 diesel generators** for a 40 MW facility does *
 
 ## November 12 — current status and public correspondence
 
-The [November 11 red/blue working ordinance PDF]({{ '/downloads/cascade-m2-red-blue-draft-ordinance-2026-11-11.pdf' | relative_url }}) (24 pages) incorporates **four participant-reported approved committee definitions**; the proposed hyperscale prohibition and other performance standards **have not been approved by those definition votes**. City Council adoption is not established.
+The [November 11 red/blue working ordinance PDF]({{ '/downloads/cascade-m2-red-blue-draft-ordinance-2026-11-11.pdf' | relative_url }}) incorporates **four participant-reported approved committee definitions**; the proposed hyperscale prohibition and other performance standards **have not been approved by those definition votes**. City Council adoption is not established.
 
 The November 11 recording reportedly cuts off near the **60-minute mark**, before the definition votes. The author released a [reconstructed draft follow-up to Deanna](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/dataset/updates/51_EMAIL_TO_DEANNA_COMMITTEE_VOTES_2026-11-12.md) and the [edited draft to Adam Haynes of Simple Mining](https://github.com/ttbakiatwoam/cascade-data-center/blob/master/dataset/updates/52_EMAIL_TO_ADAM_HAYNES_SIMPLE_MINING_2026-11-12.md). Neither is independently confirmed sent. [Read the public correspondence record]({{ '/correspondence-2026-11-12/' | relative_url }}).
 
