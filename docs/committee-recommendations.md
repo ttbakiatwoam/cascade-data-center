@@ -6,6 +6,8 @@ permalink: /committee-recommendations/
 
 # Proposed Recommendations for Cascade Data Center / Major Industrial Facility Zoning (October 28 meeting update)
 
+> **Historical committee package; retained unchanged for provenance.** **Do not use its older “exceeding” Major Industrial Facility wording as current.** The [November 16 audit disposition]({{ '/audit-2026-11-16/' | relative_url }}) and [current redline]({{ '/draft-ordinance/' | relative_url }}) use **meeting or exceeding** §165.11(D)(8) thresholds and propose updated routine generator-testing hours. The October-era Appendix A below is deliberately left as historical evidence.
+
 > **Historical committee package.** Its embedded Appendix A retains the October 26 proposed text for meeting provenance. The [current November 3 revised ordinance]({{ '/draft-ordinance/' | relative_url }}) has expanded definitions, statutory safeguards, Chicago source notes, and downloadable PDFs. Do not rely on this older appendix as the most recent language.
 
 > **Definitions reference:** [Iowa state-law definitions and proposed Cascade M-2 additions]({{ '/definitions/' | relative_url }}) includes official statutory and rule citations, and clearly distinguishes local drafting choices.
