@@ -119,7 +119,7 @@ A properly documented baseline gives the City comparable **before-and-after evid
 ## 7. What happens with generators, existing businesses, and major facilities?
 
 - **All M-2 uses:** The proposed operational limits are drafted as district-wide performance requirements, not special restrictions on data centers alone. Proposed §165.11(G)(2) separately addresses lawful preexisting uses and nonconforming situations; it does **not** establish that every older business must retrofit immediately.
-- **Generators:** Under proposed §165.11(G)(6), routine elevated-noise generator testing is generally limited to **6 a.m.–8 p.m., Monday–Friday**, with listed emergency, safety, regulatory, and authorized exceptions. These hours are **additional to**, not a replacement for, the noise provisions.
+- **Generators:** Under proposed §165.11(G)(6), routine elevated-noise generator testing is generally limited to **8 a.m.–6 p.m., Monday–Friday**, with listed emergency, safety, regulatory, and authorized exceptions. These hours are **additional to**, not a replacement for, the noise provisions.
 - **Major Industrial Facilities:** Proposed §165.11(G)(5) calls for preconstruction baseline work, a full-operating-condition model, post-startup verification, and testing at least every three years or after certain material changes. This is an extra study requirement triggered by the draft's neutral impact thresholds.
 
 The facility's loudest reasonably anticipated conditions matter, including hot-weather cooling, multiple operating units, and appropriate generator scenarios. A single quiet-day reading is not a full compliance demonstration.
@@ -156,3 +156,6 @@ The objective is a rule that protects residents **and** gives every M-2 business
 [^11]: U.S. Department of Energy, *Guide to Determining Climate Regions by County* (2015), <https://www.energy.gov/eere/buildings/articles/building-america-best-practices-series-volume-73-guide-determining-climate>; City of Cascade, Code §6-12-8, Ordinance 02-22, <https://codelibrary.amlegal.com/codes/cascadeia/latest/cascade_ia/0-0-0-4159>.
 
 [Return to the current draft ordinance]({{ '/draft-ordinance/' | relative_url }}) · [Browse the Research Library]({{ '/research-library/' | relative_url }})
+
+
+**Audit reconciliation — November 16, 2026 (proposed, not voted):** Routine generator testing is now proposed for **8 a.m.–6 p.m. Monday–Friday**, rather than 6 a.m.–8 p.m., to avoid the defined nighttime period (10 p.m.–7 a.m.). Applicable noise limits and valid emergency exceptions still apply. [Read the audit review and disposition]({{ '/audit-2026-11-16/' | relative_url }}).
