@@ -7,6 +7,14 @@ Research, source material, community questions, and policy analysis related to p
 
 The working position of this independent community project is **pro-data-center development with appropriate community protections, transparency, and accountability**. Read the [research scope and project stance](docs/research-scope.md) for the full purpose, areas of focus, and policy principles.
 
+## November 16 — Independent audit reconciliation
+
+**[Review the submitted external audit and disposition of all 25 findings](dataset/evidence/53_INDEPENDENT_FACTUAL_LEGAL_TECHNICAL_AUDIT_2026-11-16.md)** · [Current authoritative working documents](CURRENT.md) · [Public audit summary](https://ttbakiatwoam.github.io/cascade-data-center/audit-2026-11-16/).
+
+The auditor could not access several relevant current source files; missing-from-accessible-material findings are **not automatically missing from the repository**. Verified proposal corrections: **Major Industrial Facility now means meeting or exceeding** the §165.11(D)(8) threshold; routine generator testing is proposed for **8 a.m.–6 p.m., Monday through Friday**, rather than 6 a.m.–8 p.m.; and the draft requests applicable generator certification and Iowa DNR permit/exemption and potential-to-emit records. These **independent draft revisions were not part of the reported November 11 definition votes**. All four reported committee-approved definition wordings, including **both** Hyperscale tests, remain unchanged. The original 11-page external audit is identified by title and SHA-256 in the source register; the GitHub Markdown disposition is **not** a copy of the binary PDF.
+
+**Technical review caution:** Engine NMHC+NOx is a combined certification quantity, not automatically NOx alone for Title V screening; Iowa's 500-hour emergency-generator PTE assumption is conditional; sulfur rules distinguish under-30 L/cylinder 15 ppm fuel from a separate at-least-30 L/cylinder 1,000 ppm provision. The November 11 redline PDF and November 18 packet must be regenerated to reflect the current text.
+
 ## November 18, 2026 advisory committee meeting packet
 
 **[Download the complete November 18 committee packet (PDF)](docs/downloads/cascade-advisory-committee-meeting-packet-2026-11-18.pdf)** · [Website meeting briefing](https://ttbakiatwoam.github.io/cascade-data-center/meeting-2026-11-18/) · [Source-linked generator / city comparison research](proposals/NOVEMBER-18-2026-GENERATORS-AIR-AND-IOWA-CITY-COMPARATORS.md).
