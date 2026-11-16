@@ -46,3 +46,7 @@ Five recurring yes voters on contested motions were reported as **Mike Delaney, 
 5. [November 16 email to Deanna](55_EMAIL_TO_DEANNA_NOV11_MINUTES_AGENDA_CORRECTION_2026-11-16.md) was **confirmed sent as written by its author** on November 16, 2026. Exact send time, delivery and recipient acknowledgment are not independently verified. The email requests accurate vote records and agenda clarification.
 
 **Source provenance and original PDF byte checksums:** [November 16 upload manifest](../../sources/committee-materials/2026-11-18/UPLOADS_SHA256_MANIFEST_2026-11-16.md). The checksums establish versions of files supplied in this conversation, **not** City authenticity.
+
+## November 16 afternoon addendum — later scanned agenda versions
+
+**This original discrepancy record is retained as a snapshot of the initial 10:54 a.m. packet.** Subsequent 12:50 p.m. and 1:26 p.m. PDF versions now say **"Reapprove the Four Definitions Approved at November 11th Meeting"** instead of **"Approve ... Discussed"**. They remove **Setbacks** from the separately numbered subtopics, and the latter fixes numbering. **The November 11 draft minutes themselves still do not record the four definition votes.** See [new comparison](56_NOV18_REVISED_AGENDA_MINUTES_COMPARISON_2026-11-16.md) and [version source register](../../sources/committee-materials/2026-11-18/REVISION_HISTORY_2026-11-16.md). No PDF binary upload is claimed.
