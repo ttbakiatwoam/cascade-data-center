@@ -525,7 +525,7 @@ c) Overhanging signs, attached to a building shall not project above the height 
 
 > 🟥 **RED — NEW §165.41 DEFINITION (5 OF 28)** <span class="m2-redline-tag">●</span>
 >
-> **Major Industrial Facility:** An M-2 use exceeding any one threshold in proposed §165.11(D)(8): 5 MW coincident demand, 25,000 gallons in any 24 hours, 2 MW aggregate stationary generation, or 5 MWh storage. Also includes a modification that crosses a threshold.
+> **Major Industrial Facility:** An M-2 use meeting or exceeding any one threshold in proposed §165.11(D)(8): 5 MW coincident demand, 25,000 gallons in any 24 hours, 2 MW aggregate stationary generation, or 5 MWh storage. Also includes a modification that crosses a threshold.
 
 > 🟥 **RED — NEW §165.41 DEFINITION (6 OF 28)** <span class="m2-redline-tag">●</span>
 >
