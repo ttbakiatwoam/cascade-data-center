@@ -7,8 +7,14 @@ title: Cascade Data Center Research
 
 # Cascade Data Center Research & Zoning Work
 
-**Last updated: November 16, 2026**  
+**Last updated: November 17, 2026**  
 *Current independent research update — not an official City of Cascade publication.*
+
+## Research updates paused — November 17, 2026
+
+**Research updates paused — November 17, 2026.** No further updates will be made to this independent research website or its GitHub repository until the Cascade Data Center Advisory Committee has a final ordinance draft ready for a committee vote. Existing research, source materials and proposed drafts remain available for public reference. This is an individual research publication decision, not an official committee action or City policy.
+
+**[Read Andrew Saunders's statement for the November 18 committee meeting (PDF)]({{ '/downloads/cascade-committee-statement-2026-11-18.pdf' | relative_url }})** · [Full statement text]({{ '/statement-2026-11-18/' | relative_url }}). The author **is not resigning** from the committee and remains willing to review and vote on a final ordinance proposal.
 
 > **Independent community research - not an official City of Cascade website.**  
 > The working position of this project is pro-development with clear, measurable community protections, transparency, and accountability.

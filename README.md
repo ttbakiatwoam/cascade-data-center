@@ -1,11 +1,17 @@
 # Cascade Data Center
 
-**Last updated: November 16, 2026**  
+**Last updated: November 17, 2026**  
 *Independent research — current draft and public committee update, not an official City publication.*
 
 Research, source material, community questions, and policy analysis related to proposed data-center development in Cascade, Iowa.
 
 The working position of this independent community project is **pro-data-center development with appropriate community protections, transparency, and accountability**. Read the [research scope and project stance](docs/research-scope.md) for the full purpose, areas of focus, and policy principles.
+
+## Research updates paused — November 17, 2026
+
+**Research updates paused — November 17, 2026.** No further updates will be made to this independent repository or the public research website until the Cascade Data Center Advisory Committee has a final ordinance draft ready for a committee vote. Existing research, source materials and proposed drafts remain available for public reference. This is an individual research publication decision, not an official committee action or City policy.
+
+**[Read the November 18 statement (PDF)](docs/downloads/cascade-committee-statement-2026-11-18.pdf)** · [Read the full statement on the public website](https://ttbakiatwoam.github.io/cascade-data-center/statement-2026-11-18/). The author is **not resigning from the advisory committee** and remains willing to review and vote on a final proposed ordinance.
 
 ## November 16 — Independent audit reconciliation
 

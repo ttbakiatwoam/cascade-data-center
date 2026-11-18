@@ -6,7 +6,9 @@ permalink: /downloads/
 
 # November 18, 2026 meeting packet, current ordinance and historical downloads
 
-**Last updated: November 16, 2026.**
+**Last updated: November 17, 2026.**
+
+**Statement for the November 18 committee meeting:** [Download Andrew Saunders's statement (PDF)]({{ '/downloads/cascade-committee-statement-2026-11-18.pdf' | relative_url }}) · [Read the full statement]({{ '/statement-2026-11-18/' | relative_url }}). Further updates to this independent website and repository are paused until the advisory committee has a final ordinance draft ready for a vote. The statement does not constitute a resignation or an official committee decision.
 
 **Current committee version:** The combined packet was revised on November 16 and is being republished **without the independent audit appendix**. The source-based ordinance edits remain in place; the audit stays separately archived in the research repository.
 
